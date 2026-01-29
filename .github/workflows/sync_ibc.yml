@@ -1,0 +1,32 @@
+name: Sync IBC Feeds
+
+on:
+  schedule:
+    - cron: '30 */6 * * *' # Runs 30 mins after the hour every 6 hours
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install feedparser
+
+      - name: Run IBC Fetch Script
+        run: python fetch_ibc_feeds.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ibc.json ibc.md
+          git commit -m "Auto-update IBC feeds" || exit 0
+          git push
