@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-29 13:39:50*
+*Last synced: 2026-01-29 19:10:31*
+
+### [Economic Survey 2025-26: IBC Delivers Higher Recoveries Over Earlier Regime Despite Delays](https://www.livelawbiz.com/ibc/economic-survey-2025-26-ibc-delivers-higher-recoveries-over-earlier-regime-despite-delays-521140)
+- **Published:** Thu, 29 Jan 2026 16:04:06 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Once loan account has been recalled, then Bank is free to file Original application at any time against the borrowers for recovery of its dues at any time, but not beyond the period of limitation as prescribed under the SARFAESI Act/ Recovery of Debts & Bankruptcy Act, 1993 – Singh Rice Mill and Anr. Vs. Bank of Baroda – DRAT Allahabad](https://ibclaw.in/singh-rice-mill-and-anr-vs-bank-of-baroda-drat-allahabad/)
+- **Published:** Thu, 29 Jan 2026 18:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Related Party Supplies Not CIRP Costs Without CoC Approval: NCLAT In Amtek Auto Insolvency](https://www.livelawbiz.com/nclat/related-party-supplies-not-cirp-costs-without-coc-approval-nclat-in-amtek-auto-insolvency-521114)
 - **Published:** Thu, 29 Jan 2026 13:36:48 GMT
