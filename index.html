@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBC Legal Updates | Insolvency & Bankruptcy Portal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        darkBg: '#0f172a',
+                        darkCard: '#1e293b',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .news-card { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+        .news-card:hover { transform: translateY(-4px); }
+        #toast {
+            visibility: hidden; min-width: 250px; margin-left: -125px; background-color: #333; color: #fff;
+            text-align: center; border-radius: 8px; padding: 16px; position: fixed; z-index: 100;
+            left: 50%; bottom: 30px; font-size: 14px;
+        }
+        #toast.show { visibility: visible; animation: fadein 0.5s, fadeout 0.5s 2.5s; }
+        @keyframes fadein { from {bottom: 0; opacity: 0;} to {bottom: 30px; opacity: 1;} }
+        @keyframes fadeout { from {bottom: 30px; opacity: 1;} to {bottom: 0; opacity: 0;} }
+    </style>
+</head>
+<body class="bg-gray-50 dark:bg-darkBg text-gray-900 dark:text-gray-100 transition-colors duration-300 min-h-screen font-sans">
+
+    <!-- Sticky Navigation -->
+    <nav class="sticky top-0 z-50 bg-white/80 dark:bg-darkCard/80 backdrop-blur-md border-b border-gray-200 dark:border-gray-700">
+        <div class="max-w-6xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-4">
+            <div class="flex items-center gap-2">
+                <div class="bg-blue-600 p-2 rounded-lg shadow-blue-200 shadow-lg">
+                    <i class="fa-solid fa-gavel text-white"></i>
+                </div>
+                <h1 class="text-xl font-black tracking-tighter italic">CITE<span class="text-blue-600 dark:text-blue-400">CASE</span></h1>
+            </div>
+
+            <!-- Search Bar -->
+            <div class="relative flex-grow max-w-md order-3 md:order-2 w-full md:w-auto">
+                <span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-400">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </span>
+                <input 
+                    type="text" 
+                    id="searchBar"
+                    placeholder="Search IBC cases, NCLT orders..." 
+                    class="w-full pl-10 pr-4 py-2 rounded-xl border border-gray-200 dark:border-gray-600 bg-gray-50 dark:bg-slate-800 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all text-sm"
+                >
+            </div>
+
+            <!-- Controls -->
+            <div class="flex items-center gap-3 order-2 md:order-3">
+                <button id="themeToggle" class="p-2 rounded-full bg-gray-100 dark:bg-slate-800 hover:bg-gray-200 dark:hover:bg-slate-700 transition-colors text-gray-600 dark:text-yellow-400">
+                    <i class="fa-solid fa-moon dark:hidden"></i>
+                    <i class="fa-solid fa-sun hidden dark:inline"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="max-w-6xl mx-auto px-4 pt-12">
+        <div class="mb-8">
+            <div class="flex items-center gap-2 text-blue-600 dark:text-blue-400 font-bold text-xs uppercase tracking-widest mb-3">
+                <span class="w-8 h-px bg-blue-600 dark:bg-blue-400"></span>
+                Insolvency & Bankruptcy Feed
+            </div>
+            <h2 id="pageTitle" class="text-4xl md:text-5xl font-black text-gray-900 dark:text-white mb-4 transition-all">
+                IBC Updates
+            </h2>
+            <p class="text-gray-500 dark:text-gray-400 max-w-2xl">
+                Tracking NCLT, NCLAT, and Supreme Court judgments regarding CIRP, Liquidation, and Insolvency proceedings.
+            </p>
+        </div>
+    </header>
+
+    <!-- News Grid -->
+    <main class="max-w-6xl mx-auto px-4 pb-24">
+        <div id="status-container" class="mb-6 flex justify-between items-center text-sm text-gray-500 dark:text-gray-400">
+            <span id="resultCount">Syncing data...</span>
+            <span id="lastUpdated" class="italic flex items-center gap-1">
+                <i class="fa-solid fa-clock-rotate-left"></i> Auto-sync: Every 6 hours
+            </span>
+        </div>
+
+        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Loader -->
+            <div class="col-span-full py-20 flex flex-col items-center justify-center">
+                <div class="w-12 h-12 border-4 border-blue-600 border-t-transparent rounded-full animate-spin mb-4"></div>
+                <p class="text-gray-500 font-medium">Fetching IBC records...</p>
+            </div>
+        </div>
+
+        <div id="emptyState" class="hidden col-span-full py-20 text-center">
+            <i class="fa-solid fa-magnifying-glass-chart text-5xl text-gray-300 dark:text-gray-700 mb-4"></i>
+            <h3 class="text-xl font-bold text-gray-800 dark:text-gray-200">No results found</h3>
+            <p class="text-gray-500 mt-2">Try searching for keywords like "CIRP", "NCLT", or "Liquidation".</p>
+        </div>
+    </main>
+
+    <div id="toast">Link copied!</div>
+
+    <script>
+        let currentData = [];
+
+        // Configuration targeting only the IBC data repository
+        const CONFIG = {
+            url: 'https://raw.githubusercontent.com/citecase/ibc/main/ibc.json',
+            localFile: 'ibc.json',
+            title: 'Insolvency & Bankruptcy Updates'
+        };
+
+        // Theme Logic
+        const html = document.documentElement;
+        if (localStorage.getItem('theme') === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            html.classList.add('dark');
+        }
+        document.getElementById('themeToggle').onclick = () => {
+            html.classList.toggle('dark');
+            localStorage.setItem('theme', html.classList.contains('dark') ? 'dark' : 'light');
+        };
+
+        async function loadData() {
+            const container = document.getElementById('news-container');
+            const countDisplay = document.getElementById('resultCount');
+            
+            try {
+                const timestamp = new Date().getTime();
+                const targetUrl = CONFIG.url + "?v=" + timestamp;
+                
+                let response;
+                
+                // Primary fetch using absolute GitHub URL
+                try {
+                    response = await fetch(targetUrl, { 
+                        method: 'GET',
+                        mode: 'cors',
+                        cache: 'no-store'
+                    });
+                } catch (e) {
+                    console.warn("External fetch failed, trying local.");
+                }
+
+                // Fallback to local file
+                if (!response || !response.ok) {
+                    response = await fetch(CONFIG.localFile + "?v=" + timestamp);
+                }
+
+                if (!response.ok) throw new Error('IBC Source not reachable');
+                
+                const data = await response.json();
+                currentData = Array.isArray(data) ? data : [];
+                renderNews(currentData);
+                
+            } catch (error) {
+                console.error("Load error:", error);
+                container.innerHTML = `
+                    <div class="col-span-full bg-orange-50 dark:bg-orange-900/10 border border-orange-200 dark:border-orange-800 p-10 rounded-3xl text-center">
+                        <i class="fa-solid fa-triangle-exclamation text-orange-400 text-4xl mb-4"></i>
+                        <h3 class="text-lg font-bold text-orange-900 dark:text-orange-200">Database Offline</h3>
+                        <p class="text-orange-700 dark:text-orange-400 text-sm mt-2">
+                            The IBC database could not be synchronized.
+                            <br><span class="text-xs opacity-75 mt-1 block">Ensure ibc.json is present in the repository.</span>
+                        </p>
+                        <div class="mt-6 flex flex-col sm:flex-row gap-3 justify-center">
+                            <button onclick="loadData()" class="px-6 py-2 bg-blue-600 text-white rounded-lg font-bold hover:bg-blue-700 transition-colors">
+                                <i class="fa-solid fa-rotate mr-2"></i>Retry
+                            </button>
+                        </div>
+                    </div>
+                `;
+                countDisplay.innerText = "Error";
+            }
+        }
+
+        function renderNews(items) {
+            const container = document.getElementById('news-container');
+            const emptyState = document.getElementById('emptyState');
+            document.getElementById('resultCount').innerText = `Showing ${items.length} updates`;
+
+            if (items.length === 0) {
+                container.classList.add('hidden');
+                emptyState.classList.remove('hidden');
+                return;
+            }
+
+            container.classList.remove('hidden');
+            emptyState.classList.add('hidden');
+
+            container.innerHTML = items.map(item => {
+                const sourceUrl = item.source || item.source_url || "";
+                const source = getSourceMeta(sourceUrl);
+                return `
+                    <article class="news-card flex flex-col bg-white dark:bg-darkCard rounded-2xl shadow-sm border border-gray-100 dark:border-gray-800 overflow-hidden">
+                        <div class="p-6 flex-grow">
+                            <div class="flex items-center justify-between mb-4">
+                                <span class="px-2.5 py-1 rounded-md text-[10px] font-bold uppercase tracking-widest ${source.color}">
+                                    ${source.name}
+                                </span>
+                                <span class="text-gray-400 dark:text-gray-500 text-xs flex items-center gap-1">
+                                    <i class="fa-regular fa-calendar"></i> ${item.published}
+                                </span>
+                            </div>
+                            <h3 class="text-xl font-bold leading-snug text-gray-900 dark:text-white">
+                                <a href="${item.link}" target="_blank" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
+                                    ${item.title}
+                                </a>
+                            </h3>
+                        </div>
+                        <div class="px-6 py-4 bg-gray-50/50 dark:bg-slate-800/50 border-t border-gray-100 dark:border-gray-800 flex items-center justify-between">
+                            <a href="${item.link}" target="_blank" class="text-blue-600 dark:text-blue-400 text-sm font-bold inline-flex items-center gap-2 hover:translate-x-1 transition-transform">
+                                Read Order <i class="fa-solid fa-arrow-right text-[10px]"></i>
+                            </a>
+                            <button onclick="copyLink('${item.link}')" class="text-gray-400 hover:text-blue-600 p-1">
+                                <i class="fa-regular fa-copy"></i>
+                            </button>
+                        </div>
+                    </article>
+                `;
+            }).join('');
+        }
+
+        function getSourceMeta(url = "") {
+            const u = String(url).toLowerCase();
+            if (u.includes('livelaw')) return { name: 'LiveLaw', color: 'bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-400' };
+            if (u.includes('verdictum')) return { name: 'Verdictum', color: 'bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-400' };
+            if (u.includes('scconline')) return { name: 'SCC Online', color: 'bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-400' };
+            if (u.includes('ibclaw')) return { name: 'IBC Law', color: 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-400' };
+            if (u.includes('barandbench')) return { name: 'Bar & Bench', color: 'bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-400' };
+            return { name: 'IBC Feed', color: 'bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-400' };
+        }
+
+        document.getElementById('searchBar').oninput = (e) => {
+            const term = e.target.value.toLowerCase();
+            const filtered = currentData.filter(i => 
+                (i.title || "").toLowerCase().includes(term) || 
+                (i.source || i.source_url || "").toLowerCase().includes(term)
+            );
+            renderNews(filtered);
+        };
+
+        window.copyLink = (text) => {
+            const el = document.createElement('textarea');
+            el.value = text;
+            document.body.appendChild(el);
+            el.select();
+            document.execCommand('copy');
+            document.body.removeChild(el);
+            const toast = document.getElementById("toast");
+            toast.className = "show";
+            setTimeout(() => { toast.className = ""; }, 3000);
+        };
+
+        window.onload = loadData;
+    </script>
+</body>
+</html>
