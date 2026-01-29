@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-29 10:14:47*
+*Last synced: 2026-01-29 13:39:50*
+
+### [Related Party Supplies Not CIRP Costs Without CoC Approval: NCLAT In Amtek Auto Insolvency](https://www.livelawbiz.com/nclat/related-party-supplies-not-cirp-costs-without-coc-approval-nclat-in-amtek-auto-insolvency-521114)
+- **Published:** Thu, 29 Jan 2026 13:36:48 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [NCLTs will take nearly 10 years to clear pending cases at current rate: Economic Survey of India](https://www.barandbench.com/news/nclts-will-take-nearly-10-years-to-clear-pending-cases-at-current-rate-economic-survey-of-india)
 - **Published:** 2026-01-29T08:44:25.842Z
