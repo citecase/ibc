@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-30 03:12:39*
+*Last synced: 2026-01-30 07:24:24*
+
+### [Supreme Court Asks NCLT To Re-Examine RP Appointment In Finefacilis Personal Guarantor Insolvency](https://www.livelawbiz.com/supreme-court/supreme-court-asks-nclt-to-re-examine-rp-appointment-in-finefacilis-personal-guarantor-insolvency-521186)
+- **Published:** Fri, 30 Jan 2026 06:18:40 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Mumbai Admits Smaaash Leisure To Insolvency Over Rs. 32 Crore Unpaid Debt](https://www.livelawbiz.com/nclt/nclt-mumbai-admits-smaash-leisure-to-insolvency-over-rs-32-crore-unpaid-debt-521188)
+- **Published:** Fri, 30 Jan 2026 06:27:00 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Approves ₹919-Crore Oberoi Realty-Led Plan To Revive Hotel Horizon](https://www.livelawbiz.com/nclt/nclt-mumbai-approves-consortium-oberoi-realty-rs-919-crore-plan-to-revive-hotel-horizon-521194)
+- **Published:** Fri, 30 Jan 2026 06:51:29 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Reconciling The IBC and RERA: Towards A Harmonised Framework for Real Estate Insolvencies in India – By Shubham Paliwal](https://ibclaw.in/reconciling-the-ibc-and-rera-towards-a-harmonised-framework-for-real-estate-insolvencies-in-india-by-shubham-paliwal/)
+- **Published:** Fri, 30 Jan 2026 05:14:44 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Restoring Order in The Waterfall: The Legislative Answer to Rainbow Papers – By Pranjal Parey & Anushka Bhatt](https://ibclaw.in/restoring-order-in-the-waterfall-the-legislative-answer-to-rainbow-papers-by-pranjal-parey-anushka-bhatt/)
+- **Published:** Fri, 30 Jan 2026 05:16:37 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Speculative investors fall within the definition of allottee under Section 2(d) of RERA Act | Right to refund under Section 18(1)(a) is unconditional in case of delay – Smt. Neelam Kapur and Ors. Vs. AVS Contractors Pvt. Ltd. – Rajasthan REAT](https://ibclaw.in/smt-neelam-kapur-and-ors-vs-avs-contractors-pvt-ltd-rajasthan-reat/)
 - **Published:** Thu, 29 Jan 2026 20:09:00 +0000
