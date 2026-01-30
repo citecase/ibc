@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-30 13:36:19*
+*Last synced: 2026-01-30 19:09:00*
+
+### [NCLT Chennai Directs Re-Verification of SBI Claim In Apollo Polyvinyl Insolvency](https://www.livelawbiz.com/nclt/nclt-chennai-reverification-of-claim-of-sbi-cites-lapse-by-resolution-professional-521288)
+- **Published:** Fri, 30 Jan 2026 17:37:36 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [RP Cannot Refuse Creditor Substitution Merely Because CoC Has Approved Resolution Plan: NCLT Kolkata](https://www.livelawbiz.com/nclt/nclt-kolkata-resolution-professional-cannot-deny-creditor-substitution-merely-due-to-progress-of-cirp-521209)
 - **Published:** Fri, 30 Jan 2026 08:35:09 GMT
