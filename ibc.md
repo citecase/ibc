@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-30 07:24:24*
+*Last synced: 2026-01-30 13:36:19*
+
+### [RP Cannot Refuse Creditor Substitution Merely Because CoC Has Approved Resolution Plan: NCLT Kolkata](https://www.livelawbiz.com/nclt/nclt-kolkata-resolution-professional-cannot-deny-creditor-substitution-merely-due-to-progress-of-cirp-521209)
+- **Published:** Fri, 30 Jan 2026 08:35:09 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Directs 33 Schools Using 'Presidium' Brand to Deposit Trademark Revenue Into CIRP Account](https://www.livelawbiz.com/nclt/nclt-rules-presidium-schools-unauthorised-use-orders-revenue-deposit-corporate-debtor-asset-521224)
+- **Published:** Fri, 30 Jan 2026 09:27:19 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Amravati Approves ₹884.82-Crore Capri Global Plan For SevenHills Healthcare Backed By Reliance Group](https://www.livelawbiz.com/nclt/nclt-amravati-approves-rs-884-crore-plan-of-capri-global-backed-by-reliance-group-to-revive-sevenhills-healthcare-521271)
+- **Published:** Fri, 30 Jan 2026 13:35:48 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [It is not open for the MSME’s to agitate their request for restructuring belatedly without having cooperated in the conduct of restructuring exercise when it was undertaken by the Financial Creditor in the first place | Adjudicating Authority (NCLT) while adjudicating a Section 7 application is empowered only to verify whether a default has occurred or not – Jagdish R. Pahuja Vs. Punjab National Bank and Ors. – NCLAT New Delhi](https://ibclaw.in/jagdish-r-pahuja-vs-punjab-national-bank-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 30 Jan 2026 12:58:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Asks NCLT To Re-Examine RP Appointment In Finefacilis Personal Guarantor Insolvency](https://www.livelawbiz.com/supreme-court/supreme-court-asks-nclt-to-re-examine-rp-appointment-in-finefacilis-personal-guarantor-insolvency-521186)
 - **Published:** Fri, 30 Jan 2026 06:18:40 GMT
