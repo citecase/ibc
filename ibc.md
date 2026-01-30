@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-29 19:10:31*
+*Last synced: 2026-01-30 03:12:39*
+
+### [Speculative investors fall within the definition of allottee under Section 2(d) of RERA Act | Right to refund under Section 18(1)(a) is unconditional in case of delay – Smt. Neelam Kapur and Ors. Vs. AVS Contractors Pvt. Ltd. – Rajasthan REAT](https://ibclaw.in/smt-neelam-kapur-and-ors-vs-avs-contractors-pvt-ltd-rajasthan-reat/)
+- **Published:** Thu, 29 Jan 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An appeal, which is not accompanied with pre-deposit under Section 43(5) of RERA Act deserves outright dismissal and challenge on the ground that the order is unsustainable can only be considered if the appeal is found to be maintainable – Wonder City Buildcon Pvt. Ltd. Vs. Mr. Sangram Keshari Sarangi and Ors. – Haryana REAT](https://ibclaw.in/wonder-city-buildcon-pvt-ltd-vs-mr-sangram-keshari-sarangi-and-ors-haryana-reat/)
+- **Published:** Thu, 29 Jan 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Extinguishment and re-issuance of shares is necessary and permissible to effectuate the going-concern sale under IBC, falls within the scope of Section 60(5) of IBC – Dharmendra Kumar Bhasin, Liquidator of Rainbow Denim Ltd. Vs. Bombay Stock Exchange and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/dharmendra-kumar-bhasin-liquidator-of-rainbow-denim-ltd-vs-bombay-stock-exchange-and-ors-nclt-chandigarh-bench/)
+- **Published:** Thu, 29 Jan 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Promoter cannot absolve himself from the responsibility of paying delay compensation to the Allottee arising due to title issues under the framework of RERA Act | Extension of RERA Registration of a project does not automatically mean that due date for completion is as per the signed Agreement also get extended | Mere pendency of SLP before the Supreme Court does not make it Sub judice matter which bars Promoter from executing the Sale Deed – DS and JAKS Constructions Vs. Sri. Sughandit Vikas Raina and Anr. – Karnataka REAT](https://ibclaw.in/ds-and-jaks-constructions-vs-sri-sughandit-vikas-raina-and-anr-karnataka-reat/)
+- **Published:** Thu, 29 Jan 2026 20:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Delay in filing Bankruptcy Process Application under Section 121 of IBC can be condoned – Canara Bank Vs. Narayan Prasad Jhawar – NCLT Ahmedabad Bench](https://ibclaw.in/canara-bank-vs-narayan-prasad-jhawar-nclt-ahmedabad-bench/)
+- **Published:** Thu, 29 Jan 2026 21:08:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether time limit of 30 days prescribed under Section 19(5)(i) of the Recovery of Debts and Bankruptcy Act, 1993 (RDB Act) for filing a written statement is mandatory and may be extended only by a further period of 15 days in exceptional circumstances? – Shreyansh Auto Vs. Canara Bank – DRAT Kolkata](https://ibclaw.in/shreyansh-auto-vs-canara-bank-drat-kolkata/)
+- **Published:** Thu, 29 Jan 2026 21:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When a property is sold on an ‘as is where is’ basis, the encumbrances on the property stand transferred to the purchaser upon the sale – VAR Electrochem Pvt. Ltd. Vs. Commissioner, Telangana Industrial Infrastructure Corporation Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/var-electrochem-pvt-ltd-vs-commissioner-telangana-industrial-infrastructure-corporation-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Thu, 29 Jan 2026 22:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Second Invocation Notice only reiterates the demand and does not alter the validity of the First Invocation Notice of an on-demand guarantee – Indian Bank, erstwhile Allahabad Bank Vs. Nipun Verma – NCLT Mumbai Bench](https://ibclaw.in/indian-bank-erstwhile-allahabad-bank-vs-nipun-verma-nclt-mumbai-bench/)
+- **Published:** Thu, 29 Jan 2026 23:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An applicant, being a purchaser of an industrial unit with an assured return mechanism, cannot claim classification as a Financial Creditor under Section 5(8)(f) of IBC – Jasvinder Paramjit Seehra and Ors. Vs. Birendra Kumar Agarwal (RP) – NCLT Mumbai Bench](https://ibclaw.in/jasvinder-paramjit-seehra-and-ors-vs-birendra-kumar-agarwal-rp-nclt-mumbai-bench/)
+- **Published:** Thu, 29 Jan 2026 23:40:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Economic Survey 2025-26: IBC Delivers Higher Recoveries Over Earlier Regime Despite Delays](https://www.livelawbiz.com/ibc/economic-survey-2025-26-ibc-delivers-higher-recoveries-over-earlier-regime-despite-delays-521140)
 - **Published:** Thu, 29 Jan 2026 16:04:06 GMT
