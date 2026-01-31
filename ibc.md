@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-30 19:09:00*
+*Last synced: 2026-01-31 03:06:40*
+
+### [Three-month time limit in Section 121(2) of IBC for filing a bankruptcy application against a personal guarantor is directory, not mandatory – Canara Bank Vs. Jugal Kishor Jhawar – NCLT Ahmedabad Bench](https://ibclaw.in/canara-bank-vs-jugal-kishor-jhawar-nclt-ahmedabad-bench/)
+- **Published:** Fri, 30 Jan 2026 19:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the provision of Section 19(5(i) of Recovery of Debts and Bankruptcy Act, 1993 is mandatory or directory in nature? – Peaks Auto Pvt. Ltd. Vs. Jammu and Kashmir Bank Ltd. – DRAT Kolkata](https://ibclaw.in/peaks-auto-pvt-ltd-vs-jammu-and-kashmir-bank-ltd-drat-kolkata/)
+- **Published:** Fri, 30 Jan 2026 19:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Law does not allow any scope for any indulgence to be shown to or any of a party to the proceedings who, in gross negligence, adopts a careless attitude by not carrying the amendment to the Company Application and not complying the orders passed by the Tribunal (NCLT), with reference to such an amendment – V. Nagarajan, Liquidator of Cethar Ltd. Vs. ICICI Bank Ltd. – NCLAT Chennai](https://ibclaw.in/v-nagarajan-liquidator-of-cethar-ltd-vs-icici-bank-ltd-nclat-chennai/)
+- **Published:** Fri, 30 Jan 2026 20:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any claim which is not part of the liquidation proceeding has to be treated to be extinguished and cannot survive – Jaipur Vidyut Vitran Nigam Ltd. Vs. Starlink Call Concepts Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/jaipur-vidyut-vitran-nigam-ltd-vs-starlink-call-concepts-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Fri, 30 Jan 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings for compensation under Section 71 of RERA Act are independent and not barred by res judicata after refund and interest were granted under Section 18 – Pareena Infrastructure Pvt. Ltd. Vs. Mabood Aryaman – Haryana REAT](https://ibclaw.in/pareena-infrastructure-pvt-ltd-vs-mabood-aryaman-haryana-reat/)
+- **Published:** Fri, 30 Jan 2026 20:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Report of Resolution Professional is recommendatory in nature and not binding on the Adjudicating Authority (NCLT) – Indian Bank, erstwhile Allahabad Bank Vs. Sunil Verma – NCLT Mumbai Bench](https://ibclaw.in/indian-bank-erstwhile-allahabad-bank-vs-sunil-verma-nclt-mumbai-bench/)
+- **Published:** Fri, 30 Jan 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An application under Section 19 of the Recovery of Debts and Bankruptcy Act, 1993 can be filed in any branch or any other office of the Bank or financial institution is maintaining an account in which debt claimed is outstanding – Sri Cotton Concern and Ors. Vs. HDFC Bank Ltd. – DRAT Kolkata](https://ibclaw.in/sri-cotton-concern-and-ors-vs-hdfc-bank-ltd-drat-kolkata/)
+- **Published:** Fri, 30 Jan 2026 21:42:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Chennai Directs Re-Verification of SBI Claim In Apollo Polyvinyl Insolvency](https://www.livelawbiz.com/nclt/nclt-chennai-reverification-of-claim-of-sbi-cites-lapse-by-resolution-professional-521288)
 - **Published:** Fri, 30 Jan 2026 17:37:36 GMT
