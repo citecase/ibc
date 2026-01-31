@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-31 03:06:40*
+*Last synced: 2026-01-31 07:05:03*
+
+### [Reassessing COMI Determination and Its Procedural Impact on International Arbitration – By Asmi Sharma & Subham Sourav](https://ibclaw.in/reassessing-comi-determination-and-its-procedural-impact-on-international-arbitration-by-asmi-sharma-subham-sourav/)
+- **Published:** Sat, 31 Jan 2026 05:15:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Twin Moratorium under The IBC: Legislative Design, Judicial Interpretation and Doctrinal Implications – By Srinivasan Harini](https://ibclaw.in/twin-moratorium-under-the-ibc-legislative-design-judicial-interpretation-and-doctrinal-implications-by-srinivasan-harini/)
+- **Published:** Sat, 31 Jan 2026 05:16:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Balancing Insolvency and Privacy: The Interplay of IBC and DPDP in India – By Korada Sai Ikshitha & V.V.N.S. Harithas](https://ibclaw.in/balancing-insolvency-and-privacy-the-interplay-of-ibc-and-dpdp-in-india-by-korada-sai-ikshitha-v-v-n-s-harithas/)
+- **Published:** Sat, 31 Jan 2026 05:18:12 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 26th January, 2026 to 31st January, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-26th-january-2026-to-31st-january-2026/)
+- **Published:** Sat, 31 Jan 2026 06:29:46 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Three-month time limit in Section 121(2) of IBC for filing a bankruptcy application against a personal guarantor is directory, not mandatory – Canara Bank Vs. Jugal Kishor Jhawar – NCLT Ahmedabad Bench](https://ibclaw.in/canara-bank-vs-jugal-kishor-jhawar-nclt-ahmedabad-bench/)
 - **Published:** Fri, 30 Jan 2026 19:31:00 +0000
