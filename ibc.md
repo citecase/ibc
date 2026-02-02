@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-02 07:34:04*
+*Last synced: 2026-02-02 13:42:47*
+
+### [Satinder Singh Bhasin v. Col. Gautam Mullick 2026 INSC 104 - IBC - NCLT Rules](https://www.caseciter.com/20026insc104/)
+- **Published:** Mon, 02 Feb 2026 11:44:03 GMT
+- **Source:** https://caseciter.com/rss
+
+### [IBC Weekly Digest: January 26 to February 1](https://www.livelawbiz.com/top-stories/ibc-weekly-digest-25th-january-to-31st-january-521495)
+- **Published:** Mon, 02 Feb 2026 08:22:35 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLAT Upholds Insolvency Admission Against Karanja Terminal Over ₹330 Crore Default](https://www.livelawbiz.com/nclat/nclat-upholds-insolvency-karanja-terminal-logistics-canara-bank-521517)
+- **Published:** Mon, 02 Feb 2026 10:05:13 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Ahmedabad Extends Blu-Smart Mobility Insolvency Process By 90 Days](https://www.livelawbiz.com/nclt/nclt-ahmedabad-extends-blu-smart-mobility-cirp-90-days-521518)
+- **Published:** Mon, 02 Feb 2026 10:23:37 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Allotment In Proposed Realty Project Without Fund Disbursement By Claimants Is Not Financial Debt: NCLT Mumbai](https://www.livelawbiz.com/nclt/nclt-mumbai-allotment-in-proposed-realty-project-without-fund-disbursement-by-claimants-is-not-financial-debt-521568)
+- **Published:** Mon, 02 Feb 2026 13:04:46 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [No specific proforma is prescribed for passing order by the DM/CMM/ACJM under Section 14 of the SARFAESI Act, 2002 – Yes Bank Ltd. and Anr. Vs. Radha Krishna Bhandar and Ors. – DRAT Kolkata](https://ibclaw.in/yes-bank-ltd-and-anr-vs-radha-krishna-bhandar-and-ors-drat-kolkata/)
+- **Published:** Mon, 02 Feb 2026 09:59:51 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once the allottees decided to surrender the unit, the promoter ought to have refunded the amount forthwith | The allottees cannot be compelled to take possession of the unit – Dinesh Arora and Anr. Vs. Oasis Landmarks LLP – Haryana REAT](https://ibclaw.in/dinesh-arora-and-anr-vs-oasis-landmarks-llp-haryana-reat/)
+- **Published:** Mon, 02 Feb 2026 11:55:34 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A single insolvency petition is maintainable against two related Corporate Debtors in a composite real estate project | Threshold of 100 allottees under Section 7(1) of IBC is to be determined as on the date of registration of the petition, and substitution of petitioners prior to registration is permissible under Rule 28 of the NCLT Rules – Satinder Singh Bhasin Vs. Col. Gautam Mullick and Ors. – Supreme Court](https://ibclaw.in/satinder-singh-bhasin-vs-col-gautam-mullick-and-ors-supreme-court/)
+- **Published:** Mon, 02 Feb 2026 12:47:23 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Understanding Section 96 of the IBC: Scope, Judicial Developments, and the Road Ahead – By Adv. Mathew Jacob](https://ibclaw.in/understanding-section-96-of-the-ibc-scope-judicial-developments-and-the-road-ahead-by-adv-mathew-jacob/)
 - **Published:** Mon, 02 Feb 2026 05:16:47 +0000
