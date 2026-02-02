@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-01-31 07:05:03*
+*Last synced: 2026-02-02 07:34:04*
+
+### [Understanding Section 96 of the IBC: Scope, Judicial Developments, and the Road Ahead – By Adv. Mathew Jacob](https://ibclaw.in/understanding-section-96-of-the-ibc-scope-judicial-developments-and-the-road-ahead-by-adv-mathew-jacob/)
+- **Published:** Mon, 02 Feb 2026 05:16:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where financial benefits are obtained from a bank, even if fraudulently and without documentation, such transactions fall within the definition of ‘debt’ under Recovery of Debts and Bankruptcy Act, 1993 and are triable by DRT – Vijay Kumar Kushwaha and Ors. Vs. South Indian Bank Ltd. – DRAT Allahabad](https://ibclaw.in/vijay-kumar-kushwaha-and-ors-vs-south-indian-bank-ltd-drat-allahabad/)
+- **Published:** Mon, 02 Feb 2026 06:00:47 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Reassessing COMI Determination and Its Procedural Impact on International Arbitration – By Asmi Sharma & Subham Sourav](https://ibclaw.in/reassessing-comi-determination-and-its-procedural-impact-on-international-arbitration-by-asmi-sharma-subham-sourav/)
 - **Published:** Sat, 31 Jan 2026 05:15:23 +0000
