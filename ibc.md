@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-03 13:43:39*
+*Last synced: 2026-02-03 19:26:56*
+
+### [IBC Monthly Digest: January 2026](https://www.livelawbiz.com/top-stories/ibc-monthly-digest-january-2026-521721)
+- **Published:** Tue, 03 Feb 2026 14:25:10 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Jet Airways Liquidation: NCLT Directs Distribution Of Sale Proceeds Despite Pending Workmen Claims](https://www.livelawbiz.com/nclt/jet-airways-liquidation-nclt-mumbai-directs-distribution-of-liquidation-proceeds-says-indefinite-delay-defeats-value-realisation-521748)
+- **Published:** Tue, 03 Feb 2026 16:36:26 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Anuj Rana Vs. Monica and Anr. – NCLAT New Delhi](https://ibclaw.in/anuj-rana-vs-monica-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 03 Feb 2026 11:08:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Liquidation proceedings, once commenced, cannot be withdrawn based on stakeholder consensus or settlement | Financial creditors cannot be permitted to alter or redirect the course of the liquidation process at their own discretion or for perceived convenience | A Suspended Managing Director and Promoter has no locus to file either of the applications, one seeking withdrawal of the liquidation proceedings and the other seeking directions regarding MSME registration – V. K. Abdul Rahim Vs. C.A Jasin Jose, Liquidator, Sargam Builders Pvt. Ltd. and Ors. – NCLT Kochi Bench](https://ibclaw.in/v-k-abdul-rahim-vs-c-a-jasin-jose-liquidator-sargam-builders-pvt-ltd-and-ors-nclt-kochi-bench/)
+- **Published:** Tue, 03 Feb 2026 14:45:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT, Kochi Bench imposes costs in a case involving filing of a claim that abused the CIRP process – Rapid Building Systems (RBS) Pvt. Ltd. Vs. FACT RCF Building Products Ltd. and Anr. – NCLT Kochi Bench](https://ibclaw.in/rapid-building-systems-rbs-pvt-ltd-vs-fact-rcf-building-products-ltd-and-anr-nclt-kochi-bench/)
+- **Published:** Tue, 03 Feb 2026 18:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Inter-Creditor Agreement is a contractual arrangement and cannot override the statutory right under the IBC | Initiation of the CIRP against the Corporate Guarantor would be inequitable, when the ability of the Principal Borrower to discharge its liability is yet to be determined under arbitral award and no CIRP has been initiated in its case – State Bank of India Vs. Madhucon Toll Highways Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/state-bank-of-india-vs-madhucon-toll-highways-ltd-nclt-hyderabad-bench/)
+- **Published:** Tue, 03 Feb 2026 18:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [DRT has no jurisdiction to interfere in the process of OTS to be held between the parties – Shivnil Pharmaceuticals Vs. Authorized Officer, State Bank of India and Anr. – DRT Aurangabad](https://ibclaw.in/shivnil-pharmaceuticals-vs-authorized-officer-state-bank-of-india-and-anr-drt-aurangabad/)
+- **Published:** Tue, 03 Feb 2026 19:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any provision in the Articles which is inconsistent with or repugnant to the express provisions of the Companies Act must necessarily yield to the statute and cannot be relied upon to justify non-compliance | Allegations relating to fund utilisation, financial irregularities, and consequential directions do not fall within the limited scope of adjudication under Section 98 of the Companies Act, 2013 – Sunija Darsan Vs. Shelly Chandrangadan and Ors. – NCLT Kochi Bench](https://ibclaw.in/sunija-darsan-vs-shelly-chandrangadan-and-ors-nclt-kochi-bench/)
+- **Published:** Tue, 03 Feb 2026 19:17:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Six years on, Supreme Court remands Flipkart-CCI abuse of dominance dispute to NCLAT](https://www.barandbench.com/news/litigation/six-years-on-supreme-court-remands-flipkart-cci-abuse-of-dominance-dispute-to-nclat)
 - **Published:** 2026-02-03T12:11:03.920Z
