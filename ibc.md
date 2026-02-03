@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-03 03:19:31*
+*Last synced: 2026-02-03 07:26:40*
+
+### [Can Have Joint Insolvency Process When Corporate Debtors Intrinsically Linked: Supreme Court Upholds CIRP Initiation Agaisnt Grand Venezia](https://www.verdictum.in/court-updates/supreme-court/satinder-singh-bhasin-v-col-gautam-mullick-ors-2026-insc-104-joint-insolvency-process-corporate-debtors-cirp-grand-venezia-1606349)
+- **Published:** Tue, 03 Feb 2026 04:47:22 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Single Insolvency Petition Against Intrinsically Linked Real Estate Companies Maintainable: Supreme Court](https://www.livelawbiz.com/supreme-court/single-insolvency-petition-against-intrinsically-linked-real-estate-companies-maintainable-supreme-court-521612)
+- **Published:** Tue, 03 Feb 2026 05:45:52 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Attachment During Insolvency Unenforceable, But NCLT Kochi Cannot Lift Consumer Forum Order](https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-attachment-by-consumer-commission-during-insolvency-moratorium-unenforceable-521571)
 - **Published:** Mon, 02 Feb 2026 14:02:41 GMT
