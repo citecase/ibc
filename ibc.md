@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-02 13:42:47*
+*Last synced: 2026-02-03 03:19:31*
+
+### [Attachment During Insolvency Unenforceable, But NCLT Kochi Cannot Lift Consumer Forum Order](https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-attachment-by-consumer-commission-during-insolvency-moratorium-unenforceable-521571)
+- **Published:** Mon, 02 Feb 2026 14:02:41 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Where the directions are vague or capable of more than one interpretation, the appropriate course is not to invoke contempt jurisdiction but to seek clarification or further directions from the court which passed the original order – Venkata Chalam Varanasi, Bankruptcy Trustee Vs. Ushabai Agarwal – NCLT Hyderabad Bench](https://ibclaw.in/venkata-chalam-varanasi-bankruptcy-trustee-vs-ushabai-agarwal-nclt-hyderabad-bench/)
+- **Published:** Mon, 02 Feb 2026 18:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings under SARFAESI Act, 2002 do not bar the Financial Creditor to initiate insolvency under Section 7 of IBC – Canara Bank Vs. Fortune’s Sparsh Healthcare Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/canara-bank-vs-fortunes-sparsh-healthcare-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 02 Feb 2026 19:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [There is no necessity to involve all parties to the agreement in the proceedings under Section 95 of IBC – State Bank of India Vs. Y.S. Chowdhary and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/state-bank-of-india-vs-y-s-chowdhary-and-anr-nclt-hyderabad-bench/)
+- **Published:** Mon, 02 Feb 2026 19:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Actions taken in good faith under a subsisting order do not become illegal merely because the order is later set aside | Expenses claimed towards public announcement, RP fees, CoC meetings, legal counsel, NCLAT representation and e-voting are reasonable, necessary and incurred in the course of statutory duties – Maligi Madhusudhana Reddy Vs. Exim Bank and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/maligi-madhusudhana-reddy-vs-exim-bank-and-ors-nclt-hyderabad-bench/)
+- **Published:** Mon, 02 Feb 2026 19:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The landowner doesn’t have locus to challenge the fresh electricity connection on account of past dues – Sarga Hotel Pvt. Ltd. and Anr. Vs. West Bengal State Electricity Distribution Company Ltd. – NCLT Kolkata Bench](https://ibclaw.in/sarga-hotel-pvt-ltd-and-anr-vs-west-bengal-state-electricity-distribution-company-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 02 Feb 2026 20:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Provisions of Rule 9(4) of the Security Interest (Enforcement) Rules, 2002 are mandatory in nature – Muneru Industries Pvt. Ltd. Vs. Apsara Constructions and Ors. – DRAT Kolkata](https://ibclaw.in/muneru-industries-pvt-ltd-vs-apsara-constructions-and-ors-drat-kolkata/)
+- **Published:** Mon, 02 Feb 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sale of pledged shares during moratorium is in violation of Section 14 of IBC | The debt owed to the Financial Creditor be reduced by the amount realized from the sale of pledged shares – Maitreya Doshi Vs. Kanak Jani, RP of Doshi Holdings Pvt. Ltd. and Anr. – NCLT Mumbai Bench](https://ibclaw.in/maitreya-doshi-vs-kanak-jani-rp-of-doshi-holdings-pvt-ltd-and-anr-nclt-mumbai-bench/)
+- **Published:** Mon, 02 Feb 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Initiation of the CIRP against the Corporate Guarantor would be inequitable, when the ability of the Principal Borrower to discharge its liability is yet to be determined under arbitral award and no CIRP has been initiated in its case | When the Corporate Debtor is not a party to the Inter-Creditor Agreement, the statutory rights of the Financial Creditor provided under the IBC cannot be barred by virtue of any inter-creditor agreement – State Bank of India Vs. Madhucon Infra Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/state-bank-of-india-vs-madhucon-infra-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 02 Feb 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Moratorium period prescribed under Section 101 of the IBC is mandatory and inviolable and no scope for extension | IBC does not contemplate extension of time in PIRP Period – Purusottam Behera, RP for Shivkumar Patil – NCLT Mumbai Bench](https://ibclaw.in/purusottam-behera-pr-for-shivkumar-patil-nclt-mumbai-bench/)
+- **Published:** Mon, 02 Feb 2026 22:11:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Satinder Singh Bhasin v. Col. Gautam Mullick 2026 INSC 104 - IBC - NCLT Rules](https://www.caseciter.com/20026insc104/)
 - **Published:** Mon, 02 Feb 2026 11:44:03 GMT
