@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-03 07:26:40*
+*Last synced: 2026-02-03 13:43:39*
+
+### [Six years on, Supreme Court remands Flipkart-CCI abuse of dominance dispute to NCLAT](https://www.barandbench.com/news/litigation/six-years-on-supreme-court-remands-flipkart-cci-abuse-of-dominance-dispute-to-nclat)
+- **Published:** 2026-02-03T12:11:03.920Z
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT Ahmedabad Issues Contempt Notices Against Sai Infinium Over 'Contemptuous' Plea To Recall CIRP](https://www.livelawbiz.com/nclt/contemptuous-pleadings-nclt-ahmedabad-refuses-to-recall-ex-parte-order-against-sai-infinium-521675)
+- **Published:** Tue, 03 Feb 2026 10:12:07 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Typographical error in date of possession notice issued under section 13(4) of the SARFAESI Act did not violate Rule 8(1), and valuation report obtained prior to possession but within six months of sale satisfied Rule 8(5) of the Security Interest (Enforcement) Rules, 2002 – Punjab National Bank Vs. Neelam Enterprises and Ors. – DRAT Allahabad](https://ibclaw.in/punjab-national-bank-vs-neelam-enterprises-and-ors-drat-allahabad/)
+- **Published:** Tue, 03 Feb 2026 08:21:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Can Have Joint Insolvency Process When Corporate Debtors Intrinsically Linked: Supreme Court Upholds CIRP Initiation Agaisnt Grand Venezia](https://www.verdictum.in/court-updates/supreme-court/satinder-singh-bhasin-v-col-gautam-mullick-ors-2026-insc-104-joint-insolvency-process-corporate-debtors-cirp-grand-venezia-1606349)
 - **Published:** Tue, 03 Feb 2026 04:47:22 GMT
