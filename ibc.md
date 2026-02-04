@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-04 07:28:33*
+*Last synced: 2026-02-04 13:43:18*
+
+### [Supreme Court Refuses To Interfere With NCLAT Order Rejecting EPFO Claim Made After Liquidation Commencement](https://www.livelawbiz.com/supreme-court/supreme-court-refuses-to-interfere-with-nclat-order-rejecting-epfo-claim-made-after-liquidation-commencement-521828)
+- **Published:** Wed, 04 Feb 2026 08:47:09 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Supreme Court Dismisses Law Firm's ₹1.08-Crore Claim Against Insolvency-Bound Realty Company](https://www.livelawbiz.com/supreme-court/supreme-court-dismisses-law-firms-108-crore-claim-against-insolvency-bound-realty-company-521871)
+- **Published:** Wed, 04 Feb 2026 12:20:07 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Resolution Professional has no adjudicatory jurisdiction to quantify or determine mesne profits | Proceedings under IBC, 2016 does not adjudge a claim arises out of unadjudicated mesne profit | Adjudicating Authority (NCLT) cannot venture into the question of ownership or vesting of the subject land while exercising jurisdiction under the IBC – Calcutta Pinjrapole Society Vs. Pratap Mukherjee, RP of RSI Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/calcutta-pinjrapole-society-vs-pratap-mukherjee-rp-of-rsi-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 04 Feb 2026 11:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Stays Insolvency Of Lotus 300 Developer, Seeks Response On Why CBI Probe Should Not Be Ordered](https://www.livelawbiz.com/top-stories/supreme-courts-stays-nclat-order-directing-cirp-of-lotus-seeks-show-cause-on-cbi-probe-521763)
 - **Published:** Wed, 04 Feb 2026 04:30:56 GMT
