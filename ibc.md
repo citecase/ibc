@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-03 19:26:56*
+*Last synced: 2026-02-04 03:15:52*
+
+### [RERA Act does not distinguish between complete and incomplete project registration applications for the purpose of triggering the 30-day period under Section 5 of Real Estate (Regulation and Development) Act, 2016 – Delhi Development Authority Vs. Real Estate Regulatory Authority, NCT of Delhi – NCT of Delhi REAT](https://ibclaw.in/delhi-development-authority-vs-real-estate-regulatory-authority-nct-of-delhi-nct-of-delhi-reat/)
+- **Published:** Tue, 03 Feb 2026 20:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any attachment or alleged right of a person who failed to submit a claim before the Liquidator would stand subservient to the liquidation process and, in such circumstances, any attachment or lien reflected in the records of the Sub Registrar would not have any bearing on the rights of the auction purchaser – R. Aravindakshan Nair Liquidator, Lake View Ayurvedic Resort and Research Centre Pvt. Ltd. Vs. Central Survey Office and Ors. – NCLT Kochi Bench](https://ibclaw.in/r-aravindakshan-nair-liquidator-lake-view-ayurvedic-resort-and-research-centre-pvt-ltd-vs-central-survey-office-and-ors-nclt-kochi-bench/)
+- **Published:** Tue, 03 Feb 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Allottees cannot be forced to take possession of the unit | As the allottees decided to surrender the unit, the promoter ought to have refunded the amount forthwith – Ketineni Pratibha Rao and Anr. Vs. Fantasy Buildwell Pvt. Ltd. – Haryana REAT](https://ibclaw.in/ketineni-pratibha-rao-and-anr-vs-fantasy-buildwell-pvt-ltd-haryana-reat/)
+- **Published:** Tue, 03 Feb 2026 20:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amendments seeking to challenge independently appealable orders, which are time-barred, are not permissible – Central Bank of India Vs. Anand S Jaisingh and Ors. – DRAT Mumbai](https://ibclaw.in/central-bank-of-india-vs-anand-s-jaisingh-and-ors-drat-mumbai/)
+- **Published:** Tue, 03 Feb 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An Unsuccessful Resolution Applicant whose plan is otherwise capable of approval satisfies the test of an aggrieved person – Athena India Opportunitie Vs. Bhuvan Madan, RP for of Arshiya Northern FTWZ Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/athena-india-opportunitie-vs-bhuvan-madan-rp-for-of-arshiya-northern-ftwz-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Tue, 03 Feb 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Doctrine of approbate and reprobate will also apply against the bank as once bank allows its officer for making an statement/submission and subsequently reason best known to the bank withdrawing the same – Punjab & Sind Bank Vs. Delfab Global (P) Ltd. and Ors. – DRAT Kolkata](https://ibclaw.in/punjab-sind-bank-vs-delfab-global-p-ltd-and-ors-drat-kolkata/)
+- **Published:** Tue, 03 Feb 2026 20:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Adjudicating Authority (NCLT) erred in considering and adjusting amounts received in liquidation and resolution proceedings of the Principal Borrower and another Corporate Guarantor for the purpose of determining debt and default – Raghav Butola Vs. Jammu and Kashmir Bank – NCLAT New Delhi](https://ibclaw.in/raghav-butola-vs-jammu-and-kashmir-bank-nclat-new-delhi/)
+- **Published:** Tue, 03 Feb 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When an application under Section 7 of IBC is based on default committed subsequent to Section 10A period and the amount claimed subsequent to Section 10A period is well beyond threshold, application cannot be rejected on the ground that it is barred by Section 10A application – SREI Equipment Finance Ltd. Vs. R S Kamthe Infrastructure Developers Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/srei-equipment-finance-ltd-vs-r-s-kamthe-infrastructure-developers-pvt-ltd-nclat-new-delhi/)
+- **Published:** Tue, 03 Feb 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Approval of a resolution plan by the CoC and pending approval before the NCLT does not bar the adjudication of an application filed in relation to claim verification | Any procedural lapse or mechanical admission that materially alters CoC voting share falls squarely within the supervisory jurisdiction of Adjudicating Authority under Section 60(5) of IBC – Canara Bank Vs. Ashok Sheshadri, RP of Apollo Polyvinyl Pvt. Ltd. and Anr. – NCLT Chennai Bench](https://ibclaw.in/canara-bank-vs-ashok-sheshadri-rp-of-apollo-polyvinyl-pvt-ltd-and-anr-nclt-chennai-bench/)
+- **Published:** Tue, 03 Feb 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Only those costs which are incurred with the approval of Resolution Professional and the CoC can be treated as CIRP costs | IBC does not permit unilateral creation of CIRP costs or their subsequent imposition upon the resolution process | Adjudicating Authority cannot re-examine the feasibility or viability of a resolution plan, nor can it compare competing plans or substitute its own view for that of the CoC | Suspended directors of a company undergoing CIRP have no locus to file an application or represent in the matter of its subsidiary company – Ratnakar Sharma and Anr. Vs. Harvinder Singh, RP of Siti Broadband Services Pvt. Ltd. and Ors. – NCLT New Delhi Bench](https://ibclaw.in/ratnakar-sharma-and-anr-vs-harvinder-singh-rp-of-siti-broadband-services-pvt-ltd-and-ors-nclt-new-delhi-bench/)
+- **Published:** Tue, 03 Feb 2026 23:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Monthly Digest: January 2026](https://www.livelawbiz.com/top-stories/ibc-monthly-digest-january-2026-521721)
 - **Published:** Tue, 03 Feb 2026 14:25:10 GMT
