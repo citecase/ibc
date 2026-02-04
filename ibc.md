@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-04 03:15:52*
+*Last synced: 2026-02-04 07:28:33*
+
+### [Supreme Court Stays Insolvency Of Lotus 300 Developer, Seeks Response On Why CBI Probe Should Not Be Ordered](https://www.livelawbiz.com/top-stories/supreme-courts-stays-nclat-order-directing-cirp-of-lotus-seeks-show-cause-on-cbi-probe-521763)
+- **Published:** Wed, 04 Feb 2026 04:30:56 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [495-Day Delay Is 'Gross Negligence': NCLAT Rejects Cethar Liquidator's Plea To Amend Avoidance Application](https://www.livelawbiz.com/nclat/495-day-delay-is-gross-negligencenclat-rejects-cethar-liquidators-plea-to-amend-avoidance-application-521779)
+- **Published:** Wed, 04 Feb 2026 04:58:06 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [RERA Act does not distinguish between complete and incomplete project registration applications for the purpose of triggering the 30-day period under Section 5 of Real Estate (Regulation and Development) Act, 2016 – Delhi Development Authority Vs. Real Estate Regulatory Authority, NCT of Delhi – NCT of Delhi REAT](https://ibclaw.in/delhi-development-authority-vs-real-estate-regulatory-authority-nct-of-delhi-nct-of-delhi-reat/)
 - **Published:** Tue, 03 Feb 2026 20:06:00 +0000
