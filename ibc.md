@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-05 07:33:04*
+*Last synced: 2026-02-05 13:46:28*
+
+### [Order Passed By NCLAT Is Neither Unfair Nor Contrary To IBC: Supreme Court Directs NBCC To Complete Supertech’s Stalled Projects](https://www.verdictum.in/court-updates/supreme-court/order-passed-by-nclat-is-neither-unfair-nor-contrary-to-ibc-supreme-court-directs-nbcc-to-complete-supertechs-stalled-projects-1606619)
+- **Published:** Thu, 05 Feb 2026 10:10:28 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Bank's Appropriation Of Corporate Debtor's Fixed Deposit During CIRP Violates Moratorium: NCLT Mumbai](https://www.livelawbiz.com/nclt/banks-appropriation-of-corporate-debtors-fixed-deposit-during-cirp-violates-moratorium-nclt-mumbai-522039)
+- **Published:** Thu, 05 Feb 2026 11:17:39 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [The case of an agent seeking payment of brokerage does not fall under Sections 12, 14, 18, or 19 of the RERA Act | RERA cannot be used to enforce a contract or to claim damages – Pankaj Bhardwaj Vs. Alpine Infraprojects Pvt Ltd. – Uttar Pradesh REAT](https://ibclaw.in/pankaj-bhardwaj-vs-alpine-infraprojects-pvt-ltd-uttar-pradesh-reat/)
+- **Published:** Thu, 05 Feb 2026 07:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC  Is Now Being Misused Like Anything": CJI Surya Kant Flags Pre-Planned Auctions and Asset Undervaluation](https://www.livelawbiz.com/ibc/supreme-court/supreme-court-ibc-misuse-undervalued-assets-bank-fraud-investigation-against-ambani-521943)
 - **Published:** Thu, 05 Feb 2026 04:58:13 GMT
