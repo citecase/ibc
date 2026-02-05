@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-05 03:17:36*
+*Last synced: 2026-02-05 07:33:04*
+
+### [IBC  Is Now Being Misused Like Anything": CJI Surya Kant Flags Pre-Planned Auctions and Asset Undervaluation](https://www.livelawbiz.com/ibc/supreme-court/supreme-court-ibc-misuse-undervalued-assets-bank-fraud-investigation-against-ambani-521943)
+- **Published:** Thu, 05 Feb 2026 04:58:13 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Section 19(5) of Recovery of Debts and Bankruptcy Act, 1993 clearly shows that the written statement/ counter-claim is required to be filed mandatorily within 30 days from the date of service of summon – Dharsini Fish Farm and Ors. Vs. Central Bank of India – DRT Chennai](https://ibclaw.in/dharsini-fish-farm-and-ors-vs-central-bank-of-india-drt-chennai/)
 - **Published:** Wed, 04 Feb 2026 19:39:00 +0000
