@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-04 13:43:18*
+*Last synced: 2026-02-05 03:17:36*
+
+### [Section 19(5) of Recovery of Debts and Bankruptcy Act, 1993 clearly shows that the written statement/ counter-claim is required to be filed mandatorily within 30 days from the date of service of summon – Dharsini Fish Farm and Ors. Vs. Central Bank of India – DRT Chennai](https://ibclaw.in/dharsini-fish-farm-and-ors-vs-central-bank-of-india-drt-chennai/)
+- **Published:** Wed, 04 Feb 2026 19:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [While exercising jurisdiction under the Contempt of Courts Act, 1971, the Tribunal (NCLT) must confine itself strictly to the four corners of the order alleged to have been violated – Venkata Chalam Varanasi, Bankruptcy Trustee Vs. Ritesh Agarwal – NCLT Hyderabad Bench](https://ibclaw.in/venkata-chalam-varanasi-bankruptcy-trustee-vs-ritesh-agarwal-nclt-hyderabad-bench/)
+- **Published:** Wed, 04 Feb 2026 19:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Promoter cannot absolve himself from the responsibility of paying delay compensation to the Allottee solely on the ground that the landowner is liable to pay the compensation arising due to title issues under the framework of RERA Act | Homebuyer is protected regardless of which party, between the Promoter or the landowner, is internally responsible for the title issue – Sobha Ltd. and Anr. Vs. Karnataka Real Estate Regulatory Authority and Anr. – Karnataka REAT](https://ibclaw.in/sobha-ltd-and-anr-vs-karnataka-real-estate-regulatory-authority-and-anr-karnataka-reat/)
+- **Published:** Wed, 04 Feb 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Disbursal alone is not sufficient, the character of the transaction must satisfy Section 5(8) of the IBC to qualify as financial debt – Satyam Syncotex Pvt. Ltd. Vs. Sumit Texspin Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/satyam-syncotex-pvt-ltd-vs-sumit-texspin-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Wed, 04 Feb 2026 20:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Financial Creditor and Member of the CoC who approved the Resolution Plan, can be directed to execute the release of the Memorandum of Title Deeds and the release-cum-assignment Agreements relating to the assets of the Corporate Debtor taken over by Successful Resolution Applicant – Krishna Power Utilities Ltd. Vs. Asset Reconstruction Company (India) Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/krishna-power-utilities-ltd-vs-asset-reconstruction-company-india-ltd-nclt-hyderabad-bench/)
+- **Published:** Wed, 04 Feb 2026 20:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Refuses To Interfere With NCLAT Order Rejecting EPFO Claim Made After Liquidation Commencement](https://www.livelawbiz.com/supreme-court/supreme-court-refuses-to-interfere-with-nclat-order-rejecting-epfo-claim-made-after-liquidation-commencement-521828)
 - **Published:** Wed, 04 Feb 2026 08:47:09 GMT
