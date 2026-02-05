@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-05 13:46:28*
+*Last synced: 2026-02-05 19:22:37*
+
+### [Supreme Court Records Justice Abhay Oka–Mediated Settlement In Transcon–Anchor Point Insolvency Dispute](https://www.livelawbiz.com/top-stories/supreme-court-records-justice-abhay-okamediated-settlement-in-transconanchor-point-insolvency-dispute-522058)
+- **Published:** Thu, 05 Feb 2026 13:49:18 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Kochi Dismisses GST Department's Plea to Include Belated ₹6.06 Crore Claim In SDF Industries Insolvency](https://www.livelawbiz.com/company-law/nclt/national-company-law-tribunal-kochi-rejects-belated-claim-of-tax-department-in-insolvency-proceedings-522065)
+- **Published:** Thu, 05 Feb 2026 14:24:03 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Order Passed By NCLAT Is Neither Unfair Nor Contrary To IBC: Supreme Court Directs NBCC To Complete Supertech’s Stalled Projects](https://www.verdictum.in/court-updates/supreme-court/order-passed-by-nclat-is-neither-unfair-nor-contrary-to-ibc-supreme-court-directs-nbcc-to-complete-supertechs-stalled-projects-1606619)
 - **Published:** Thu, 05 Feb 2026 10:10:28 GMT
