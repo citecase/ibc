@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-06 03:16:29*
+*Last synced: 2026-02-06 07:29:29*
+
+### [NCLAT upholds CCI decision to close abuse of dominance case against NSE over co-location services](https://www.barandbench.com/news/litigation/nclat-upholds-cci-decision-to-close-abuse-of-dominance-case-against-nse-over-co-location-services)
+- **Published:** 2026-02-06T06:12:24.299Z
+- **Source:** https://www.barandbench.com/feed
+
+### [Pre-Packaged Insolvency: Reimagining Corporate Rescue through Legislative Innovation, Procedural Nuances, and Case Law Analysis](https://ibclaw.in/pre-packaged-insolvency-reimagining-corporate-rescue-through-legislative-innovation-procedural-nuances-and-case-law-analysis/)
+- **Published:** Fri, 06 Feb 2026 05:20:44 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [There is no prohibition under Section 33(5) of the IBC for continuance of Suits already instituted and that the prohibition is only in respect of institution of fresh suits or proceedings | There is no embargo on liquidator defending the Suit under Section 33(5) of the IBC | Bar under Section 63 of the IBC is not attracted to a Suit, which is filed for recovery of unpaid salary, which issue cannot be adjudicated by NCLT or NCLAT | Provisions of Section 53(1)(b)(i) cannot be read to mean that the wages beyond 24 months get obliterated – Anupam Dikshit Vs. S. Kumars Nationwide Ltd. and Anr. – Bombay High Court](https://ibclaw.in/anupam-dikshit-vs-s-kumars-nationwide-ltd-and-anr-bombay-high-court/)
+- **Published:** Fri, 06 Feb 2026 06:34:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Moratorium during liquidation under Section 33(5) of the Insolvency and Bankruptcy Code does not apply to pending suits: Bombay High Court](https://ibclaw.in/moratorium-during-liquidation-under-section-335-of-the-insolvency-and-bankruptcy-code-does-not-apply-to-pending-suits-bombay-high-court/)
+- **Published:** Fri, 06 Feb 2026 06:44:32 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [If any person claims that he is entitled for possession of the secured asset for any term exceeding one year from the date of lease made in his favour, he has to produce proof of execution of a registered instrument in his favour by the lessor – Shabbir Hussain and Ors. Vs. Authorized Officer, Bank of Maharashtra and Anr. – DRAT Allahabad](https://ibclaw.in/shabbir-hussain-and-ors-vs-authorized-officer-bank-of-maharashtra-and-anr-drat-allahabad/)
 - **Published:** Thu, 05 Feb 2026 19:41:00 +0000
