@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-05 19:22:37*
+*Last synced: 2026-02-06 03:16:29*
+
+### [If any person claims that he is entitled for possession of the secured asset for any term exceeding one year from the date of lease made in his favour, he has to produce proof of execution of a registered instrument in his favour by the lessor – Shabbir Hussain and Ors. Vs. Authorized Officer, Bank of Maharashtra and Anr. – DRAT Allahabad](https://ibclaw.in/shabbir-hussain-and-ors-vs-authorized-officer-bank-of-maharashtra-and-anr-drat-allahabad/)
+- **Published:** Thu, 05 Feb 2026 19:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Real Estate (Regulation and Development) Act, 2016 (RERA) does not apply to the sale or purchase of virtual, unlockable, or non-lockable space in a commercial building – Sushma Choudhary Vs. WTC Noida Development Company Pvt. Ltd. – Uttar Pradesh REAT](https://ibclaw.in/sushma-choudhary-vs-wtc-noida-development-company-pvt-ltd-uttar-pradesh-reat/)
+- **Published:** Thu, 05 Feb 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Defaults during Section 10A period i.e. from 25.03.2020 to 24.03.2021 are permanently barred from forming the basis of CIRP initiation under Section 7, 9 or 10 of the IBC – Sachetna Finance Pvt. Ltd. Vs. Shroff Textiles Ltd. – NCLT Mumbai Bench](https://ibclaw.in/sachetna-finance-pvt-ltd-vs-shroff-textiles-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 05 Feb 2026 20:19:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Records Justice Abhay Oka–Mediated Settlement In Transcon–Anchor Point Insolvency Dispute](https://www.livelawbiz.com/top-stories/supreme-court-records-justice-abhay-okamediated-settlement-in-transconanchor-point-insolvency-dispute-522058)
 - **Published:** Thu, 05 Feb 2026 13:49:18 GMT
