@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-06 13:42:25*
+*Last synced: 2026-02-06 19:22:23*
+
+### [Delay In Statutory Demand Notice No Ground to Reject Insolvency Plea If Within Limitation: NCLT Mumbai](https://www.livelawbiz.com/nclt/nclt-mumbai-demand-notice-under-ibc-can-be-issued-years-after-default-if-insolvency-application-is-with-limitation-period-522216)
+- **Published:** Fri, 06 Feb 2026 13:51:05 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### ['Prejudice From Delay Ignored': Delhi High Court Cuts Insolvency Professional's Suspension To Period Undergone](https://www.livelawbiz.com/ibc/prejudice-from-delay-ignored-delhi-high-court-cuts-insolvency-professionals-suspension-to-period-undergone-522238)
+- **Published:** Fri, 06 Feb 2026 17:23:54 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Does non-filing of appeal against CIRP admission order affect filing of Section 65 application by the Suspended Directors? | Can giving loan recall notice on behalf of Financial Creditor, be a reason to hold that initiation of Section 7 application was fraudulent and malicious? – Pramila Bajoria and Ors. Vs. Eastern Housing Udyog Finance Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/pramila-bajoria-and-ors-vs-eastern-housing-udyog-finance-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 06 Feb 2026 13:26:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Timelines prescribed under CIRP Regulation 35A for preferential, undervalued, Extortionate credit transactions and, Fraudulent trading or wrongful trading are directory and not mandatory – Jasvinder Singh Makan Vs. Anish Kumar Sanghi, RP of M.K. Printech Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/jasvinder-singh-makan-vs-anish-kumar-sanghi-rp-of-m-k-printech-pvt-ltd-nclat-new-delhi/)
+- **Published:** Fri, 06 Feb 2026 13:39:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Existence of a debt and default, being the two fundamental factors for initiating a CIRP, should be beyond doubt or debate, and where either is under the shadow of a genuine dispute, Corporate Debtor will be in safe zone as CIRP cannot be commenced | A mere right to claim damages will not constitute any debt within the meaning of an Operational Debt as defined under Section 5(21) of IBC – Akshay Kumar Bhatia Vs. Cue Learn Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/akshay-kumar-bhatia-vs-cue-learn-pvt-ltd-nclat-new-delhi/)
+- **Published:** Fri, 06 Feb 2026 14:57:39 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT rejects insolvency appeal filed by Akshay Kumar over endorsement fee dispute](https://ibclaw.in/nclat-rejects-insolvency-appeal-filed-by-akshay-kumar-over-endorsement-fee-dispute/)
+- **Published:** Fri, 06 Feb 2026 15:06:07 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Orders ONGC To Release Rs 22.14 Crore Withheld From Dolphin Offshore Over GST Garnishee Notice](https://www.livelawbiz.com/nclt/nclt-mumbai-orders-release-of-rs-2214-crore-ongc-payments-withheld-over-gst-garnishee-notice-522154)
 - **Published:** Fri, 06 Feb 2026 07:59:08 GMT
