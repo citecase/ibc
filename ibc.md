@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-06 07:29:29*
+*Last synced: 2026-02-06 13:42:25*
+
+### [NCLT Mumbai Orders ONGC To Release Rs 22.14 Crore Withheld From Dolphin Offshore Over GST Garnishee Notice](https://www.livelawbiz.com/nclt/nclt-mumbai-orders-release-of-rs-2214-crore-ongc-payments-withheld-over-gst-garnishee-notice-522154)
+- **Published:** Fri, 06 Feb 2026 07:59:08 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [BREAKING | NCLAT Upholds NCLT Order, Rejects Actor Akshay Kumar's Insolvency Plea Against Cue Learn](https://www.livelawbiz.com/ibc/nclat-upholds-nclt-order-rejects-akshay-kumar-bhatias-insolvency-plea-against-cue-learn-522204)
+- **Published:** Fri, 06 Feb 2026 12:55:58 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [NCLAT upholds CCI decision to close abuse of dominance case against NSE over co-location services](https://www.barandbench.com/news/litigation/nclat-upholds-cci-decision-to-close-abuse-of-dominance-case-against-nse-over-co-location-services)
 - **Published:** 2026-02-06T06:12:24.299Z
