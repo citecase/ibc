@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-06 19:22:23*
+*Last synced: 2026-02-07 13:26:39*
+
+### [Inconsistencies Between E-Auction Notice And Process Memo Vitiate Liquidation Sale: NCLT Amaravati](https://www.livelawbiz.com/nclt/nclt-amravati-inconsistency-between-e-auction-notice-and-auction-process-memorandum-vitiates-liquidation-sale-522294)
+- **Published:** Sat, 07 Feb 2026 09:30:54 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Section 73 of the Companies Act, 2013 does not interdict the right of payment under the IBC | The Companies Act does not altogether prohibit acceptance of deposit by companies rather Companies Act regulate the manner and procedure for acceptance of deposits by company – Vinita Agarwala and Ors. Vs. Power Pack Steel Industries Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/vinita-agarwala-and-ors-vs-power-pack-steel-industries-pvt-ltd-nclat-new-delhi/)
+- **Published:** Sat, 07 Feb 2026 10:28:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Warrant of attachment does not elevate the claim to the status of a secured debt under IBC | Existence of a dispute for the purpose of considering an application to initiate CIRP against a corporate debtor differs significantly and cannot be of the same effect for the admission of a claim by the RP | A counterclaim raised at any time but not pursued before any court of law or authority, including in the suit and arbitration proceedings, cannot be the basis for rejecting a claim in the CIRP – Municipal Corporation of Delhi Vs. Ravindra Kumar Goyal, IRP of MEP Infrastructure Developers Ltd. – NCLT Mumbai Bench](https://ibclaw.in/municipal-corporation-of-delhi-vs-ravindra-kumar-goyal-irp-of-mep-infrastructure-developers-ltd-nclt-mumbai-bench/)
+- **Published:** Sat, 07 Feb 2026 12:57:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The NCLT imposed a sentence of two days’ simple imprisonment in a civil prison for non-compliance with its order – Bank of Baroda Vs. Renaissance Education Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/bank-of-baroda-vs-renaissance-education-pvt-ltd-nclt-mumbai-bench-2/)
+- **Published:** Sat, 07 Feb 2026 13:02:24 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Delay In Statutory Demand Notice No Ground to Reject Insolvency Plea If Within Limitation: NCLT Mumbai](https://www.livelawbiz.com/nclt/nclt-mumbai-demand-notice-under-ibc-can-be-issued-years-after-default-if-insolvency-application-is-with-limitation-period-522216)
 - **Published:** Fri, 06 Feb 2026 13:51:05 GMT
