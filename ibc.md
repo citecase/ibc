@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-07 13:26:39*
+*Last synced: 2026-02-08 19:02:46*
+
+### [The provisions of the IBC cannot be allowed to prevail as a recovery mechanism or to enforce the recovery of claim by the Financial Creditor – JSEL Securities Ltd. Vs. Manohar Builders & Developers Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/jsel-securities-ltd-vs-manohar-builders-developers-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Sun, 08 Feb 2026 18:47:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Inconsistencies Between E-Auction Notice And Process Memo Vitiate Liquidation Sale: NCLT Amaravati](https://www.livelawbiz.com/nclt/nclt-amravati-inconsistency-between-e-auction-notice-and-auction-process-memorandum-vitiates-liquidation-sale-522294)
 - **Published:** Sat, 07 Feb 2026 09:30:54 GMT
