@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-09 13:54:31*
+*Last synced: 2026-02-09 19:46:30*
+
+### [Whether there exists a pre-existing dispute between the parties regarding the operational debt, particularly concerning the adjustment of price variation through debit/credit notes, sufficient to bar initiation of CIRP under Section 9 of the IBC? – Precision Autocastings Pvt. Ltd. Vs. Universal Autofoundry Ltd. – NCLT Jaipur Bench](https://ibclaw.in/precision-autocastings-pvt-ltd-vs-universal-autofoundry-ltd-nclt-jaipur-bench/)
+- **Published:** Mon, 09 Feb 2026 19:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 4(2)(l)(D) of RERA Act requires fire safety compliances, but conditional registration via security deposit is a pragmatic mechanism to accommodate genuine processing delays by statutory bodies | Penalties under RERA must be just and equitable, not punitive for technicalities – TARC Ltd. Vs. Haryana Real Estate Regulatory Authority – Haryana REAT](https://ibclaw.in/tarc-ltd-vs-haryana-real-estate-regulatory-authority-haryana-reat/)
+- **Published:** Mon, 09 Feb 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether third party assets mortgaged to the Creditor can be included in CIRP even if the creditor has not given consent for the same? | Whether non-valuation of extraneous security (third-party/related-party property) constitutes material non-compliance under Section 30(2) of IBC and may leads to rejection of Resolution Plan? – Religare Finvest Ltd. Vs. Navin Khandelwal, RP of Shri Ram Switchgears Ltd. – NCLT Indore Bench](https://ibclaw.in/religare-finvest-ltd-vs-navin-khandelwal-rp-of-shri-ram-switchgears-ltd-nclt-indore-bench/)
+- **Published:** Mon, 09 Feb 2026 19:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Labour Court order and the recovery certificate do not, by itself, determine the priority of a claim under Section 53 of the IBC – Prakash Joshi Vs. Shri Shikhar Chand Jain (C.A), Liquidator of Dhan Laxmi Solvex Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/prakash-joshi-vs-shri-shikhar-chand-jain-c-a-liquidator-of-dhan-laxmi-solvex-pvt-ltd-nclt-indore-bench/)
+- **Published:** Mon, 09 Feb 2026 19:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Weekly Digest: February 2 To February 7, 2026](https://www.livelawbiz.com/top-stories/ibc-weekly-digest-2nd-february-to-7th-february-2026-522436)
 - **Published:** Mon, 09 Feb 2026 13:52:23 GMT
