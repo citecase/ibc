@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-09 07:38:41*
+*Last synced: 2026-02-09 13:54:31*
+
+### [IBC Weekly Digest: February 2 To February 7, 2026](https://www.livelawbiz.com/top-stories/ibc-weekly-digest-2nd-february-to-7th-february-2026-522436)
+- **Published:** Mon, 09 Feb 2026 13:52:23 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Akshay Kumar endorsement fee row can’t trigger insolvency proceedings: NCLAT](https://www.barandbench.com/news/litigation/akshay-kumar-endorsement-fee-row-cant-trigger-insolvency-proceedings-nclat)
 - **Published:** 2026-02-09T07:17:28.897Z
