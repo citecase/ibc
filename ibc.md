@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-09 03:27:36*
+*Last synced: 2026-02-09 07:38:41*
+
+### [Akshay Kumar endorsement fee row can’t trigger insolvency proceedings: NCLAT](https://www.barandbench.com/news/litigation/akshay-kumar-endorsement-fee-row-cant-trigger-insolvency-proceedings-nclat)
+- **Published:** 2026-02-09T07:17:28.897Z
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT Mumbai Admits Personal Insolvency Plea Against Frost International's Guarantor Over ₹671.56 Crore Default](https://www.livelawbiz.com/nclt/nclt-mumbai-admits-personal-insolvency-against-poonam-wadhera-over-rs-671-crore-default-522373)
+- **Published:** Mon, 09 Feb 2026 04:35:22 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 1st February, 2026 to 7th February, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-1st-february-2026-to-7th-february-2026/)
+- **Published:** Mon, 09 Feb 2026 05:38:09 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The NCLAT has no jurisdiction to condone delay beyond outer limit of 45 days under Section 61 of IBC, regardless of the reasons for delay or the date of knowledge of the order – Lalremsiem Vs. IFCI Venture Capital Funds Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/lalremsiem-vs-ifci-venture-capital-funds-ltd-and-anr-nclat-new-delhi/)
 - **Published:** Sun, 08 Feb 2026 20:30:00 +0000
