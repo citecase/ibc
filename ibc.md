@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-08 19:02:46*
+*Last synced: 2026-02-09 03:27:36*
+
+### [The NCLAT has no jurisdiction to condone delay beyond outer limit of 45 days under Section 61 of IBC, regardless of the reasons for delay or the date of knowledge of the order – Lalremsiem Vs. IFCI Venture Capital Funds Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/lalremsiem-vs-ifci-venture-capital-funds-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Sun, 08 Feb 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether direction to Resolution Professional to handover possession of the plot legally owned by the homebuyer can be given by the Adjudicating Authority? – Manoj Jakhetiya Vs. Chhaya Gupta, RP of JSM Devcons India Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/manoj-jakhetiya-vs-chhaya-gupta-rp-of-jsm-devcons-india-pvt-ltd-nclt-indore-bench/)
+- **Published:** Sun, 08 Feb 2026 20:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Joint development/collaboration arrangements, absent borrowing, do not constitute financial debt under IBC – Ghanshyam Singhal and Ors. Vs. SNG Real Estate Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/ghanshyam-singhal-and-ors-vs-sng-real-estate-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Sun, 08 Feb 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the appeal under Section 61 of IBC is maintainable against an order passed under Section 95 (Part III) of the IBC? – Harish Kumar Mittal Vs. State Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/harish-kumar-mittal-vs-state-bank-of-india-and-anr-nclat-new-delhi/)
+- **Published:** Sun, 08 Feb 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Merely because the appellant has chosen to describe its co-extensive liability arising under the deed of guarantee as contingent liability in its balance sheets may not have any legal consequence of a co-extensive liability into contingent liability – Subrata Sardar Vs. Central Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/subrata-sardar-vs-central-bank-of-india-and-anr-nclat-new-delhi/)
+- **Published:** Sun, 08 Feb 2026 21:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether under the RERA Act any mechanism has been provided for determination of the interest for delay in handing over possession of the apartment/plot to the allottee, if the allottee does not intend to withdraw from the project and/or refund with interest and compensation, if the allottee withdraws on account of not providing possession within the period prescribed in the agreement? – Justice Yogesh Chandra Gupta Vs. Uttar Pradesh Awas Evam Vikas Parishad – Uttar Pradesh REAT](https://ibclaw.in/justice-yogesh-chandra-gupta-vs-uttar-pradesh-awas-evam-vikas-parishad-uttar-pradesh-reat/)
+- **Published:** Sun, 08 Feb 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the non-mentioning of date of default in Demand Notice issued under section 8 of IBC invalidates the Demand Notice? | Whether the date of default can be changed when the pleadings stand completed? – Nivaya Resources Pvt. Ltd. Vs. Sahaj Vishwas Urja Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/nivaya-resources-pvt-ltd-vs-sahaj-vishwas-urja-pvt-ltd-nclt-indore-bench/)
+- **Published:** Sun, 08 Feb 2026 21:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The expression ‘brought in’ under Rule 2(1)(c)(xiii) of the Companies (Acceptance of Deposits) Rules, 2014 is of wide amplitude and covers unsecured financial infusions brought in by the promoters in various forms | In the absence of any specific period prescribed under the Companies Act, 2013 for an application under Section 73(4), the residuary Article of the Limitation Act, 1963 becomes applicable| Right to apply under Section 73(4) accrues upon default in repayment of the alleged deposit – Anusmera Realty and Infra Pvt. Ltd. Vs. Vimla Thakarashi Dedhia – NCLT Mumbai Bench](https://ibclaw.in/anusmera-realty-and-infra-pvt-ltd-vs-vimla-thakarashi-dedhia-nclt-mumbai-bench/)
+- **Published:** Sun, 08 Feb 2026 22:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere refund of auction amount by Bank to auction purchasers cannot preclude the auction purchasers to exercise the legal rights accrued in their favour and the auction purchasers by receiving such amount have not waived their rights to challenge the order and get the issue adjudicated on merits | Once the sale is settled and advance is made by the purchaser to the seller, none of them can go back from the said sale – Gitesh Kumar Vs. Allahabad Bank and Ors. – DRAT Allahabad](https://ibclaw.in/gitesh-kumar-vs-allahabad-bank-and-ors-drat-allahabad/)
+- **Published:** Sun, 08 Feb 2026 22:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The statutory provisions of IBC do not place any bar on the Resolution Plan to have petition filed through any authorised person – Srei Equipment Finance Ltd. Vs. Roadwings International Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/srei-equipment-finance-ltd-vs-roadwings-international-pvt-ltd-nclat-new-delhi/)
+- **Published:** Sun, 08 Feb 2026 22:51:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The provisions of the IBC cannot be allowed to prevail as a recovery mechanism or to enforce the recovery of claim by the Financial Creditor – JSEL Securities Ltd. Vs. Manohar Builders & Developers Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/jsel-securities-ltd-vs-manohar-builders-developers-pvt-ltd-nclt-jaipur-bench/)
 - **Published:** Sun, 08 Feb 2026 18:47:00 +0000
