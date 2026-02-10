@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-10 03:39:55*
+*Last synced: 2026-02-10 07:39:08*
+
+### [Liquidator Can Defend Pending Civil Suits Filed Before Liquidation Under IBC: Bombay High Court](https://www.livelawbiz.com/ibc/high-court/ibc-bombay-high-court-liquidator-can-defend-pending-civil-suits-filed-before-liquidation-522546)
+- **Published:** Tue, 10 Feb 2026 06:40:46 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [While reviving arbitration proceeding during liquidation and appointing a substitute arbitrator under Section 15(2) of the Arbitration and Conciliation Act, 1996, arbitral proceedings will be continued from the existing stage of the proceedings and prior arbitral proceedings cannot be nullified due to the moratorium under Section 14 of the IBC – Ankhim Holdings Pvt. Ltd. and Anr Vs. Zaveri Construction Pvt. Ltd. – Supreme Court](https://ibclaw.in/ankhim-holdings-pvt-ltd-and-anr-vs-zaveri-construction-pvt-ltd-supreme-court/)
+- **Published:** Tue, 10 Feb 2026 05:53:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Appointment of a substitute arbitrator under Section 15(2) requires continuation of arbitration from the existing stage, and prior proceedings are not rendered a nullity by the Section 14 IBC moratorium: Supreme Court](https://ibclaw.in/appointment-of-a-substitute-arbitrator-under-section-152-requires-continuation-of-arbitration-from-the-existing-stage-and-prior-proceedings-are-not-rendered-a-nullity-by-the-section-14-ibc-moratori/)
+- **Published:** Tue, 10 Feb 2026 05:55:24 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Writ Petition under Article 226 of the Constitution of India regarding the matters pending before National Company Law Tribunal is not maintainable – Adv. (CA) V. Venkata Sivakumar Erstwhile liquidator of JSCL Vs. National Company Law Appellate Tribunal (NCLAT) and Ors. – Madras High Court](https://ibclaw.in/adv-ca-v-venkata-sivakumar-erstwhile-liquidator-of-jscl-vs-national-company-law-appellate-tribunal-nclat-and-ors-madras-high-court/)
 - **Published:** Mon, 09 Feb 2026 20:15:00 +0000
