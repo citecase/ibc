@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-10 14:01:08*
+*Last synced: 2026-02-10 19:39:26*
+
+### [Geographical distance between counsel and clerk no excuse for delay in filing appeal: NCLAT](https://www.barandbench.com/news/litigation/geographical-distance-between-counsel-and-clerk-no-excuse-for-delay-in-filing-appeal-nclat)
+- **Published:** 2026-02-10T14:09:29.028Z
+- **Source:** https://www.barandbench.com/feed
+
+### [NABARD Refinance Receivables Are Third-Party Assets, Not Part Of Corporate Debtor's Insolvency Estate: NCLAT](https://www.livelawbiz.com/nclat/national-company-law-appellate-tribunal-new-delhi-held-refinance-receivables-of-nabard-fall-outside-insolvency-pool-522624)
+- **Published:** Tue, 10 Feb 2026 14:27:26 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Proceedings under the Negotiable Instruments Act, 1881 (NI Act) do not fall within the category of ‘any legal action or proceedings’ as provided under Section 96(1)(b)(i) of the IBC and, therefore, cannot be stalled to the extent of criminal liability by claiming an interim moratorium | Such proceedings could not have been adjourned sine die by the Magistrate after the initiation of the interim moratorium period under Section 96 of the IBC – Somwati Vs. Suresh Jain – Delhi High Court](https://ibclaw.in/somwati-vs-suresh-jain-delhi-high-court/)
+- **Published:** Tue, 10 Feb 2026 14:53:13 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Cheque bounce proceedings under the Negotiable Instruments Act (NI Act) are not covered by the interim moratorium under the IBC : Delhi High Court](https://ibclaw.in/cheque-bounce-proceedings-under-the-negotiable-instruments-act-ni-act-are-not-covered-by-the-interim-moratorium-under-the-ibc-delhi-high-court/)
+- **Published:** Tue, 10 Feb 2026 15:06:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under Regulation 10(1)(c) of Liquidation Process Regulations, 2016, the Liquidator is empowered to disclaim property that is not saleable or is not readily saleable due to onerous obligations or monetary liabilities – Pankaj Dhanuka, Liquidator of Corporate Power Ltd. Vs. Divisional Head Quarters Office, Electrical (TR-D) Department, South Eastern Railway, Ranchi – NCLT Kolkata Bench](https://ibclaw.in/pankaj-dhanuka-liquidator-of-corporate-power-ltd-vs-divisional-head-quarters-office-electrical-tr-d-department-south-eastern-railway-ranchi-nclt-kolkata-bench/)
+- **Published:** Tue, 10 Feb 2026 18:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A registered sale deed in favour of the Applicant carries a presumption of validity and title, and the Resolution Professional (RP) must verify the Applicant’s claim and, upon verification, hand over possession of the plot, subject to the subsisting mortgage rights – Piyush Jain Vs. Chhaya Gupta, RP of JSM Devcons India Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/piyush-jain-vs-chhaya-gupta-rp-of-jsm-devcons-india-pvt-ltd-nclt-indore-bench/)
+- **Published:** Tue, 10 Feb 2026 19:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the Repayment Plan, approved by the Adjudicating Authority under Section 114 and implemented in accordance with the terms and timelines prescribed, is fully complied with and all creditors have confirmed receipt of their proportionate shares, the Personal Guarantor is entitled to discharge under Section 119 of IBC – Deepak Maini, RP of Rajbir Singh Sethi – NCLT Principal Bench](https://ibclaw.in/deepak-maini-rp-of-rajbir-singh-sethi-nclt-principal-bench/)
+- **Published:** Tue, 10 Feb 2026 19:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [High Court Cannot Nullify Prior Arbitral Proceedings While Appointing Substitute Arbitrator: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/ankhim-holdings-pvt-ltd-v-zaveri-construction-pvt-ltd-2026-insc-137-arbitrator-high-court-arbitration-1607091)
 - **Published:** Tue, 10 Feb 2026 12:30:08 GMT
