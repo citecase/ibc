@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-09 19:46:30*
+*Last synced: 2026-02-10 03:39:55*
+
+### [Writ Petition under Article 226 of the Constitution of India regarding the matters pending before National Company Law Tribunal is not maintainable – Adv. (CA) V. Venkata Sivakumar Erstwhile liquidator of JSCL Vs. National Company Law Appellate Tribunal (NCLAT) and Ors. – Madras High Court](https://ibclaw.in/adv-ca-v-venkata-sivakumar-erstwhile-liquidator-of-jscl-vs-national-company-law-appellate-tribunal-nclat-and-ors-madras-high-court/)
+- **Published:** Mon, 09 Feb 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once the Sale Deed is executed it is deemed that the Allottee has undertaken all necessary due diligence exercise prior to purchase and there are no claims over the project lands – Dr. P. Vidhyasagar Arya, Major Vs. Ramky Estates and Farms Ltd. and Ors. – Karnataka REAT](https://ibclaw.in/dr-p-vidhyasagar-arya-major-vs-ramky-estates-and-farms-ltd-and-ors-karnataka-reat/)
+- **Published:** Mon, 09 Feb 2026 20:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [There is no concept present in the IBC permitting any post facto approval of a Resolution Plan by the Adjudicating Authority that has not been considered by the CoC, nor does it allow the Adjudicating Authority to effectuate modifications to the plan once it has been approved by the CoC – Shanti G.D. Ispat and Power Pvt. Ltd. Vs. Dhiren Shantilal Shah and Ors. – NCLT Mumbai Bench](https://ibclaw.in/shanti-g-d-ispat-and-power-pvt-ltd-vs-dhiren-shantilal-shah-and-ors-nclt-mumbai-bench/)
+- **Published:** Mon, 09 Feb 2026 20:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [By virtue of Section 31(1) of IBC, the Income Tax Dept. are legally barred from initiating reassessment proceedings, raising tax demands, or seeking recovery of any alleged escaped income pertaining to the pre-CIRP period | By virtue of the non-obstante clause in Section 238 of the Code, the provisions of the IBC prevail over any inconsistent provisions contained in the Income Tax Act, 1961 – Maxim Infrastructure and Real Estate Pvt. Ltd. Vs. Income Tax Officer – NCLT Guwahati Bench](https://ibclaw.in/maxim-infrastructure-and-real-estate-pvt-ltd-vs-income-tax-officer-nclt-guwahati-bench/)
+- **Published:** Mon, 09 Feb 2026 21:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Compensation can be adjudged by the Adjudicating Officer only for breaches under Sections 12, 14, 18, and 19 of RERA Act, and not for failure under Section 11(4)(b) (non-obtaining of occupancy certificate) | No compensation can be awarded for alleged structural defects or unfinished works where no specific prayer or evidence is made regarding loss or defects within the statutory period – Sri Pabitra Mohan Sahoo Vs. Secretary, ORERA and Anr. – Odisha REAT](https://ibclaw.in/sri-pabitra-mohan-sahoo-vs-secretary-orera-and-anr-odisha-reat/)
+- **Published:** Mon, 09 Feb 2026 21:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Time limit of 30 days under Section 19(5)(i) of Recovery of Debts and Bankruptcy Act, 1993 is mandatory to file written statement and that can be extended only for 15 days in exceptional circumstances – Sarvalabh Global Foundation and Ors. Vs. RBL Bank Ltd. – DRAT Kolkata](https://ibclaw.in/sarvalabh-global-foundation-and-ors-vs-rbl-bank-ltd-drat-kolkata/)
+- **Published:** Mon, 09 Feb 2026 22:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether there exists a pre-existing dispute between the parties regarding the operational debt, particularly concerning the adjustment of price variation through debit/credit notes, sufficient to bar initiation of CIRP under Section 9 of the IBC? – Precision Autocastings Pvt. Ltd. Vs. Universal Autofoundry Ltd. – NCLT Jaipur Bench](https://ibclaw.in/precision-autocastings-pvt-ltd-vs-universal-autofoundry-ltd-nclt-jaipur-bench/)
 - **Published:** Mon, 09 Feb 2026 19:09:00 +0000
