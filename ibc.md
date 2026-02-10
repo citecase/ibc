@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-10 07:39:08*
+*Last synced: 2026-02-10 14:01:08*
+
+### [High Court Cannot Nullify Prior Arbitral Proceedings While Appointing Substitute Arbitrator: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/ankhim-holdings-pvt-ltd-v-zaveri-construction-pvt-ltd-2026-insc-137-arbitrator-high-court-arbitration-1607091)
+- **Published:** Tue, 10 Feb 2026 12:30:08 GMT
+- **Source:** https://verdictum.in/feed
+
+### [CIRP Can Be Initiated Only On Default, Not On Apprehension Of Inability To Pay: NCLT Ahmedabad](https://www.livelawbiz.com/nclt/cirp-can-be-initiated-only-on-default-not-on-apprehension-of-inability-to-pay-nclt-ahmedabad-522576)
+- **Published:** Tue, 10 Feb 2026 09:23:46 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Guarantor Liability Co-Extensive With Borrower, Can't Be Made Contingent By Balance Sheet Entries: NCLAT](https://www.livelawbiz.com/nclat/nclat-guarantor-liability-co-extensive-with-borrower-cannot-be-made-contingent-by-balance-sheet-entries-522586)
+- **Published:** Tue, 10 Feb 2026 10:57:07 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Inter-Creditor Agreement For Coordinated Action Does Not Bar Insolvency Plea By Single Lender: NCLT Hyderabad](https://www.livelawbiz.com/nclt/nclt-hyderabad-inter-creditor-agreement-for-coordinated-action-does-not-bar-insolvency-plea-by-single-lender-522598)
+- **Published:** Tue, 10 Feb 2026 11:42:28 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Inconsistent Default Dates In SARFAESI And IBC Demand Notices To Guarantor Not Fatal To Insolvency Plea: NCLT Mumbai](https://www.livelawbiz.com/nclt/inconsistent-default-dates-in-sarfaesi-and-ibc-demand-notices-to-guarantor-not-fatal-to-insolvency-plea-nclt-mumbai-522606)
+- **Published:** Tue, 10 Feb 2026 12:14:07 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Supreme Court Upholds NCLAT Order Entrusting NBCC To Complete Stalled Supertech Housing Projects](https://www.livelawbiz.com/top-stories/supreme-court-declines-to-interfere-with-nclat-order-entrusting-nbcc-with-completion-of-supertech-projects-522619)
+- **Published:** Tue, 10 Feb 2026 13:28:35 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Komal Rakshit Patel Vs. Vinod Tarachand Agrawal, RP of Jay Formulation Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/komal-rakshit-patel-vs-vinod-tarachand-agrawal-rp-of-jay-formulation-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 10 Feb 2026 10:47:10 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any default committed which fell within the Section 10A period enjoyed complete immunity from initiation of CIRP proceedings | Any attempt to negate, nullify, invalidate or erode the protection offered by Section 10A of IBC cannot be accepted – Rajendra Singh Rathore Vs. Chetanya Builders Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rajendra-singh-rathore-vs-chetanya-builders-pvt-ltd-nclat-new-delhi/)
+- **Published:** Tue, 10 Feb 2026 13:37:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Refiling delay condonation has to be more liberally considered as compared to delay condonation and therefore as long as plausible and practical explanation is offered to explain the delay the same needs to be given due consideration so that the cause of substantial justice is well served – Rakshit Ashwinbhai Patel and Ors. Vs. Vinod Tarachand Agrawal, RP of Jay Formulation Ltd. – NCLAT New Delhi](https://ibclaw.in/rakshit-ashwinbhai-patel-and-ors-vs-vinod-tarachand-agrawal-rp-of-jay-formulation-ltd-nclat-new-delhi/)
+- **Published:** Tue, 10 Feb 2026 13:43:54 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Liquidator Can Defend Pending Civil Suits Filed Before Liquidation Under IBC: Bombay High Court](https://www.livelawbiz.com/ibc/high-court/ibc-bombay-high-court-liquidator-can-defend-pending-civil-suits-filed-before-liquidation-522546)
 - **Published:** Tue, 10 Feb 2026 06:40:46 GMT
