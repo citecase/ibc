@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-10 19:39:26*
+*Last synced: 2026-02-11 03:36:46*
+
+### [The outer time limit stipulated in Section 62(1)(a)(i) of the Companies Act, 2013 will bind the company issuing the rights shares, but not the tribunal which attempts to balance the rights of the parties during the pendency of a petition under Section 241 and 242 of the Act – Think & Learn Pvt. Ltd., through its RP, Shailendra Ajmera Vs. Aakash Educational Services Ltd. and Ors. – NCLAT Chennai](https://ibclaw.in/think-learn-pvt-ltd-through-its-rp-shailendra-ajmera-vs-aakash-educational-services-ltd-and-ors-nclat-chennai/)
+- **Published:** Tue, 10 Feb 2026 20:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT cannot interfere in the commercial bargain between two independent parties | Section 50 of the IBC dealing with credit transactions | Rate of interest as envisaged in the loan agreement cannot be questioned in this proceeding – Omkara Assets Reconstruction Pvt. Ltd. Vs. Gigeo Construction Company Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/omkara-assets-reconstruction-pvt-ltd-vs-gigeo-construction-company-pvt-ltd-nclt-mumbai-bench-2/)
+- **Published:** Tue, 10 Feb 2026 20:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Workmen’s dues arise out of Labour Court proceedings and pertain to a period prior to the period contemplated under Section 53(1)(b)(i) of the IBC do not fall within the priority category under Section 53(1)(b)(i) – Deepchand Chouhan Vs. Shikhar Chand Jain (C.A), Liquidator of Dhan Laxmi Solvex Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/deepchand-chouhan-vs-shikhar-chand-jain-c-a-liquidator-of-dhan-laxmi-solvex-pvt-ltd-nclt-indore-bench/)
+- **Published:** Tue, 10 Feb 2026 20:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Allegations pertained to recovery of dues, dishonoured cheques, and regulatory lapses enforceable by the Registrar of Companies under Sections 92, 137, and 454, and not to systemic fraud or intent to defraud as required under Section 213(b) of the Companies Act, 2013 – Amit Nagindas Kapadia Vs. United Petrofer Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/amit-nagindas-kapadia-vs-united-petrofer-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 10 Feb 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [After the cancellation of the registration of the Corporate Debtor as an NBFC by the RBI, the Corporate Debtor no longer continues as a Financial Service Provider | Consequently, the exclusion provided under Section 3(7) shall not be applicable, and the application under Section 7 of IBC is maintainable – Ankush Saluja Vs. Urmila Goyal and Anr. – NCLAT New Delhi](https://ibclaw.in/ankush-saluja-vs-urmila-goyal-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 10 Feb 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [As per Section 17 of the Limitation Act, the period of limitation shall not begin to run until the plaintiff or applicant has discovered the mistake or could, with reasonable diligence, had discovered it – Vijay Kumar Agarwal and Ors. Vs. Juhu Hotel Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/vijay-kumar-agarwal-and-ors-vs-juhu-hotel-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 10 Feb 2026 20:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Substitution of the original flat by a subsequent allotment constitutes novation under Section 62 of the Indian Contract Act, 1872, and the period for completion is reckoned from the date of subsequent allotment | Offer of possession based on a temporary occupancy certificate, which was later cancelled for non-fulfilment of conditions, is not a valid offer under the RERA Act | Where no specific date of completion is mentioned in the allotment letter, a reasonable period of three years is to be considered for completion – Nilesh Gunjan Vs. JKG Construction Pvt. Ltd. – Uttar Pradesh REAT](https://ibclaw.in/nilesh-gunjan-vs-jkg-construction-pvt-ltd-uttar-pradesh-reat/)
+- **Published:** Tue, 10 Feb 2026 21:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Geographical distance between counsel and clerk no excuse for delay in filing appeal: NCLAT](https://www.barandbench.com/news/litigation/geographical-distance-between-counsel-and-clerk-no-excuse-for-delay-in-filing-appeal-nclat)
 - **Published:** 2026-02-10T14:09:29.028Z
