@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-11 03:36:46*
+*Last synced: 2026-02-11 13:55:23*
+
+### [After strong warning, NCLAT Chennai closes contempt case against IRP](https://www.barandbench.com/news/litigation/after-strong-warning-nclat-chennai-closes-contempt-case-against-irp)
+- **Published:** 2026-02-11T11:56:30.040Z
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT Ahmedabad Slaps ₹1 Lakh Costs On Sintex-BAPL Creditor, Upholds Finality Of Resolution Plan](https://www.livelawbiz.com/nclt/nclt-ahmedabad-sintex-bapl-cirp-plan-finality-ganesh-electricals-costs-522747)
+- **Published:** Wed, 11 Feb 2026 10:44:53 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Mumbai Lifts Interim Injunction Over HDIL Land, Holds Relief Cannot Survive Without Jurisdiction](https://www.livelawbiz.com/nclt/nclt-mumbai-tribunal-must-vacate-interim-injunction-when-it-lacks-jurisdiction-to-grant-final-declaratory-relief-522757)
+- **Published:** Wed, 11 Feb 2026 12:32:59 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Personal Difficulties Of Counsel Not “Sufficient Cause” To Restore Insolvency Petition: NCLT Chandigarh](https://www.livelawbiz.com/nclt/nclt-chandigarh-personal-difficulties-counsel-not-sufficient-cause-restore-insolvency-petition-522786)
+- **Published:** Wed, 11 Feb 2026 13:55:06 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [It is mandatory on the part of the financial creditor to invoke guarantee before issuing a demand notice in Form B under Rule 7(1) of Application to Adjudicating Authority for IRP for Personal Guarantors Rules, 2019 and also the default by guarantor has to exist on the date when demand notice has been issued | The notice given under Rule 7(1) is not a notice for the purpose of invoking the guarantee – Amit Kumar Kejriwal Vs. UCO Bank and Anr. – NCLAT New Delhi](https://ibclaw.in/amit-kumar-kejriwal-vs-uco-bank-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 11 Feb 2026 12:35:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT directs that the conduct of UCO Bank officials in filing Insolvency Application without invoking Guarantee be brought to the attention of the Chairman of UCO Bank](https://ibclaw.in/nclat-directs-that-the-conduct-of-uco-bank-officials-in-filing-insolvency-application-without-invoking-guarantee-be-brought-to-the-attention-of-the-chairman-of-uco-bank/)
+- **Published:** Wed, 11 Feb 2026 12:44:52 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The outer time limit stipulated in Section 62(1)(a)(i) of the Companies Act, 2013 will bind the company issuing the rights shares, but not the tribunal which attempts to balance the rights of the parties during the pendency of a petition under Section 241 and 242 of the Act – Think & Learn Pvt. Ltd., through its RP, Shailendra Ajmera Vs. Aakash Educational Services Ltd. and Ors. – NCLAT Chennai](https://ibclaw.in/think-learn-pvt-ltd-through-its-rp-shailendra-ajmera-vs-aakash-educational-services-ltd-and-ors-nclat-chennai/)
 - **Published:** Tue, 10 Feb 2026 20:01:00 +0000
