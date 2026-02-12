@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-12 07:35:38*
+*Last synced: 2026-02-12 13:50:42*
+
+### [NCLT Kochi Rejects Plea To Implead CBI In Corporate Petition Alleging Oppression And Mismanagement](https://www.livelawbiz.com/nclt/cbi-not-a-necessary-party-in-oppression-mismanagement-plea-nclt-kochi-dismisses-impleadment-application-522918)
+- **Published:** Thu, 12 Feb 2026 10:33:08 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Recall Of Order Not Permissible For Party's Failure; 'Mistake' Must Be Tribunal's Error: NCLT Hyderabad](https://www.livelawbiz.com/nclt/nclt-hyderabad-recall-cannot-be-used-to-cure-failure-to-file-documents-mistake-must-be-tribunal-error-522919)
+- **Published:** Thu, 12 Feb 2026 10:39:40 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Authorities cannot issue demand notices or start recovery actions against the Corporate Debtor or the Resolution Applicant (SRA) for resolution plan pre-approval periods – Oriental Bank of Commerce Vs. Vivita Ltd. – NCLT Mumbai Bench](https://ibclaw.in/oriental-bank-of-commerce-vs-vivita-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 12 Feb 2026 07:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Closes Suo Motu Contempt Proceedings Against IRP After Accepting His Unconditional Apology](https://www.livelawbiz.com/nclat/national-company-law-appellate-tribunal-chennai-closed-suo-moto-proceedings-after-irp-tendered-apology-522834)
 - **Published:** Thu, 12 Feb 2026 04:01:25 GMT
