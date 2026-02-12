@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-12 13:50:42*
+*Last synced: 2026-02-12 19:33:57*
+
+### [Dissenting Banks Cannot Continue Recovery Against Guarantors Once Resolution Plan Attains Finality: NCLAT](https://www.livelawbiz.com/nclat/the-national-company-law-appellate-tribunal-held-banks-cannot-continue-recovery-against-guarantor-assets-522974)
+- **Published:** Thu, 12 Feb 2026 15:29:59 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLAT Finds IndusInd Bank, RTA Negligent In Issuing Duplicate Share Certificates, Upholds Restoration Of 5,000 Shares](https://www.livelawbiz.com/nclat/nclat-finds-indusind-bank-rta-negligent-in-issuing-duplicate-share-certificates-upholds-restoration-of-5000-shares-522977)
+- **Published:** Thu, 12 Feb 2026 16:12:32 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Akshay Kumar Rout, Prop of Jagannath Traders Vs. Indo Laminates Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/akshay-kumar-rout-prop-of-jagannath-traders-vs-indo-laminates-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 12 Feb 2026 08:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nirupama Yogesh Gupta Vs. Indian Bank – NCLAT New Delhi](https://ibclaw.in/nirupama-yogesh-gupta-vs-indian-bank-nclat-new-delhi/)
+- **Published:** Thu, 12 Feb 2026 08:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Issue of formation of opinion and determination of opinion on PUFE transactions cannot be examined at the threshold level on a stand-alone basis dehors the avoidance applications – Chandresh Jajoo Vs. Vikas Garg, Liquidator of Hema Engineering Industries Ltd. – NCLAT New Delhi](https://ibclaw.in/chandresh-jajoo-vs-vikas-garg-liquidator-of-hema-engineering-industries-ltd-nclat-new-delhi/)
+- **Published:** Thu, 12 Feb 2026 14:05:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Kochi Rejects Plea To Implead CBI In Corporate Petition Alleging Oppression And Mismanagement](https://www.livelawbiz.com/nclt/cbi-not-a-necessary-party-in-oppression-mismanagement-plea-nclt-kochi-dismisses-impleadment-application-522918)
 - **Published:** Thu, 12 Feb 2026 10:33:08 GMT
