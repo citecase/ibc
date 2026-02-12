@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-12 03:27:47*
+*Last synced: 2026-02-12 07:35:38*
+
+### [NCLAT Closes Suo Motu Contempt Proceedings Against IRP After Accepting His Unconditional Apology](https://www.livelawbiz.com/nclat/national-company-law-appellate-tribunal-chennai-closed-suo-moto-proceedings-after-irp-tendered-apology-522834)
+- **Published:** Thu, 12 Feb 2026 04:01:25 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [IBC Cannot Be Used To Legitimize Proceeds of Crime: NCLT Recalls Alchemist Limited CIRP](https://www.livelawbiz.com/nclt/nclt-delhi-alchemist-lts-ibc-cannot-legitmise-proceeds-of-crims-522868)
+- **Published:** Thu, 12 Feb 2026 05:25:43 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [The absence of valid DUDA approval and a reliable, independent completion certificate, the project is ongoing and falls within the purview of the RERA Act, 2016 – Adiilaksmi Construction Pvt. Ltd. Vs. Secretary, ORERA – Odisha REAT](https://ibclaw.in/adiilaksmi-construction-pvt-ltd-vs-secretary-orera-odisha-reat/)
 - **Published:** Wed, 11 Feb 2026 19:49:00 +0000
