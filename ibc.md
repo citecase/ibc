@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-11 13:55:23*
+*Last synced: 2026-02-12 03:27:47*
+
+### [The absence of valid DUDA approval and a reliable, independent completion certificate, the project is ongoing and falls within the purview of the RERA Act, 2016 – Adiilaksmi Construction Pvt. Ltd. Vs. Secretary, ORERA – Odisha REAT](https://ibclaw.in/adiilaksmi-construction-pvt-ltd-vs-secretary-orera-odisha-reat/)
+- **Published:** Wed, 11 Feb 2026 19:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Petition under Section 10 of the IBC is not maintainable if the promoters’ primary intent is not a bona fide resolution, but rather to secure admission under the IBC, trigger the moratorium, and consequently stall all recovery proceedings – Jakhodia Traexim Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/jakhodia-traexim-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 11 Feb 2026 20:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Housing Finance Company qualifies as a Financial Creditor under Section 5(8) of the IBC, as per tripartite agreement which imposed a primary repayment obligation on the Corporate Debtor to refund the entire loan amount to the financier in the event of default or non-completion – GIC Housing Finance Ltd. Vs. Truvisory Insolvency Professionals Pvt. Ltd., RP of Karrm Infrastructure Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/gic-housing-finance-ltd-vs-truvisory-insolvency-professionals-pvt-ltd-rp-of-karrm-infrastructure-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 11 Feb 2026 20:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the provision of Section 19(5(i) of Recovery of Debts and Bankruptcy Act, 1993 is mandatory or directory in nature? – Smaarftech Technologies Pvt. Ltd. and Ors. Vs. RBL Bank Ltd. – DRAT Kolkata](https://ibclaw.in/smaarftech-technologies-pvt-ltd-and-ors-vs-rbl-bank-ltd-drat-kolkata/)
+- **Published:** Wed, 11 Feb 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a Resolution Plan has been approved by the Committee of Creditors, no other Resolution Plan, even if projected as a better one, can be considered either by the CoC or by the Adjudicating Authority – Jayshree Agnihotri Vs. Hasti Mal Kachhara, RP of Pushp Ratna Realty Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/jayshree-agnihotri-vs-hasti-mal-kachhara-rp-of-pushp-ratna-realty-pvt-ltd-nclt-indore-bench/)
+- **Published:** Wed, 11 Feb 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Only assets specifically mortgaged or charged in favour of the lenders are to be released, and that liabilities of personal guarantors are not extinguished unless specifically stated | Dissenting financial creditors cannot retain or enforce any security or attachment over assets of promoters, directors, or guarantors for recovery of dues already resolved under the resolution plan – Puro Natural Sugars JV Vs. Shree Warana Sahakari Bank Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/puro-natural-sugars-jv-vs-shree-warana-sahakari-bank-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 11 Feb 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [After strong warning, NCLAT Chennai closes contempt case against IRP](https://www.barandbench.com/news/litigation/after-strong-warning-nclat-chennai-closes-contempt-case-against-irp)
 - **Published:** 2026-02-11T11:56:30.040Z
