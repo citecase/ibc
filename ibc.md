@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-13 13:43:07*
+*Last synced: 2026-02-13 19:24:44*
+
+### [Where Both Enactments Have Non-Obstante Clause, Then One Has To See Dominant Purpose For Which Special Act Was Made: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/2026-insc-153-state-bank-of-india-v-union-of-india-1607445)
+- **Published:** Fri, 13 Feb 2026 15:00:12 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Bank's Classification Of Debt As NPA For Balance Sheet Purposes Not Decisive For Limitation Under IBC: Supreme Court](https://www.livelawbiz.com/ibc/banks-classification-of-debt-as-npa-not-decisive-for-limitation-under-ibc-supreme-court-523100)
+- **Published:** Fri, 13 Feb 2026 18:38:17 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLAT Holds Debt Not Time Barred In Rajeshwari Cotspin CIRP, Says Threshold Cannot Be Confined to Last Invoice](https://www.livelawbiz.com/nclat/nclat-holds-debt-not-time-barred-in-rajeshwari-cotspin-case-says-threshold-cannot-be-confined-to-last-invoice-523103)
+- **Published:** Fri, 13 Feb 2026 16:15:12 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Where sole member of the Committee of Creditors (CoC), being an Operational Creditor and not a Financial Creditor, submits and approves its own Resolution Plan by exercising 100% voting rights, such approval is in express violation of Section 30(5) of the IBC and is void ab initio – Pragiti Construction Vs. CoC of Rancom Healthcare Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/pragiti-construction-vs-coc-of-rancom-healthcare-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Fri, 13 Feb 2026 14:32:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Approval of its own Resolution Plan by Sole CoC member, being an Operational Creditor, violates Section 30(5) of the IBC and is void ab initio : NCLAT](https://ibclaw.in/approval-of-its-own-resolution-plan-by-sole-coc-member-being-an-operational-creditor-violates-section-305-of-the-ibc-and-is-void-ab-initio-nclat/)
+- **Published:** Fri, 13 Feb 2026 14:38:22 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State Bank of India v. Union of India  2026 INSC 153 IBC - Telecom Service Providers](https://www.caseciter.com/2026insc153/)
 - **Published:** Fri, 13 Feb 2026 11:04:38 GMT
