@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-12 19:33:57*
+*Last synced: 2026-02-13 03:28:57*
+
+### [Individual objections raised by the erstwhile management, particularly relating to forensic audit reports or alleged prejudice, fall outside the limited jurisdiction of this Tribunal under Section 31 of IBC | The inherent powers under Rule 11 of the NCLT Rules cannot be exercised to create substantive rights or to permit intervention – Bankey Bihari Vs. Durga Das Agrawal, RP of MKMG Jewel Developers Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/bankey-bihari-vs-durga-das-agrawal-rp-of-mkmg-jewel-developers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 12 Feb 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Defect in authorization of representative is curable | Information Utility filing is directory and not mandatory and the absence thereof cannot defeat application under Section 7 of IBC | Inadequate stamping is curable defect and unstamped documents are not void or non-existence – Vinodkumar Nihalchand Parmar Vs. Anuj Bajpai, IRP of Dee Plone Polyster Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/vinodkumar-nihalchand-parmar-vs-anuj-bajpai-irp-of-dee-plone-polyster-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 12 Feb 2026 20:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether proceedings under Section 138 of the NI Act can be initiated when the moratorium under IBC, 2016, is already in force, if the cheques were dishonoured prior to the moratorium, but the statutory notice was issued after the moratorium came into effect? – Arvind Dham Vs. State of NCT of Delhi and Anr. – Delhi High Court](https://ibclaw.in/arvind-dham-vs-state-of-nct-of-delhi-and-anr-delhi-high-court/)
+- **Published:** Thu, 12 Feb 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the promoter failed to complete the project and obtain the Occupancy/Completion Certificate by the assured date of possession, the allottee was entitled to stop further payments under the construction-linked plan, and could not be adjudged a defaulter – Deepak Jain and Anr. Vs. Proview Rishabh Infra Pvt. Ltd. – Uttar Pradesh REAT](https://ibclaw.in/deepak-jain-and-anr-vs-proview-rishabh-infra-pvt-ltd-uttar-pradesh-reat/)
+- **Published:** Thu, 12 Feb 2026 20:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Extension of RERA Registration of a project does not automatically mean that due date for completion as per the signed Agreement also gets extended | Promoters cannot unilaterally alter the due date for handing over, unless both the parties agreed to change the due date of handing over possession | The mere fact that the Unit purchased by the Allottee is ready for possession does not imply that Registration of the project can be dispensed with – Vipin Das Kuttiparambil Vs. Provident Housing Ltd. and Anr. – Karnataka REAT](https://ibclaw.in/vipin-das-kuttiparambil-vs-provident-housing-ltd-and-anr-karnataka-reat/)
+- **Published:** Thu, 12 Feb 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The duty cast under Section 19(1) of the IBC is mandatory, affirmative, and continuing and is not limited to a one-time physical handover of premises or records but includes active, meaningful, and ongoing assistance to enable the Resolution Professional to perform statutory functions effectively – Jaggdish Kumar Parulkar Vs. Sandeep Gupta – NCLT New Delhi Bench](https://ibclaw.in/jaggdish-kumar-parulkar-vs-sandeep-gupta-nclt-new-delhi-bench/)
+- **Published:** Thu, 12 Feb 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [While exercising its jurisdiction as Adjudicating Authority under IBC, NCLT cannot pass any order under Section 8 of Arbitration and Conciliation Act, 1996 – Arcturus Developers Pvt. Ltd. Vs. Beacon Trusteeship Ltd. – NCLT New Delhi Bench](https://ibclaw.in/arcturus-developers-pvt-ltd-vs-beacon-trusteeship-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 12 Feb 2026 21:04:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dissenting Banks Cannot Continue Recovery Against Guarantors Once Resolution Plan Attains Finality: NCLAT](https://www.livelawbiz.com/nclat/the-national-company-law-appellate-tribunal-held-banks-cannot-continue-recovery-against-guarantor-assets-522974)
 - **Published:** Thu, 12 Feb 2026 15:29:59 GMT
