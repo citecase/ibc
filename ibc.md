@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-13 07:32:30*
+*Last synced: 2026-02-13 13:43:07*
+
+### [State Bank of India v. Union of India  2026 INSC 153 IBC - Telecom Service Providers](https://www.caseciter.com/2026insc153/)
+- **Published:** Fri, 13 Feb 2026 11:04:38 GMT
+- **Source:** https://caseciter.com/rss
+
+### [B. Prashanth Hegde v. State Bank of India 2026 INSC 155 - IBC - S.18 Limitation Act](https://www.caseciter.com/2026insc155/)
+- **Published:** Fri, 13 Feb 2026 13:32:34 GMT
+- **Source:** https://caseciter.com/rss
+
+### [NCLT Allahabad Reserves Verdict On Vedanta Plea Against CoC Approval Of Adani's JAL Plan](https://www.livelawbiz.com/nclt/nclt-allahabad-reserves-verdict-in-vedanta-plea-against-coc-approval-of-adanis-jaiprakash-associate-plan-523035)
+- **Published:** Fri, 13 Feb 2026 10:02:45 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [No Overlapping Secured Interest Between Homebuyers And Financier Where Builder Is Liable: NCLT Mumbai](https://www.livelawbiz.com/nclt/nclt-mumbai-no-overlapping-secured-interest-between-homebuyers-and-financier-where-builder-liable-523068)
+- **Published:** Fri, 13 Feb 2026 11:44:03 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Telecom spectrum not restructurable asset under IBC: Supreme Court in Aircel AGR insolvency dispute](https://www.barandbench.com/news/litigation/telecom-spectrum-not-restructurable-asset-under-ibc-supreme-court-in-aircel-agr-insolvency-dispute)
 - **Published:** Fri, 13 Feb 2026 11:47:05 +0530
