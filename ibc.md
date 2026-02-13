@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-13 03:28:57*
+*Last synced: 2026-02-13 07:32:30*
+
+### [Telecom spectrum not restructurable asset under IBC: Supreme Court in Aircel AGR insolvency dispute](https://www.barandbench.com/news/litigation/telecom-spectrum-not-restructurable-asset-under-ibc-supreme-court-in-aircel-agr-insolvency-dispute)
+- **Published:** Fri, 13 Feb 2026 11:47:05 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Supreme Court: IBC Can't Be Guiding Principle For Restructuring Ownership And Control Of Telecom Spectrum](https://www.verdictum.in/court-updates/supreme-court/ibc-cant-guiding-principle-restructuring-ownership-control-telecom-spectrum-1607387)
+- **Published:** Fri, 13 Feb 2026 05:51:50 GMT
+- **Source:** https://verdictum.in/feed
+
+### [NCLT Ahmedabad Slaps ₹2 Lakh Cost on Dharmadev Infra Director, Admits ₹20.97 Crore Insolvency Plea](https://www.livelawbiz.com/nclt/nclt-ahmedabad-slaps-2-lakh-cost-on-dharmadev-infra-director-admits-20crore-insolvency-plea-523000)
+- **Published:** Fri, 13 Feb 2026 05:06:32 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Supreme Court Says IBC Cannot Determine Ownership Of Telecom Spectrum, Calls It Material Resource Of Community](https://www.livelawbiz.com/top-stories/supreme-court-telecom-spectrum-is-community-resource-ibc-cannot-decide-its-ownership-or-control-523015)
+- **Published:** Fri, 13 Feb 2026 05:48:34 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Interest Mentioned In Invoice Cannot Be Counted For IBC Threshold Without Binding Agreement: NCLT Kochi](https://www.livelawbiz.com/nclt/national-company-law-tribunal-kochi-held-interest-from-invoice-terms-cannot-be-added-to-meet-ibc-threshold-523023)
+- **Published:** Fri, 13 Feb 2026 06:35:21 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Promoters/ Directors/ Nominee Directors of the Corporate Debtor cannot seek quashing of proceedings under Section 138 of the Negotiable Instruments Act, 1881, on the ground of the initiation or outcome of proceedings under the IBC – Mr. V. Narayana Reddy and Ors. Vs. State of Telangana and Ors.- Telangana High Court](https://ibclaw.in/mr-v-narayana-reddy-and-ors-vs-state-of-telangana-and-ors-telangana-high-court/)
+- **Published:** Fri, 13 Feb 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Individual objections raised by the erstwhile management, particularly relating to forensic audit reports or alleged prejudice, fall outside the limited jurisdiction of this Tribunal under Section 31 of IBC | The inherent powers under Rule 11 of the NCLT Rules cannot be exercised to create substantive rights or to permit intervention – Bankey Bihari Vs. Durga Das Agrawal, RP of MKMG Jewel Developers Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/bankey-bihari-vs-durga-das-agrawal-rp-of-mkmg-jewel-developers-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Thu, 12 Feb 2026 20:00:00 +0000
