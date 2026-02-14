@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-13 19:24:44*
+*Last synced: 2026-02-14 03:13:46*
+
+### [Shri Deep Chandra Joshi to Act as President of NCLT from February 14, 2026](https://ibclaw.in/shri-deep-chandra-joshi-to-act-as-president-of-nclt-from-february-14-2026/)
+- **Published:** Fri, 13 Feb 2026 23:59:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where Both Enactments Have Non-Obstante Clause, Then One Has To See Dominant Purpose For Which Special Act Was Made: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/2026-insc-153-state-bank-of-india-v-union-of-india-1607445)
 - **Published:** Fri, 13 Feb 2026 15:00:12 GMT
