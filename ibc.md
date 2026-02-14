@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-14 13:26:49*
+*Last synced: 2026-02-14 19:00:50*
+
+### [Former District Judge Deep Chandra Joshi To Serve As Acting President Of NCLT](https://www.livelawbiz.com/news-updates/former-district-judge-deep-chandra-joshi-to-act-as-nclt-president-523189)
+- **Published:** Sat, 14 Feb 2026 16:40:51 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Former District Judge Deep Chandra Joshi appointed acting President of NCLT](https://www.barandbench.com/news/law-policy/former-district-judge-deep-chandra-joshi-appointed-acting-president-of-nclt)
 - **Published:** Sat, 14 Feb 2026 18:33:24 +0530
