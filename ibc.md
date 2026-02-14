@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-14 03:13:46*
+*Last synced: 2026-02-14 07:11:05*
+
+### [NCLAT Says Timing Of Stamp Paper Purchase And Loan Agreement Execution Not Ground To Reject Insolvency Plea](https://www.livelawbiz.com/nclat/nclat-says-timing-of-stamp-paper-purchase-and-loan-agreement-execution-not-ground-to-reject-insolvency-plea-523119)
+- **Published:** Sat, 14 Feb 2026 04:27:28 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Need Not Separately Examine RP's Opinion On PUFE Transactions While Avoidance Pleas Are Pending: NCLAT](https://www.livelawbiz.com/nclat/nclt-need-not-separately-examine-rps-opinion-on-pufe-transactions-while-avoidance-pleas-are-pending-nclat-523145)
+- **Published:** Sat, 14 Feb 2026 06:18:07 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Mere Accounting Treatment Of Spectrum As 'Asset' Does Not Bring It Within IBC Framework: Supreme Court](https://www.livelawbiz.com/top-stories/supreme-court-mere-accounting-of-spectrum-as-asset-does-not-bring-it-within-ibc-framework-523148)
+- **Published:** Sat, 14 Feb 2026 06:35:58 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Contours of Section 60(5) of the IBC and the Sanctity of the Resolution Plan: Lessons from Gloster Limited v. Gloster Cables Limited – By Adv. Prabhav Pachory](https://ibclaw.in/contours-of-section-605-of-the-ibc-and-the-sanctity-of-the-resolution-plan-lessons-from-gloster-limited-v-gloster-cables-limited-by-adv-prabhav-pachory/)
+- **Published:** Sat, 14 Feb 2026 06:06:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Right to Participate, Not to Control: Role of The Suspended Board in CIRP Proceedings — Can A Suspended Board Seek CIRP Documents? – By Shubhangi Shukla](https://ibclaw.in/right-to-participate-not-to-control-role-of-the-suspended-board-in-cirp-proceedings-can-a-suspended-board-seek-cirp-documents-by-shubhangi-shukla/)
+- **Published:** Sat, 14 Feb 2026 06:07:43 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 8th February, 2026 to 14th February, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-8th-february-2026-to-14th-february-2026/)
+- **Published:** Sat, 14 Feb 2026 06:24:04 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Shri Deep Chandra Joshi to Act as President of NCLT from February 14, 2026](https://ibclaw.in/shri-deep-chandra-joshi-to-act-as-president-of-nclt-from-february-14-2026/)
 - **Published:** Fri, 13 Feb 2026 23:59:29 +0000
