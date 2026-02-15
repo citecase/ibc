@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-14 19:00:50*
+*Last synced: 2026-02-15 19:02:23*
+
+### [NCLT is not powerless to condone the delay beyond 30 days per Rule 15 of the NCLT Rules, 2016 read with Section 421(3) of the Companies Act, 2013 – Rajendra Prasad Jain Vs. Registrar of Companies, Mumbai – NCLAT New Delhi](https://ibclaw.in/rajendra-prasad-jain-vs-registrar-of-companies-mumbai-nclat-new-delhi/)
+- **Published:** Sun, 15 Feb 2026 18:52:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Former District Judge Deep Chandra Joshi To Serve As Acting President Of NCLT](https://www.livelawbiz.com/news-updates/former-district-judge-deep-chandra-joshi-to-act-as-nclt-president-523189)
 - **Published:** Sat, 14 Feb 2026 16:40:51 GMT
