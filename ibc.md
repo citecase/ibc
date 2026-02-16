@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-16 03:25:55*
+*Last synced: 2026-02-16 07:36:52*
+
+### [Failure To Issue Notice Is “Larger Than An Ordinary Procedural Breach”: NCLAT Sets Aside Ex Parte NCLT Order](https://www.livelawbiz.com/nclat/nclat-holds-ex-parte-order-without-notice-breaches-rule-37-sets-aside-nclts-preferential-transaction-ruling-and-remands-matter-523219)
+- **Published:** Mon, 16 Feb 2026 04:04:18 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [A registered sale deed in favour of the Applicant vests title and marketable possession, and the presumption of validity of such deed stands unless rebutted by concrete evidence of fraud – Neha Jain Vs. Chhaya Gupta, RP of JSM Devcons India Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/neha-jain-vs-chhaya-gupta-rp-of-jsm-devcons-india-pvt-ltd-nclt-indore-bench/)
 - **Published:** Sun, 15 Feb 2026 19:16:00 +0000
