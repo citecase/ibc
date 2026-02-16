@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-16 13:46:38*
+*Last synced: 2026-02-16 19:11:37*
+
+### [Operational Creditor Cannot Vote on Its Own Resolution Plan; Such Approval A “Material Irregularity” Under IBC: NCLAT](https://www.livelawbiz.com/nclat/operational-creditor-cannot-vote-on-its-own-resolution-plan-such-approval-a-material-irregularity-under-ibc-nclat-523336)
+- **Published:** Mon, 16 Feb 2026 14:09:33 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [CoC Members Entitled Only To Fair And Liquidation Value, Not Full Valuation Reports: NCLAT Chennai](https://www.livelawbiz.com/nclat/national-company-law-appellate-tribunal-held-coc-members-entitled-to-only-fair-and-liquidation-value-reports-523352)
+- **Published:** Mon, 16 Feb 2026 16:15:22 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Whether the insolvency proceedings can be initiated only on the interest due? – Rajkishore Sukhdeo Mundra Vs. Prashant D Agarwal and Anr. – NCLAT New Delhi](https://ibclaw.in/rajkishore-sukhdeo-mundra-vs-prashant-d-agarwal-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 16 Feb 2026 13:51:14 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Delhi Appoints Two-Member Committee To Monitor Jaypee Infratech Project Progress](https://www.livelawbiz.com/nclt/national-company-law-tribunal-delhi-appoints-expert-committee-to-review-construction-progress-in-jaypee-matter-523300)
 - **Published:** Mon, 16 Feb 2026 10:29:43 GMT
