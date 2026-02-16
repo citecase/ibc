@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-15 19:02:23*
+*Last synced: 2026-02-16 03:25:55*
+
+### [A registered sale deed in favour of the Applicant vests title and marketable possession, and the presumption of validity of such deed stands unless rebutted by concrete evidence of fraud – Neha Jain Vs. Chhaya Gupta, RP of JSM Devcons India Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/neha-jain-vs-chhaya-gupta-rp-of-jsm-devcons-india-pvt-ltd-nclt-indore-bench/)
+- **Published:** Sun, 15 Feb 2026 19:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Only the liquidation value in summary form is to be provided to the members of the CoC and not the full valuation reports – Tamilnad Mercantile Bank Ltd. Vs. Radhakrishnan Dharmarajan – NCLAT Chennai](https://ibclaw.in/tamilnad-mercantile-bank-ltd-vs-radhakrishnan-dharmarajan-nclat-chennai/)
+- **Published:** Sun, 15 Feb 2026 19:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Refiling delay in appeal under Section 61 of IBC is not subject to rigorous scrutiny – J C Flower Asset Reconstruction Pvt. Ltd. Vs. Sanjay Vyas and Anr. – NCLAT New Delhi](https://ibclaw.in/j-c-flower-asset-reconstruction-pvt-ltd-vs-sanjay-vyas-and-anr-nclat-new-delhi/)
+- **Published:** Sun, 15 Feb 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Adjudicating Authority (NCLT) has the power to execute its own orders? – Prakash K. Pandya, Liquidator Varun Corporation Ltd. Vs. Modest and Parsons International Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/prakash-k-pandya-liquidator-varun-corporation-ltd-vs-modest-and-parsons-international-pvt-ltd-nclat-new-delhi/)
+- **Published:** Sun, 15 Feb 2026 19:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Date of NPA is not necessary to be mentioned in the demand notice issued under Section 13(2) of the SARFAESI Act and non-mentioning of the same does not cause any prejudice to the borrower – Regional Manager, IDBI Bank Ltd. and Anr. Vs. Rajiv Ranjan Rao and Ors. – DRAT Allahabad](https://ibclaw.in/regional-manager-idbi-bank-ltd-and-anr-vs-rajiv-ranjan-rao-and-ors-drat-allahabad/)
+- **Published:** Sun, 15 Feb 2026 20:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any order passed by the Presiding Officer under section 19 of the RDB Act cannot be challenged before it under section 30 of the RDB Act | Section 30 is only for the purpose of filing an appeal by a person, who is aggrieved by an order passed by the Recovery Officer and not by the Tribunal (DRT) – Abbu Vs. UCO Bank and Ors. – DRAT Allahabad](https://ibclaw.in/abbu-vs-uco-bank-and-ors-drat-allahabad/)
+- **Published:** Sun, 15 Feb 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the registered shareholder’s name was removed from the register and duplicate share certificates were issued and transferred to a third party without following due procedure, the NCLT is empowered under Section 59 of the Companies Act, 2013 to direct rectification of the register and award damage – Indusind Bank Ltd. and Anr. Vs. Neetu R. Menda – NCLAT New Delhi](https://ibclaw.in/indusind-bank-ltd-and-anr-vs-neetu-r-menda-nclat-new-delhi/)
+- **Published:** Sun, 15 Feb 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether Section 66(1) of the IBC requires proof of intention or mens rea? | Whether directions under Section 66(1) can be issued against third parties (i.e., persons other than directors or partners of the Corporate Debtor)? – Worldwide Online Services Pvt. Ltd. Vs. Nandkishor Vishnupant Deshpande (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/worldwide-online-services-pvt-ltd-vs-nandkishor-vishnupant-deshpande-rp-and-ors-nclat-new-delhi/)
+- **Published:** Sun, 15 Feb 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT is not powerless to condone the delay beyond 30 days per Rule 15 of the NCLT Rules, 2016 read with Section 421(3) of the Companies Act, 2013 – Rajendra Prasad Jain Vs. Registrar of Companies, Mumbai – NCLAT New Delhi](https://ibclaw.in/rajendra-prasad-jain-vs-registrar-of-companies-mumbai-nclat-new-delhi/)
 - **Published:** Sun, 15 Feb 2026 18:52:00 +0000
