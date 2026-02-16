@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-16 07:36:52*
+*Last synced: 2026-02-16 13:46:38*
+
+### [NCLT Delhi Appoints Two-Member Committee To Monitor Jaypee Infratech Project Progress](https://www.livelawbiz.com/nclt/national-company-law-tribunal-delhi-appoints-expert-committee-to-review-construction-progress-in-jaypee-matter-523300)
+- **Published:** Mon, 16 Feb 2026 10:29:43 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Once Arbitral Award Holder Files CIRP Claim, Execution Under Arbitration Law Not Maintainable: Delhi High Court](https://www.livelawbiz.com/ibc/high-court/once-arbitral-award-holder-files-cirp-claim-execution-under-arbitration-law-not-maintainable-delhi-high-court-523303)
+- **Published:** Mon, 16 Feb 2026 10:48:30 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLAT Affirms NCLT New Delhi Order Rejecting Insolvency Plea Against Bajaj Appliances](https://www.livelawbiz.com/nclat/nclat-dismisses-insolvency-plea-against-bajaj-appliances-over-pre-existing-dispute-523321)
+- **Published:** Mon, 16 Feb 2026 12:31:38 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Applications under Section 7 that substantially comply with the prescribed form and disclose all essential ingredients cannot be rejected merely due to any insignificant omission or error | A debt restructuring agreement/ signed Balance Sheet extends the limitation period for filing an application under Section 7 of IBC | Mere pendency of counterclaims or criminal proceedings does not bar admission of the application – B. Prashanth Hegde Vs. State Bank of India and Anr. – Supreme Court](https://ibclaw.in/b-prashanth-hegde-vs-state-bank-of-india-and-anr-supreme-court/)
+- **Published:** Mon, 16 Feb 2026 11:12:16 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC includes only those tangible or intangible assets within the insolvency framework over which the Corporate Debtor has ownership rights, including all rights and interests therein as recorded in the Balance Sheet | Mere recognition of an assets in the Financial Statements is not conclusive of their ownership | Under the IBC framework, spectrum licensing rights is not a part of the pool of assets for insolvency or liquidation | Principles to guide the resolution of inconsistencies between two statutory enactments (overriding effects) – State Bank of India Vs. Union of India and Ors. – Supreme Court](https://ibclaw.in/state-bank-of-india-vs-union-of-india-and-ors-supreme-court/)
+- **Published:** Mon, 16 Feb 2026 13:29:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Spectrum allocated to Telecom Service Providers (TSPs) and shown in their books of account as an asset as per IndAS-38, cannot be subjected to proceedings under Insolvency and Bankruptcy Code, 2016 (IBC): Supreme Court](https://ibclaw.in/spectrum-allocated-to-telecom-service-providers-tsps-and-shown-in-their-books-of-account-as-an-asset-as-per-indas-38-cannot-be-subjected-to-proceedings-under-insolvency-and-bankruptcy-code-2016-i/)
+- **Published:** Mon, 16 Feb 2026 13:36:49 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Failure To Issue Notice Is “Larger Than An Ordinary Procedural Breach”: NCLAT Sets Aside Ex Parte NCLT Order](https://www.livelawbiz.com/nclat/nclat-holds-ex-parte-order-without-notice-breaches-rule-37-sets-aside-nclts-preferential-transaction-ruling-and-remands-matter-523219)
 - **Published:** Mon, 16 Feb 2026 04:04:18 GMT
