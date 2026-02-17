@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-16 19:11:37*
+*Last synced: 2026-02-17 03:20:54*
+
+### [Date of NPA is not necessary to be mentioned in the demand notice | If the Bank publishes the sale notice before expiry of 30 days, the right of redemption of the borrower goes away in view of Section 13(8) of the SARFAESI Act – Gupta Trading Co. and Anr Vs. Bank of India and Ors. – DRAT Allahabad](https://ibclaw.in/gupta-trading-co-and-anr-vs-bank-of-india-and-ors-drat-allahabad/)
+- **Published:** Mon, 16 Feb 2026 20:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Length of delay is not material, if there are sufficient grounds to condone the delay and also that generally, the court should be liberal in condoning the same – Oriental Diesel & Engineering Co. Pvt. Ltd. Vs. Authorized Officer, Bank of Baroda and Anr. – DRAT Allahabad](https://ibclaw.in/oriental-diesel-engineering-co-pvt-ltd-vs-authorized-officer-bank-of-baroda-and-anr-drat-allahabad/)
+- **Published:** Mon, 16 Feb 2026 20:12:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Operational Creditor Cannot Vote on Its Own Resolution Plan; Such Approval A “Material Irregularity” Under IBC: NCLAT](https://www.livelawbiz.com/nclat/operational-creditor-cannot-vote-on-its-own-resolution-plan-such-approval-a-material-irregularity-under-ibc-nclat-523336)
 - **Published:** Mon, 16 Feb 2026 14:09:33 GMT
