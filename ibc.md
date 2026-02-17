@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-17 13:46:22*
+*Last synced: 2026-02-17 19:29:09*
+
+### [Whether when Corporate Debtor’s all pre-CIRP liabilities get extinguished then SRA should also not be entitled to claim or recover any amount pertaining to pre-CIRP period for which third party recovery notice issued by the Department was existing before the initiation of moratorium? – Dolphin Offshore Enterprises (India) Ltd. Vs. Oil and Natural Gas Corporation Ltd. and Anr. – NCLT Mumbai Bench](https://ibclaw.in/dolphin-offshore-enterprises-india-ltd-vs-oil-and-natural-gas-corporation-ltd-and-anr-nclt-mumbai-bench/)
+- **Published:** Tue, 17 Feb 2026 18:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Applicant’s claim, based on payments made to a third party and not to the Corporate Debtor, does not constitute a “financial debt” under Section 5(8) of the IBC – Wescon Housing India Pvt. Ltd. Vs. Pankaj Ramdas Majithia, RP of E Commerce Magnum Solution Ltd. and Anr. – NCLT Mumbai Bench](https://ibclaw.in/wescon-housing-india-pvt-ltd-vs-pankaj-ramdas-majithia-rp-of-e-commerce-magnum-solution-ltd-and-anr-nclt-mumbai-bench/)
+- **Published:** Tue, 17 Feb 2026 19:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Sets Aside Insolvency Process Against HNGIL Guarantor, Says Compromise Didn't Waive Guarantee Invocation](https://www.livelawbiz.com/nclat/nclat-sets-aside-insolvency-against-hngil-guarantor-says-compromise-didnt-waive-guarantee-invocation-523492)
 - **Published:** Tue, 17 Feb 2026 12:13:08 GMT
