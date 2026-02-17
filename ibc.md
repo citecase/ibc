@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-17 07:32:49*
+*Last synced: 2026-02-17 13:46:22*
+
+### [NCLAT Sets Aside Insolvency Process Against HNGIL Guarantor, Says Compromise Didn't Waive Guarantee Invocation](https://www.livelawbiz.com/nclat/nclat-sets-aside-insolvency-against-hngil-guarantor-says-compromise-didnt-waive-guarantee-invocation-523492)
+- **Published:** Tue, 17 Feb 2026 12:13:08 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT Mumbai Says Mumbai, Delhi Airport Operators Are Unsecured Creditors In Jet Airways Liquidation](https://www.livelawbiz.com/nclt/nclt-mumbai-says-mumbai-delhi-airport-operators-are-unsecured-creditors-in-jet-airways-liquidation-523502)
+- **Published:** Tue, 17 Feb 2026 13:20:08 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Limitation For IBC Appeal Runs From Pronouncement Date, Not Knowledge: NCLAT Dismisses CIRP Appeal](https://www.livelawbiz.com/nclat/limitation-for-ibc-appeal-runs-from-pronouncement-date-not-knowledge-nclat-dismisses-cirp-appeal-523506)
+- **Published:** Tue, 17 Feb 2026 13:44:49 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Municipal dues are treated as Operational Debts | Contractual clauses like ‘as is where is’ and ‘whatever there is’ cannot elevate or preserve a municipal charge which stands subordinated or extinguished under sections 53 and 238 IBC | Any priority, charge or recovery mechanism provided under the municipal legislation stands overridden by virtue of Section 238 of the IBC | Clean slate doctrine in liquidation does not flow from section 31 of IBC, it must be derived differently – Mamta Binani and Anr. Vs. Kolkata Municipal Corporation and Ors. – Calcutta High Court](https://ibclaw.in/mamta-binani-and-anr-vs-kolkata-municipal-corporation-and-ors-calcutta-high-court/)
+- **Published:** Tue, 17 Feb 2026 08:08:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Municipal dues are treated as Operational Debts and contractual clauses such as ‘as is where is’ do not override the statutory scheme of the IBC: Calcutta High Court](https://ibclaw.in/municipal-dues-are-treated-as-operational-debts-and-contractual-clauses-such-as-as-is-where-is-do-not-override-the-statutory-scheme-of-the-ibc-calcutta-high-court/)
+- **Published:** Tue, 17 Feb 2026 08:16:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Encore Asset Reconstruction Company Pvt. Ltd. Vs. Pandhe Constructions Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/encore-asset-reconstruction-company-pvt-ltd-vs-pandhe-constructions-pvt-ltd-nclat-new-delhi/)
+- **Published:** Tue, 17 Feb 2026 12:18:50 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Bank's No Dues Certificate Not Determinative At CIRP Admission: NCLT Jaipur](https://www.livelawbiz.com/nclt/banks-no-dues-certificate-not-determinative-at-cirp-admission-nclt-jaipur-admits-prayag-polytechnic-into-insolvency-523376)
 - **Published:** Tue, 17 Feb 2026 04:25:05 GMT
