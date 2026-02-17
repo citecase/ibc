@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-17 03:20:54*
+*Last synced: 2026-02-17 07:32:49*
+
+### [Bank's No Dues Certificate Not Determinative At CIRP Admission: NCLT Jaipur](https://www.livelawbiz.com/nclt/banks-no-dues-certificate-not-determinative-at-cirp-admission-nclt-jaipur-admits-prayag-polytechnic-into-insolvency-523376)
+- **Published:** Tue, 17 Feb 2026 04:25:05 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [IBBI Discussion Paper on strengthening CoC’s oversight and procedural clarity under the CIRP Regulations, 2016](https://ibclaw.in/discussion-paper-on-strengthening-cocs-oversight-and-procedural-clarity-under-thecirp-regulations-2016/)
+- **Published:** Tue, 17 Feb 2026 05:32:39 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Date of NPA is not necessary to be mentioned in the demand notice | If the Bank publishes the sale notice before expiry of 30 days, the right of redemption of the borrower goes away in view of Section 13(8) of the SARFAESI Act – Gupta Trading Co. and Anr Vs. Bank of India and Ors. – DRAT Allahabad](https://ibclaw.in/gupta-trading-co-and-anr-vs-bank-of-india-and-ors-drat-allahabad/)
 - **Published:** Mon, 16 Feb 2026 20:10:00 +0000
