@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-17 19:29:09*
+*Last synced: 2026-02-18 03:24:06*
+
+### [Once a person has rendered his services, he is entitled to receive his remuneration as a matter of right, and any dispute among the promoters or the management or any insufficiency of funds cannot be considered a sufficient cause to deprive such person of his lawful entitlement – Shawn Jeff Christopher Vs. Vasu Jayaprakash and Ors. – NCLT Kochi Bench](https://ibclaw.in/shawn-jeff-christopher-vs-vasu-jayaprakash-and-ors-nclt-kochi-bench/)
+- **Published:** Tue, 17 Feb 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a Resolution Plan is approved by the Committee of Creditors (CoC), the CIRP reaches a stage of finality, subject only to approval by the Adjudicating Authority | At such an advanced stage, no fresh or belated claims can be permitted to be introduced – Assistant Commissioner of Central Tax and Central Excise Vs. C.S. Ramachandran and Anr. – NCLT Kochi Bench](https://ibclaw.in/assistant-commissioner-of-central-tax-and-central-excise-vs-c-s-ramachandran-and-anr-nclt-kochi-bench/)
+- **Published:** Tue, 17 Feb 2026 20:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Attachment order passed by Kerala State Consumer Disputes Redressal Commission during moratorium under Section 14 of IBC is legally unenforceable and the Adjudicating Authority (NCLT) lacks jurisdiction to directly quash or set aside the said attachment | Extinguishment of claims under Section 31 of IBC does not automatically result in the quashing or lifting of an attachment order passed by a statutory forum, which can be addressed only before the competent forum or through the statutory appellate mechanism – Buildwell and Anr. Vs. Joseph Velivil and Anr. – NCLT Kochi Bench](https://ibclaw.in/buildwell-and-anr-vs-joseph-velivil-and-anr-nclt-kochi-bench/)
+- **Published:** Tue, 17 Feb 2026 20:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [On maintainability prior withdrawal without liberty does not bar fresh petition on settlement breach – Rameshbhai Amthabhai Desai and Anr. Vs. Keya Buildtech LLP – NCLT Ahmedabad Bench](https://ibclaw.in/rameshbhai-amthabhai-desai-and-anr-vs-keya-buildtech-llp-nclt-ahmedabad-bench/)
+- **Published:** Tue, 17 Feb 2026 20:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Professional cannot refuse substitution of a Financial Creditor on the ground that the resolution plan has been approved by the CoC and pending before the Adjudicating Authority – Authum Investment and Infrastructure Ltd. Vs. Swapnil Jain, RP for Bengal Emta Coal Mines Ltd. – NCLT Kolkata Bench](https://ibclaw.in/authum-investment-and-infrastructure-ltd-vs-swapnil-jain-rp-for-bengal-emta-coal-mines-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 17 Feb 2026 21:48:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether when Corporate Debtor’s all pre-CIRP liabilities get extinguished then SRA should also not be entitled to claim or recover any amount pertaining to pre-CIRP period for which third party recovery notice issued by the Department was existing before the initiation of moratorium? – Dolphin Offshore Enterprises (India) Ltd. Vs. Oil and Natural Gas Corporation Ltd. and Anr. – NCLT Mumbai Bench](https://ibclaw.in/dolphin-offshore-enterprises-india-ltd-vs-oil-and-natural-gas-corporation-ltd-and-anr-nclt-mumbai-bench/)
 - **Published:** Tue, 17 Feb 2026 18:56:00 +0000
