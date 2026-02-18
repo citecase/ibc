@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-18 03:24:06*
+*Last synced: 2026-02-18 07:33:48*
+
+### [Contractual Clauses Like ‘As Is Where Is’ and ‘Whatever There Is’ Can’t Preserve Municipal Charge Which Stands Extinguished U/S.53 & 238 Of IBC: Calcutta High Court](https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/mamta-binani-anr-vs-kolkata-municipal-corporation-contractual-clauses-like-as-is-where-is-and-whatever-there-is-cant-preserve-municipal-charge-which-stands-extinguished-us53-238-of-ibc-calcutta-high-court-1607871)
+- **Published:** Wed, 18 Feb 2026 07:00:36 GMT
+- **Source:** https://verdictum.in/feed
+
+### [There is no concept of either Phase wise insolvency in a Project or Tower wise Insolvency – Shri Anup Tripathi and Ors. Vs. Nandhini Hotels Pvt. Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/shri-anup-tripathi-and-ors-vs-nandhini-hotels-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Tue, 17 Feb 2026 20:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Withdrawal under Section 12A of the IBC, though permissible, is not a matter of right, and the Adjudicating Authority (NCLT) is required to ensure that the insolvency forum is not reduced to a tool for coercive recovery – Primus Insolvency Resolution & Valuation Pvt. Ltd. IRP of Vittal Cashew Industries Pvt. Ltd. – NCLT Kochi Bench](https://ibclaw.in/primus-insolvency-resolution-valuation-pvt-ltd-irp-of-vittal-cashew-industries-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Tue, 17 Feb 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interim moratorium under Section 96 or Section 124 of the IBC does not bar continuation of proceedings under Section 66 | NCLT is empowered to examine allegations of fraud, including fraudulent trading under Section 66 of the IBC | Proceedings under Section 66 do not partake the character of debt recovery proceedings – Shreenathji Rasayan Pvt. Ltd. Vs. Shrenik Ashokkumar Morakhia and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/shreenathji-rasayan-pvt-ltd-vs-shrenik-ashokkumar-morakhia-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 17 Feb 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Three requirements pertaining to amendment to an application under Section 7 of the IBC are the amendment must be necessary for the effective adjudication of the matter; the amendment should not cause any prejudice to the Respondent; and the amendment should not result in the setting up of a new case – Saraswat Co-op. Bank Ltd. Vs. AAACORP EXIM India Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/saraswat-co-op-bank-ltd-vs-aaacorp-exim-india-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 17 Feb 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Invocation, Guarantee and Claims: The Legal Status of Claims arising out of Uninvoked Guarantee Agreements under IBC – By  Adv. Adarsh Subramanian, Adv. Mohit Kumar & Adv. Hasthisha Desikan, AK Law Chambers](https://ibclaw.in/invocation-guarantee-and-claims-the-legal-status-of-claims-arising-out-of-uninvoked-guarantee-agreements-under-ibc-by-adv-adarsh-subramanian-adv-mohit-kumar-adv-hasthisha-desikan-ak-la/)
+- **Published:** Wed, 18 Feb 2026 05:27:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Once a person has rendered his services, he is entitled to receive his remuneration as a matter of right, and any dispute among the promoters or the management or any insufficiency of funds cannot be considered a sufficient cause to deprive such person of his lawful entitlement – Shawn Jeff Christopher Vs. Vasu Jayaprakash and Ors. – NCLT Kochi Bench](https://ibclaw.in/shawn-jeff-christopher-vs-vasu-jayaprakash-and-ors-nclt-kochi-bench/)
 - **Published:** Tue, 17 Feb 2026 19:38:00 +0000
