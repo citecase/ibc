@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-18 13:48:30*
+*Last synced: 2026-02-18 19:29:29*
+
+### [NCLT Mumbai Admits Insolvency Plea Against Reliance Ornatus Over ₹133.88 Crore Default](https://www.livelawbiz.com/nclt/nclt-mumbai-admits-creative-ashtechs-insolvency-plea-against-roevpl-ventures-over-default-of-133-crore-523697)
+- **Published:** Wed, 18 Feb 2026 14:03:34 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLAT Says COVID Limitation Ruling Not Properly Considered In Encore ARC's CIRP Against Pandhe Constructions](https://www.livelawbiz.com/nclat/nclt-misread-covid-limitation-exclusion-nclat-sets-aside-order-remands-encore-arcs-section-7-petition-523722)
+- **Published:** Wed, 18 Feb 2026 16:19:08 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Adjudicating Authority (NCLT) is not required to go into the inability of a corporate debtor to pay its debt | IBC restricts the scope of enquiry for admission of an insolvency process by a financial creditor merely to the existence of default of a debt due and payable and nothing more – Power Trust (Promoter of Hiranmaye Energy Ltd.) Vs. Bhuvan Madan, IRP of Hiranmaye Energy Ltd. and Ors. – Supreme Court](https://ibclaw.in/power-trust-promoter-of-hiranmaye-energy-ltd-vs-bhuvan-madan-irp-of-hiranmaye-energy-ltd-and-ors-supreme-court/)
+- **Published:** Wed, 18 Feb 2026 15:19:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court: Scope of NCLT at Insolvency admission stage: Limited to existence of Default of a Debt Due and Payable, and Nothing More](https://ibclaw.in/supreme-court-scope-of-nclt-at-insolvency-admission-stage-limited-to-existence-of-default-of-a-debt-due-and-payable-and-nothing-more/)
+- **Published:** Wed, 18 Feb 2026 15:32:46 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Power Trust v. Bhuvan Madan 2026 INSC 166  -IBC - Financial Creditor - CIRP](https://www.caseciter.com/2026insc166/)
 - **Published:** Wed, 18 Feb 2026 13:15:22 GMT
