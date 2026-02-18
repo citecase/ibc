@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-18 07:33:48*
+*Last synced: 2026-02-18 13:48:30*
+
+### [Power Trust v. Bhuvan Madan 2026 INSC 166  -IBC - Financial Creditor - CIRP](https://www.caseciter.com/2026insc166/)
+- **Published:** Wed, 18 Feb 2026 13:15:22 GMT
+- **Source:** https://caseciter.com/rss
+
+### [NCLT Ahmedabad Refuses Travel Relief To Personal Guarantor With ₹2717 Crore Liability](https://www.livelawbiz.com/nclt/nclt-ahmedabad-rejects-travel-plea-personal-guarantor-2717-crore-liability-bankruptcy-523647)
+- **Published:** Wed, 18 Feb 2026 09:32:04 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Authorisation, Stamping, and IU Defects Cannot Block Insolvency Petition: NCLAT Delhi](https://www.livelawbiz.com/nclat/authorization-defect-and-technical-objections-on-iu-record-stamping-not-fatal-nclat-upholds-nclt-order-admitting-cirp-of-dee-plone-polyster-523650)
+- **Published:** Wed, 18 Feb 2026 09:48:30 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [NCLT President Submits Enquiry Report After NCLAT Calls Chennai Bench Order “Rather Dubious”](https://www.livelawbiz.com/news-updates/national-company-law-tribunal-president-submits-report-clarifying-concerns-raised-by-nclat-523675)
+- **Published:** Wed, 18 Feb 2026 11:15:26 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Municipal Dues Cannot Be Recovered From Auction Purchaser After IBC Liquidation: Calcutta High Court](https://www.livelawbiz.com/ibc/high-court/municipal-dues-cannot-be-recovered-from-auction-purchaser-after-ibc-liquidation-calcutta-high-court-523694)
+- **Published:** Wed, 18 Feb 2026 13:07:27 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [Resolution Professional Cannot Seek Removal Of Statutory Lien Created Before CIRP: NCLT Mumbai](https://www.livelawbiz.com/nclt/resolution-professional-cannot-seek-removal-of-statutory-lien-created-before-cirp-nclt-mumbai-523695)
+- **Published:** Wed, 18 Feb 2026 13:12:14 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### [While NCLT does not adjudicate upon criminal liability or attachment under the PMLA, it must also ensure that its orders do not render PMLA proceedings nugatory | Moratorium under Section 14 and the overriding effect under Section 238 of the IBC do not grant a license to launder proceeds of crime or to reclaim attached assets through insolvency proceedings – Directorate of Enforcement Through its Deputy Director Vs. Alchemist Ltd. – NCLT New Delhi Bench](https://ibclaw.in/directorate-of-enforcement-through-its-deputy-director-vs-alchemist-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 18 Feb 2026 13:04:16 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [On an application filed by the ED, the NCLT invoked its powers under Section 65 of the Code suo motu and terminated the CIRP of Alchemist Ltd.](https://ibclaw.in/on-an-application-filed-by-the-ed-the-nclt-invoked-its-powers-under-section-65-of-the-code-suo-motu-and-terminated-the-cirp-of-alchemist-ltd/)
+- **Published:** Wed, 18 Feb 2026 13:46:19 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Contractual Clauses Like ‘As Is Where Is’ and ‘Whatever There Is’ Can’t Preserve Municipal Charge Which Stands Extinguished U/S.53 & 238 Of IBC: Calcutta High Court](https://www.verdictum.in/court-updates/high-courts/calcutta-high-court/mamta-binani-anr-vs-kolkata-municipal-corporation-contractual-clauses-like-as-is-where-is-and-whatever-there-is-cant-preserve-municipal-charge-which-stands-extinguished-us53-238-of-ibc-calcutta-high-court-1607871)
 - **Published:** Wed, 18 Feb 2026 07:00:36 GMT
