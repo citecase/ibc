@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-19 07:33:09*
+*Last synced: 2026-02-19 13:49:08*
+
+### [IBC| Scope Of Inquiry At CIRP Admission Stage Limited To Existence Of Default Of A Debt Due And Payable And Nothing More: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/power-trust-v-bhuvan-madan-2026insc166-cirp-adjudicating-authority-insolvency-resolution-section-7-1608009)
+- **Published:** Thu, 19 Feb 2026 09:30:46 GMT
+- **Source:** https://verdictum.in/feed
+
+### [S. 7 IBC | Corporate Debtor's Inability To Pay Not Relevant For CIRP Plea Admission: Supreme Court](https://www.livelawbiz.com/supreme-court/section-7-ibc-supreme-court-corporate-debtors-inability-to-pay-not-relevant-for-cirp-plea-admission-523793)
+- **Published:** Thu, 19 Feb 2026 09:10:01 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
+
+### ['Not an Ordinary Business Transaction': NCLAT Upholds Order Treating ₹19.66 Lakh Paid To Director As Preferential](https://www.livelawbiz.com/nclat/not-an-ordinary-business-transaction-nclat-upholds-order-treating-1966-lakh-paid-to-director-as-preferential-523837)
+- **Published:** Thu, 19 Feb 2026 13:26:49 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [Thin line between contractual dispute and IBC](https://www.barandbench.com/view-point/thin-line-between-contractual-dispute-and-ibc)
 - **Published:** Thu, 19 Feb 2026 08:46:09 +0530
