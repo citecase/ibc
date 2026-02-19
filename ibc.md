@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-19 13:49:08*
+*Last synced: 2026-02-19 19:23:56*
+
+### [Under Section 53 of the Real Estate (Regulation and Development) Act, 2016, the Tribunal is vested with the powers of a Civil Court, including those relating to the trial of offences of perjury and contempt – Alpha Corp. Development Pvt. Ltd. Vs. Haryana Real Estate Regulatory Authority – Haryana REAT](https://ibclaw.in/alpha-corp-development-pvt-ltd-vs-haryana-real-estate-regulatory-authority-haryana-reat/)
+- **Published:** Thu, 19 Feb 2026 19:17:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC| Scope Of Inquiry At CIRP Admission Stage Limited To Existence Of Default Of A Debt Due And Payable And Nothing More: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/power-trust-v-bhuvan-madan-2026insc166-cirp-adjudicating-authority-insolvency-resolution-section-7-1608009)
 - **Published:** Thu, 19 Feb 2026 09:30:46 GMT
