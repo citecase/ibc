@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-18 19:29:29*
+*Last synced: 2026-02-19 03:22:47*
+
+### [The IBC does not bar initiation of CIRP merely because the debt arises out of a commercial contract – OPG Power Generation Pvt. Ltd. Vs. AKMG Alloys Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/opg-power-generation-pvt-ltd-vs-akmg-alloys-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Wed, 18 Feb 2026 19:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT rejects Fast Track CIRP application that most of the alleged operational debts were owed to related parties and pertained to transactions beyond the period of limitation and the assets of the company were insufficient even to meet the minimum fee of the Resolution Professional – Hill and Smith Infrastructure Products India Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/hill-and-smith-infrastructure-products-india-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 18 Feb 2026 20:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Plan once approved and implemented cannot be amended | Statutory authorities may assess or quantify tax dues, but cannot enforce recovery in derogation of an approved Resolution Plan – Maxim Infrastructure and Real Estate Pvt. Ltd. Vs. Office of Superintendent of Taxes, Circle-II, Shillong Meghalaya – NCLT Guwahati Bench](https://ibclaw.in/maxim-infrastructure-and-real-estate-pvt-ltd-vs-office-of-superintendent-of-taxes-circle-ii-shillong-meghalaya-nclt-guwahati-bench/)
+- **Published:** Wed, 18 Feb 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Claims barred by limitation cannot be admitted by the Resolution Professional under the IBC – Commissioner, Commercial Taxes, West Bengal Vs. Nishant Gaurav Gupta, IRP of Suvidha Parklift Ltd. – NCLT New Delhi Bench](https://ibclaw.in/commissioner-commercial-taxes-west-bengal-vs-nishant-gaurav-gupta-irp-of-suvidha-parklift-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 18 Feb 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Power of recall is not intended to afford a litigant a second opportunity to improve its case by producing additional material which admittedly was not part of the record when the original order was passed | A mistake warranting recall must be apparent on the face of the record and attributable to an error of the Tribunal, and not to the failure of a party to place relevant material before the Tribunal – Colliers International (India) Property Services Pvt. Ltd. Vs. SAS iTower Pvt. Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/colliers-international-india-property-services-pvt-ltd-vs-sas-itower-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Wed, 18 Feb 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where, the liquidator is unable to establish the case under section 66 of IBC then, in such circumstances, the statutory presumption as set out in the Explanation, operates in favor of the partner or director and the application under section 66 of the IBC, against such persons ought to be dismissed, on account of such statutory presumption – Nithiyanantham Ramachandran, Liquidator of Srivatsa International Pvt. Ltd. Vs. Shri. K. Boothalingam and Ors. – NCLT Chennai Bench](https://ibclaw.in/nithiyanantham-ramachandran-liquidator-of-srivatsa-international-pvt-ltd-vs-shri-k-boothalingam-and-ors-nclt-chennai-bench/)
+- **Published:** Wed, 18 Feb 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under the IBC that the onus lies on the claimant to establish its claim, and where the claim is not borne out from the Corporate Debtor’s records, the Liquidator has no option but to reject the same – All’S Constructions Vs. Anil Kumar Khicha – NCLT Chennai Bench](https://ibclaw.in/alls-constructions-vs-anil-kumar-khicha-nclt-chennai-bench/)
+- **Published:** Wed, 18 Feb 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Homebuyers/ Allottees have locus standi to file an application under Section 65 of the IBC, 2016, seeking dismissal of a Section 7 petition filed by a Debenture Trustee | Mere non-issue of NOC cannot, by itself, render a petition filed under Section 7 of IBC as malicious as the rights of the parties remain protected under the CIRP – Hemant Yadav and Ors. Vs. IDBI Trusteeship Services Ltd. and Anr. – NCLT Chandigarh Bench](https://ibclaw.in/hemant-yadav-and-ors-vs-idbi-trusteeship-services-ltd-and-anr-nclt-chandigarh-bench/)
+- **Published:** Wed, 18 Feb 2026 22:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Admits Insolvency Plea Against Reliance Ornatus Over ₹133.88 Crore Default](https://www.livelawbiz.com/nclt/nclt-mumbai-admits-creative-ashtechs-insolvency-plea-against-roevpl-ventures-over-default-of-133-crore-523697)
 - **Published:** Wed, 18 Feb 2026 14:03:34 GMT
