@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-19 03:22:47*
+*Last synced: 2026-02-19 07:33:09*
+
+### [Thin line between contractual dispute and IBC](https://www.barandbench.com/view-point/thin-line-between-contractual-dispute-and-ibc)
+- **Published:** Thu, 19 Feb 2026 08:46:09 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Active DIN Status Not Sufficient To Establish Eligibility To Submit Resolution Plan Under IBC: NCLT Indore](https://www.livelawbiz.com/nclt/active-din-mca-portal-section-29a-eligibility-nclt-indore-gei-power-promoter-resolution-plan-523741)
+- **Published:** Thu, 19 Feb 2026 04:19:12 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [The IBC does not bar initiation of CIRP merely because the debt arises out of a commercial contract – OPG Power Generation Pvt. Ltd. Vs. AKMG Alloys Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/opg-power-generation-pvt-ltd-vs-akmg-alloys-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Wed, 18 Feb 2026 19:46:00 +0000
