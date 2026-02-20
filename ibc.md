@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-20 03:17:35*
+*Last synced: 2026-02-20 07:30:53*
+
+### [NCLT Chennai Dismisses Liquidator's Plea, Says Director's Mortgage Of Personal Property To Bank Not Fraudulent](https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-dismisses-application-of-liquidator-alleging-fraud-over-mortgage-by-company-523878)
+- **Published:** Fri, 20 Feb 2026 04:24:46 GMT
+- **Source:** https://www.livelawbiz.com/ibc/feed
 
 ### [There is no power vested with the Tribunal to condone the delay occurred in filing the appeal under Section 30 of the Recovery of Debts and Bankruptcy Act, 1993 – Anil Properties Vs. Union Bank of India and Ors. – DRAT Allahabad](https://ibclaw.in/anil-properties-vs-union-bank-of-india-and-ors-drat-allahabad/)
 - **Published:** Thu, 19 Feb 2026 20:08:00 +0000
