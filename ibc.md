@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-19 19:23:56*
+*Last synced: 2026-02-20 03:17:35*
+
+### [There is no power vested with the Tribunal to condone the delay occurred in filing the appeal under Section 30 of the Recovery of Debts and Bankruptcy Act, 1993 – Anil Properties Vs. Union Bank of India and Ors. – DRAT Allahabad](https://ibclaw.in/anil-properties-vs-union-bank-of-india-and-ors-drat-allahabad/)
+- **Published:** Thu, 19 Feb 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Committee of Creditors (CoC) has the authority under the IBC, 2016 to replace the Resolution Professional (RP) by requisite majority, without this Tribunal going into the merits of such decision? – CoC of NCS Sugars Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/coc-of-ncs-sugars-ltd-nclt-hyderabad-bench/)
+- **Published:** Thu, 19 Feb 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under Rule 9(4) of Security Interest (Enforcement) Rules, 2002, extension of time for deposit of the balance 75% of the bid amount is discretionary and not mandatory | Bank is not bound to grant further extension beyond the first extension already granted – Punjab National Bank Vs. Birendra Kachhap – DRAT Allahabad](https://ibclaw.in/punjab-national-bank-vs-birendra-kachhap-drat-allahabad/)
+- **Published:** Thu, 19 Feb 2026 20:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Time of 30 days under Section of 19(5)(i) of the Recovery of Debts and Bankruptcy Act, 1993 is mandatory for filing the written statement which can only be extended 15 days – Lampex Electronics Ltd. and Anr. Vs. State Bank of India and Ors. – DRAT Kolkata](https://ibclaw.in/lampex-electronics-ltd-and-anr-vs-state-bank-of-india-and-ors-drat-kolkata/)
+- **Published:** Thu, 19 Feb 2026 21:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Liquidator is duty-bound to pay the PF dues of the Corporate Debtor in priority over other creditors, outside the Waterfall Mechanism under Section 53 of the IBC, 2016, by virtue of their exclusion from the liquidation estate under Section 36(4)(a)(iii), notwithstanding the current absence of realizable assets – Employees Provident Fund Organization, Indore Vs. Ishwar Lal Kalantri, Liquidator of Sagar Automobiles Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/employees-provident-fund-organization-indore-vs-ishwar-lal-kalantri-liquidator-of-sagar-automobiles-pvt-ltd-nclt-indore-bench/)
+- **Published:** Thu, 19 Feb 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Company Petition filed under Sections 241 and 242 of the Companies Act, 2013 is maintainable, when winding up of the Company is pleaded as the principal or substantive relief, and not merely as an alternative relief contemplated under Section 242(1)(b)? – Sri Veera Bhoga Vasanta Rayalu Sabbavarapu and Anr. Vs. Sunray Green Space Pvt. Ltd. and Ors. – NCLT Amaravati Bench](https://ibclaw.in/sri-veera-bhoga-vasanta-rayalu-sabbavarapu-and-anr-vs-sunray-green-space-pvt-ltd-and-ors-nclt-amaravati-bench-2/)
+- **Published:** Thu, 19 Feb 2026 21:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [As per definition of allottees under Section 2(d) of the RERA Act, 2016, there is no distinction between investors and allottees – Govind Kripa Infratech Pvt.Ltd. Vs. Sanjeev Sharda HUF – Rajasthan REAT](https://ibclaw.in/govind-kripa-infratech-pvt-ltd-vs-sanjeev-sharda-huf-rajasthan-reat/)
+- **Published:** Thu, 19 Feb 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any auction process lacking transparency, adequate notice, or a fair opportunity to bidders is liable to be interdicted, as value maximisation cannot be achieved through a procedurally flawed sale – State Bank of India Vs. IND TOB International Pvt. Ltd. – NCLT Amaravati Bench](https://ibclaw.in/state-bank-of-india-vs-ind-tob-international-pvt-ltd-nclt-amaravati-bench/)
+- **Published:** Thu, 19 Feb 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere issuance of an allotment letter cannot create a financial debt under Section 5(8) of IBC where the underlying requirement of disbursement is absent – Manish Rameshchandra Pethani Vs. Pankaj Ramdas Majithia, RP of E Commerce Magnum Solution Ltd. – NCLT Mumbai Bench](https://ibclaw.in/manish-rameshchandra-pethani-vs-pankaj-ramdas-majithia-rp-of-e-commerce-magnum-solution-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 19 Feb 2026 21:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Exclusion of provident fund dues from liquidation estate under Section 36(4) of IBC does not entitle immediate remittance or enforcement during CIRP in absence of an admitted claim | There is no obligation on the Resolution Professional to furnish statutory records to EPFO outside the claim verification framework – Regional Provident Fund Commissioner (Legal) Vs. Dunlop Polymer Pvt. Ltd. and Anr. – NCLT Bengaluru Bench](https://ibclaw.in/regional-provident-fund-commissioner-legal-vs-dunlop-polymer-pvt-ltd-and-anr-nclt-bengaluru-bench/)
+- **Published:** Thu, 19 Feb 2026 21:42:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Under Section 53 of the Real Estate (Regulation and Development) Act, 2016, the Tribunal is vested with the powers of a Civil Court, including those relating to the trial of offences of perjury and contempt – Alpha Corp. Development Pvt. Ltd. Vs. Haryana Real Estate Regulatory Authority – Haryana REAT](https://ibclaw.in/alpha-corp-development-pvt-ltd-vs-haryana-real-estate-regulatory-authority-haryana-reat/)
 - **Published:** Thu, 19 Feb 2026 19:17:00 +0000
