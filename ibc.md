@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-20 07:30:53*
+*Last synced: 2026-02-20 13:41:09*
+
+### [IBC cannot be the guiding principle for restructuring the ownership and control of spectrum – By Pooja Mahajan, Savar Mahajan and Srivatsav Reddy Beerapalli, Chandhiok & Mahajan, Advocates and Solicitors](https://ibclaw.in/ibc-cannot-be-the-guiding-principle-for-restructuring-the-ownership-and-control-of-spectrum-by-pooja-mahajan-srivatsav-reddy-beerapalli-savar-mahajan-chandhiok-mahajan-advocates-and-s/)
+- **Published:** Fri, 20 Feb 2026 11:07:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Chennai Dismisses Liquidator's Plea, Says Director's Mortgage Of Personal Property To Bank Not Fraudulent](https://www.livelawbiz.com/nclt/national-company-law-tribunal-chennai-dismisses-application-of-liquidator-alleging-fraud-over-mortgage-by-company-523878)
 - **Published:** Fri, 20 Feb 2026 04:24:46 GMT
