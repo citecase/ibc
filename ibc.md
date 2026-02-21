@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-20 13:41:09*
+*Last synced: 2026-02-21 03:08:44*
+
+### [Where the promoter, after obtaining the Occupancy/Completion Certificate, failed to offer possession in accordance with the statutory mandate and raised a defective demand notice without incorporating the delay interest payable to the allottee, the promoter is liable to pay interest to the allottee for the delayed period till the date of handing over physical possession in habitable condition – Shalimar Corp. Ltd. Vs. Mr. Rizwan Ahmad and Anr. – Uttar Pradesh REAT](https://ibclaw.in/shalimar-corp-ltd-vs-mr-rizwan-ahmad-and-anr-uttar-pradesh-reat/)
+- **Published:** Fri, 20 Feb 2026 19:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [If an exemption under Section 31(i) of the SARFAESI Act, 2002 is claimed, the party claiming, must establish that the lands are agricultural lands and agricultural operations were carried out at the time of creation of mortgage and continuously carried out till filing of the Securitisation Application | Mere omission to mention the date of classification of account as NPA in the Demand Notice, SARFAESI measures cannot be undone – Satyam Educational Trust and Ors. Vs. Authorised Officer, Bank of Maharashtra – DRAT Chennai](https://ibclaw.in/satyam-educational-trust-and-ors-vs-authorised-officer-bank-of-maharashtra-drat-chennai/)
+- **Published:** Fri, 20 Feb 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Liquidator is required to keep the provident fund and gratuity fund separately and cannot be part of the liquidation estate – Shreedhar Sharma Vs. Rajesh Jhunjhunwala, Liquidator of Siddharth Tubes Ltd. – NCLT Indore Bench](https://ibclaw.in/shreedhar-sharma-vs-rajesh-jhunjhunwala-liquidator-of-siddharth-tubes-ltd-nclt-indore-bench/)
+- **Published:** Fri, 20 Feb 2026 20:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether allottee is entitled to delay interest till the date of physical possession of the unit, and/or, till the date of obtaining the Occupancy/Completion certificate (OC/CC) of the project/unit? – Rizwan Ahmad and Anr. Vs. Shalimar Corp. Ltd. – Uttar Pradesh REAT](https://ibclaw.in/rizwan-ahmad-and-anr-vs-shalimar-corp-ltd-uttar-pradesh-reat/)
+- **Published:** Fri, 20 Feb 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Penalty imposed by the REAR Authority must aim at deterring non-compliance and ensuring adherence to the provisions of the statute but at the same time, its quantum must not violate of principles of fairness and justice in ensuring compliance of the provisions of the statute – Hiptage Infrastructure Pvt. Ltd. Vs. RERA for NCT of Delhi and Anr. – NCT of Delhi REAT](https://ibclaw.in/hiptage-infrastructure-pvt-ltd-vs-rera-for-nct-of-delhi-and-anr-nct-of-delhi-reat-2/)
+- **Published:** Fri, 20 Feb 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC cannot be the guiding principle for restructuring the ownership and control of spectrum – By Pooja Mahajan, Savar Mahajan and Srivatsav Reddy Beerapalli, Chandhiok & Mahajan, Advocates and Solicitors](https://ibclaw.in/ibc-cannot-be-the-guiding-principle-for-restructuring-the-ownership-and-control-of-spectrum-by-pooja-mahajan-srivatsav-reddy-beerapalli-savar-mahajan-chandhiok-mahajan-advocates-and-s/)
 - **Published:** Fri, 20 Feb 2026 11:07:08 +0000
