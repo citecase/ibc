@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-21 03:08:44*
+*Last synced: 2026-02-21 07:08:03*
+
+### [Since the merits of the proposed amendment cannot be examined while considering the amendment application, the Authority needs to have liberal attitude towards rectification of pleadings | There is no legal impediment in altering the date of default by the Petitioner, by way of amendment if it is relevant and aimed at effective and complete adjudication of the matter – Spray Engineering Devices Ltd. Vs. Vishwaraj Sugar Industries Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/spray-engineering-devices-ltd-vs-vishwaraj-sugar-industries-ltd-nclt-bengaluru-bench/)
+- **Published:** Sat, 21 Feb 2026 05:51:44 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Claim of secured creditor does not override submission timelines or entitle late claims to automatic admission – Commercial Tax Department Vs. Indian Soya Industries Pvt. Ltd. Through Mr. Mangesh Vitthal Kekre RP – NCLT Indore Bench](https://ibclaw.in/commercial-tax-department-vs-indian-soya-industries-pvt-ltd-through-mr-mangesh-vitthal-kekre-rp-nclt-indore-bench/)
+- **Published:** Sat, 21 Feb 2026 05:51:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The liability of the Personal Guarantor arises only upon a demand being made strictly in accordance with the terms of the Deed of Guarantee – Bank of Baroda Vs. P. V. Ramana Reddy – NCLT Hyderabad Bench](https://ibclaw.in/bank-of-baroda-vs-p-v-ramana-reddy-nclt-hyderabad-bench/)
+- **Published:** Sat, 21 Feb 2026 05:51:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Deduction of TDS, by itself, cannot be treated as acknowledgment of liability towards interest so as to permit inclusion of the interest amount for the purpose of computing the threshold under Section 4 of the IBC – Wild Dreams Trading Company Pvt. Ltd. Vs. Ascendancy Financial Services Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/wild-dreams-trading-company-pvt-ltd-vs-ascendancy-financial-services-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Sat, 21 Feb 2026 05:51:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adjudicating Authority (NCLT) is not the appropriate forum for determination on the liability of the Corporate Debtor to pay interest under the MSME Act or Interest Act – Varahi Infra Vs. Shrushti Contech Pvt. Ltd. – NCLT Amaravati Bench](https://ibclaw.in/varahi-infra-vs-shrushti-contech-pvt-ltd-nclt-amaravati-bench/)
+- **Published:** Sat, 21 Feb 2026 05:51:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where no written allotment letter or sale agreement was executed between the parties, the promoter’s oral allotment and subsequent cancellation cannot be enforced under the RERA Act – Dr. Tarun Singh Chouhan Vs. D.K. Constructions – Madhya Pradesh REAT](https://ibclaw.in/dr-tarun-singh-chouhan-vs-d-k-constructions-madhya-pradesh-reat/)
+- **Published:** Sat, 21 Feb 2026 05:52:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where the promoter, after obtaining the Occupancy/Completion Certificate, failed to offer possession in accordance with the statutory mandate and raised a defective demand notice without incorporating the delay interest payable to the allottee, the promoter is liable to pay interest to the allottee for the delayed period till the date of handing over physical possession in habitable condition – Shalimar Corp. Ltd. Vs. Mr. Rizwan Ahmad and Anr. – Uttar Pradesh REAT](https://ibclaw.in/shalimar-corp-ltd-vs-mr-rizwan-ahmad-and-anr-uttar-pradesh-reat/)
 - **Published:** Fri, 20 Feb 2026 19:25:00 +0000
