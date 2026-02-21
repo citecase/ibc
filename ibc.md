@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-21 07:08:03*
+*Last synced: 2026-02-21 13:25:24*
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 15th February, 2026 to 21st February, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-15th-february-2026-to-21st-february-2026/)
+- **Published:** Sat, 21 Feb 2026 07:49:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Amaravati Bench: Where a petition u/s 241 and 242 is filed seeking winding up of the company as the principal or substantive relief, and not merely as an alternative under Section 242(1)(b), such petition is not maintainable](https://ibclaw.in/nclt-amaravati-bench-where-a-petition-u-s-241-and-242-is-filed-seeking-winding-up-of-the-company-as-the-principal-or-substantive-relief-and-not-merely-as-an-alternative-under-section-2421b-such/)
+- **Published:** Sat, 21 Feb 2026 09:57:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Bengaluru: Exclusion of provident fund dues from liquidation estate under Section 36(4) of IBC does not entitle immediate remittance or enforcement during CIRP in absence of an admitted claim](https://ibclaw.in/nclt-bengaluru-exclusion-of-provident-fund-dues-from-liquidation-estate-under-section-364-of-ibc-does-not-entitle-immediate-remittance-or-enforcement-during-cirp-in-absence-of-an-admitted-claim/)
+- **Published:** Sat, 21 Feb 2026 11:57:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Since the merits of the proposed amendment cannot be examined while considering the amendment application, the Authority needs to have liberal attitude towards rectification of pleadings | There is no legal impediment in altering the date of default by the Petitioner, by way of amendment if it is relevant and aimed at effective and complete adjudication of the matter – Spray Engineering Devices Ltd. Vs. Vishwaraj Sugar Industries Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/spray-engineering-devices-ltd-vs-vishwaraj-sugar-industries-ltd-nclt-bengaluru-bench/)
 - **Published:** Sat, 21 Feb 2026 05:51:44 +0000
