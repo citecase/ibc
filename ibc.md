@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-21 13:25:24*
+*Last synced: 2026-02-21 19:01:13*
+
+### [IBC| NCLT Chennai Bench : Onus is on the claimant to establish its claim with objective material](https://ibclaw.in/ibc-nclt-chennai-bench-onus-is-on-the-claimant-to-establish-its-claim-with-objective-material/)
+- **Published:** Sat, 21 Feb 2026 14:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin-Weekly Case Laws Digest: 15th February, 2026 to 21st February, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-15th-february-2026-to-21st-february-2026/)
 - **Published:** Sat, 21 Feb 2026 07:49:19 +0000
