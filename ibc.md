@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-21 19:01:13*
+*Last synced: 2026-02-22 03:22:10*
+
+### [Whether the Liquidator can be directed to make payment of gratuity and provident fund to the Applicant, workmen, and ex-employees of the Corporate Debtor – K.R Murthy Vs. Rajesh Jhunjhunwala, Liquidator of Siddharth Tubes Ltd. – NCLT Indore Bench](https://ibclaw.in/k-r-murthy-vs-rajesh-jhunjhunwala-liquidator-of-siddharth-tubes-ltd-nclt-indore-bench/)
+- **Published:** Sat, 21 Feb 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC| NCLT Chennai Bench : Onus is on the claimant to establish its claim with objective material](https://ibclaw.in/ibc-nclt-chennai-bench-onus-is-on-the-claimant-to-establish-its-claim-with-objective-material/)
 - **Published:** Sat, 21 Feb 2026 14:02:00 +0000
