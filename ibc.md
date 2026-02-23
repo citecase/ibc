@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-23 03:26:04*
+*Last synced: 2026-02-23 07:38:03*
+
+### [IBC | There is no bar in law to the amendment of pleadings in an application under Section 7 of the Insolvency Code: NCLT Mumbai Bench](https://ibclaw.in/ibc-there-is-no-bar-in-law-to-the-amendment-of-pleadings-in-an-application-under-section-7-of-the-insolvency-code-nclt-mumbai-bench/)
+- **Published:** Mon, 23 Feb 2026 04:33:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Hyderabad Bench: NCLT Rule 11’s inherent powers cannot be used to re-decide a case on merits or to admit new documents not originally on record; they are limited to correcting procedural errors, fraud, or similar issues—not to remedy a party’s lack of due diligence](https://ibclaw.in/nclt-hyderabad-bench-nclt-rule-11s-inherent-powers-cannot-be-used-to-re-decide-a-case-on-merits-or-to-admit-new-documents-not-originally-on-record-they-are-limited-to-correcting-procedural/)
+- **Published:** Mon, 23 Feb 2026 04:33:59 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Initiation of the Corporate Insolvency Resolution Process against the Personal Guarantor would be inequitable, when the ability of the Principal Borrower to discharge its liability is yet to be determined and no CIRP has been initiated in its case – State Bank of India Vs. Nama Seetaiah and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/state-bank-of-india-vs-nama-seetaiah-and-anr-nclt-hyderabad-bench/)
 - **Published:** Sun, 22 Feb 2026 20:27:00 +0000
