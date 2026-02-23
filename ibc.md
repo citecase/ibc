@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-22 13:26:39*
+*Last synced: 2026-02-23 03:26:04*
+
+### [Initiation of the Corporate Insolvency Resolution Process against the Personal Guarantor would be inequitable, when the ability of the Principal Borrower to discharge its liability is yet to be determined and no CIRP has been initiated in its case – State Bank of India Vs. Nama Seetaiah and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/state-bank-of-india-vs-nama-seetaiah-and-anr-nclt-hyderabad-bench/)
+- **Published:** Sun, 22 Feb 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC: Homebuyers/ Allottees have locus standi to file an application under Section 65 of the IBC, 2016, seeking dismissal of a Section 7 petition filed by a Debenture Trustee – NCLT Chandigarh Bench](https://ibclaw.in/ibc-homebuyers-allottees-have-locus-standi-to-file-an-application-under-section-65-of-the-ibc-2016-seeking-dismissal-of-a-section-7-petition-filed-by-a-debenture-trustee-nclt-chandigarh-bench/)
+- **Published:** Sun, 22 Feb 2026 22:07:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC: NCLT is not required to examine the reasons for replacement of Resolution Professional – NCLT Hyderabad Bench](https://ibclaw.in/ibc-nclt-is-not-required-to-examine-the-reasons-for-replacement-of-resolution-professional-nclt-hyderabad-bench/)
 - **Published:** Sun, 22 Feb 2026 10:06:00 +0000
