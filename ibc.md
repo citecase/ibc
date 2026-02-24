@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-23 07:38:03*
+*Last synced: 2026-02-24 07:33:18*
+
+### [Whether the issuance of a statutory demand notice in Form B under Rule 7(1) of the 2019 Rules, by itself, satisfies the contractual requirement of invocation of an on-demand personal guarantee, in the absence of a separate invocation strictly in accordance with the Deed of Guarantee – Bank of Baroda Vs. M. Srinivasa Babji – NCLT Hyderabad Bench](https://ibclaw.in/bank-of-baroda-vs-m-srinivasa-babji-nclt-hyderabad-bench/)
+- **Published:** Tue, 24 Feb 2026 04:09:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Scrutiny of Feasibility and Viability in Resolution Plans under the Insolvency and Bankruptcy Code, 2016 – By Tushar Yadav](https://ibclaw.in/scrutiny-of-feasibility-and-viability-in-resolution-plans-under-the-insolvency-and-bankruptcy-code-2016-by-tushar-yadav/)
+- **Published:** Tue, 24 Feb 2026 05:13:49 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When is Ownership in a Secured Asset truly transferred? – By Aditya Vidyarthi](https://ibclaw.in/when-is-ownership-in-a-secured-asset-truly-transferred-by-aditya-vidyarthi/)
+- **Published:** Tue, 24 Feb 2026 05:15:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Essential–Critical Goods Divide in Indian Insolvency Law: Doctrinal Inconsistencies and Comparative Lessons – By Divyaansh Kharbanda](https://ibclaw.in/the-essential-critical-goods-divide-in-indian-insolvency-law-doctrinal-inconsistencies-and-comparative-lessons-by-divyaansh-kharbanda/)
+- **Published:** Tue, 24 Feb 2026 05:26:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC | There is no bar in law to the amendment of pleadings in an application under Section 7 of the Insolvency Code: NCLT Mumbai Bench](https://ibclaw.in/ibc-there-is-no-bar-in-law-to-the-amendment-of-pleadings-in-an-application-under-section-7-of-the-insolvency-code-nclt-mumbai-bench/)
 - **Published:** Mon, 23 Feb 2026 04:33:54 +0000
