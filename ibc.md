@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-24 13:50:21*
+*Last synced: 2026-02-24 19:31:19*
+
+### [Whether pending proceedings for a Scheme of Arrangement under Companies Act bar initiation or continuation of CIRP under Section 7 of the IBC?-  Supreme Court](https://ibclaw.in/whether-pending-proceedings-for-a-scheme-of-arrangement-under-companies-act-bar-initiation-or-continuation-of-cirp-under-section-7-of-the-ibc-supreme-court/)
+- **Published:** Tue, 24 Feb 2026 14:02:43 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [For admission of an application under Section 7 of the IBC, the Adjudicating Authority (NCLT) is only required to examine and satisfy itself that a financial debt exists and there is default in relation thereto | Concept of a pre-existing dispute has no bearing on an application filed by a financial creditor under Section 7 of the Code – Catalyst Trusteeship Ltd. Vs. Ecstasy Realty Pvt. Ltd. – Supreme Court](https://ibclaw.in/catalyst-trusteeship-ltd-vs-ecstasy-realty-pvt-ltd-supreme-court/)
+- **Published:** Tue, 24 Feb 2026 14:22:56 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The NCLT cannot, in exercise of insolvency jurisdiction, disregard or nullify a statutory vesting effected under another enactment | IBC does not provide an indirect route to challenge sovereign acts validly undertaken under a penal statute | Where the corporate debtor is merely an ostensible holder, the property never forms part of its estate u/s 36 of IBC and cannot be administered in liquidation | Section 32A does not validate defective title nor retrospectively convert benami property into assets of the corporate debtor | Moratorium under Section 14 of IBC is intended to protect the corporate debtor from creditor actions aimed at debt recovery, not to shield tainted assets from sovereign actions against crime – S. Rajendran Vs. Deputy Commissioner of Income Tax (Benami Prohibition) and Ors. – Supreme Court](https://ibclaw.in/s-rajendran-vs-deputy-commissioner-of-income-tax-benami-prohibition-and-ors-supreme-court/)
+- **Published:** Tue, 24 Feb 2026 15:19:40 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Moratorium Not a Shield: Benami Act Attachment Orders Beyond NCLT/ NCLAT Jurisdiction – Supreme Court](https://ibclaw.in/ibc-moratorium-not-a-shield-benami-act-attachment-orders-beyond-nclt-nclat-jurisdiction-supreme-court/)
+- **Published:** Tue, 24 Feb 2026 15:36:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [When the resolution plan has been rejected, Section 33(1)(b) of IBC obliged the adjudicating authority to pass an order for liquidation of the corporate debtor – Sonal Sumit Mehta Vs. Vinod Tarachand Agrawal, RP of Rexsona Tiles Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/sonal-sumit-mehta-vs-vinod-tarachand-agrawal-rp-of-rexsona-tiles-pvt-ltd-and-ors-nclat-new-delhi/)
 - **Published:** Tue, 24 Feb 2026 09:15:03 +0000
