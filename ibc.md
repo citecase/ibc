@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-24 07:33:18*
+*Last synced: 2026-02-24 13:50:21*
+
+### [When the resolution plan has been rejected, Section 33(1)(b) of IBC obliged the adjudicating authority to pass an order for liquidation of the corporate debtor – Sonal Sumit Mehta Vs. Vinod Tarachand Agrawal, RP of Rexsona Tiles Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/sonal-sumit-mehta-vs-vinod-tarachand-agrawal-rp-of-rexsona-tiles-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 24 Feb 2026 09:15:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether pending proceedings for a Scheme of Arrangement (SOA) under the Companies Act, 1956, can bar initiation of Corporate Insolvency Resolution Process (CIRP) under the IBC – Omkara Assets Reconstruction Pvt. Ltd. Vs. Amit Chaturvedi and Ors. – Supreme Court](https://ibclaw.in/omkara-assets-reconstruction-pvt-ltd-vs-amit-chaturvedi-and-ors-supreme-court/)
+- **Published:** Tue, 24 Feb 2026 12:50:44 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether the issuance of a statutory demand notice in Form B under Rule 7(1) of the 2019 Rules, by itself, satisfies the contractual requirement of invocation of an on-demand personal guarantee, in the absence of a separate invocation strictly in accordance with the Deed of Guarantee – Bank of Baroda Vs. M. Srinivasa Babji – NCLT Hyderabad Bench](https://ibclaw.in/bank-of-baroda-vs-m-srinivasa-babji-nclt-hyderabad-bench/)
 - **Published:** Tue, 24 Feb 2026 04:09:29 +0000
