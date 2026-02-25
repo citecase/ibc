@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-25 13:49:57*
+*Last synced: 2026-02-25 19:32:49*
+
+### [Section 7 IBC| Corporate Debtor Cannot Indirectly Raise "Pre-Existing Dispute" Defence Against CIRP Admission: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/catalyst-trusteeship-ltd-v-ecstasy-realty-pvt-ltd-2026-insc-186-1608689)
+- **Published:** Wed, 25 Feb 2026 14:30:04 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Set-off of a tax refund arising from TDS deposited by Successful Auction Purchaser during liquidation against outstanding tax dues is not permissible without filing a claim – Principal Commissioner of Income-Tax-3, Ahmedabad Vs. Kiran Shah, Liquidator of Shri Jalaram Rice Industries Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/principal-commissioner-of-income-tax-3-ahmedabad-vs-kiran-shah-liquidator-of-shri-jalaram-rice-industries-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 15:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Dismisses Income Tax Department’s Appeal, Bars Set-Off of Pre-Liquidation Demand Against TDS Refund Under IBC](https://ibclaw.in/nclat-dismisses-income-tax-departments-appeal-bars-set-off-of-pre-liquidation-demand-against-tds-refund-under-ibc/)
+- **Published:** Wed, 25 Feb 2026 15:20:48 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Committee of creditors not a juristic person but can litigate in IBC disputes: NCLAT](https://www.barandbench.com/news/litigation/committee-of-creditors-not-a-juristic-person-but-can-litigate-in-ibc-disputes-nclat)
 - **Published:** Tue, 24 Feb 2026 19:56:53 +0530
