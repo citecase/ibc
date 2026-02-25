@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-25 07:34:20*
+*Last synced: 2026-02-25 13:49:57*
+
+### [Committee of creditors not a juristic person but can litigate in IBC disputes: NCLAT](https://www.barandbench.com/news/litigation/committee-of-creditors-not-a-juristic-person-but-can-litigate-in-ibc-disputes-nclat)
+- **Published:** Tue, 24 Feb 2026 19:56:53 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Completely unsustainable: Supreme Court sets aside NCLT, NCLAT rulings in ₹600 crore case](https://www.barandbench.com/news/litigation/completely-unsustainable-supreme-court-sets-aside-nclt-nclat-rulings-in-600-crore-case)
+- **Published:** Wed, 25 Feb 2026 14:48:42 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT pauses Mensa attempt to buy out MyFitness founders amid fund diversion claims](https://www.barandbench.com/news/litigation/nclt-pauses-mensa-attempt-to-buy-out-myfitness-founders-amid-fund-diversion-claims)
+- **Published:** Wed, 25 Feb 2026 15:58:06 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Catalyst Trusteeship Ltd. v. Ecstasy Realty Pvt. Ltd.  2026 INSC 186 - S.7 IBC - Indirectly Raising Pre-Existing Dispute Defence](https://www.caseciter.com/2026insc186/)
+- **Published:** Wed, 25 Feb 2026 12:15:53 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Omkara Assets Reconstruction Private Limited v. Amit Chaturvedi  2026 INSC 189 - IBC - Companies Act - Tardy Litigators](https://www.caseciter.com/2026insc189/)
+- **Published:** Wed, 25 Feb 2026 12:27:26 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Whether negotiations and correspondence between the corporate debtor and one debenture holder, without compliance with the modification procedure prescribed in the Debenture Trust Deed, could constitute a binding restructuring or moratorium so as to negate default? – Supreme Court](https://ibclaw.in/whether-negotiations-and-correspondence-between-the-corporate-debtor-and-one-debenture-holder-without-compliance-with-the-modification-procedure-prescribed-in-the-debenture-trust-deed-could-constitu/)
+- **Published:** Tue, 24 Feb 2026 14:35:51 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Legal Character of Committee of Creditors (CoC) and it’s Right to Litigate: Guideline for litigation by CoC, Definition of CoC under IBC, Distinction between a CoC and the members, Who should represent the CoC – CoC of Think and Learn Pvt. Ltd. Vs. Riju Ravindran and Ors. – NCLAT Chennai](https://ibclaw.in/coc-of-think-and-learn-pvt-ltd-vs-riju-ravindran-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 11:15:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Guideline for litigation by Committee of Creditors (CoC) under IBC](https://ibclaw.in/guideline-for-litigation-by-committee-of-creditors-coc-under-ibc/)
+- **Published:** Wed, 25 Feb 2026 11:39:51 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mandatory threshold limit of Rs. 1 Crore as defined under Section 4 of IBC is to be ascertained on the date of filing of the said petition i.e. the initiation date as is defined under Section 5 (11) of IBC and not on the date of sending of the Demand Notice under Section 8 of IBC | Payment made by Corporate Debtor after the demand notice but before the filing of the petition is valid for the purpose of threshold calculation – Mosco International Commodities Pvt. Ltd. Vs. SBEC Sugar Ltd. – NCLAT New Delhi](https://ibclaw.in/mosco-international-commodities-pvt-ltd-vs-sbec-sugar-ltd-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 13:33:05 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT, NCLAT can't hear challenges to property attachments under Benami Act: Supreme Court](https://www.barandbench.com/news/litigation/nclt-nclat-cant-hear-challenges-to-property-attachments-under-benami-act-supreme-court)
 - **Published:** Wed, 25 Feb 2026 10:26:02 +0530
