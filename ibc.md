@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-24 19:31:19*
+*Last synced: 2026-02-25 07:34:20*
+
+### [NCLT, NCLAT can't hear challenges to property attachments under Benami Act: Supreme Court](https://www.barandbench.com/news/litigation/nclt-nclat-cant-hear-challenges-to-property-attachments-under-benami-act-supreme-court)
+- **Published:** Wed, 25 Feb 2026 10:26:02 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Attachment Order Under Benami Act Cannot Be Challenged Before NCLT Under IBC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/s-rajendran-v-the-deputy-commissioner-of-income-tax-benami-prohibition-2026-insc-187-nclt-nclat-judicial-review-1608615)
+- **Published:** Wed, 25 Feb 2026 06:00:11 GMT
+- **Source:** https://verdictum.in/feed
+
+### [S. Rajendran v. Deputy Commissioner of Income Tax (Benami Prohibition) 2026 INSC 187 - IBC - Benami Act - Attachment Order](https://www.caseciter.com/2026insc187/)
+- **Published:** Wed, 25 Feb 2026 05:07:19 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Bench in the Boardroom: Scrutinising the Judicial Intrusion into Commercial Wisdom – By Bhavyl Bansal](https://ibclaw.in/bench-in-the-boardroom-scrutinising-the-judicial-intrusion-into-commercial-wisdom-by-bhavyl-bansal/)
+- **Published:** Wed, 25 Feb 2026 05:13:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether pending proceedings for a Scheme of Arrangement under Companies Act bar initiation or continuation of CIRP under Section 7 of the IBC?-  Supreme Court](https://ibclaw.in/whether-pending-proceedings-for-a-scheme-of-arrangement-under-companies-act-bar-initiation-or-continuation-of-cirp-under-section-7-of-the-ibc-supreme-court/)
 - **Published:** Tue, 24 Feb 2026 14:02:43 +0000
