@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-26 07:33:25*
+*Last synced: 2026-02-26 13:50:01*
+
+### [ICICI Bank Limited v. Era Infrastructure (India) Limited  2026 INSC 201 - IBC - Simultaneous Proceedings Against Corporate Debtor & Principal Guarantor](https://www.caseciter.com/2026insc201/)
+- **Published:** Thu, 26 Feb 2026 12:35:46 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Class Action under Section 245 of Companies Act, 2013: Under Section 245(1), the NCLT has very wide powers and reliefs thereunder can be sought against third parties, including directors and promoters of the company : In Section 245(1)(g)(iii) the term unlawful or wrongful act or conduct or any likely act or conduct on his part makes it evident that the transactions which can be impugned are not limited to being continuing in nature but also include the transactions already concluded – Jindal Poly Films Ltd. Vs. Ankit Jain and Ors. – NCLAT New Delhi](https://ibclaw.in/jindal-poly-films-ltd-vs-ankit-jain-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 26 Feb 2026 12:01:22 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Maintainability of Section 245 Class Action for Past and Concluded Acts Under Companies Act, 2013](https://ibclaw.in/nclat-upholds-maintainability-of-section-245-class-action-for-past-and-concluded-acts-under-companies-act-2013/)
+- **Published:** Thu, 26 Feb 2026 12:13:44 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT dismisses appeal challenging class action petition against Jindal Poly Films](https://www.barandbench.com/news/litigation/shareholder-class-action-maintainable-even-for-past-transactions-not-just-continuing-acts-nclt)
 - **Published:** Thu, 26 Feb 2026 10:56:56 +0530
