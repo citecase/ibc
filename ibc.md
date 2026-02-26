@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-26 13:50:01*
+*Last synced: 2026-02-26 19:25:36*
+
+### [IBBI (Insolvency Resolution Process for Corporate Persons) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-insolvency-resolution-process-for-corporate-persons-amendment-regulations-2026/)
+- **Published:** Thu, 26 Feb 2026 13:17:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Liquidation Process) (Second Amendment) Regulations, 2026](https://ibclaw.in/ibbi-liquidation-process-second-amendment-regulations-2026/)
+- **Published:** Thu, 26 Feb 2026 13:19:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Voluntary Liquidation Process) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-voluntary-liquidation-process-amendment-regulations-2026/)
+- **Published:** Thu, 26 Feb 2026 13:21:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Pre-Packaged Insolvency Resolution Process) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-pre-packaged-insolvency-resolution-process-amendment-regulations-2026/)
+- **Published:** Thu, 26 Feb 2026 13:23:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-bankruptcy-process-for-personal-guarantors-to-corporate-debtors-amendment-regulations-2026/)
+- **Published:** Thu, 26 Feb 2026 13:25:09 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI introduces reforms to strengthen the valuation and information disclosure framework under the Insolvency and Bankruptcy Code, 2016.](https://ibclaw.in/ibbi-introduces-reforms-to-strengthen-thevaluation-and-information-disclosure-framework-under-the-insolvency-and-bankruptcycode-2016/)
+- **Published:** Thu, 26 Feb 2026 14:58:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [ICICI Bank Limited v. Era Infrastructure (India) Limited  2026 INSC 201 - IBC - Simultaneous Proceedings Against Corporate Debtor & Principal Guarantor](https://www.caseciter.com/2026insc201/)
 - **Published:** Thu, 26 Feb 2026 12:35:46 GMT
