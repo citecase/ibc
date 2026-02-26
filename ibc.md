@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-25 19:32:49*
+*Last synced: 2026-02-26 03:17:57*
+
+### [The date of dishonour of cheques does not alter the date of default under the IBC – Irfan Khan Vs. Rakesh Kumar Goswami and Anr. – NCLAT New Delhi](https://ibclaw.in/irfan-khan-vs-rakesh-kumar-goswami-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 19:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether Invocation of SARFEASI Act issuing notice under section 13(2) takes away the right of the Personal Guarantor to invoke section 94 of the IBC? – Naseema Bano, PG of SRS Meditech Ltd. Vs. State Bank of India and Ors. – NCLAT New Delhi](https://ibclaw.in/naseema-bano-pg-of-srs-meditech-ltd-vs-state-bank-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the corporate debtor has substantially complied with the settlement agreement and demonstrated bona fide efforts to pay the balance amount, and where the delay was due to reasons beyond its control (including unavailability of title deeds necessary for monetisation), the adjudicating authority ought to grant reasonable time for implementation of the settlement – Harvinder Singh Sikka Vs. Nobal Buildtech Pvt. Ltd. Through IRP and Ors. – NCLAT New Delhi](https://ibclaw.in/harvinder-singh-sikka-vs-nobal-buildtech-pvt-ltd-through-irp-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When statutory powers under Section 242 of the Companies Act, 2013 are invoked to regulate the affairs of a company, such directions override and control internal management arrangements and contractual understandings to the extent necessary to bring an end to oppression or mismanagement | An appeal becomes infructuous when subsequent judicial developments render adjudication of the earlier interim order unnecessary or incapable of producing practical relief – Dr. Anita Roy Vs. Aquafil Polymers Company Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/dr-anita-roy-vs-aquafil-polymers-company-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 25 Feb 2026 21:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where Corporate Debtor failed to convert Optionally Convertible Debentures (OCDs) into equity shares, the Debenture Holder’s right to exercise the put option was not lost and the Debenture Holder remained a financial creditor, and upon default in redemption following exercise of the put option, the requirements of debt and default under Section 7 of the IBC were satisfied – Arvind Kumar Vs. Beacon Trusteeship Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/arvind-kumar-vs-beacon-trusteeship-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 26 Feb 2026 00:06:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Section 7 IBC| Corporate Debtor Cannot Indirectly Raise "Pre-Existing Dispute" Defence Against CIRP Admission: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/catalyst-trusteeship-ltd-v-ecstasy-realty-pvt-ltd-2026-insc-186-1608689)
 - **Published:** Wed, 25 Feb 2026 14:30:04 GMT
