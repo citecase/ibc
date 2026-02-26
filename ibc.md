@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-26 03:17:57*
+*Last synced: 2026-02-26 07:33:25*
+
+### [NCLAT dismisses appeal challenging class action petition against Jindal Poly Films](https://www.barandbench.com/news/litigation/shareholder-class-action-maintainable-even-for-past-transactions-not-just-continuing-acts-nclt)
+- **Published:** Thu, 26 Feb 2026 10:56:56 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Compromise Or Arrangement U/S. 230 Companies Act 2013 Permissible During IBC Proceedings At Appropriate Stage: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/omkara-assets-reconstruction-private-limited-v-amit-chaturvedi-ors-2026-insc-189-1608744)
+- **Published:** Thu, 26 Feb 2026 07:00:59 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Tribunal does not need to be satisfied that the Corporate Debtor is likely to succeed or give a finding on the merits of the dispute in application under Section 9 of IBC – Shashi Beriwal & Company Pvt. Ltd. Vs. Laxmi Foils Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/shashi-beriwal-company-pvt-ltd-vs-laxmi-foils-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 26 Feb 2026 04:59:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adjudicating Authority (NCLT) had already set aside the constitution of the CoC and the RP had subsequently reconstituted the CoC and reaffirmed the claim admission as directed by the NCLT, the appeals against the orders do not survive as those proceedings have merged into the subsequent order and are rendered infructuous – Stressed Asset Stabilization Funds (SASF) Vs. Shamsher Bahadur Singh, RP of Asian Alloys Ltd. – NCLAT New Delhi](https://ibclaw.in/stressed-asset-stabilization-funds-sasf-vs-shamsher-bahadur-singh-rp-of-asian-alloys-ltd-nclat-new-delhi/)
+- **Published:** Thu, 26 Feb 2026 04:59:13 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [From Revival to Ruin: The Supreme Court’s BPSL Judgment and The Future of the IBC – By Garvit Garg & Devanshi Bishnoi](https://ibclaw.in/from-revival-to-ruin-the-supreme-courts-bpsl-judgment-and-the-future-of-the-ibc/)
+- **Published:** Thu, 26 Feb 2026 05:15:39 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The date of dishonour of cheques does not alter the date of default under the IBC – Irfan Khan Vs. Rakesh Kumar Goswami and Anr. – NCLAT New Delhi](https://ibclaw.in/irfan-khan-vs-rakesh-kumar-goswami-and-anr-nclat-new-delhi/)
 - **Published:** Wed, 25 Feb 2026 19:47:00 +0000
