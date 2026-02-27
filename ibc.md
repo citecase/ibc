@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-27 07:29:19*
+*Last synced: 2026-02-27 13:39:23*
+
+### [IBC| Creditors Can Initiate CIRP Against Both Borrower And Guarantor For Same Debt: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/icici-bank-limited-v-era-infrastructure-india-2026-insc-201-cirp-borrower-guarantor-insolvency-1608901)
+- **Published:** Fri, 27 Feb 2026 12:00:14 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Torrent Power Ltd. v. Ashish Arjunkumar Rathi  2026 INSC 206 - IBC -  Commercial Wisdom - CoC](https://www.caseciter.com/2026insc206/)
+- **Published:** Fri, 27 Feb 2026 12:00:31 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Moratorium period under Section 101 of IBC cannot be extended by the Tribunal | The statutory provisions does not limit the personal insolvency (PIRP) period to any particular period | Regulation 19 is thus procedural provisions and has to be held to be directory | Extension of such PIRP period shall not mean extension of moratorium whose outer limit is 180 days – Purusottam Behera, RP for Mrs. Manisha S Patil Vs. State Bank of India and Ors. – NCLAT New Delhi](https://ibclaw.in/purusottam-behera-rp-for-mrs-manisha-s-patil-vs-state-bank-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 27 Feb 2026 12:08:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Moratorium period under IBC cannot be extended by the NCLT](https://ibclaw.in/nclat-moratorium-period-under-ibc-cannot-be-extended-by-the-nclt/)
+- **Published:** Fri, 27 Feb 2026 12:11:54 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [At the time of admission of a petition under Section 7 of IBC Adjudicating Authority (NCLT) is only required to ascertain the existence of a debt and default | Debt and default are sine qua non and only condition for admitting an application under Section 7 of the IBC – Rajendra Narayan Panda Vs. Shri Mangesh Vittal Kekre, IRP of Panda Technologies India Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/rajendra-narayan-panda-vs-shri-mangesh-vittal-kekre-irp-of-panda-technologies-india-pvt-ltd-and-anr-nclat-new-delhi/)
 - **Published:** Fri, 27 Feb 2026 04:37:29 +0000
