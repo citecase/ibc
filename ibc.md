@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-26 19:25:36*
+*Last synced: 2026-02-27 03:15:23*
+
+### [Amendments can be allowed by the Adjudicating Authority at any stage | The allowing of the amendment cannot be read to mean that the pleadings accepted are findings of the court – Nilachakrametal Processors Pvt. Ltd. Vs. Soubhagya Minerals – NCLAT New Delhi](https://ibclaw.in/nilachakrametal-processors-pvt-ltd-vs-soubhagya-minerals-nclat-new-delhi/)
+- **Published:** Thu, 26 Feb 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Suspended Board of Directors (ex-Directors) has locus to raise objections alleging procedural irregularities, violations of statutory provisions, or breaches of the principles of natural justice | Without affording opportunity to the Ex-director to participate in CoC meetings and not sharing documents pertaining to the CIRP such as resolution plan etc., are clear contravention to Section 24(3)(b) of IBC – Shri Munnan Jaiswal and Ors. Vs. Shri Santanu T Ray, RP and Ors. – NCLT Kolkata Bench](https://ibclaw.in/shri-munnan-jaiswal-and-ors-vs-shri-santanu-t-ray-rp-and-ors-nclt-kolkata-bench/)
+- **Published:** Fri, 27 Feb 2026 01:36:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBBI (Insolvency Resolution Process for Corporate Persons) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-insolvency-resolution-process-for-corporate-persons-amendment-regulations-2026/)
 - **Published:** Thu, 26 Feb 2026 13:17:28 +0000
