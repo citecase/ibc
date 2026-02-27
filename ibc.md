@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-27 13:39:23*
+*Last synced: 2026-02-27 19:10:23*
+
+### [Where the RP acts on the instructions of the CoC, such conduct cannot, by any stretch of imagination, be characterised as a material irregularity within the meaning of Section 61(3)(ii) of IBC | Neither the NCLT, nor the NCLAT nor even the Supreme Court is empowered to substitute its assessment in place of the commercial decision arrived at by a requisite majority of the CoC – Torrent Power Ltd. Vs. Ashish Arjunkumar Rathi and Ors. – Supreme Court](https://ibclaw.in/torrent-power-ltd-vs-ashish-arjunkumar-rathi-and-ors-supreme-court/)
+- **Published:** Fri, 27 Feb 2026 15:07:27 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Excessive Judicial Review Undermines IBC’s Time-Bound Framework and Creditor-Driven Resolution Process](https://ibclaw.in/supreme-court-holds-excessive-judicial-review-undermines-ibcs-time-bound-framework-and-creditor-driven-resolution-process/)
+- **Published:** Fri, 27 Feb 2026 15:14:25 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC| Creditors Can Initiate CIRP Against Both Borrower And Guarantor For Same Debt: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/icici-bank-limited-v-era-infrastructure-india-2026-insc-201-cirp-borrower-guarantor-insolvency-1608901)
 - **Published:** Fri, 27 Feb 2026 12:00:14 GMT
