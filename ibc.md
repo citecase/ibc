@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-27 03:15:23*
+*Last synced: 2026-02-27 07:29:19*
+
+### [At the time of admission of a petition under Section 7 of IBC Adjudicating Authority (NCLT) is only required to ascertain the existence of a debt and default | Debt and default are sine qua non and only condition for admitting an application under Section 7 of the IBC – Rajendra Narayan Panda Vs. Shri Mangesh Vittal Kekre, IRP of Panda Technologies India Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/rajendra-narayan-panda-vs-shri-mangesh-vittal-kekre-irp-of-panda-technologies-india-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Fri, 27 Feb 2026 04:37:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the amount deposited initially for share subscription, later claimed as a deposit due to non-allotment of shares, can be treated as financial debt under the IBC? – Prakash Ambure and Ors. Vs. Invent Bio-Med Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/prakash-ambure-and-ors-vs-invent-bio-med-pvt-ltd-nclat-new-delhi-2/)
+- **Published:** Fri, 27 Feb 2026 04:37:35 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Amendments can be allowed by the Adjudicating Authority at any stage | The allowing of the amendment cannot be read to mean that the pleadings accepted are findings of the court – Nilachakrametal Processors Pvt. Ltd. Vs. Soubhagya Minerals – NCLAT New Delhi](https://ibclaw.in/nilachakrametal-processors-pvt-ltd-vs-soubhagya-minerals-nclat-new-delhi/)
 - **Published:** Thu, 26 Feb 2026 19:38:00 +0000
