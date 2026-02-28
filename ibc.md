@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-27 19:10:23*
+*Last synced: 2026-02-28 02:58:14*
+
+### [Central Sales Tax (CST) dues are not secured debt under IBC – Raj Radhe Finance Ltd. Vs. Vinod Tarachand Agrawal, RP of Amul Industries Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/raj-radhe-finance-ltd-vs-vinod-tarachand-agrawal-rp-of-amul-industries-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 27 Feb 2026 21:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether on transfer of Winding Up Petition, which was already admitted by the High Court, the Adjudicating Authority while hearing the Section 9 of IBC application has to proceed from the stage of admission or has to pass an order of admission on Section 9 application? | Whether threshold in case of Winding Up petition transferred from the High Court to the NCLT shall be Rs.1 Lakh or Rs.1 Crore under Section 4 – Navin Ashokkumar Aswani Vs. Falcon Industries and Anr. – NCLAT New Delhi](https://ibclaw.in/navin-ashokkumar-aswani-vs-falcon-industries-and-anr-nclat-new-delhi/)
+- **Published:** Fri, 27 Feb 2026 22:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [From date of issuance of Recovery Certificate by DRT a fresh period of limitation shall commence | The acknowledgment which is to be relied has to be acknowledgment which can be said to be acknowledging the debt even though payability of debt is denied – D.N.V. Srinivasa Raju, Suspended Director HIL (India) Ltd. Vs. IDBI Bank Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/d-n-v-srinivasa-raju-suspended-director-hil-india-ltd-vs-idbi-bank-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Fri, 27 Feb 2026 22:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Simultaneous or separate CIRP proceedings against both the principal debtor and the corporate guarantor/ co-borrower are maintainable under IBC | A creditor can pursue proceedings against multiple debtors, simultaneously | The doctrine of election does not apply, and there is no statutory bar or restriction on a creditor’s claim against a debtor or a guarantor | If the rigours and conditions prescribed by the statute are met, it must be left to the wisdom of the adjudicating authority to admit a petition for initiation of CIRP – ICICI Bank Ltd. Vs. ERA Infrastructure (India) Ltd. – Supreme Court](https://ibclaw.in/icici-bank-ltd-vs-era-infrastructure-india-ltd-supreme-court/)
+- **Published:** Sat, 28 Feb 2026 02:08:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where the RP acts on the instructions of the CoC, such conduct cannot, by any stretch of imagination, be characterised as a material irregularity within the meaning of Section 61(3)(ii) of IBC | Neither the NCLT, nor the NCLAT nor even the Supreme Court is empowered to substitute its assessment in place of the commercial decision arrived at by a requisite majority of the CoC – Torrent Power Ltd. Vs. Ashish Arjunkumar Rathi and Ors. – Supreme Court](https://ibclaw.in/torrent-power-ltd-vs-ashish-arjunkumar-rathi-and-ors-supreme-court/)
 - **Published:** Fri, 27 Feb 2026 15:07:27 +0000
