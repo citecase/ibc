@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-28 07:02:12*
+*Last synced: 2026-02-28 13:13:09*
+
+### ["Predictability And Finality Central To IBC Proceedings": Supreme Court Cautions Against Expansive Judicial Scrutiny Of Resolution Plans](https://www.verdictum.in/court-updates/supreme-court/torrent-power-limited-v-ashish-arjunkumar-rathi-ors-2026-insc-206-review-1608967)
+- **Published:** Sat, 28 Feb 2026 10:10:19 GMT
+- **Source:** https://verdictum.in/feed
+
+### [February 2026: Landmark Supreme Court Judgments on Insolvency and Bankruptcy Code (IBC) – Key Legal Takeaways](https://ibclaw.in/february-2026-landmark-supreme-court-judgments-on-insolvency-and-bankruptcy-code-ibc-key-legal-takeaways/)
+- **Published:** Sat, 28 Feb 2026 10:56:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Resolution Professional’s Actions Based On CoC’s Instructions Cannot Be Termed 'Material Irregularity' U/S 61(3)(ii) IBC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/torrent-power-limited-v-ashish-arjunkumar-rathi-ors-2026-insc-206-irregularity-1608946)
 - **Published:** Sat, 28 Feb 2026 06:50:15 GMT
