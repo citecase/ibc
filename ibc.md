@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-28 02:58:14*
+*Last synced: 2026-02-28 07:02:12*
+
+### [Resolution Professional’s Actions Based On CoC’s Instructions Cannot Be Termed 'Material Irregularity' U/S 61(3)(ii) IBC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/torrent-power-limited-v-ashish-arjunkumar-rathi-ors-2026-insc-206-irregularity-1608946)
+- **Published:** Sat, 28 Feb 2026 06:50:15 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Central Sales Tax (CST) dues are not secured debt under IBC – Raj Radhe Finance Ltd. Vs. Vinod Tarachand Agrawal, RP of Amul Industries Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/raj-radhe-finance-ltd-vs-vinod-tarachand-agrawal-rp-of-amul-industries-ltd-and-ors-nclat-new-delhi/)
 - **Published:** Fri, 27 Feb 2026 21:11:00 +0000
