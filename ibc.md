@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-02-28 18:56:17*
+*Last synced: 2026-03-02 03:16:41*
+
+### [Under Section 114(1) of the IBC, approval of a repayment plan requires creditor approval | The unanimous rejection by creditors leaves no scope for judicial intervention – Amier Hamsa Ali Abbas Rawther, IRP of Mr. K Sreedharan – NCLT Chennai Bench](https://ibclaw.in/amier-hamsa-ali-abbas-rawther-irp-of-mr-k-sreedharan-nclt-chennai-bench/)
+- **Published:** Sun, 01 Mar 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether lien can be exercised against fixed deposits, when the Bank is holding the fixed deposits as a debtor? – HDFC Bank Ltd. Vs. Right Health Platter Pvt. Ltd. and Ors. – DRAT Chennai](https://ibclaw.in/hdfc-bank-ltd-vs-right-health-platter-pvt-ltd-and-ors-drat-chennai/)
+- **Published:** Sun, 01 Mar 2026 20:43:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Post completion of real estate project refund should not be granted for well-being of real estate sector – Lalita Soni and Ors. Vs. Shree Ram Balaji Developers and Infrastructures Pvt. Ltd. and Ors. – Rajasthan REAT](https://ibclaw.in/lalita-soni-and-ors-vs-shree-ram-balaji-developers-and-infrastructures-pvt-ltd-and-ors-rajasthan-reat/)
+- **Published:** Sun, 01 Mar 2026 21:40:11 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether mere non-payment of an amount directed under an order of Adjudicating Authority (NCLT), or any other form of non-compliance, would by itself amount to contempt? – Renahan Vamakesan, Liquidator of Axiomata Elevators Pvt. Ltd. Vs. Anish Lawrence and Anr. – NCLT Kochi Bench](https://ibclaw.in/renahan-vamakesan-liquidator-of-axiomata-elevators-pvt-ltd-vs-anish-lawrence-and-anr-nclt-kochi-bench/)
+- **Published:** Sun, 01 Mar 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The ratio of the judgments in Ireo Grace Realtech Pvt. Ltd. and Kuldeep Kumar Singhal is not applicable where the project remains incomplete and no completion certificate has been issued – Saroj Bala and Ors. Vs. Genesis Infratech Pvt. Ltd. and Anr. – Rajasthan REAT](https://ibclaw.in/saroj-bala-and-ors-vs-genesis-infratech-pvt-ltd-and-anr-rajasthan-reat/)
+- **Published:** Sun, 01 Mar 2026 21:49:14 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pendency of SARFAESI proceedings or the Securitisation Application before the DRT does not, in any manner, bar the maintainability of an application under Section 7 of the IBC – Andhra Pradesh State Financial Corporation Vs. YYY Industries Pvt. Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/andhra-pradesh-state-financial-corporation-vs-yyy-industries-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Sun, 01 Mar 2026 22:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rule 155 of the NCLT Rules does not limit the Tribunal’s inherent powers to allow amendments, in the interest of justice, even after the period specified in the NCLT Rules – Tirupati Sankalp Realtors Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/tirupati-sankalp-realtors-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 01 Mar 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Partial recovery by creditors from liquidation of the principal borrower does not bar proceedings against the personal guarantor under Section 95 of the IBC | Mere pendency of insolvency proceedings before another Bench of the NCLT does not result in the discharge of liability, nor does it prohibit the NCLT Bench from exercising jurisdiction under Section 100 of the IBC – Assistant General Manager, State Bank of India Vs. Ajay Kumar Bishnoi – NCLT Chennai Bench](https://ibclaw.in/assistant-general-manager-state-bank-of-india-vs-ajay-kumar-bishnoi-nclt-chennai-bench/)
+- **Published:** Sun, 01 Mar 2026 22:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [MSME Framework for Revival and Rehabilitation (FRR) cannot override IBC nor prevent a financial creditor from initiating CIRP once default is established | Proceedings under SARFAESI, Arbitration Act, and IBC operate in distinct spheres. There is no bar under law on pursuing parallel statutory remedies – Aditya Birla Finance Ltd. Vs. Saket Infra Developers Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/aditya-birla-finance-ltd-vs-saket-infra-developers-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Sun, 01 Mar 2026 23:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the NCLT has jurisdiction to entertain and initiate proceedings under Section 215 read with Section 379 of the BNSS, 2023, for alleged fabrication of evidence and perjury?](https://ibclaw.in/whether-the-nclt-has-jurisdiction-to-entertain-and-initiate-proceedings-under-section-215-read-with-section-379-of-the-bnss-2023-for-alleged-fabrication-of-evidence-and-perjury/)
+- **Published:** Mon, 02 Mar 2026 00:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [e-Journal – Debt Recovery Bulletin – January, 2026](https://ibclaw.in/e-journal-debt-recovery-bulletin-january-2026/)
 - **Published:** Fri, 27 Feb 2026 18:31:55 +0000
