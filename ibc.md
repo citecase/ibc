@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-02 03:16:41*
+*Last synced: 2026-03-02 13:41:04*
+
+### [NCLAT February 2026 Important Insolvency Judgments: Key IBC Rulings Explained](https://ibclaw.in/nclat-february-2026-important-insolvency-judgments-key-ibc-rulings-explained/)
+- **Published:** Mon, 02 Mar 2026 07:33:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Under Section 114(1) of the IBC, approval of a repayment plan requires creditor approval | The unanimous rejection by creditors leaves no scope for judicial intervention – Amier Hamsa Ali Abbas Rawther, IRP of Mr. K Sreedharan – NCLT Chennai Bench](https://ibclaw.in/amier-hamsa-ali-abbas-rawther-irp-of-mr-k-sreedharan-nclt-chennai-bench/)
 - **Published:** Sun, 01 Mar 2026 20:37:00 +0000
