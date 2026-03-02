@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-02 13:41:04*
+*Last synced: 2026-03-02 19:12:38*
+
+### [Guarantee agreements executed by the Personal Guarantor were continuing guarantees, expressly stipulating that liability would not be discharged by any variance or modification in the underlying agreements – Jalesh Kumar Grover, RP of Vivek Aggarwal – NCLT Principal Bench](https://ibclaw.in/jalesh-kumar-grover-rp-of-vivek-aggarwal-nclt-principal-bench/)
+- **Published:** Mon, 02 Mar 2026 18:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [There is a clear bar for institutions of any application for triggering of CIRP for the default having occurred during the period from 25.03.2020 till 24.03.2021 – Punjab National Bank Vs. Rajaramsevak Multipurpose Cold Storage Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/punjab-national-bank-vs-rajaramsevak-multipurpose-cold-storage-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 02 Mar 2026 18:39:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT February 2026 Important Insolvency Judgments: Key IBC Rulings Explained](https://ibclaw.in/nclat-february-2026-important-insolvency-judgments-key-ibc-rulings-explained/)
 - **Published:** Mon, 02 Mar 2026 07:33:56 +0000
