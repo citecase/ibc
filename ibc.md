@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-02 19:12:38*
+*Last synced: 2026-03-03 03:19:56*
+
+### [Allottee has unqualified right under Section 18(1) of REA Act, 2016, either to withdraw from the delayed project or to remain in the project | If the Promoter/developer fails to fulfill his obligations to hand over the possession as per terms of the agreement, the allottee is entitled to withdraw from the project and claim refund, along with interest and compensation – Amandeep Singh Khurana and Anr. Vs. Elegant Infracon Pvt. Ltd. – Uttar Pradesh REAT](https://ibclaw.in/amandeep-singh-khurana-and-anr-vs-elegant-infracon-pvt-ltd-uttar-pradesh-reat/)
+- **Published:** Mon, 02 Mar 2026 19:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Timelines prescribed under CIRP Regulation 35A are directory and not mandatory, and non-adherence thereto does not render the avoidance application non-maintainable – State Bank of India and Anr. Vs. Acquaint Engineers and Infrastructure Pvt. Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/state-bank-of-india-and-anr-vs-acquaint-engineers-and-infrastructure-pvt-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Mon, 02 Mar 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The plea of financial hardship and liquidity constraints is not a legally recognised ground to reject an otherwise maintainable petition under Section 9 of IBC once default is established – Epicrop Organics Ltd. Vs. Cropberry Foods Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/epicrop-organics-ltd-vs-cropberry-foods-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Mon, 02 Mar 2026 20:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When the proceedings in SA before the DRT have reached the stage of arguments, and the Presiding Officer has partly heard them, it is not appropriate to transfer the matter at this stage – UCO Bank Vs. A.K.Jajee and Ors. – DRAT Chennai](https://ibclaw.in/uco-bank-vs-a-k-jajee-and-ors-drat-chennai/)
+- **Published:** Mon, 02 Mar 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 36(4)(a)(iii) of the IBC does not sanction creation or quantification of liabilities during moratorium, nor does it mandate admission of claims unsupported by proof of employment and identifiable beneficiaries – Employee Provident Fund Organisation Vs. NDA Metaoxides Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/employee-provident-fund-organisation-vs-nda-metaoxides-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Mon, 02 Mar 2026 20:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the appeal filed by the promoter against a consequential order in execution proceedings can be entertained without depositing the decretal amount as mandated by the proviso to Section 43(5) of the RERA Act, 2016 – Uppal Chadha Hi-Tech Developers Pvt. Ltd. Vs. Uttar Pradesh Real Estate Regulatory Authority – Uttar Pradesh REAT](https://ibclaw.in/uppal-chadha-hi-tech-developers-pvt-ltd-vs-uttar-pradesh-real-estate-regulatory-authority-uttar-pradesh-reat/)
+- **Published:** Mon, 02 Mar 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether, under Section 13(4)(b) of SARFAESI Act, a secured creditor can take over the management of an educational institution run by a charitable trust where the business of the borrower was not mortgaged as security for the debt – Kotak Mahindra Bank Ltd. Vs. Camellia Educare Trust and Ors. – DRAT Kolkata](https://ibclaw.in/kotak-mahindra-bank-ltd-vs-camellia-educare-trust-and-ors-drat-kolkata/)
+- **Published:** Mon, 02 Mar 2026 21:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Even where a creditor qualifies as a Secured Creditor, the entitlement to distribution under Section 53(1)(b)(ii) of IBC is conditional upon such secured creditor having relinquished its security interest in the manner prescribed under Section 52 of the Code – State Tax Officer-2 Vs. Nitin Parikh, Liquidator of Diamond Power Transformer Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/state-tax-officer-2-vs-nitin-parikh-liquidator-of-diamond-power-transformer-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 03 Mar 2026 00:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings under Section 215 read with Section 379 of the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) are not maintainable before the NCLT | NCLT is a statutory tribunal constituted under Section 408 of the Companies Act, 2013 and is not a civil court or a criminal court – Delhi Liquors Vs. Badri Prasad – NCLT Indore Bench](https://ibclaw.in/delhi-liquors-vs-badri-prasad-nclt-indore-bench/)
+- **Published:** Tue, 03 Mar 2026 03:01:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Guarantee agreements executed by the Personal Guarantor were continuing guarantees, expressly stipulating that liability would not be discharged by any variance or modification in the underlying agreements – Jalesh Kumar Grover, RP of Vivek Aggarwal – NCLT Principal Bench](https://ibclaw.in/jalesh-kumar-grover-rp-of-vivek-aggarwal-nclt-principal-bench/)
 - **Published:** Mon, 02 Mar 2026 18:36:00 +0000
