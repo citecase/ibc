@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-03 03:19:56*
+*Last synced: 2026-03-04 13:38:02*
+
+### [IBC February 2026: Important NCLT Insolvency and Bankruptcy Judgments](https://ibclaw.in/ibc-february-2026-important-nclt-insolvency-and-bankruptcy-judgments/)
+- **Published:** Wed, 04 Mar 2026 13:28:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Allottee has unqualified right under Section 18(1) of REA Act, 2016, either to withdraw from the delayed project or to remain in the project | If the Promoter/developer fails to fulfill his obligations to hand over the possession as per terms of the agreement, the allottee is entitled to withdraw from the project and claim refund, along with interest and compensation – Amandeep Singh Khurana and Anr. Vs. Elegant Infracon Pvt. Ltd. – Uttar Pradesh REAT](https://ibclaw.in/amandeep-singh-khurana-and-anr-vs-elegant-infracon-pvt-ltd-uttar-pradesh-reat/)
 - **Published:** Mon, 02 Mar 2026 19:17:00 +0000
