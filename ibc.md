@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-04 13:38:02*
+*Last synced: 2026-03-05 03:14:44*
+
+### [Mukesh Verma, RP of IMP Powers Ltd. Vs. CoC of IMP Powers Ltd. – NCLAT New Delhi](https://ibclaw.in/mukesh-verma-rp-of-imp-powers-ltd-vs-coc-of-imp-powers-ltd-nclat-new-delhi/)
+- **Published:** Wed, 04 Mar 2026 20:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adjudicating Officer under RERA Act is empowered to direct the judgment debtor/promoter to file a sworn affidavit disclosing complete particulars of its bank accounts and all movable and immovable assets, to facilitate effective execution and recovery of the awarded amount – Jaspal Kaur Vs. TDI Infracorp (India) Ltd. – Haryana REAT](https://ibclaw.in/jaspal-kaur-vs-tdi-infracorp-india-ltd-haryana-reat/)
+- **Published:** Wed, 04 Mar 2026 20:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the Deed of Guarantee provides for payment by the Guarantor on demand, the cause of action against the Guarantor arises when the demand notice is issued and the guarantee is invoked – Rajkumar Nandlal Dhoot Vs. State Bank of India – NCLAT New Delhi](https://ibclaw.in/rajkumar-nandlal-dhoot-vs-state-bank-of-india-nclat-new-delhi/)
+- **Published:** Wed, 04 Mar 2026 20:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When litigation by or against a Company is pending before a competent court, striking off the name of such Company is not justified – Dilip Kumar Agarwal and Anr. Vs. Registrar of Companies, Telangana – NCLT Hyderabad Bench](https://ibclaw.in/dilip-kumar-agarwal-and-anr-vs-registrar-of-companies-telangana-nclt-hyderabad-bench/)
+- **Published:** Wed, 04 Mar 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Breach of settlement does not extinguish the original operational debt nor does it create a new cause of action | Insolvency proceedings cannot be reduced to a recovery tool; however, where a settlement recognized by judicial order is breached, the revival of insolvency is not recovery but restoration of a legal consequence already adjudicated – S.N. Global Minerals LLP Vs. Aksa Paper Mills Pvt. Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/s-n-global-minerals-llp-vs-aksa-paper-mills-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Wed, 04 Mar 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether Secretary to the RERA Authority is vested with quasi-judicial powers to order forfeiture of Forfeiture of security money deposited by the promoter of a Real Estate Project? – Keywest Eduinfra and Services Pvt. Ltd. Vs. Haryana Real Estate Regulatory Authority – Haryana REAT](https://ibclaw.in/keywest-eduinfra-and-services-pvt-ltd-vs-haryana-real-estate-regulatory-authority-haryana-reat/)
+- **Published:** Wed, 04 Mar 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Rights issue can be made to increase the paid up Capital without increase in the Authorised CapitalandWhether Rights issue can precede the increase in Authorised Capital – Zeeshan Ali Khan and Anr. Vs. Sha’S Airborne Travels Pvt. Ltd. and Ors. – NCLT Bengaluru Bench](https://ibclaw.in/zeeshan-ali-khan-and-anr-vs-shas-airborne-travels-pvt-ltd-and-ors-nclt-bengaluru-bench/)
+- **Published:** Wed, 04 Mar 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pursuant to Section 138 of the IBC, although the Bankruptcy Trustee is required to file an application upon the expiry of one year from the bankruptcy commencement date, the mere filing of such application does not result in the discharge of the Bankruptcy Trustee | Even after his discharge, the Bankrupt is under mandate of law to participate in the Bankruptcy Process and his discharge entitles him only to the benefits of Section 139, 140(3)(b) and 141(2)(b) of IBC – Viram Vishal Minhas, Bankruptcy Trustee Vs. Hulas Rahul Gupta and Ors. – NCLT New Delhi Bench](https://ibclaw.in/viram-vishal-minhas-bankruptcy-trustee-vs-hulas-rahul-gupta-and-ors-nclt-new-delhi-bench/)
+- **Published:** Thu, 05 Mar 2026 01:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Direct disbursement to corporate debtor is not a sine qua non for classification as financial debt under Section 5(8) of the IBC | A covenant to pay in the mortgage deed creates an enforceable guarantee | Where the deed includes explicit payment obligations, the mortgagee qualifies as a financial creditor and also becomes eligible to participate in the CoC | In contrast, a pure third-party security arrangement without such covenants remains only an operational/secured debt – Vistra ITCL (India) Ltd. Vs. Vithal Madhukar Dahake, RP of Radius Estate Projects Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/vistra-itcl-india-ltd-vs-vithal-madhukar-dahake-rp-of-radius-estate-projects-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 05 Mar 2026 01:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC February 2026: Important NCLT Insolvency and Bankruptcy Judgments](https://ibclaw.in/ibc-february-2026-important-nclt-insolvency-and-bankruptcy-judgments/)
 - **Published:** Wed, 04 Mar 2026 13:28:26 +0000
