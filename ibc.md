@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-05 07:25:52*
+*Last synced: 2026-03-05 13:42:46*
+
+### [NCLAT Holds Mortgage “Covenant To Pay” Securing Third-Party Debentures Creates Financial Debt Under IBC Section 5(8)](https://ibclaw.in/nclat-holds-mortgage-covenant-to-pay-securing-third-party-debentures-creates-financial-debt-under-ibc-section-58/)
+- **Published:** Thu, 05 Mar 2026 09:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The adjudicating authority (NCLT) within the precincts of the IBC cannot go into the merits of the contractual dispute – Aidem Ventures Pvt. Ltd. Vs. News24 Broadcast India Ltd. – NCLT Principal Bench](https://ibclaw.in/aidem-ventures-pvt-ltd-vs-news24-broadcast-india-ltd-nclt-principal-bench/)
+- **Published:** Thu, 05 Mar 2026 12:48:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC: NCLT Rejects CIRP Against News24 Over Pre-Existing Commission Dispute](https://ibclaw.in/ibc-nclt-rejects-cirp-against-news24-over-pre-existing-commission-dispute/)
+- **Published:** Thu, 05 Mar 2026 12:54:05 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A Decadal Audit of the IBC, 2016 (Diagnosis of the Real Malady; Fallacy in the treatment;  Weaponisation of IBC; the MSME Problem & the Anti-Dote) – By Adv. Senguttuvan K. & Adv. Venkateshwara Perumal, SAPAA Law Firm, Chennai](https://ibclaw.in/a-decadal-audit-of-the-ibc-2016-diagnosis-of-the-real-malady-fallacy-in-the-treatment-weaponisation-of-ibc-the-msme-problem-the-anti-dote-by-adv-senguttuvan-k-adv-venkates/)
 - **Published:** Thu, 05 Mar 2026 05:25:46 +0000
