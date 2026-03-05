@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-05 13:42:46*
+*Last synced: 2026-03-05 19:44:04*
+
+### [RERA Act applies to ongoing projects irrespective of rural or urban location, and the promoter’s construction in contravention of the sanctioned layout plan and failure to remove unauthorized structures and rectify defects amounts to violation of Sections 14(1) and 14(3), making the promoter liable for compensation under Section 18(3) of RERA Act, 2016 – Shree Infra Properties Pvt. Ltd. Vs. Divya Narayan Panda and Anr. – Odisha REAT](https://ibclaw.in/shree-infra-properties-pvt-ltd-vs-divya-narayan-panda-and-anr-odisha-reat-2/)
+- **Published:** Thu, 05 Mar 2026 18:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Holds Mortgage “Covenant To Pay” Securing Third-Party Debentures Creates Financial Debt Under IBC Section 5(8)](https://ibclaw.in/nclat-holds-mortgage-covenant-to-pay-securing-third-party-debentures-creates-financial-debt-under-ibc-section-58/)
 - **Published:** Thu, 05 Mar 2026 09:31:00 +0000
