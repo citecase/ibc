@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-05 03:14:44*
+*Last synced: 2026-03-05 07:25:52*
+
+### [A Decadal Audit of the IBC, 2016 (Diagnosis of the Real Malady; Fallacy in the treatment;  Weaponisation of IBC; the MSME Problem & the Anti-Dote) – By Adv. Senguttuvan K. & Adv. Venkateshwara Perumal, SAPAA Law Firm, Chennai](https://ibclaw.in/a-decadal-audit-of-the-ibc-2016-diagnosis-of-the-real-malady-fallacy-in-the-treatment-weaponisation-of-ibc-the-msme-problem-the-anti-dote-by-adv-senguttuvan-k-adv-venkates/)
+- **Published:** Thu, 05 Mar 2026 05:25:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Resolves a 28 Year Corporate Dispute and Reaffirms the Primacy of the IBC – By Vishal Bodha](https://ibclaw.in/supreme-court-resolves-a-28-year-corporate-dispute-and-reaffirms-the-primacy-of-the-ibc-by-vishal-bodha/)
+- **Published:** Thu, 05 Mar 2026 05:27:46 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mukesh Verma, RP of IMP Powers Ltd. Vs. CoC of IMP Powers Ltd. – NCLAT New Delhi](https://ibclaw.in/mukesh-verma-rp-of-imp-powers-ltd-vs-coc-of-imp-powers-ltd-nclat-new-delhi/)
 - **Published:** Wed, 04 Mar 2026 20:05:00 +0000
