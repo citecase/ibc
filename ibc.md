@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-05 19:44:04*
+*Last synced: 2026-03-06 03:13:42*
+
+### [Whether a mortgagee with such a covenant qualifies as a secured financial creditor under the IBC? – J.C. Flowers Asset Reconstruction Pvt. Ltd. Vs. Vithal M. Dahake, RP of Radius Estate Projects Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/j-c-flowers-asset-reconstruction-pvt-ltd-vs-vithal-m-dahake-rp-of-radius-estate-projects-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 05 Mar 2026 19:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 198 of IBC, which empowers the Adjudicating Authority (NCLT) to condone delay in performance of statutory functions by the IBBI, is not applicable to condonation of delay in filing appeals before the Appellate Tribunal (NCLAT) | Appellate Tribunal cannot invoke Section 198 to override the express limitation in Section 61(2) – Insolvency and Bankruptcy Board of India Vs. Truvisory Insolvency Professionals Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/insolvency-and-bankruptcy-board-of-india-vs-truvisory-insolvency-professionals-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 05 Mar 2026 20:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 44 of the RERA Act does not contain any provision for automatic stay of the order appealed against | In the absence of a specific stay, the Regulatory Authority (RERA) retains the power to enforce its order and impose penalty under Section 63 – Shree Infra Properties Pvt. Ltd. Vs. Secretary, ORERA – Odisha REAT](https://ibclaw.in/shree-infra-properties-pvt-ltd-vs-secretary-orera-odisha-reat/)
+- **Published:** Thu, 05 Mar 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In case of an account being NPA, the contract executed between the bank and the borrower comes to an end and no terms and conditions of the said agreement can prevail in future, when recovery suit is filed before any Court of law or the recovery proceedings are initiated by the Bank | Once the demand notice has been issued by the Bank u/s 13(2) of the SARFAESI Act claiming the amount including the contractual rate of interest, then it is the discretion of the court to award the compensation by way of interest in addition to the principal amount – Bank of Baroda Vs. Vidushi Stone Crusher and Ors. – DRAT Allahabad](https://ibclaw.in/bank-of-baroda-vs-vidushi-stone-crusher-and-ors-drat-allahabad/)
+- **Published:** Thu, 05 Mar 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the order of the Adjudicating Authority (NCLT) was pronounced in open court in the presence of the parties, the period of limitation for filing an appeal under Section 61(2) of the IBC commences from the date of pronouncement, not from the date of uploading of the order on the portal – Vivek Parti, RP for Trading Engineers International Ltd. Vs. Uttrakhand Power Corporation Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/vivek-parti-rp-for-trading-engineers-international-ltd-vs-uttrakhand-power-corporation-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 05 Mar 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An appeal, which is not accompanied with pre-deposit under Section 43(5) of RERA Act, 2026, deserves outright dismissal – Experion Developers Pvt. Ltd. Vs. Rajendra Kumar – Haryana REAT](https://ibclaw.in/experion-developers-pvt-ltd-vs-rajendra-kumar-haryana-reat/)
+- **Published:** Thu, 05 Mar 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The RERA Authority cannot perpetuate suo-moto proceedings or widen inquiries based solely on RTI queries or anonymous complaints when all statutory compliances have been met and possession handed over – Omaxe Heritage Pvt. Ltd. Vs. Real Estate Regulatory Authority – NCT of Delhi REAT](https://ibclaw.in/omaxe-heritage-pvt-ltd-vs-real-estate-regulatory-authority-nct-of-delhi-reat/)
+- **Published:** Fri, 06 Mar 2026 00:46:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [RERA Act applies to ongoing projects irrespective of rural or urban location, and the promoter’s construction in contravention of the sanctioned layout plan and failure to remove unauthorized structures and rectify defects amounts to violation of Sections 14(1) and 14(3), making the promoter liable for compensation under Section 18(3) of RERA Act, 2016 – Shree Infra Properties Pvt. Ltd. Vs. Divya Narayan Panda and Anr. – Odisha REAT](https://ibclaw.in/shree-infra-properties-pvt-ltd-vs-divya-narayan-panda-and-anr-odisha-reat-2/)
 - **Published:** Thu, 05 Mar 2026 18:38:00 +0000
