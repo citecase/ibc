@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-06 03:13:42*
+*Last synced: 2026-03-06 13:35:35*
+
+### [A city on the docket: Inside Lavasa’s insolvency](https://www.barandbench.com/columns/a-city-on-the-docket-inside-lavasas-insolvency)
+- **Published:** Fri, 06 Mar 2026 15:18:01 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Whether a mortgagee with such a covenant qualifies as a secured financial creditor under the IBC? – J.C. Flowers Asset Reconstruction Pvt. Ltd. Vs. Vithal M. Dahake, RP of Radius Estate Projects Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/j-c-flowers-asset-reconstruction-pvt-ltd-vs-vithal-m-dahake-rp-of-radius-estate-projects-pvt-ltd-nclat-new-delhi/)
 - **Published:** Thu, 05 Mar 2026 19:58:00 +0000
