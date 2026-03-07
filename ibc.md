@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-07 03:03:13*
+*Last synced: 2026-03-07 07:04:37*
+
+### [Filing of Forms to monitor insolvency resolution processes for Personal Guarantors to Corporate Debtors under IBC, 2016](https://ibclaw.in/filing-of-forms-to-monitor-insolvency-resolution-processes-for-personal-guarantors-to-corporate-debtors-under-ibc-2016/)
+- **Published:** Sat, 07 Mar 2026 04:50:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Rules Section 198 IBC Cannot Be Invoked to Condon Delay in Filing Appeals Beyond Section 61(2) Limitation](https://ibclaw.in/nclat-new-delhi-rules-section-198-ibc-cannot-be-invoked-to-condon-delay-in-filing-appeals-beyond-section-612-limitation/)
+- **Published:** Sat, 07 Mar 2026 06:36:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Affirms Primacy of CoC’s Commercial Wisdom in IBC Resolution Plan Approval, Limits Judicial Review](https://ibclaw.in/supreme-court-affirms-primacy-of-cocs-commercial-wisdom-in-ibc-resolution-plan-approval-limits-judicial-review/)
+- **Published:** Sat, 07 Mar 2026 06:39:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Moratorium Under Section 101 of IBC Cannot Be Extended, But Permits Extension of Personal Insolvency Resolution Process Period](https://ibclaw.in/nclat-holds-moratorium-under-section-101-ibc-cannot-be-extended-but-permits-extension-of-personal-insolvency-resolution-process-period/)
+- **Published:** Sat, 07 Mar 2026 06:40:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Simultaneous CIRP Proceedings Against Principal Debtor and Corporate Guarantor Maintainable Under IBC](https://ibclaw.in/supreme-court-holds-simultaneous-cirp-proceedings-against-principal-debtor-and-corporate-guarantor-maintainable-under-ibc/)
+- **Published:** Sat, 07 Mar 2026 06:41:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Any assessment order passed after the initiation of insolvency of the Corporate Debtor is unenforceable – Deepak Kalanand Jha Vs. Dhruv Wellness Ltd. – NCLT Mumbai Bench](https://ibclaw.in/deepak-kalanand-jha-vs-dhruv-wellness-ltd-nclt-mumbai-bench/)
 - **Published:** Fri, 06 Mar 2026 19:22:00 +0000
