@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-07 07:04:37*
+*Last synced: 2026-03-07 13:22:10*
+
+### [How the Jindal Poly Films Case Could Transform Shareholder Class Action in India Under Section 245 of the Companies Act – By Rajasekhar V.K., Former Judicial Member, NCLT](https://ibclaw.in/how-the-jindal-poly-films-case-could-transform-shareholder-class-action-in-india-under-section-245-of-the-companies-act-by-rajasekhar-v-k-former-judicial-member-nclt/)
+- **Published:** Sat, 07 Mar 2026 10:12:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Filing of Forms to monitor insolvency resolution processes for Personal Guarantors to Corporate Debtors under IBC, 2016](https://ibclaw.in/filing-of-forms-to-monitor-insolvency-resolution-processes-for-personal-guarantors-to-corporate-debtors-under-ibc-2016/)
 - **Published:** Sat, 07 Mar 2026 04:50:58 +0000
