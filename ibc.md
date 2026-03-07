@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-06 13:35:35*
+*Last synced: 2026-03-07 03:03:13*
+
+### [Any assessment order passed after the initiation of insolvency of the Corporate Debtor is unenforceable – Deepak Kalanand Jha Vs. Dhruv Wellness Ltd. – NCLT Mumbai Bench](https://ibclaw.in/deepak-kalanand-jha-vs-dhruv-wellness-ltd-nclt-mumbai-bench/)
+- **Published:** Fri, 06 Mar 2026 19:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The IBC is a summary insolvency regime; however, summary does not mean mechanical and the Adjudicating Authority must still examine whether the basic ingredients are made out, and whether objections go to the root of maintainability | Section 7 is not to be converted into a forum for adjudicating damages/counter claims | The Code does not require the NCLT to determine netting-off of counter claims at admission stage – Canara Bank Vs. Prayag Polytech Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/canara-bank-vs-prayag-polytech-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Fri, 06 Mar 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Application for condonation of delay is bereft of clearly stating the sufficient cause, rather, on their own case pleaded and setup in the application no reasons whatsoever, has been stated, except time taken to obtain papers/approval in filing the appeal – Gaursons Hi-Tech Infrastructure Pvt. Ltd. Vs. Rakesh Kumar – Uttar Pradesh REAT](https://ibclaw.in/gaursons-hi-tech-infrastructure-pvt-ltd-vs-rakesh-kumar-uttar-pradesh-reat/)
+- **Published:** Fri, 06 Mar 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A city on the docket: Inside Lavasa’s insolvency](https://www.barandbench.com/columns/a-city-on-the-docket-inside-lavasas-insolvency)
 - **Published:** Fri, 06 Mar 2026 15:18:01 +0530
