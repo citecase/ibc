@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-07 13:22:10*
+*Last synced: 2026-03-09 07:34:02*
+
+### [NCLAT Fortnightly: Important orders on IBC (Jan 1 – Jan 15, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-jan-1-jan-15-2026)
+- **Published:** Mon, 09 Mar 2026 11:54:04 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 1st March, 2026 to 7th March, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-1st-march-2026-to-7th-march-2026/)
+- **Published:** Mon, 09 Mar 2026 05:09:48 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [How the Jindal Poly Films Case Could Transform Shareholder Class Action in India Under Section 245 of the Companies Act – By Rajasekhar V.K., Former Judicial Member, NCLT](https://ibclaw.in/how-the-jindal-poly-films-case-could-transform-shareholder-class-action-in-india-under-section-245-of-the-companies-act-by-rajasekhar-v-k-former-judicial-member-nclt/)
 - **Published:** Sat, 07 Mar 2026 10:12:02 +0000
