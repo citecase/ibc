@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-10 13:43:36*
+*Last synced: 2026-03-10 19:21:56*
+
+### [NCLAT bench can have majority of technical members: Supreme Court in Bharti Telecom capital reduction case](https://www.barandbench.com/news/litigation/nclat-bench-can-have-majority-of-technical-members-supreme-court-in-bharti-telecom-capital-reduction-case)
+- **Published:** Tue, 10 Mar 2026 20:58:19 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Except for the definitions of ‘allottee’ and ‘real estate project’, other definitions, such as the definition of ‘promoter’, cannot be imported from the RERA Act into the IBC | IBC does not prohibit admission of any claim filed by companies struck off from the register of companies (RoC) | Claim of an investor cannot be extinguished merely on the ground that the investor is a speculative investor | Non-reflection of claim amount in the balance sheet cannot be a cogent ground for rejection of the claim | The mere fact of multiple allotments does not treat an investor as a speculative investor – Tejinder Pal Setia Vs. Sh. Arvind Kumar, RP of Chandigarh Overseas Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/tejinder-pal-setia-vs-sh-arvind-kumar-rp-of-chandigarh-overseas-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 10 Mar 2026 15:39:11 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Only Definitions of Allottee and Real Estate Project from RERA Apply Under IBC; Admission of Claims by Struck-Off Companies Not Barred](https://ibclaw.in/nclat-new-delhi-clarifies-only-definitions-of-allottee-and-real-estate-project-from-rera-apply-under-ibc-admission-of-claims-by-struck-off-companies-not-barred/)
+- **Published:** Tue, 10 Mar 2026 15:44:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Pannalal Bhansali v. Bharti Telecom Limited  2026 INSC 213- Companies Act - NCLT/NCLAT Composition](https://www.caseciter.com/2026insc213/)
 - **Published:** Tue, 10 Mar 2026 11:21:22 GMT
