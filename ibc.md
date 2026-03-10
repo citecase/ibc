@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-09 07:34:02*
+*Last synced: 2026-03-10 03:12:05*
+
+### [Once it is found that the classification of the loan accounts as NPA was illegal, the subsequent proceedings initiated under the SARFAESI Act cannot be sustained and are liable to be quashed – MGM Infra Development Solution Pvt. Ltd. and Ors. Vs. Bank of Maharashtra and Ors. – DRT Chandigarh](https://ibclaw.in/mgm-infra-development-solution-pvt-ltd-and-ors-vs-bank-of-maharashtra-and-ors-drt-chandigarh/)
+- **Published:** Mon, 09 Mar 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Fortnightly: Important orders on IBC (Jan 1 – Jan 15, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-jan-1-jan-15-2026)
 - **Published:** Mon, 09 Mar 2026 11:54:04 +0530
