@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-11 13:45:33*
+*Last synced: 2026-03-11 19:25:49*
+
+### [RBI MSME Framework and related notifications do not bar initiation of insolvency proceedings under Section 95 of the IBC against personal guarantors, particularly where the borrower (Corporate Debtor) has not made a specific, substantiated invocation of the MSME Framework as required by law, and the framework itself is not applicable to Non-Banking Financial Companies – Tata Capital Ltd. Vs. Jinu Varghese – NCLT Kochi Bench](https://ibclaw.in/tata-capital-ltd-vs-jinu-varghese-nclt-kochi-bench-2/)
+- **Published:** Wed, 11 Mar 2026 19:02:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [For reference to arbitration in a petition under Section 241-242 of the Companies Act, 2023, there must be an arbitration agreement covering the disputes; all disputes must be arbitrable; all parties must be bound; the entire petition must be within the scope of the arbitration agreement; the petition must not be vexatious or dressed up – Vipul Deepak Chandak Vs. Panchavati Elite Inn Pvt. Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/vipul-deepak-chandak-vs-panchavati-elite-inn-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 11 Mar 2026 19:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The upfront amounts paid by the Applicants to the Corporate Debtor, which were utilized for financing and development of the project, possess the commercial effect of borrowing and qualify as financial debt within the meaning of Section 5(8)(f) of the IBC – Ajay Sanadhya Vs. Vatsalya Builders and Developers Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/ajay-sanadhya-vs-vatsalya-builders-and-developers-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 11 Mar 2026 19:25:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT/NCLAT Benches Need Not Have Majority Of Judicial Members; Technical Members Cannot Be Treated As Inferior Adjudicators: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/pannalal-bhansali-v-bharti-telecom-limited-ors-2026-insc-213-benches-1609661)
 - **Published:** Wed, 11 Mar 2026 08:30:49 GMT
