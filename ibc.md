@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-11 03:11:32*
+*Last synced: 2026-03-11 07:27:14*
+
+### [Cheque Bounce Meets Insolvency: The Clash Between Section 138 NI Act and The IBC Moratorium: Supreme Court of India, Key Ruling on Section 138 NI Act – By Shubhangi Shukla](https://ibclaw.in/cheque-bounce-meets-insolvency-the-clash-between-section-138-ni-act-and-the-ibc-moratorium-supreme-court-of-india-key-ruling-on-section-138-ni-act-by-shubhangi-shukla/)
+- **Published:** Wed, 11 Mar 2026 05:01:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Beyond Timelines: Hon’ble NCLAT Clarifies That PIRP (Personal Insolvency Resolution Process) Can Continue Even After Moratorium Expiry | A Landmark Ruling in Purusottam Behera (RP) v. State Bank of India and Ors. – By Adv. Anant Jain, Associate, Aeddhaas Legal](https://ibclaw.in/resolution-beyond-timelines-honble-nclat-clarifies-that-pirp-personal-insolvency-resolution-process-can-continue-even-after-moratorium-expiry-a-landmark-ruling-in-purusottam-behera-rp/)
+- **Published:** Wed, 11 Mar 2026 05:02:45 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Promoter Undertakings vis-à-vis Corporate Guarantees under the Insolvency and Bankruptcy Code: An Analysis of UV Asset Reconstruction Company Limited v. Electrosteel Castings Ltd. – By Shipra Rawal](https://ibclaw.in/promoter-undertakings-vis-a-vis-corporate-guarantees-under-the-insolvency-and-bankruptcy-code-an-analysis-of-uv-asset-reconstruction-company-limited-v-electrosteel-castings-ltd/)
+- **Published:** Wed, 11 Mar 2026 05:04:30 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Under the scheme of the IBC and the CIRP Regulation, an operational creditor is not entitled for the copy of the Resolution Plan – Sunrise Mining Company Pvt. Ltd. Vs. Twenty First Century Wire Rods Ltd. Through RP – NCLAT New Delhi](https://ibclaw.in/sunrise-mining-company-pvt-ltd-vs-twenty-first-century-wire-rods-ltd-through-rp-nclat-new-delhi/)
 - **Published:** Tue, 10 Mar 2026 20:14:00 +0000
