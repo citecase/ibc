@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-11 07:27:14*
+*Last synced: 2026-03-11 13:45:33*
+
+### [NCLT/NCLAT Benches Need Not Have Majority Of Judicial Members; Technical Members Cannot Be Treated As Inferior Adjudicators: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/pannalal-bhansali-v-bharti-telecom-limited-ors-2026-insc-213-benches-1609661)
+- **Published:** Wed, 11 Mar 2026 08:30:49 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Cheque Bounce Meets Insolvency: The Clash Between Section 138 NI Act and The IBC Moratorium: Supreme Court of India, Key Ruling on Section 138 NI Act – By Shubhangi Shukla](https://ibclaw.in/cheque-bounce-meets-insolvency-the-clash-between-section-138-ni-act-and-the-ibc-moratorium-supreme-court-of-india-key-ruling-on-section-138-ni-act-by-shubhangi-shukla/)
 - **Published:** Wed, 11 Mar 2026 05:01:28 +0000
