@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-10 19:21:56*
+*Last synced: 2026-03-11 03:11:32*
+
+### [Under the scheme of the IBC and the CIRP Regulation, an operational creditor is not entitled for the copy of the Resolution Plan – Sunrise Mining Company Pvt. Ltd. Vs. Twenty First Century Wire Rods Ltd. Through RP – NCLAT New Delhi](https://ibclaw.in/sunrise-mining-company-pvt-ltd-vs-twenty-first-century-wire-rods-ltd-through-rp-nclat-new-delhi/)
+- **Published:** Tue, 10 Mar 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The certificate given by the Agricultural officer would not discharge the burden of the Borrower in establishing the nature of agricultural land at the time of availing the loan | Mere existence of some rubber trees, the land cannot be treated as agricultural land exempted under SARFAESI Act – Alosyous Jacob and Anr. Vs. Indian Bank and Ors. – DRT Ernakulam](https://ibclaw.in/alosyous-jacob-and-anr-vs-indian-bank-and-ors-drt-ernakulam/)
+- **Published:** Tue, 10 Mar 2026 20:31:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Issuance of demand notice under Section 13(2) SARFAESI Act, 2002 to a dead person is null and void ab initio and has no legal existence – Shijo Jose Vs. South Indian Bank Ltd. and Anr. – DRT Ernakulam](https://ibclaw.in/shijo-jose-vs-south-indian-bank-ltd-and-anr-drt-ernakulam/)
+- **Published:** Tue, 10 Mar 2026 22:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT bench can have majority of technical members: Supreme Court in Bharti Telecom capital reduction case](https://www.barandbench.com/news/litigation/nclat-bench-can-have-majority-of-technical-members-supreme-court-in-bharti-telecom-capital-reduction-case)
 - **Published:** Tue, 10 Mar 2026 20:58:19 +0530
