@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-11 19:25:49*
+*Last synced: 2026-03-12 03:17:36*
+
+### [Where a debtor, in writing makes an unequivocal offer to discharge an outstanding liability which may otherwise be time-barred, such promise attracts Section 25(3) of the Contract Act and gives rise to a fresh enforceable obligation in law – Omkara Assets Reconstruction Pvt. Ltd. Vs. Shri S R S Kishen and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/omkara-assets-reconstruction-pvt-ltd-vs-shri-s-r-s-kishen-and-anr-nclt-hyderabad-bench/)
+- **Published:** Wed, 11 Mar 2026 19:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an Insolvency Resolution Process can be initiated against the Personal Guarantor of a Corporate Debtor when the Liquidation Proceedings against the Corporate Debtor are already pending? – State Bank of India Vs. Sumit Rajpal – NCLT Indore Bench](https://ibclaw.in/state-bank-of-india-vs-sumit-rajpal-nclt-indore-bench/)
+- **Published:** Wed, 11 Mar 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Although adherence to the timelines stipulated in IBC is crucial, the NCLT, in exigent circumstances, can exercise powers under Rule 11 of the NCLT Rules, 2016 to meet the interests of justice and uphold the objectives of the IBC – Yashwant Kumar Rai, ITO Vs. Sandip Kumar Kejriwal, RP – NCLT Kolkata Bench](https://ibclaw.in/yashwant-kumar-rai-ito-vs-sandip-kumar-kejriwal-rp-nclt-kolkata-bench/)
+- **Published:** Wed, 11 Mar 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The IBC process is summary in nature and does not require detailed evidentiary scrutiny or cross-examination at the admission stage | Documents certified by the authorised signatory of the Financial Creditor and records from the Information Utility are sufficient to establish debt and default | Objections regarding the mode of document reproduction or use of scanner application are immaterial – Central Bank of India Vs. N. Kumar Projects & Infrastructure Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/central-bank-of-india-vs-n-kumar-projects-infrastructure-pvt-ltd-nclt-mumbai-bench-2/)
+- **Published:** Wed, 11 Mar 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Performance Bank Guarantee stands outside the purview of moratorium under Section 14 of IBC | Adjudicating Authority, exercising jurisdiction under Section 60(5) of IBC, cannot rewrite the terms of the contract between the parties and is not empowered to adjudicate purely contractual disputes unrelated to insolvency resolution – Mark Infrastructure Pvt. Ltd. Vs. NBCC India ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/mark-infrastructure-pvt-ltd-vs-nbcc-india-ltd-and-anr-nclt-hyderabad-bench-2/)
+- **Published:** Wed, 11 Mar 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The statutory period of 45 days prescribed under Section 17(1) of the SARFAESI Act for filing an application before the DRT is mandatory and the Tribunal has no power to condone delay, either expressly or by inference, as the Act does not provide for such condonation – I Manoharan Vs. Indian Bank – DRT Chennai](https://ibclaw.in/i-manoharan-vs-indian-bank-drt-chennai/)
+- **Published:** Wed, 11 Mar 2026 22:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the Appellant failed to cure defects in the petition filed under Section 9 of IBC, took back the original records without proper refiling, and subsequently relied on auto-generated information from the DMS Portal to file an appeal under Rule 63 of NCLT Rules, such appeal is not maintainable – Raychem RPG Pvt. Ltd. Vs. Soura Natural Energy Solutions India Pvt. Ltd – NCLT Kochi Bench](https://ibclaw.in/raychem-rpg-pvt-ltd-vs-soura-natural-energy-solutions-india-pvt-ltd-nclt-kochi-bench-2/)
+- **Published:** Wed, 11 Mar 2026 22:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In the absence of a challenge before the appropriate appellate forum under RERA Act, the NCLT cannot direct the refund of the late fee levied by the RERA Authority | The Adjudicating Authority (NCLT) under Section 60(5) of the IBC does not sit in appeal over orders passed by the HRERA Authority – Ashiana Landcraft Realty Pvt. Ltd. Vs. Haryana Real Estate Regulatory Authority, Gurugram – NCLT Kolkata Bench](https://ibclaw.in/ashiana-landcraft-realty-pvt-ltd-vs-haryana-real-estate-regulatory-authority-gurugram-nclt-kolkata-bench/)
+- **Published:** Thu, 12 Mar 2026 00:30:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [RBI MSME Framework and related notifications do not bar initiation of insolvency proceedings under Section 95 of the IBC against personal guarantors, particularly where the borrower (Corporate Debtor) has not made a specific, substantiated invocation of the MSME Framework as required by law, and the framework itself is not applicable to Non-Banking Financial Companies – Tata Capital Ltd. Vs. Jinu Varghese – NCLT Kochi Bench](https://ibclaw.in/tata-capital-ltd-vs-jinu-varghese-nclt-kochi-bench-2/)
 - **Published:** Wed, 11 Mar 2026 19:02:37 +0000
