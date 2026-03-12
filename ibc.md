@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-12 03:17:36*
+*Last synced: 2026-03-12 13:43:06*
+
+### [A liquidator does not have the locus to maintain an appeal before the NCLAT against his or her replacement | Liquidator’s position is not proprietary | Liquidator does not acquire any personal or vested right to continue in office | Performance during tenure, even if commendable, does not create an indefeasible right – Ramachandran Subramanian Vs. Anil Kohli, Liquidator of Tecpro Systems Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/ramachandran-subramanian-vs-anil-kohli-liquidator-of-tecpro-systems-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 11:57:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Rules Liquidator Has No Locus to Appeal Against Replacement; Liquidator’s Position Not Proprietary Under IBC](https://ibclaw.in/nclat-rules-liquidator-has-no-locus-to-appeal-against-replacement-liquidators-position-not-proprietary-under-ibc/)
+- **Published:** Thu, 12 Mar 2026 11:59:22 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where a debtor, in writing makes an unequivocal offer to discharge an outstanding liability which may otherwise be time-barred, such promise attracts Section 25(3) of the Contract Act and gives rise to a fresh enforceable obligation in law – Omkara Assets Reconstruction Pvt. Ltd. Vs. Shri S R S Kishen and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/omkara-assets-reconstruction-pvt-ltd-vs-shri-s-r-s-kishen-and-anr-nclt-hyderabad-bench/)
 - **Published:** Wed, 11 Mar 2026 19:54:00 +0000
