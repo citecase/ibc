@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-12 13:43:06*
+*Last synced: 2026-03-12 19:24:57*
+
+### [Unoxpress Mobility Pvt. Ltd. Vs. Keshav Khaneja, RP of Gensol EV Lease Ltd. – NCLAT New Delhi](https://ibclaw.in/unoxpress-mobility-pvt-ltd-vs-keshav-khaneja-rp-of-gensol-ev-lease-ltd-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 14:04:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether holding company of Corporate Debtor has locus to challenge the order initiating insolvency under Section 7 of the IBC against the principal borrower (CD)? – Era Infra Engineering Ltd. Vs. Alok Kumar Agarwal, IRP of Era Infrastructure (India) Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/era-infra-engineering-ltd-vs-alok-kumar-agarwal-irp-of-era-infrastructure-india-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 14:36:06 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Approval of Holding Company’s Resolution Plan Does Not Extinguish Secured Debt of Subsidiary or Bar Section 7 IBC Proceedings](https://ibclaw.in/nclat-clarifies-approval-of-holding-companys-resolution-plan-does-not-extinguish-secured-debt-of-subsidiary-or-bar-section-7-ibc-proceedings/)
+- **Published:** Thu, 12 Mar 2026 14:42:14 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Live Webinar: Important IBC Case Laws of 2025 | 16 March 2026 | 04PM : Join Now](https://ibclaw.in/live-webinar-important-ibc-case-laws-of-2025-16-march-2026-04pm-join-now/)
+- **Published:** Thu, 12 Mar 2026 14:52:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The exclusion of the Companies Act, 2013, under Section 121 of the Multi-State Cooperative Societies Act, 2002, does not oust the jurisdiction of the NCLT under the IBC | Multi-State Cooperative Societies fall within the definition of person under Section 3(23) of the IBC – Mehsana Urban Co-Operative Bank Ltd. Vs. Swastik Ceracon Ltd. – NCLAT New Delhi](https://ibclaw.in/mehsana-urban-co-operative-bank-ltd-vs-swastik-ceracon-ltd-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 15:00:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 121 of Multi-State Cooperative Societies Act Does Not Oust NCLT Jurisdiction Under IBC; Multi-State Cooperative Societies Are ‘Persons’ Under Section 3(23) IBC: NCLAT](https://ibclaw.in/section-121-of-multi-state-cooperative-societies-act-does-not-oust-nclt-jurisdiction-under-ibc-multi-state-cooperative-societies-are-persons-under-section-323-ibc-nclat/)
+- **Published:** Thu, 12 Mar 2026 15:04:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any assessment subsequent to commencement of the CIRP cannot be ground to accept any claim in the CIRP process – Central Board of Trustees, through Regional Provident Fund Commissioner-II (Legal) Vs. Vinod Tarachand Agrawal and Anr. – NCLAT New Delhi](https://ibclaw.in/central-board-of-trustees-through-regional-provident-fund-commissioner-ii-legal-vs-vinod-tarachand-agrawal-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 18:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [While Compounding of an offence under Section 441 of the Companies Act, 2013, for holding more than one DIN, the Tribunal is not bound to impose the maximum penalty and is required to determine a compounding amount commensurate with the nature of the default, the period of contravention, the conduct of the Applicant and the surrounding facts and circumstances of the case – Ragesh Dipak Bhatia – NCLT Mumbai Bench](https://ibclaw.in/ragesh-dipak-bhatia-nclt-mumbai-bench-2/)
+- **Published:** Thu, 12 Mar 2026 18:34:14 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A liquidator does not have the locus to maintain an appeal before the NCLAT against his or her replacement | Liquidator’s position is not proprietary | Liquidator does not acquire any personal or vested right to continue in office | Performance during tenure, even if commendable, does not create an indefeasible right – Ramachandran Subramanian Vs. Anil Kohli, Liquidator of Tecpro Systems Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/ramachandran-subramanian-vs-anil-kohli-liquidator-of-tecpro-systems-ltd-and-ors-nclat-new-delhi/)
 - **Published:** Thu, 12 Mar 2026 11:57:58 +0000
