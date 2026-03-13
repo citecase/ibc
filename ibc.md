@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-12 19:24:57*
+*Last synced: 2026-03-13 03:14:34*
+
+### [CST dues will not be Secured Operational Debt under IBC – National Asset Reconstruction Company Ltd. Vs. State Tax Officer and Anr. – NCLAT New Delhi](https://ibclaw.in/national-asset-reconstruction-company-ltd-vs-state-tax-officer-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajeev Khurana Vs. Sh. Arvind Kumar, RP of Chandigarh Overseas Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rajeev-khurana-vs-sh-arvind-kumar-rp-of-chandigarh-overseas-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 20:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under CIRP Regulations 13(1B) and 13(1C), claims can only be admitted up to seven days before the CoC meeting for voting on the resolution plan | Even if RP had failed to send an individual communication in terms of Regulation 6A of CIRP Regulations, public announcement made under Regulation 6 of shall be deemed to have been communicated to the creditor – Suman Chopra Vs. Sh. Arvind Kumar, RP of Chandigarh Overseas Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/suman-chopra-vs-sh-arvind-kumar-rp-of-chandigarh-overseas-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The amount raised through Zero Coupon Compulsorily Convertible Debentures (Debentures), carrying an assured yield and subsequently restructured, constitutes a financial debt under Section 5(8) of the IBC – Creative Ashtech Engineering Projects Pvt. Ltd. Vs. Roevpl Ventures Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/creative-ashtech-engineering-projects-pvt-ltd-vs-roevpl-ventures-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 12 Mar 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where confirmation of sale of the Corporate Debtor’s property by the Recovery Officer under the Second Schedule of the Income Tax Act, 1961 was made prior to the commencement of the CIRP and imposition of moratorium under Section 14 of the IBC, the sale became absolute on the date of confirmation, and the subsequent issuance of the sale certificate is merely ministerial and does not affect the vesting of title – IDFC First Bank Ltd. Vs. Seikh Abdul Salam, RP of Jai Gokul Towers Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/idfc-first-bank-ltd-vs-seikh-abdul-salam-rp-of-jai-gokul-towers-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 21:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether assessment proceedings could have been pursued by the EPFO under Sections 7A, 14B and 7Q of the EPF & MP Act after imposition of moratorium under Section 14 of the IBC | Whether claims arising out of such assessment made subsequent to imposition of moratorium can be admitted in the CIRP after approval of resolution plan by the CoC with 100% vote-share – Sunil Kumar Jain Vs. Employee’s Provident Fund Organization – NCLAT New Delhi](https://ibclaw.in/sunil-kumar-jain-vs-employees-provident-fund-organization-nclat-new-delhi/)
+- **Published:** Thu, 12 Mar 2026 23:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The term ‘undertaking’ under Section 180(1)(a) of the Companies Act, 2013 refers to a business as a going concern and not to individual assets and the 20% threshold applies only after the subject qualifies as an undertaking – Madhukar Anantrao Pathak Vs. MPTA Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/madhukar-anantrao-pathak-vs-mpta-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 13 Mar 2026 00:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Unoxpress Mobility Pvt. Ltd. Vs. Keshav Khaneja, RP of Gensol EV Lease Ltd. – NCLAT New Delhi](https://ibclaw.in/unoxpress-mobility-pvt-ltd-vs-keshav-khaneja-rp-of-gensol-ev-lease-ltd-nclat-new-delhi/)
 - **Published:** Thu, 12 Mar 2026 14:04:55 +0000
