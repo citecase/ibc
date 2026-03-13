@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-13 03:14:34*
+*Last synced: 2026-03-13 13:40:36*
+
+### [Whether sale of a single non-revenue-generating asset, constituting over 20% of net worth, amounts to sale of an undertaking requiring special resolution under Companies Act](https://ibclaw.in/whether-sale-of-a-single-non-revenue-generating-asset-constituting-over-20-of-net-worth-amounts-to-sale-of-an-undertaking-requiring-special-resolution-under-companies-act/)
+- **Published:** Fri, 13 Mar 2026 13:03:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [CST dues will not be Secured Operational Debt under IBC – National Asset Reconstruction Company Ltd. Vs. State Tax Officer and Anr. – NCLAT New Delhi](https://ibclaw.in/national-asset-reconstruction-company-ltd-vs-state-tax-officer-and-anr-nclat-new-delhi/)
 - **Published:** Thu, 12 Mar 2026 20:09:00 +0000
