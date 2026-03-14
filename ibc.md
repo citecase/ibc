@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-13 13:40:36*
+*Last synced: 2026-03-14 03:12:28*
+
+### [Whether managerial remuneration withdrawn by suspended management constitutes fraudulent or wrongful trading under Section 66 of IBC? | Whether Routing of revenue generation of professional services through a sister concern of the Corporate Debtor constitutes fraudulent or wrongful trading? | Whether not meeting tax obligations can form a ground to defraud creditors or to carry on business with an intent to deceive? – Rakshit Dhirajlal Doshi and Anr. Vs. Chirag Shah, Liquidator of Doshion Water Umbrella (Cuddalore) Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rakshit-dhirajlal-doshi-and-anr-vs-chirag-shah-liquidator-of-doshion-water-umbrella-cuddalore-pvt-ltd-nclat-new-delhi/)
+- **Published:** Fri, 13 Mar 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether sale of a single non-revenue-generating asset, constituting over 20% of net worth, amounts to sale of an undertaking requiring special resolution under Companies Act](https://ibclaw.in/whether-sale-of-a-single-non-revenue-generating-asset-constituting-over-20-of-net-worth-amounts-to-sale-of-an-undertaking-requiring-special-resolution-under-companies-act/)
 - **Published:** Fri, 13 Mar 2026 13:03:00 +0000
