@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-14 03:12:28*
+*Last synced: 2026-03-16 03:43:45*
+
+### [In the absence of a specific provision in the IBC prescribing the limitation period for an application under Section 94, Article 137 of the Limitation Act, 1963 applies, which provides for a limitation period of three years from the date when the right to apply accrues – Kiran Ratilal Sheth – NCLT Mumbai Bench](https://ibclaw.in/kiran-ratilal-sheth-nclt-mumbai-bench/)
+- **Published:** Sun, 15 Mar 2026 19:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pendency of an appeal against the DRT decree does not bar admission of the petition under Section 7 of IBC – ASREC (India) Ltd. Vs. Visakha Prime Properties Constructions Ltd. – NCLT Amaravati Bench](https://ibclaw.in/asrec-india-ltd-vs-visakha-prime-properties-constructions-ltd-nclt-amaravati-bench/)
+- **Published:** Sun, 15 Mar 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [No fresh assessment or determination of liability can be undertaken during the moratorium or liquidation period – Regional Provident Fund Commissioner-II Vs. Raju Palanilkunnathil Kesavan and Anr. – NCLT Kochi Bench](https://ibclaw.in/regional-provident-fund-commissioner-ii-vs-raju-palanilkunnathil-kesavan-and-anr-nclt-kochi-bench/)
+- **Published:** Sun, 15 Mar 2026 20:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether managerial remuneration withdrawn by suspended management constitutes fraudulent or wrongful trading under Section 66 of IBC? | Whether Routing of revenue generation of professional services through a sister concern of the Corporate Debtor constitutes fraudulent or wrongful trading? | Whether not meeting tax obligations can form a ground to defraud creditors or to carry on business with an intent to deceive? – Rakshit Dhirajlal Doshi and Anr. Vs. Chirag Shah, Liquidator of Doshion Water Umbrella (Cuddalore) Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rakshit-dhirajlal-doshi-and-anr-vs-chirag-shah-liquidator-of-doshion-water-umbrella-cuddalore-pvt-ltd-nclat-new-delhi/)
 - **Published:** Fri, 13 Mar 2026 20:59:00 +0000
