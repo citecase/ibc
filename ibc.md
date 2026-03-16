@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-16 03:43:45*
+*Last synced: 2026-03-16 07:54:47*
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 8th March, 2026 to 14th March, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-8th-march-2026-to-14th-march-2026/)
+- **Published:** Mon, 16 Mar 2026 05:23:28 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [In the absence of a specific provision in the IBC prescribing the limitation period for an application under Section 94, Article 137 of the Limitation Act, 1963 applies, which provides for a limitation period of three years from the date when the right to apply accrues – Kiran Ratilal Sheth – NCLT Mumbai Bench](https://ibclaw.in/kiran-ratilal-sheth-nclt-mumbai-bench/)
 - **Published:** Sun, 15 Mar 2026 19:51:00 +0000
