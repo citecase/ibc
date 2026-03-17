@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-17 07:35:39*
+*Last synced: 2026-03-17 13:57:40*
+
+### [Expanding clutches of NCLT – Beyond IBC purview?](https://www.barandbench.com/view-point/expanding-clutches-of-nclt-beyond-ibc-purview)
+- **Published:** Tue, 17 Mar 2026 18:08:33 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Proceedings relating to declaration of a borrower as a wilful defaulter do not fall within the ambit of the moratorium contemplated under Sections 14 or 96 of the Insolvency and Bankruptcy Code, 2016 – Bank of India Vs. Anurag Mittal – NCLT Indore Bench](https://ibclaw.in/bank-of-india-vs-anurag-mittal-nclt-indore-bench/)
+- **Published:** Tue, 17 Mar 2026 10:37:26 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Interim Resolution Professional (IRP) can continue to act as Resolution Professional (RP) when not confirmed in the first Committee of Creditors (CoC) meeting, and the validity of actions taken by the IRP prior to formal confirmation as RP? – IDBI Bank Ltd. Vs. Ravindra Kumar Goyal (IRP) – NCLAT New Delhi](https://ibclaw.in/idbi-bank-ltd-vs-ravindra-kumar-goyal-irp-nclat-new-delhi/)
+- **Published:** Tue, 17 Mar 2026 13:03:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Deemed RP: NCLAT Clarifies IRP’s Authority to Act as Deemed Resolution Professional Until Formal Appointment Under IBC Section 22](https://ibclaw.in/deemed-rp-nclat-clarifies-irps-authority-to-act-as-deemed-resolution-professional-until-formal-appointment-under-ibc-section-22/)
+- **Published:** Tue, 17 Mar 2026 13:04:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Directs CBDT to Address Frivolous Tax Litigation Despite Clear Waterfall Position under Section 53 of IBC](https://ibclaw.in/nclat-directs-cbdt-to-address-frivolous-tax-litigation-despite-clear-waterfall-position-under-section-53-of-ibc/)
+- **Published:** Tue, 17 Mar 2026 13:19:45 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT must provide certified copies of orders to aggrieved third parties for filing appeal: NCLAT](https://www.barandbench.com/news/litigation/nclt-must-provide-certified-copies-of-orders-to-aggrieved-third-parties-for-filing-appeal-nclat)
 - **Published:** Mon, 16 Mar 2026 14:39:07 +0530
