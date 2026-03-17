@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-17 13:57:40*
+*Last synced: 2026-03-17 19:34:38*
+
+### [Invocation of a corporate guarantee is not an empty formality and must be clear, specific, and addressed to the guarantor calling upon it to discharge its liability – Canara Bank Vs. J & K Integrated Textile Park Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/canara-bank-vs-j-k-integrated-textile-park-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 17 Mar 2026 18:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where no Repayment Plan is submitted, the Resolution Professional has no option but to refrain from convening a meeting of the creditors and instead file a report stating that, since no Repayment Plan has been filed, there is no justification for summoning such a meeting – Rakesh Kumar Tulsyan, RP of Mrs. Molly G – NCLT Kochi Bench](https://ibclaw.in/rakesh-kumar-tulsyan-rp-of-mrs-molly-g-nclt-kochi-bench/)
+- **Published:** Tue, 17 Mar 2026 19:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Expanding clutches of NCLT – Beyond IBC purview?](https://www.barandbench.com/view-point/expanding-clutches-of-nclt-beyond-ibc-purview)
 - **Published:** Tue, 17 Mar 2026 18:08:33 +0530
