@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-16 07:54:47*
+*Last synced: 2026-03-17 07:35:39*
+
+### [NCLT must provide certified copies of orders to aggrieved third parties for filing appeal: NCLAT](https://www.barandbench.com/news/litigation/nclt-must-provide-certified-copies-of-orders-to-aggrieved-third-parties-for-filing-appeal-nclat)
+- **Published:** Mon, 16 Mar 2026 14:39:07 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Renewal of lease or negotiations with a lessor, fall within the commercial domain of the CoC | The power under Section 424 of the Companies Act, 2013, is procedural in nature and cannot be used to expand the scope of judicial review under the IBC – Dr. Ayyappan Nair Raghavan Pillai Vs. CoC of Attukal Devi Institute of Medical Sciences Ltd. and Ors. – NCLT Kochi Bench](https://ibclaw.in/dr-ayyappan-nair-raghavan-pillai-vs-coc-of-attukal-devi-institute-of-medical-sciences-ltd-and-ors-nclt-kochi-bench/)
+- **Published:** Tue, 17 Mar 2026 06:43:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The balance sheet, being reflective of restructuring proposals subsequently rejected, cannot override the contractual loan documents which evidence the subsisting debt | Mere Balance Sheet without considering the related notes and auditors report may mislead the user of the financial statement – JSP Tracomm Pvt. Ltd. Vs. Bhuvan Madan, RP of Hiranmaye Energy Ltd. and Anr. – NCLT Kolkata Bench](https://ibclaw.in/jsp-tracomm-pvt-ltd-vs-bhuvan-madan-rp-of-hiranmaye-energy-ltd-and-anr-nclt-kolkata-bench/)
+- **Published:** Tue, 17 Mar 2026 06:49:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the issue of validity and subsistence of the attachment under the TVAT Act, which is already pending before the Hon’ble High Court and in respect of which a status quo order is operating, can be adjudicated by the Adjudicating Authority (NCLT) in exercise of jurisdiction under the IBC? – Kobo Biotech Ltd. Vs. Deputy State Tax Officer and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/kobo-biotech-ltd-vs-deputy-state-tax-officer-and-anr-nclt-hyderabad-bench/)
+- **Published:** Tue, 17 Mar 2026 06:55:30 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin-Weekly Case Laws Digest: 8th March, 2026 to 14th March, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-8th-march-2026-to-14th-march-2026/)
 - **Published:** Mon, 16 Mar 2026 05:23:28 +0000
