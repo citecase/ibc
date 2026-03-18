@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-18 07:36:43*
+*Last synced: 2026-03-18 13:59:10*
+
+### [NCLT Technical Member moves Delhi HC against appointment of junior Judicial Member as Acting President](https://www.barandbench.com/news/nclt-technical-member-moves-delhi-hc-against-appointment-of-junior-judicial-member-as-acting-president)
+- **Published:** Wed, 18 Mar 2026 16:17:36 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Sh. Bachu Venkat Balaram Das, Member (Judicial), shall discharge the functions of President, NCLT](https://ibclaw.in/sh-bachu-venkat-balaram-das-member-judicial-shall-act-as-president-nclt/)
+- **Published:** Wed, 18 Mar 2026 12:14:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Fortnightly: Important orders on IBC (Jan 16 – Jan 31, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-jan-16-jan-31-2026)
 - **Published:** Wed, 18 Mar 2026 10:43:38 +0530
