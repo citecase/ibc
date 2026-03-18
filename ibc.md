@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-18 13:59:10*
+*Last synced: 2026-03-18 19:29:13*
+
+### [The NCLT allowed applications seeking permission for the CoC to consider a revised resolution plan, even after the CoC had earlier resolved to liquidate the Corporate Debtor but had not filed an application under Section 33(2) of the IBC – Rajiv Khurana, RP of BBF Industries Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/rajiv-khurana-rp-of-bbf-industries-ltd-nclt-chandigarh-bench/)
+- **Published:** Wed, 18 Mar 2026 19:17:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Technical Member moves Delhi HC against appointment of junior Judicial Member as Acting President](https://www.barandbench.com/news/nclt-technical-member-moves-delhi-hc-against-appointment-of-junior-judicial-member-as-acting-president)
 - **Published:** Wed, 18 Mar 2026 16:17:36 +0530
