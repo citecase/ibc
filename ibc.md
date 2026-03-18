@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-18 03:26:01*
+*Last synced: 2026-03-18 07:36:43*
+
+### [NCLAT Fortnightly: Important orders on IBC (Jan 16 – Jan 31, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-jan-16-jan-31-2026)
+- **Published:** Wed, 18 Mar 2026 10:43:38 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [The expression ‘found’ used in Section 66(1) of IBC is not ornamental; it mandates a definitive and reasoned conclusion based on cogent evidence | Suspicion, inferences, conjectures, discrepancies, doubts, presumptions, or even suggestions etc. cannot substitute such a finding – Kobo Biotech Ltd. Vs. Urja Vijaykumar Shah and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/kobo-biotech-ltd-vs-urja-vijaykumar-shah-and-ors-nclt-hyderabad-bench/)
 - **Published:** Tue, 17 Mar 2026 20:28:00 +0000
