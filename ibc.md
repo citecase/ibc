@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-17 19:34:38*
+*Last synced: 2026-03-18 03:26:01*
+
+### [The expression ‘found’ used in Section 66(1) of IBC is not ornamental; it mandates a definitive and reasoned conclusion based on cogent evidence | Suspicion, inferences, conjectures, discrepancies, doubts, presumptions, or even suggestions etc. cannot substitute such a finding – Kobo Biotech Ltd. Vs. Urja Vijaykumar Shah and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/kobo-biotech-ltd-vs-urja-vijaykumar-shah-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 17 Mar 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the pendency of proceedings under the SARFAESI Act and before the Debts Recovery Tribunal bars initiation of proceedings under Section 94 of the IBC, 2016? – Ramdhari Mittal Vs. Omkara Assets Reconstruction Pvt. Ltd. and Anr. – NCLT Indore Bench](https://ibclaw.in/ramdhari-mittal-vs-omkara-assets-reconstruction-pvt-ltd-and-anr-nclt-indore-bench/)
+- **Published:** Tue, 17 Mar 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The mere pendency of civil proceedings does not ipso facto oust the jurisdiction of the Tribunal under Section 58(3) of the Companies Act, 2013 – Smt. Rita Roy Vs. Salt Lake Wine Pvt. Ltd. and Ors. – NCLT Kolkata Bench](https://ibclaw.in/smt-rita-roy-vs-salt-lake-wine-pvt-ltd-and-ors-nclt-kolkata-bench/)
+- **Published:** Tue, 17 Mar 2026 22:12:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Invocation of a corporate guarantee is not an empty formality and must be clear, specific, and addressed to the guarantor calling upon it to discharge its liability – Canara Bank Vs. J & K Integrated Textile Park Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/canara-bank-vs-j-k-integrated-textile-park-ltd-nclt-chandigarh-bench/)
 - **Published:** Tue, 17 Mar 2026 18:32:00 +0000
