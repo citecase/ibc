@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-19 13:48:46*
+*Last synced: 2026-03-19 19:28:18*
+
+### [IBC does not mandate a written agreement to establish financial debt | RBI Circular does not prevail over IBC proceedings and not mandatory for any NBFC to furnish any written financial contract or a written agreement | Withdrawal of an earlier Section 7 petition without liberty does not bar a fresh petition where breach of settlement gives rise to a new cause of action | Principles of res judicata are inapplicable where there is no adjudication on merits – Subham Capital Pvt. Ltd. Vs. Vedic Realty Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/subham-capital-pvt-ltd-vs-vedic-realty-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 19 Mar 2026 14:13:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Written Agreement Not Mandatory to Establish Financial Debt Under IBC; RBI Circular Does Not Override IBC Proceedings](https://ibclaw.in/nclat-holds-written-agreement-not-mandatory-to-establish-financial-debt-under-ibc-rbi-circular-does-not-override-ibc-proceedings/)
+- **Published:** Thu, 19 Mar 2026 14:15:49 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Resolution Professional is entitled to fees up to the date of approval of withdrawal of the CIRP application under Section 12A of the IBC by the Adjudicating Authority (NCLT) | RP is duty-bound to continue managing the affairs of the Corporate Debtor during the pendency of an application under Section 12A of the IBC | Adjudicating Authority (NCLT) has no jurisdiction to unilaterally fix, enhance, or reduce the RP’s fees except in the limited circumstance under CIRP Regulation 33(2) – Minita D Raja Vs. Cosmos Co-Op Bank Ltd. – NCLAT New Delhi](https://ibclaw.in/minita-d-raja-vs-cosmos-co-op-bank-ltd-nclat-new-delhi/)
 - **Published:** Thu, 19 Mar 2026 13:28:05 +0000
