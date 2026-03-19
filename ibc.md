@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-19 07:31:28*
+*Last synced: 2026-03-19 13:48:46*
+
+### [Resolution Professional is entitled to fees up to the date of approval of withdrawal of the CIRP application under Section 12A of the IBC by the Adjudicating Authority (NCLT) | RP is duty-bound to continue managing the affairs of the Corporate Debtor during the pendency of an application under Section 12A of the IBC | Adjudicating Authority (NCLT) has no jurisdiction to unilaterally fix, enhance, or reduce the RP’s fees except in the limited circumstance under CIRP Regulation 33(2) – Minita D Raja Vs. Cosmos Co-Op Bank Ltd. – NCLAT New Delhi](https://ibclaw.in/minita-d-raja-vs-cosmos-co-op-bank-ltd-nclat-new-delhi/)
+- **Published:** Thu, 19 Mar 2026 13:28:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Resolution Professional Entitled to Fees Until Approval of Section 12A Withdrawal; NCLT Cannot Unilaterally Alter Fees Except Under Regulation 33(2)](https://ibclaw.in/nclat-clarifies-resolution-professional-entitled-to-fees-until-approval-of-section-12a-withdrawal-nclt-cannot-unilaterally-alter-fees-except-under-regulation-332/)
+- **Published:** Thu, 19 Mar 2026 13:30:54 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Although the IBC, 2016 does not expressly provide for recall or withdrawal of liquidation proceedings post-liquidation order, the Tribunal (NCLT) may exercise its inherent jurisdiction to recall such proceedings to meet the ends of justice and prevent abuse of process – Maximus ARC Ltd. Vs. Mummaneni Vazra Laxmi (Liquidator) – NCLT Hyderabad Bench](https://ibclaw.in/maximus-arc-ltd-vs-mummaneni-vazra-laxmi-liquidator-nclt-hyderabad-bench/)
 - **Published:** Wed, 18 Mar 2026 21:38:00 +0000
