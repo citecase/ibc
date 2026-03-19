@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-18 19:29:13*
+*Last synced: 2026-03-19 03:26:43*
+
+### [In the proceedings under Section 7 of IBC, the Financial Creditor and the Corporate Debtor constitute the necessary parties, unless the presence of a third party is indispensable for determining the existence of financial debt and occurrence of default – Telangana Housing Board Vs. Koncept Nirman Pvt. Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/telangana-housing-board-vs-koncept-nirman-pvt-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Wed, 18 Mar 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings for fraud classification and reporting, being distinct from debt recovery, do not fall within the moratorium under Sections 14 or 96 of the IBC, and are intended for regulatory compliance and public law enforcement, not recovery of debt – Bank of India Vs. Anurodh Mittal – NCLT Indore Bench](https://ibclaw.in/bank-of-india-vs-anurodh-mittal-nclt-indore-bench/)
+- **Published:** Wed, 18 Mar 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Issue of stamp duty does not affect the maintainability of the application under Section 95 of IBC | Pendency of CIRP or liquidation proceedings against the Corporate Debtor does not operate as a bar to initiation of proceedings under Section 95 against the Personal Guarantor – Bank of Maharastra Vs. Nukala Savithri and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/bank-of-maharastra-vs-nukala-savithri-and-anr-nclt-hyderabad-bench/)
+- **Published:** Wed, 18 Mar 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The statutory prohibition under Section 14(1) of IBC is absolute and automatic, and does not depend upon whether a creditor or statutory authority had actual knowledge or notice of the admission order | Set-off, appropriation and adjustment of Income Tax amounts payable to the Corporate Debtor against its pre-CIRP liabilities are prohibited under Section 14(1)(a) | The IBC, 2016 must prevail over the provisions of the Income Tax Act, 1961 – Nishant Agrawal (RP) Vs. Income Tax Department – NCLT Indore Bench](https://ibclaw.in/nishant-agrawal-rp-vs-income-tax-department-nclt-indore-bench/)
+- **Published:** Wed, 18 Mar 2026 22:12:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The NCLT allowed applications seeking permission for the CoC to consider a revised resolution plan, even after the CoC had earlier resolved to liquidate the Corporate Debtor but had not filed an application under Section 33(2) of the IBC – Rajiv Khurana, RP of BBF Industries Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/rajiv-khurana-rp-of-bbf-industries-ltd-nclt-chandigarh-bench/)
 - **Published:** Wed, 18 Mar 2026 19:17:00 +0000
