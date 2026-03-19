@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-19 03:26:43*
+*Last synced: 2026-03-19 07:31:28*
+
+### [Although the IBC, 2016 does not expressly provide for recall or withdrawal of liquidation proceedings post-liquidation order, the Tribunal (NCLT) may exercise its inherent jurisdiction to recall such proceedings to meet the ends of justice and prevent abuse of process – Maximus ARC Ltd. Vs. Mummaneni Vazra Laxmi (Liquidator) – NCLT Hyderabad Bench](https://ibclaw.in/maximus-arc-ltd-vs-mummaneni-vazra-laxmi-liquidator-nclt-hyderabad-bench/)
+- **Published:** Wed, 18 Mar 2026 21:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sale of the secured asset under SARFAESI Act, 2002, concluded prior to the moratorium under Section 96 of IBC, stands excluded from the estate of the personal guarantor – Rozina Firoz Hajiani and Ors. Vs. Union of India and Ors. – Bombay High Court](https://ibclaw.in/rozina-firoz-hajiani-and-ors-vs-union-of-india-and-ors-bombay-high-court/)
+- **Published:** Wed, 18 Mar 2026 21:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Scheme of Compromise and Arrangement under Section 230 of the Companies Act, 2013 can be considered and approved by the Committee of Creditors (CoC) during the Corporate Insolvency Resolution Process, prior to the passing of a liquidation order under Section 33 of the IBC, 2016? – N.K. Kurian Vs. K Easwara Pillai, RP of Mangomeadows Agricultural Pleasure Land Pvt. Ltd. and Anr. – NCLT Kochi Bench](https://ibclaw.in/n-k-kurian-vs-k-easwara-pillai-rp-of-mangomeadows-agricultural-pleasure-land-pvt-ltd-and-anr-nclt-kochi-bench/)
+- **Published:** Wed, 18 Mar 2026 22:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Statutory Immunity and the Doctrine of Good Faith in Corporate Insolvency: An Analysis of Section 233 of the Insolvency and Bankruptcy Code, 2016 – By Adv. Avichal Kumar](https://ibclaw.in/statutory-immunity-and-the-doctrine-of-good-faith-in-corporate-insolvency-an-analysis-of-section-233-of-the-insolvency-and-bankruptcy-code-2016-by-adv-avichal-kumar/)
+- **Published:** Thu, 19 Mar 2026 04:55:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Commercial Wisdom and Stakeholder Balance under the Insolvency and Bankruptcy Code, 2016: Recalibrating Creditor Primacy in India – By Jansi Satya Naga Lakshmi Pappala](https://ibclaw.in/commercial-wisdom-and-stakeholder-balance-under-the-insolvency-and-bankruptcy-code-2016-recalibrating-creditor-primacy-in-india-by-jansi-satya-naga-lakshmi-pappala/)
+- **Published:** Thu, 19 Mar 2026 04:57:45 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [In the proceedings under Section 7 of IBC, the Financial Creditor and the Corporate Debtor constitute the necessary parties, unless the presence of a third party is indispensable for determining the existence of financial debt and occurrence of default – Telangana Housing Board Vs. Koncept Nirman Pvt. Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/telangana-housing-board-vs-koncept-nirman-pvt-ltd-and-anr-nclt-hyderabad-bench/)
 - **Published:** Wed, 18 Mar 2026 19:33:00 +0000
