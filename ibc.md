@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-20 03:16:15*
+*Last synced: 2026-03-20 07:29:23*
+
+### [Section 42 of the IBC prescribes a self-contained, non-extendable limitation period of 14 days from the date of receipt of the liquidator’s decision for filing an appeal, and the provisions of Section 5 of the Limitation Act, 1963, read with Section 238A of the IBC, cannot be invoked to condone delay beyond this period – Sansar Investment and Finance Company Pvt. Ltd. Vs. Atlantic Spinning and Weaving Mills Ltd. – NCLAT Chennai](https://ibclaw.in/sansar-investment-and-finance-company-pvt-ltd-vs-atlantic-spinning-and-weaving-mills-ltd-nclat-chennai/)
+- **Published:** Fri, 20 Mar 2026 04:45:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In petition under Section 9 of IBC, the Adjudicating Authority (NCLT) is not required to adjudicate the merits of the dispute but only to ascertain the existence of a real dispute, not a patently feeble or illusory defence – Vave India Energy Solutions Pvt. Ltd. Vs. Eastman Auto & Power Ltd. – NCLAT New Delhi](https://ibclaw.in/vave-india-energy-solutions-pvt-ltd-vs-eastman-auto-and-power-ltd-nclat-new-delhi/)
+- **Published:** Fri, 20 Mar 2026 04:46:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Section 334 of the Companies Act, 2013 empowers the Tribunal to exercise judicial discretion to validate transactions occurring after commencement of winding up if the transaction is genuine, for adequate consideration, and benefits stakeholders – Bunkim Finance and Investment Pvt. Ltd. Vs. Ashish Saogi, Liquidator of Stride Multitrade Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/bunkim-finance-and-investment-pvt-ltd-vs-ashish-saogi-liquidator-of-stride-multitrade-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Thu, 19 Mar 2026 20:00:00 +0000
