@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-19 19:28:18*
+*Last synced: 2026-03-20 03:16:15*
+
+### [Section 334 of the Companies Act, 2013 empowers the Tribunal to exercise judicial discretion to validate transactions occurring after commencement of winding up if the transaction is genuine, for adequate consideration, and benefits stakeholders – Bunkim Finance and Investment Pvt. Ltd. Vs. Ashish Saogi, Liquidator of Stride Multitrade Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/bunkim-finance-and-investment-pvt-ltd-vs-ashish-saogi-liquidator-of-stride-multitrade-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 19 Mar 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adjudicating Authority (NCLT) is empowered under Section 65 of the IBC to examine and penalize abuse of the insolvency process at any stage, irrespective of the prior admission of CIRP, and may do so suo motu or upon an application | Fees and expenses of the Resolution Professional (RP) shall be borne by the Operational Creditor who filed the application under Section 9 – Gopal Trading Company Vs. Ravindra Kumar Goyal, RP of Matrushri Fibres Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/gopal-trading-company-vs-ravindra-kumar-goyal-rp-of-matrushri-fibres-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 20 Mar 2026 00:54:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC does not mandate a written agreement to establish financial debt | RBI Circular does not prevail over IBC proceedings and not mandatory for any NBFC to furnish any written financial contract or a written agreement | Withdrawal of an earlier Section 7 petition without liberty does not bar a fresh petition where breach of settlement gives rise to a new cause of action | Principles of res judicata are inapplicable where there is no adjudication on merits – Subham Capital Pvt. Ltd. Vs. Vedic Realty Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/subham-capital-pvt-ltd-vs-vedic-realty-pvt-ltd-nclat-new-delhi/)
 - **Published:** Thu, 19 Mar 2026 14:13:52 +0000
