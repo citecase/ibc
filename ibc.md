@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-21 13:25:36*
+*Last synced: 2026-03-21 19:00:29*
+
+### [Live: IBBI Amendments in the last 6 months under IBC| 25 March 2026 | 04PM : Join Now](https://ibclaw.in/live-ibbi-amendments-in-the-last-6-months-under-ibc-25-march-2026-04pm-join-now/)
+- **Published:** Sat, 21 Mar 2026 13:43:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Judicial Innovations in The Real Estate Insolvency Regime: An Analytical Study of Reverse CIRP and Project CIRP – By Tanushree](https://ibclaw.in/judicial-innovations-in-the-real-estate-insolvency-regime-an-analytical-study-of-reverse-cirp-and-project-cirp-by-tanushree/)
+- **Published:** Sat, 21 Mar 2026 14:41:06 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Assets of the Corporate Debtor (specifically FDRs) not disclosed in Information Memorandum but discovered post-approval and implementation of Resolution Plan, remain with the Corporate Debtor under new management and do not revert to the erstwhile Committee of Creditors (CoC) or the Banks | Omission of asset from Information Memorandum does not prejudice the right of the Successful Resolution Applicant (SRA) to claim such assets after implementation of the Resolution Plan – SPS Steels Rolling Mills Ltd. Vs. Central Bank of India – NCLAT New Delhi](https://ibclaw.in/sps-steels-rolling-mills-ltd-vs-central-bank-of-india-nclat-new-delhi/)
 - **Published:** Sat, 21 Mar 2026 08:21:41 +0000
