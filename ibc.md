@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-20 07:29:23*
+*Last synced: 2026-03-21 07:09:51*
+
+### [Surendra Modi Vs. Ashish Singh, RP of Vibrant Buildwell Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/surendra-modi-vs-ashish-singh-rp-of-vibrant-buildwell-pvt-ltd-and-ors-nclat-new-delhi-2/)
+- **Published:** Fri, 20 Mar 2026 14:31:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chirag Pittie and Anr. Vs. Mukesh Verma, RP of Shrivallabh Pittie Industries Ltd. – NCLAT New Delhi](https://ibclaw.in/chirag-pittie-and-anr-vs-mukesh-verma-rp-of-shrivallabh-pittie-industries-ltd-nclat-new-delhi/)
+- **Published:** Fri, 20 Mar 2026 14:37:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [MJ Shah Consortium Successful Resolution Applicant Vs. India Infoline Finance Ltd. (IIFL) and Ors. – NCLAT New Delhi](https://ibclaw.in/mj-shah-consortium-successful-resolution-applicant-vs-india-infoline-finance-ltd-iifl-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 20 Mar 2026 14:40:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Adjudicating Authority’s Power Under Section 65 IBC to Penalize Abuse of Insolvency Process at Any Stage; Operational Creditor Liable for RP Fees and CIRP Costs](https://ibclaw.in/nclat-clarifies-adjudicating-authoritys-power-under-section-65-ibc-to-penalize-abuse-of-insolvency-process-at-any-stage-operational-creditor-liable-for-rp-fees-and-cirp-costs/)
+- **Published:** Sat, 21 Mar 2026 04:40:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Section 42 of the IBC prescribes a self-contained, non-extendable limitation period of 14 days from the date of receipt of the liquidator’s decision for filing an appeal, and the provisions of Section 5 of the Limitation Act, 1963, read with Section 238A of the IBC, cannot be invoked to condone delay beyond this period – Sansar Investment and Finance Company Pvt. Ltd. Vs. Atlantic Spinning and Weaving Mills Ltd. – NCLAT Chennai](https://ibclaw.in/sansar-investment-and-finance-company-pvt-ltd-vs-atlantic-spinning-and-weaving-mills-ltd-nclat-chennai/)
 - **Published:** Fri, 20 Mar 2026 04:45:58 +0000
