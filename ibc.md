@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-21 07:09:51*
+*Last synced: 2026-03-21 13:25:36*
+
+### [Assets of the Corporate Debtor (specifically FDRs) not disclosed in Information Memorandum but discovered post-approval and implementation of Resolution Plan, remain with the Corporate Debtor under new management and do not revert to the erstwhile Committee of Creditors (CoC) or the Banks | Omission of asset from Information Memorandum does not prejudice the right of the Successful Resolution Applicant (SRA) to claim such assets after implementation of the Resolution Plan – SPS Steels Rolling Mills Ltd. Vs. Central Bank of India – NCLAT New Delhi](https://ibclaw.in/sps-steels-rolling-mills-ltd-vs-central-bank-of-india-nclat-new-delhi/)
+- **Published:** Sat, 21 Mar 2026 08:21:41 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT New Delhi Holds Omitted Assets Discovered Post-Resolution Plan Remain with Corporate Debtor under New Management](https://ibclaw.in/nclat-new-delhi-holds-omitted-assets-discovered-post-resolution-plan-remain-with-corporate-debtor-under-new-management/)
+- **Published:** Sat, 21 Mar 2026 08:22:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An application under Section 9 of the IBC may very well be maintained by Sole Proprietor even where demand notice under Section 8 of the IBC has been issued by the proprietorship firm – Indu Jain, (Sole Proprietor of IB Jewels) Vs. Birla Jewels Ltd. – NCLAT New Delhi](https://ibclaw.in/indu-jain-sole-proprietor-of-ib-jewels-vs-birla-jewels-ltd-nclat-new-delhi/)
+- **Published:** Sat, 21 Mar 2026 10:20:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Sole Proprietor Can Maintain Section 9 IBC Application Even If Section 8 Demand Notice Issued by Proprietorship Firm](https://ibclaw.in/nclat-holds-sole-proprietor-can-maintain-section-9-ibc-application-even-if-section-8-demand-notice-issued-by-proprietorship-firm/)
+- **Published:** Sat, 21 Mar 2026 10:22:22 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Top 8 NCLAT Judgments This Week under IBC (Insolvency & Bankruptcy Code, 2016)](https://ibclaw.in/top-8-nclat-judgments-this-week-under-ibc-insolvency-bankruptcy-code-2016/)
+- **Published:** Sat, 21 Mar 2026 12:59:44 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Surendra Modi Vs. Ashish Singh, RP of Vibrant Buildwell Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/surendra-modi-vs-ashish-singh-rp-of-vibrant-buildwell-pvt-ltd-and-ors-nclat-new-delhi-2/)
 - **Published:** Fri, 20 Mar 2026 14:31:33 +0000
