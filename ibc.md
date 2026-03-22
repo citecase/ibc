@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-21 19:00:29*
+*Last synced: 2026-03-22 19:02:29*
+
+### [The period benefit of the Limitation Act on the day when the court is closed is available only for the period prescribed for the limitation that is for 30 days, the said benefit cannot be held applicable with regard to 45th day under Section 61 of IBC – Nashik Workers Union Vs. Dhaval Jitendra Kumar Mistry, RP and Ors. – NCLAT New Delhi](https://ibclaw.in/nashik-workers-union-vs-dhaval-jitendra-kumar-mistry-rp-and-ors-nclat-new-delhi/)
+- **Published:** Sun, 22 Mar 2026 18:46:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Live: IBBI Amendments in the last 6 months under IBC| 25 March 2026 | 04PM : Join Now](https://ibclaw.in/live-ibbi-amendments-in-the-last-6-months-under-ibc-25-march-2026-04pm-join-now/)
 - **Published:** Sat, 21 Mar 2026 13:43:24 +0000
