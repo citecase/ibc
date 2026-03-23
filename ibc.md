@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-23 07:45:03*
+*Last synced: 2026-03-23 19:28:25*
+
+### [Primacy of commercial wisdom does not mean that every action taken in the insolvency process is altogether immune from scrutiny in every situation | The decision to accept or reject a settlement under Section 12A of IBC falls essentially within the realm of the collective commercial wisdom of the CoC | The doctrine of merger does not apply to an order refusing special leave | Absence of merger does not entitle the applicant to reopen a disposed SLP through a MA – Lamba Exports Pvt. Ltd. Vs. Dhir Global Industries Pvt. Ltd. and Ors. – Supreme Court](https://ibclaw.in/lamba-exports-pvt-ltd-vs-dhir-global-industries-pvt-ltd-and-ors-supreme-court/)
+- **Published:** Mon, 23 Mar 2026 14:22:45 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Clarifies Primacy of CoC’s Commercial Wisdom Under IBC Section 12A Is Not Absolute and Doctrine of Merger Does Not Apply to SLP Dismissals](https://ibclaw.in/supreme-court-clarifies-primacy-of-cocs-commercial-wisdom-under-ibc-section-12a-is-not-absolute-and-doctrine-of-merger-does-not-apply-to-slp-dismissals/)
+- **Published:** Mon, 23 Mar 2026 14:27:59 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin-Weekly Case Laws Digest: 15th March, 2026 to 21st March, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-15th-march-2026-to-21st-march-2026/)
 - **Published:** Mon, 23 Mar 2026 05:48:47 +0000
