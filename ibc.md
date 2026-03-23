@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-22 19:02:29*
+*Last synced: 2026-03-23 03:31:37*
+
+### [Fairness in the bidding process must be contextual and cannot be interpreted to undermine the certainty and finality of the process, especially where timelines were clearly stipulated and adhered to, and no material irregularity or fraud is established – Sunrise Industries Vs. Umesh Gupta, Liquidator for Hema Automotive Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/sunrise-industries-vs-umesh-gupta-liquidator-for-hema-automotive-pvt-ltd-nclat-new-delhi/)
+- **Published:** Sun, 22 Mar 2026 19:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the sentence of fine imposed on a company under liquidation should be suspended on the ground that criminal liability ceases under Section 32A of IBC? – Jas Infrastructure and Power Ltd. Vs. Central Bureau of Investigation – Delhi High Court](https://ibclaw.in/jas-infrastructure-and-power-ltd-vs-central-bureau-of-investigation-delhi-high-court/)
+- **Published:** Sun, 22 Mar 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the application under Section 7 of IBC is filed by allottees or financial creditors in respect of a particular project, the CIRP must be confined to that project alone and cannot affect other projects of the corporate debtor – Navin M. Raheja Vs. Vipul Jain and Ors. – NCLAT New Delhi](https://ibclaw.in/navin-m-raheja-vs-vipul-jain-and-ors-nclat-new-delhi/)
+- **Published:** Sun, 22 Mar 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether pendency of an arbitration proceedings, which is likely to go in favour of the Corporate Debtor and which may result in realisation of an amount, sufficient to pay the outstanding dues, will call for giving a pause to the CIRP? – Raja Sekhara Rao Narayanam and Ors. Vs. Kalvakolanu Murali Krishna Prasad (IRP) and Anr. – NCLAT Chennai](https://ibclaw.in/raja-sekhara-rao-narayanam-and-ors-vs-kalvakolanu-murali-krishna-prasad-irp-and-anr-nclat-chennai/)
+- **Published:** Sun, 22 Mar 2026 22:15:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The period benefit of the Limitation Act on the day when the court is closed is available only for the period prescribed for the limitation that is for 30 days, the said benefit cannot be held applicable with regard to 45th day under Section 61 of IBC – Nashik Workers Union Vs. Dhaval Jitendra Kumar Mistry, RP and Ors. – NCLAT New Delhi](https://ibclaw.in/nashik-workers-union-vs-dhaval-jitendra-kumar-mistry-rp-and-ors-nclat-new-delhi/)
 - **Published:** Sun, 22 Mar 2026 18:46:00 +0000
