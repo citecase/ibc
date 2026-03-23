@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-23 03:31:37*
+*Last synced: 2026-03-23 07:45:03*
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 15th March, 2026 to 21st March, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-15th-march-2026-to-21st-march-2026/)
+- **Published:** Mon, 23 Mar 2026 05:48:47 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Fairness in the bidding process must be contextual and cannot be interpreted to undermine the certainty and finality of the process, especially where timelines were clearly stipulated and adhered to, and no material irregularity or fraud is established – Sunrise Industries Vs. Umesh Gupta, Liquidator for Hema Automotive Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/sunrise-industries-vs-umesh-gupta-liquidator-for-hema-automotive-pvt-ltd-nclat-new-delhi/)
 - **Published:** Sun, 22 Mar 2026 19:44:00 +0000
