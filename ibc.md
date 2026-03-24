@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-24 03:19:43*
+*Last synced: 2026-03-24 07:36:24*
+
+### [After recusal over attempt to influence member, NCLAT sets aside insolvency; imposes ₹10 lakh costs](https://www.barandbench.com/news/litigation/after-recusal-over-attempt-to-influence-member-nclat-sets-aside-insolvency-imposes-10-lakh-costs)
+- **Published:** Mon, 23 Mar 2026 19:12:09 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [In appeal under Section 61 of IBC, Limitation beyond the condonable period that is the upper limit of maximum 45 days, is not permissible to be condoned in any manner whatsoever – Sub-Registrar Office and Anr. Vs. Venkataraman Subramanian, Official Liquidator JBM Shelters Pvt. Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/sub-registrar-office-and-anr-vs-venkataraman-subramanian-official-liquidator-jbm-shelters-pvt-ltd-and-anr-nclat-chennai/)
 - **Published:** Mon, 23 Mar 2026 19:42:00 +0000
