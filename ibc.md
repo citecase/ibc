@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-24 13:56:52*
+*Last synced: 2026-03-24 19:34:21*
+
+### [Bombay High Court Expresses Concern On Misuse Of IBC To Stall SARFAESI Proceedings; Quashes DRT Order Halting Possession Of Secured Asset](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/rozina-firoz-hajiani-ors-v-union-of-india-ors-2026bhc-os6969-db-1610595)
+- **Published:** Tue, 24 Mar 2026 15:00:15 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Comparative Merits Of Rival Offers Or CoC’s Commercial Decision Cannot Be Reassessed In MA Arising From Disposed SLP: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/ms-lamba-exports-pvt-ltd-v-ms-dhir-global-industries-pvt-ltd-ors-2026-insc-275-1610571)
 - **Published:** Tue, 24 Mar 2026 11:30:09 GMT
