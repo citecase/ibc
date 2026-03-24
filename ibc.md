@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-24 07:36:24*
+*Last synced: 2026-03-24 13:56:52*
+
+### [Comparative Merits Of Rival Offers Or CoC’s Commercial Decision Cannot Be Reassessed In MA Arising From Disposed SLP: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/ms-lamba-exports-pvt-ltd-v-ms-dhir-global-industries-pvt-ltd-ors-2026-insc-275-1610571)
+- **Published:** Tue, 24 Mar 2026 11:30:09 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Central Transmission Utility of India Limited v. Sumit Binani 2026 INSC 284 - IBC - Set Off -](https://www.caseciter.com/2026insc284/)
+- **Published:** Tue, 24 Mar 2026 11:32:21 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Evolving Framework of Group Insolvency in India: A Critical Analysis of the UNCITRAL Model Law on Enterprise Group Insolvency and its Implications for the Insolvency and Bankruptcy Code, 2016 – By Dr. Saima Hassan, Resurgent Resolution Professionals LLP](https://ibclaw.in/evolving-framework-of-group-insolvency-in-india-a-critical-analysis-of-the-uncitral-model-law-on-enterprise-group-insolvency-and-its-implications-for-the-insolvency-and-bankruptcy-code-2016-by-dr/)
+- **Published:** Tue, 24 Mar 2026 11:54:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A security deposit made by the Corporate Debtor prior to the commencement of CIRP cannot be appropriated or set off by the Operational Creditor towards pre-CIRP dues after the moratorium under Section 14 of the IBC has commenced – Central Transmission Utility of India Ltd. Vs. Sumit Binani and Ors. – Supreme Court](https://ibclaw.in/central-transmission-utility-of-india-ltd-vs-sumit-binani-and-ors-supreme-court/)
+- **Published:** Tue, 24 Mar 2026 13:00:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Clarifies Security Deposits Cannot Be Set Off Against Pre-CIRP Dues After Moratorium Under Section 14 of IBC](https://ibclaw.in/supreme-court-clarifies-security-deposits-cannot-be-set-off-against-pre-cirp-dues-after-moratorium-under-section-14-of-ibc/)
+- **Published:** Tue, 24 Mar 2026 13:01:40 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [After recusal over attempt to influence member, NCLAT sets aside insolvency; imposes ₹10 lakh costs](https://www.barandbench.com/news/litigation/after-recusal-over-attempt-to-influence-member-nclat-sets-aside-insolvency-imposes-10-lakh-costs)
 - **Published:** Mon, 23 Mar 2026 19:12:09 +0530
