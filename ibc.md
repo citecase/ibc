@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-23 19:28:25*
+*Last synced: 2026-03-24 03:19:43*
+
+### [In appeal under Section 61 of IBC, Limitation beyond the condonable period that is the upper limit of maximum 45 days, is not permissible to be condoned in any manner whatsoever – Sub-Registrar Office and Anr. Vs. Venkataraman Subramanian, Official Liquidator JBM Shelters Pvt. Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/sub-registrar-office-and-anr-vs-venkataraman-subramanian-official-liquidator-jbm-shelters-pvt-ltd-and-anr-nclat-chennai/)
+- **Published:** Mon, 23 Mar 2026 19:42:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Primacy of commercial wisdom does not mean that every action taken in the insolvency process is altogether immune from scrutiny in every situation | The decision to accept or reject a settlement under Section 12A of IBC falls essentially within the realm of the collective commercial wisdom of the CoC | The doctrine of merger does not apply to an order refusing special leave | Absence of merger does not entitle the applicant to reopen a disposed SLP through a MA – Lamba Exports Pvt. Ltd. Vs. Dhir Global Industries Pvt. Ltd. and Ors. – Supreme Court](https://ibclaw.in/lamba-exports-pvt-ltd-vs-dhir-global-industries-pvt-ltd-and-ors-supreme-court/)
 - **Published:** Mon, 23 Mar 2026 14:22:45 +0000
