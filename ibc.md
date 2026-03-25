@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-25 07:35:38*
+*Last synced: 2026-03-25 13:55:30*
+
+### [Security Deposit Cannot Be Adjusted Towards Pre-CIRP Dues After Moratorium Under IBC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/central-transmission-utility-of-india-limited-v-sumit-binani-2026-insc-284-pre-cirp-dues-moratorium-ibc-1610643)
+- **Published:** Wed, 25 Mar 2026 09:00:55 GMT
+- **Source:** https://verdictum.in/feed
+
+### [When the Going Concern Cannot Go On: Sale of Sovereign-Licensed Enterprises in Liquidation under the IBC – By Madhavi Sinha](https://ibclaw.in/when-the-going-concern-cannot-go-on-sale-of-sovereign-licensed-enterprises-in-liquidation-under-the-ibc-by-madhavi-sinha/)
+- **Published:** Wed, 25 Mar 2026 09:20:09 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT refuses interim plea by Vedanta to halt Adani's resolution plan for Jaiprakash Associates](https://www.barandbench.com/news/litigation/nclat-refuses-interim-plea-by-vedanta-to-halt-adanis-resolution-plan-for-jaiprakash-associates)
 - **Published:** Wed, 25 Mar 2026 09:59:50 +0530
