@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-25 13:55:30*
+*Last synced: 2026-03-25 19:25:35*
+
+### [25 Former Judges Including Retired Supreme Court Judges Issue Statement Slamming USCIRF Report Seeking Ban On RSS](https://www.verdictum.in/news/retired-judges-statement-uscirf-report-recommending-ban-rss-1610673)
+- **Published:** Wed, 25 Mar 2026 14:35:53 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Security Deposit Cannot Be Adjusted Towards Pre-CIRP Dues After Moratorium Under IBC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/central-transmission-utility-of-india-limited-v-sumit-binani-2026-insc-284-pre-cirp-dues-moratorium-ibc-1610643)
 - **Published:** Wed, 25 Mar 2026 09:00:55 GMT
