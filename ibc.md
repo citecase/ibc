@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-24 19:34:21*
+*Last synced: 2026-03-25 07:35:38*
+
+### [NCLAT refuses interim plea by Vedanta to halt Adani's resolution plan for Jaiprakash Associates](https://www.barandbench.com/news/litigation/nclat-refuses-interim-plea-by-vedanta-to-halt-adanis-resolution-plan-for-jaiprakash-associates)
+- **Published:** Wed, 25 Mar 2026 09:59:50 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Bombay High Court Expresses Concern On Misuse Of IBC To Stall SARFAESI Proceedings; Quashes DRT Order Halting Possession Of Secured Asset](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/rozina-firoz-hajiani-ors-v-union-of-india-ors-2026bhc-os6969-db-1610595)
 - **Published:** Tue, 24 Mar 2026 15:00:15 GMT
