@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-25 19:25:35*
+*Last synced: 2026-03-26 07:42:50*
+
+### [Difference between Duties of Resolution Professional and Liquidator through Analysis of Liquidation Orders – By Tushar Yadav & Khushaan Bahl](https://ibclaw.in/difference-between-duties-of-resolution-professional-and-liquidator-through-analysis-of-liquidation-orders-by-tushar-yadav-khushaan-bahl/)
+- **Published:** Thu, 26 Mar 2026 04:59:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Jurisprudential Characterization of The Resolution Professional: A Comprehensive Analysis of The Administrative Mandate under The Insolvency and Bankruptcy Code – By Adv. Aaditya Saraf](https://ibclaw.in/the-jurisprudential-characterization-of-the-resolution-professional-a-comprehensive-analysis-of-the-administrative-mandate-under-the-insolvency-and-bankruptcy-code-by-adv-aaditya-saraf/)
+- **Published:** Thu, 26 Mar 2026 05:04:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A transfer under Section 43 of IBC is not confined to the physical movement of funds | The extinguishment, relinquishment, or reduction of an enforceable receivable through accounting entries itself amounts to a transfer of property or an interest therein within the meaning of Section 43(2)(a) of IBC – Atul Babulal Prajapati and Anr. Vs. Suhas Dinkar Bhattbhatt, Liquidator of WSH Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/atul-babulal-prajapati-and-anr-vs-suhas-dinkar-bhattbhatt-liquidator-of-wsh-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 26 Mar 2026 06:14:51 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT, in cases of bankruptcy of personal guarantors of corporate debtors under the IBC, has to apply the norms followed by the DRT | An auction conducted with a notice period shorter than the established norm of around 30 days violates the requirement of fair opportunity to bidders | Post-facto sharing of information by the Bankruptcy Trustee with the Committee of Creditors (CoC) is contrary to the objectives of the IBC – Akshat Gupta Vs. Union Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/akshat-gupta-vs-union-bank-of-india-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 26 Mar 2026 06:45:22 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies NCLT Must Apply DRT Norms in Bankruptcy of Personal Guarantors; 30-Day Auction Notice Mandatory for Fairness](https://ibclaw.in/nclat-clarifies-nclt-must-apply-drt-norms-in-bankruptcy-of-personal-guarantors-30-day-auction-notice-mandatory-for-fairness/)
+- **Published:** Thu, 26 Mar 2026 06:46:49 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a judicial order is pronounced in open court, the law imputes knowledge to the parties and sets the clock of limitation in motion | Uploading of an order is an administrative act; pronouncement of a judgement/order is a judicial act – Mukesh Sumermal Sanghvi Vs. R. D. Engineer (India) Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/mukesh-sumermal-sanghvi-vs-r-d-engineer-india-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 26 Mar 2026 07:18:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Limitation for Appeals Begins from Pronouncement of Order in Open Court, Not Date of Uploading](https://ibclaw.in/nclat-holds-limitation-for-appeals-begins-from-pronouncement-of-order-in-open-court-not-date-of-uploading/)
+- **Published:** Thu, 26 Mar 2026 07:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [25 Former Judges Including Retired Supreme Court Judges Issue Statement Slamming USCIRF Report Seeking Ban On RSS](https://www.verdictum.in/news/retired-judges-statement-uscirf-report-recommending-ban-rss-1610673)
 - **Published:** Wed, 25 Mar 2026 14:35:53 GMT
