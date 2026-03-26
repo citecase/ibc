@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-26 07:42:50*
+*Last synced: 2026-03-26 14:06:05*
+
+### [Where a deed of guarantee provides for its invocation through a demand, then the liability under the same becomes enforceable only on demand – Nandani Singh Vs. Sandeep Kr. Bhatt and Anr. – NCLAT New Delhi](https://ibclaw.in/nandani-singh-vs-sandeep-kr-bhatt-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 26 Mar 2026 12:05:14 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Difference between Duties of Resolution Professional and Liquidator through Analysis of Liquidation Orders – By Tushar Yadav & Khushaan Bahl](https://ibclaw.in/difference-between-duties-of-resolution-professional-and-liquidator-through-analysis-of-liquidation-orders-by-tushar-yadav-khushaan-bahl/)
 - **Published:** Thu, 26 Mar 2026 04:59:08 +0000
