@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-27 07:42:14*
+*Last synced: 2026-03-27 13:50:29*
+
+### [NCLT Can’t Dilute Consequences Of Criminal Prosecution By Accepting Agreement Executed Between Parties: Bombay High Court](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/2026bhcas14523db-63-moons-technologies-limited-v-union-of-india-1610796)
+- **Published:** Fri, 27 Mar 2026 08:30:07 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Appointment of Ms. Aparna Sinha as ex-officio member in IBBI](https://ibclaw.in/ex-officio-member-of-ibbi/)
+- **Published:** Fri, 27 Mar 2026 08:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Amendment Bill Debate to Resume Today in Parliament After 4.5-Hour Discussion](https://ibclaw.in/ibc-amendment-bill-debate-to-resume-today-in-parliament-after-4-5-hour-discussion/)
 - **Published:** Fri, 27 Mar 2026 05:11:49 +0000
