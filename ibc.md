@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-27 03:39:01*
+*Last synced: 2026-03-27 07:42:14*
+
+### [IBC Amendment Bill Debate to Resume Today in Parliament After 4.5-Hour Discussion](https://ibclaw.in/ibc-amendment-bill-debate-to-resume-today-in-parliament-after-4-5-hour-discussion/)
+- **Published:** Fri, 27 Mar 2026 05:11:49 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Once the CIRP has culminated in approval of a Resolution Plan and, upon its non-implementation, liquidation proceedings have been initiated under Section 33 of IBC at the behest of the applicant himself, the CIRP cannot be revived de novo by putting the clock back – G. Madhusudhan Rao Vs. Bheema Cements Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/g-madhusudhan-rao-vs-bheema-cements-ltd-and-anr-nclat-chennai/)
 - **Published:** Thu, 26 Mar 2026 20:59:00 +0000
