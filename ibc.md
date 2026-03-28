@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-27 13:50:29*
+*Last synced: 2026-03-28 13:32:56*
+
+### [Mere inclusion of an interest clause in invoices does not automatically create a binding contractual obligation unless the same forms part of the agreed terms between the parties | The statutory threshold under Section 4 of the IBC must be satisfied as on the date of filing of the application – Paarichem Resources LLP. Vs. Vision Products Pvt. Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/paarichem-resources-llp-vs-vision-products-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Sat, 28 Mar 2026 11:11:51 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Can’t Dilute Consequences Of Criminal Prosecution By Accepting Agreement Executed Between Parties: Bombay High Court](https://www.verdictum.in/court-updates/high-courts/bombay-high-court/2026bhcas14523db-63-moons-technologies-limited-v-union-of-india-1610796)
 - **Published:** Fri, 27 Mar 2026 08:30:07 GMT
