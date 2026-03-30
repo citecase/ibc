@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-30 14:10:06*
+*Last synced: 2026-03-30 19:34:10*
+
+### [Where the liquidation value payable to the operational creditor is nil, payment of a lesser amount than the claimed sum in the resolution plan does not violate Section 30(2) – Uttarakhand Power Corporation Ltd. Vs. Raman Sibal and Ors. – NCLAT New Delhi](https://ibclaw.in/uttarakhand-power-corporation-ltd-vs-raman-sibal-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 18:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the corporate debtor, upon receipt of demand notice under Section 8, issues a detailed reply raising plausible contentions and disputes supported by material evidence, including allegations of fraud, fictitious invoices, and ongoing investigations, such reply constitutes a notice of dispute within the meaning of Section 9(5)(ii)(d) of the IBC – Attluru Sreenivasulu Reddy, Suspended Director of KLSR Infratech Ltd. Vs. AS Met Corp Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/attluru-sreenivasulu-reddy-suspended-director-of-klsr-infratech-ltd-vs-as-met-corp-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 18:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When the defects were cured and the affidavit was filed it is well within the power of Adjudicating Authority (NCLT) to extend the time for curing the defects – Aruna Bhupendra Vasa – NCLAT New Delhi](https://ibclaw.in/aruna-bhupendra-vasa-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 19:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The mere existence of an arbitration clause cannot oust the jurisdiction of NCLT where the relief sought pertains to protection of the CIRP and enforcement of statutory moratorium | While disputes relating to damages, breach of contract, or quantification of claims may fall within the scope of arbitration, the question whether termination of a contract during CIRP adversely affects the insolvency resolution process falls within the exclusive jurisdiction of the Adjudicating Authority under Section 60(5)(c) of the IBC – Keshav Khaneja, RP of Gensol Engineering Ltd. Vs. Maharashtra State Power Generation Company Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/keshav-khaneja-rp-of-gensol-engineering-ltd-vs-maharashtra-state-power-generation-company-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 30 Mar 2026 19:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Lok Sabha Passes IBC Amendment Bill, 2025: Bill Seeks Faster Resolution, Group Insolvency, Cross-Border Framework and Major Process Reforms](https://ibclaw.in/lok-sabha-passes-ibc-amendment-bill-2025-bill-seeks-faster-resolution-group-insolvency-cross-border-framework-and-major-process-reforms/)
 - **Published:** Mon, 30 Mar 2026 09:02:58 +0000
