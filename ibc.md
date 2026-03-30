@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-28 13:32:56*
+*Last synced: 2026-03-30 08:09:03*
+
+### [In real estate companies, insolvency proceedings are project-wise and not limited to project-wise resolution – Surender Singh, Suspended Director of Vatika Ltd. Vs. IDBI Trusteeship Services Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/surender-singh-suspended-director-of-vatika-ltd-vs-idbi-trusteeship-services-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 04:07:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds In real estate companies, not only the resolution but the entire insolvency process is project-specific](https://ibclaw.in/nclat-holds-in-real-estate-companies-not-only-the-resolution-but-the-entire-insolvency-process-is-project-specific/)
+- **Published:** Mon, 30 Mar 2026 04:12:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A personal insolvency application filed under Section 95 of the IBC during the subsistence of an interim moratorium triggered by earlier applications filed by another creditor under Section 95 is non est in law and cannot be validated by the subsequent withdrawal of the earlier applications – Sushant Chhabra Vs. Catalyst Trusteeship Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/sushant-chhabra-vs-catalyst-trusteeship-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 04:46:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Section 95 IBC Application Filed During Interim Moratorium Is Void Ab Initio and Cannot Be Cured by Subsequent Withdrawal of Earlier Application](https://ibclaw.in/nclat-clarifies-section-95-ibc-application-filed-during-interim-moratorium-is-void-ab-initio-and-cannot-be-cured-by-subsequent-withdrawal-of-earlier-application/)
+- **Published:** Mon, 30 Mar 2026 04:47:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Adjudicating Authority (NCLT) has no jurisdiction to issue any direction to revive a Concession Agreement that was terminated prior to initiation of CIRP – Delhi Metro Rail Corporation Ltd. Vs. Consortium of Crown Steels and Sunrise Industries and Ors. – NCLAT New Delhi](https://ibclaw.in/delhi-metro-rail-corporation-ltd-vs-consortium-of-crown-steels-and-sunrise-industries-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 05:00:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin-Weekly Case Laws Digest: 22nd March, 2026 to 28th March, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-22nd-march-2026-to-28th-march-2026/)
+- **Published:** Mon, 30 Mar 2026 05:07:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere non-issuance of NOC by the Financial Creditor, which arose subsequent to the occurrence of default, does not constitute a valid ground for invoking Section 65 or for obstructing proceedings under Section 7 – Hemant Yadav and Ors. Vs. IDBI Trusteeship Services Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/hemant-yadav-and-ors-vs-idbi-trusteeship-services-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 05:14:44 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adjudicating Authority (NCLT) has jurisdiction under Section 60(5)(c) of IBC to entertain and decide an application by the Resolution Professional for eviction of a party in unlawful occupation of the Corporate Debtor’s premises, as such action is integral to the Resolution Professional’s statutory duties under Sections 18(f) and 25 to take control, custody, and protect the assets of the Corporate Debtor – Classic Marble Company Pvt. Ltd. Vs. Truvisory Insolvency Professionals Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/classic-marble-company-pvt-ltd-vs-truvisory-insolvency-professionals-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 06:25:05 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mere inclusion of an interest clause in invoices does not automatically create a binding contractual obligation unless the same forms part of the agreed terms between the parties | The statutory threshold under Section 4 of the IBC must be satisfied as on the date of filing of the application – Paarichem Resources LLP. Vs. Vision Products Pvt. Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/paarichem-resources-llp-vs-vision-products-pvt-ltd-nclt-ahmedabad-bench/)
 - **Published:** Sat, 28 Mar 2026 11:11:51 +0000
