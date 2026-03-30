@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-30 08:09:03*
+*Last synced: 2026-03-30 14:10:06*
+
+### [Lok Sabha Passes IBC Amendment Bill, 2025: Bill Seeks Faster Resolution, Group Insolvency, Cross-Border Framework and Major Process Reforms](https://ibclaw.in/lok-sabha-passes-ibc-amendment-bill-2025-bill-seeks-faster-resolution-group-insolvency-cross-border-framework-and-major-process-reforms/)
+- **Published:** Mon, 30 Mar 2026 09:02:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where annual listing fee required to be paid by Corporate Debtor has been finalised/crystallized, and no further proceedings are pending, and only the recovery of the fee is left, the matter will fall squarely within the ambit of the IBC, and the NCLT, by virtue of Section 60(5) and Section 238 of the IBC, would have jurisdiction with regard to the same – BSE Ltd. Vs. Avil Menezes, IRP of Future Corporate Resources Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/bse-ltd-vs-avil-menezes-irp-of-future-corporate-resources-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 10:20:56 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds NCLT Has Jurisdiction Under IBC to Order De-freezing of Demat Accounts Where Listing Fee Dues Are Crystallized](https://ibclaw.in/nclat-holds-nclt-has-jurisdiction-under-ibc-to-order-de-freezing-of-demat-accounts-where-listing-fee-dues-are-crystallized/)
+- **Published:** Mon, 30 Mar 2026 10:22:19 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [In real estate companies, insolvency proceedings are project-wise and not limited to project-wise resolution – Surender Singh, Suspended Director of Vatika Ltd. Vs. IDBI Trusteeship Services Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/surender-singh-suspended-director-of-vatika-ltd-vs-idbi-trusteeship-services-ltd-and-anr-nclat-new-delhi/)
 - **Published:** Mon, 30 Mar 2026 04:07:33 +0000
