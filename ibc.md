@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-30 19:34:10*
+*Last synced: 2026-03-31 03:38:53*
+
+### [Where the claim of the Employees’ Provident Fund Organisation (EPFO) was admitted by the erstwhile Liquidator and payment was made accordingly during liquidation, and no objection was raised regarding such admission or payment, it is not open for the new Liquidator to seek a refund from EPFO on the same claim – Efficax Resolution Professionals Pvt. Ltd. (Liquidator) Vs. Regional Provident Fund Commissioner-II (Recovery) Employees’ Provident Fund Organisation – NCLAT New Delhi](https://ibclaw.in/efficax-resolution-professionals-pvt-ltd-liquidator-vs-regional-provident-fund-commissioner-ii-recovery-employees-provident-fund-organisation-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 20:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether Suspended Management of the Corporate Debtor is a necessary and proper party within the meaning of Rule 11 of the NCLT Rules, 2016 in the proceedings for approval of the Resolution Plan? – Carnet Elias Fernandes Vs. Jagdish Kumar Parulkar, RP of GEI Power Ltd. – NCLT Indore Bench](https://ibclaw.in/carnet-elias-fernandes-vs-jagdish-kumar-parulkar-rp-of-gei-power-ltd-nclt-indore-bench/)
+- **Published:** Mon, 30 Mar 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Filing applications under Section 94 of IBC at an advanced stage of SARFAESI proceedings to delay or frustrate recovery amounts to abuse of the insolvency framework – Prakash Kishorebhai Bindal Vs. Axis Bank Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/prakash-kishorebhai-bindal-vs-axis-bank-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 30 Mar 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the benefit of Section 4 of the Limitation Act, 1963, can be extended to the condonable period of 15 days beyond the prescribed 30 days for filing an appeal under Section 61(2) of the IBC, 2016, when the vacation commences during the condonable period – Uday Kumar Sahu and Anr. Vs. Birendra Kumar Agarwal and Ors. – NCLAT Chennai](https://ibclaw.in/uday-kumar-sahu-and-anr-vs-birendra-kumar-agarwal-and-ors-nclat-chennai/)
+- **Published:** Mon, 30 Mar 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Adjudicating Authority, while exercising jurisdiction under Section 60(5)(c) of IBC, may grant reliefs and concessions necessary to facilitate the going concern sale, including extinguishment of past claims and liabilities post-distribution under Section 53, release of encumbrances, and changes in shareholding and management, but cannot grant blanket statutory exemptions or override substantive provisions of other enactments beyond what is expressly recognized under the Code and binding judicial precedents – Lemit Papers LLP Vs. Rajeshkumar Malani (Liquidator) – NCLT Ahmedabad Bench](https://ibclaw.in/lemit-papers-llp-vs-rajeshkumar-malani-liquidator-nclt-ahmedabad-bench/)
+- **Published:** Mon, 30 Mar 2026 20:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A withdrawal order recording settlement, without embodying settlement terms in its operative directions, does not assume the character of a decree | Section 424(3) of Companies Act, 2013 empowers the Tribunal to enforce only those orders which contain an operative, adjudicated direction capable of execution – Artha Energy Resources LLP Vs. Tecso Projects Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/artha-energy-resources-llp-vs-tecso-projects-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 30 Mar 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The promoters of the Corporate Debtor, who are themselves ineligible under Section 29A(c) of IBC, continue to have a substantial relationship and influence over the Applicant Society, once such relationship is established, the Applicant would fall within the ambit of Section 29A(j) as a person having a connected person who is ineligible under clause (c) – Meridian Educational Society Vs. Gonugunta Murali, Liquidator of Butta Infrastructure Pvt. Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/meridian-educational-society-vs-gonugunta-murali-liquidator-of-butta-infrastructure-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 30 Mar 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [For Section 29A(e) of IBC, there must be a formal and operative disqualification under Section 164 of the Companies Act, 2013 and such disqualification is determined and declared by the competent statutory authority, namely the Registrar of Companies (RoC), the disqualification must already exist in law, it cannot be presumed or inferred – Malharshanti Enterprises Vs. Naresh Sevantilal Shah and Anr. – NCLAT New Delhi](https://ibclaw.in/malharshanti-enterprises-vs-naresh-sevantilal-shah-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 30 Mar 2026 22:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The expulsion of a corporate debtor as a partner from an LLP and the redistribution of its partnership interest during the subsistence of a moratorium under Section 14 of the IBC cannot be sustained in law and are liable to be declared void and non est | Contractual or statutory provisions under the LLP Act or LLP Agreement cannot override the statutory moratorium | The concept of a person ‘has applied to be adjudged as an insolvent or is declared as an insolvent’, as referred to in Section 24(2)(c) of the Limited Liability Partnership Act, cannot be readily equated with the mere admission of a petition initiating CIRP against a corporate debtor under the IBC – Manjeera Constructions Ltd. Vs. Vasavi Realtor LLP and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/manjeera-constructions-ltd-vs-vasavi-realtor-llp-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 31 Mar 2026 01:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Judicial custody of the appellant does not constitute sufficient cause for condoning delay beyond the statutory limit under Section 61 of IBC – Alpesh Vasudev Gandhi Vs. Vinodkumar S. Shah, Liquidator of Alps Lesuire Holidays Ltd. – NCLAT New Delhi](https://ibclaw.in/alpesh-vasudev-gandhi-vs-vinodkumar-s-shah-liquidator-of-alps-lesuire-holidays-ltd-nclat-new-delhi/)
+- **Published:** Tue, 31 Mar 2026 02:55:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where the liquidation value payable to the operational creditor is nil, payment of a lesser amount than the claimed sum in the resolution plan does not violate Section 30(2) – Uttarakhand Power Corporation Ltd. Vs. Raman Sibal and Ors. – NCLAT New Delhi](https://ibclaw.in/uttarakhand-power-corporation-ltd-vs-raman-sibal-and-ors-nclat-new-delhi/)
 - **Published:** Mon, 30 Mar 2026 18:31:00 +0000
