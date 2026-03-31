@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-31 03:38:53*
+*Last synced: 2026-03-31 19:33:33*
+
+### [NCLAT Rules Judicial Custody Not Sufficient Cause to Condon Delay Beyond Statutory Limit Under Section 61 of IBC](https://ibclaw.in/nclat-rules-judicial-custody-not-sufficient-cause-to-condon-delay-beyond-statutory-limit-under-section-61-of-ibc/)
+- **Published:** Tue, 31 Mar 2026 15:46:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Hyderabad Holds Expulsion of Corporate Debtor as LLP Partner During IBC Moratorium Is Void; LLP Act and Agreement Cannot Override Section 14 IBC](https://ibclaw.in/nclt-hyderabad-holds-expulsion-of-corporate-debtor-as-llp-partner-during-ibc-moratorium-is-void-llp-act-and-agreement-cannot-override-section-14-ibc/)
+- **Published:** Tue, 31 Mar 2026 15:47:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Ahmedabad Rules Withdrawal Orders Without Operative Settlement Terms Are Not Executable Decrees Under Section 424(3) Companies Act](https://ibclaw.in/nclt-ahmedabad-rules-withdrawal-orders-without-operative-settlement-terms-are-not-executable-decrees-under-section-4243-companies-act/)
+- **Published:** Tue, 31 Mar 2026 15:50:45 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Ahmedabad Holds Filing Section 94 IBC Applications at Advanced SARFAESI Stage to Delay Recovery Is Abuse of Insolvency Process](https://ibclaw.in/nclt-ahmedabad-holds-filing-section-94-ibc-applications-at-advanced-sarfaesi-stage-to-delay-recovery-is-abuse-of-insolvency-process/)
+- **Published:** Tue, 31 Mar 2026 15:51:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Indore Bench Holds Suspended Management Not a Necessary Party in Resolution Plan Approval Proceedings Under IBC](https://ibclaw.in/nclt-indore-bench-holds-suspended-management-not-a-necessary-party-in-resolution-plan-approval-proceedings-under-ibc/)
+- **Published:** Tue, 31 Mar 2026 15:52:26 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the repayment plan submitted by the personal guarantors failed to secure the requisite statutory majority of creditors as mandated under Section 111 of IBC, the Adjudicating Authority cannot approve the plan under Section 114, nor substitute its commercial wisdom for that of the Committee of Creditors – Prawincharan P Dwary (RP) Vs. Neetima Kad and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/prawincharan-p-dwary-rp-vs-neetima-kad-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 31 Mar 2026 18:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the objections relating to frustration (Section 56 Contract Act), fraud, coercion, undue influence, discharge under Sections 133 & 141 of the Contract Act, and limitation can be re-agitated or entertained at the stage of Section 114 of IBC? – Prawincharan P Dwary (RP) Vs. Sunil Mishra and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/prawincharan-p-dwary-rp-vs-sunil-mishra-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 31 Mar 2026 19:04:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where the claim of the Employees’ Provident Fund Organisation (EPFO) was admitted by the erstwhile Liquidator and payment was made accordingly during liquidation, and no objection was raised regarding such admission or payment, it is not open for the new Liquidator to seek a refund from EPFO on the same claim – Efficax Resolution Professionals Pvt. Ltd. (Liquidator) Vs. Regional Provident Fund Commissioner-II (Recovery) Employees’ Provident Fund Organisation – NCLAT New Delhi](https://ibclaw.in/efficax-resolution-professionals-pvt-ltd-liquidator-vs-regional-provident-fund-commissioner-ii-recovery-employees-provident-fund-organisation-nclat-new-delhi/)
 - **Published:** Mon, 30 Mar 2026 20:07:00 +0000
