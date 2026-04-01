@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-03-31 19:33:33*
+*Last synced: 2026-04-01 03:50:15*
+
+### [Upon admission of insolvency proceedings and appointment of a Resolution Professional, any application concerning the debtor’s estate must ordinarily be moved through the Resolution Professional | The applicant, having lost before the DRT and not challenged that order, cannot invoke Section 60(5) of IBC to reverse completed enforcement actions under SARFAESI – Ketan Chottalal Bagadia Vs. Cholamandalam Investment and Finance Company Ltd. – NCLT Chennai Bench](https://ibclaw.in/ketan-chottalal-bagadia-vs-cholamandalam-investment-and-finance-company-ltd-nclt-chennai-bench/)
+- **Published:** Tue, 31 Mar 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interested Prospective Resolution Applicant can file an application under Section 65 of IBC | Section 65 application cannot be rejected solely on the ground that the Applicant is not a creditor of the Corporate Debtor – Srikar Reddy Vempati Vs. Smartron India Pvt. Ltd. and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/srikar-reddy-vempati-vs-smartron-india-pvt-ltd-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 31 Mar 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The term ‘personnel’ under Section 19(2) of IBC includes employees, directors, managers, key managerial personnel, etc., and is intended to ensure effective assistance to the IRP in carrying out his duties – Purshotam Gaggar, Liquidator of Sree Bajrang Infracon Pvt. Ltd. Vs. Rakesh Kumar Singh and Anr. – NCLT Guwahati Bench](https://ibclaw.in/purshotam-gaggar-liquidator-of-sree-bajrang-infracon-pvt-ltd-vs-rakesh-kumar-singh-and-anr-nclt-guwahati-bench/)
+- **Published:** Tue, 31 Mar 2026 21:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the entire pre-existing equity share capital of a company stands cancelled and extinguished pursuant to an approved Resolution Plan under Section 31 of IBC, such cancellation cannot be reopened or rectified under Section 59 of the Companies Act, 2013 – Titus Babu Vs. Sintex Industries Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/titus-babu-vs-sintex-industries-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 31 Mar 2026 23:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Applicant, having a validly created and registered mortgage over the Corporate Debtor’s property to secure the debt of a third-party principal borrower, is entitled to file its claim as a secured creditor under the IBC, even if not a financial or operational creditor – IFCI Ltd. Vs. NPV Insolvency Professionals Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/ifci-ltd-vs-npv-insolvency-professionals-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 01 Apr 2026 00:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Intention behind the Section 8(2)(b) of IBC is that the default amount is required to be paid fully and not partially | Threshold under Section 4 of IBC is required to be made at the time of filing of application under Section 9 and even if some payment is made by the corporate debtor after filing of application reducing the amount claimed to an amount below the threshold amount, the application will still be maintainable – Omshree Agro Tech Pvt. Ltd. Vs. Kasturi Farm Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/omshree-agro-tech-pvt-ltd-vs-kasturi-farm-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 01 Apr 2026 01:03:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Rules Judicial Custody Not Sufficient Cause to Condon Delay Beyond Statutory Limit Under Section 61 of IBC](https://ibclaw.in/nclat-rules-judicial-custody-not-sufficient-cause-to-condon-delay-beyond-statutory-limit-under-section-61-of-ibc/)
 - **Published:** Tue, 31 Mar 2026 15:46:35 +0000
