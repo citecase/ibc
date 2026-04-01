@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-01 03:50:15*
+*Last synced: 2026-04-01 08:01:25*
+
+### [Rajya Sabha to Consider and Pass IBC Amendment Bill, 2026 Today](https://ibclaw.in/rajya-sabha-to-consider-and-pass-ibc-amendment-bill-2025/)
+- **Published:** Wed, 01 Apr 2026 04:25:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Top 30 NCLAT Insolvency Judgments – March 2026: Key IBC Rulings](https://ibclaw.in/top-30-nclat-insolvency-judgments-march-2026-key-ibc-rulings/)
+- **Published:** Wed, 01 Apr 2026 06:15:10 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Upon admission of insolvency proceedings and appointment of a Resolution Professional, any application concerning the debtor’s estate must ordinarily be moved through the Resolution Professional | The applicant, having lost before the DRT and not challenged that order, cannot invoke Section 60(5) of IBC to reverse completed enforcement actions under SARFAESI – Ketan Chottalal Bagadia Vs. Cholamandalam Investment and Finance Company Ltd. – NCLT Chennai Bench](https://ibclaw.in/ketan-chottalal-bagadia-vs-cholamandalam-investment-and-finance-company-ltd-nclt-chennai-bench/)
 - **Published:** Tue, 31 Mar 2026 20:29:00 +0000
