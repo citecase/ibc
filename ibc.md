@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-01 19:38:12*
+*Last synced: 2026-04-02 03:32:34*
+
+### [Under the IBC scheme, once CIRP is initiated and IRP is appointed, all actions concerning the corporate debtor, including withdrawal applications, must be taken through the IRP, who represents the corporate debtor | The writ petitions are not maintainable in view of the alternative remedy of appeal under Section 61 of the IBC – Vishal Ganpat Shinde and Anr. Vs. Union of India and Ors. – Bombay High Court](https://ibclaw.in/vishal-ganpat-shinde-and-anr-vs-union-of-india-and-ors-bombay-high-court/)
+- **Published:** Wed, 01 Apr 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the proceedings under Section 8 of the Maharashtra Protection of Interest of Depositors (In Financial Establishments) Act, 1999 (MPID Act) for attachment of property can be stayed in view of the interim moratorium under Section 96 of the Insolvency and Bankruptcy Code, 2016 (IBC) | Whether the IBC prevails over the MPID Act – Dulisons Cereals Vs. State of Maharashtra and Anr. – Bombay High Court](https://ibclaw.in/dulisons-cereals-vs-state-of-maharashtra-and-anr-bombay-high-court/)
+- **Published:** Wed, 01 Apr 2026 21:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a scheme of arrangement under Section 230 of the Companies Act, 2013 is approved by the NCLT, sustained by the NCLAT, and affirmed by the Supreme Court, the doctrine of merger applies and the order attains finality, unless vitiated by fraud – MMTC Ltd. Vs. National Spot Exchange Ltd. – NCLAT New Delhi](https://ibclaw.in/mmtc-ltd-vs-national-spot-exchange-ltd-nclat-new-delhi/)
+- **Published:** Wed, 01 Apr 2026 23:11:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Hyderabad Holds Section 65 IBC Applications Cannot Be Dismissed Solely for Lack of Creditor Status; Must Be Examined on Merits](https://ibclaw.in/nclt-hyderabad-holds-section-65-ibc-applications-cannot-be-dismissed-solely-for-lack-of-creditor-status-must-be-examined-on-merits/)
 - **Published:** Wed, 01 Apr 2026 15:12:39 +0000
