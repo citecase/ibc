@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-02 03:32:34*
+*Last synced: 2026-04-02 07:47:51*
+
+### [Beyond political overwriting: The case for neutral nomenclature for National Law Universities](https://www.barandbench.com/columns/beyond-the-political-palimpsest-the-case-for-neutral-nomenclature-in-national-law-universities)
+- **Published:** Tue, 31 Mar 2026 20:10:38 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Satinder Singh Bhasin v. Government of NCT of Delhi  2026 INSC 310 - Companies Act - IBC](https://www.caseciter.com/satinder-singh-bhasin-v-government-of-nct-of-delhi-2026-insc-310-companies-act-ibc/)
+- **Published:** Thu, 02 Apr 2026 06:58:28 GMT
+- **Source:** https://caseciter.com/rss
 
 ### [Under the IBC scheme, once CIRP is initiated and IRP is appointed, all actions concerning the corporate debtor, including withdrawal applications, must be taken through the IRP, who represents the corporate debtor | The writ petitions are not maintainable in view of the alternative remedy of appeal under Section 61 of the IBC – Vishal Ganpat Shinde and Anr. Vs. Union of India and Ors. – Bombay High Court](https://ibclaw.in/vishal-ganpat-shinde-and-anr-vs-union-of-india-and-ors-bombay-high-court/)
 - **Published:** Wed, 01 Apr 2026 20:36:00 +0000
