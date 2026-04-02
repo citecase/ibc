@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-02 07:47:51*
+*Last synced: 2026-04-02 14:03:32*
+
+### [Once there is a determination of liability in a judicial proceeding held by way of a suit or by way of an Arbitral Award, that date itself could be taken as to be the cut-off for the purposes of drawing the proceedings either under Section 7, 9 or 95 of the IBC | The aspect of default cannot be made variable in the absence of there being any agreement to the contrary | For making a guarantee to be continuous, it has to flow from the settlement that has been agreed upon between the parties, has had to be specific, and definite in its term, and should have a binding effect, based upon the terms of the agreement itself – T. Venkatram Reddy Vs. L & T Finance Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/t-venkatram-reddy-vs-l-t-finance-ltd-and-anr-nclat-chennai/)
+- **Published:** Thu, 02 Apr 2026 12:39:09 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Chennai Rules Default Date Under IBC Must Be Definite and Not Variable; Limitation Runs From Date of Judicial Determination or Admitted Default](https://ibclaw.in/nclat-chennai-rules-default-date-under-ibc-must-be-definite-and-not-variable-limitation-runs-from-date-of-judicial-determination-or-admitted-default/)
+- **Published:** Thu, 02 Apr 2026 12:40:42 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Beyond political overwriting: The case for neutral nomenclature for National Law Universities](https://www.barandbench.com/columns/beyond-the-political-palimpsest-the-case-for-neutral-nomenclature-in-national-law-universities)
 - **Published:** Tue, 31 Mar 2026 20:10:38 +0530
