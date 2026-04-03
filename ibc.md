@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-02 14:03:32*
+*Last synced: 2026-04-03 03:34:18*
+
+### [Whether the powers conferred upon the Income Tax Department under Section 245 of the Income Tax Act, 1961 can be exercised during the Corporate Insolvency Resolution Process, notwithstanding the overriding effect of Section 238 of the Insolvency and Bankruptcy Code, 2016? | Whether the income-tax refunds determined during CIRP constitute assets of the Corporate Debtor forming part of the insolvency estate? – Wind World (India) Ltd. Vs. Income Tax Department – NCLT Ahmedabad Bench](https://ibclaw.in/wind-world-india-ltd-vs-income-tax-department-nclt-ahmedabad-bench/)
+- **Published:** Thu, 02 Apr 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the operation of interim moratorium under Section 96 of the Insolvency and Bankruptcy Code, 2016, affects the maintainability of the suit and the running of time for filing written statement – IDBI Trusteeship Services Ltd. Vs. Manish Jain and Ors. – Delhi High Court](https://ibclaw.in/idbi-trusteeship-services-ltd-vs-manish-jain-and-ors-delhi-high-court/)
+- **Published:** Thu, 02 Apr 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Reflection of a liability in the books of account does not dispense with the requirement of filing a formal claim in accordance with Regulation 12 of the CIRP Regulation, 2016 – Omakara Assets Reconstruction Pvt. Ltd. Vs. Darshan Singh Anand, RP of Vikas WSP Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/omakara-assets-reconstruction-pvt-ltd-vs-darshan-singh-anand-rp-of-vikas-wsp-ltd-nclt-chandigarh-bench/)
+- **Published:** Thu, 02 Apr 2026 20:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The determination of liabilities and imposition of penalties under the GST Act against the Corporate Debtor during the subsistence of the moratorium clearly amount to a continuation of proceedings against the Corporate Debtor, which is impermissible in view of the statutory bar contained in Section 14 of the IBC – Maligi Madhusudhana Reddy, RP of Naoline Infrastructure Pvt. Ltd. Vs. Joint Commissioner, Central Goods and Services Tax – NCLT Hyderabad Bench](https://ibclaw.in/maligi-madhusudhana-reddy-rp-of-naoline-infrastructure-pvt-ltd-vs-joint-commissioner-central-goods-and-services-tax-nclt-hyderabad-bench/)
+- **Published:** Thu, 02 Apr 2026 20:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an allottee who recovered an amount pursuant to an order of the RERA Authority prior to the commencement of CIRP is entitled to retain the amount, or whether it should be refunded to the corporate debtor as part of the insolvency estate – Renaissance Realty Vs. RP of Jai Prakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/renaissance-realty-vs-rp-of-jai-prakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Thu, 02 Apr 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency commencement date is the date of admission of the application, and CIRP commences from that very date, the communication of the order under Section 7(7) of IBC is merely procedural and does not defer its legal effect | After initiation of the CIRP, no assessment can be initiated or continued against the Corporate Debtor so as to pass any pecuniary liability on the Corporate Debtor – Gati Infrastructure Bhasmey Power Pvt. Ltd. Vs. Employees Provident Fund Organisation and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/gati-infrastructure-bhasmey-power-pvt-ltd-vs-employees-provident-fund-organisation-and-ors-nclt-hyderabad-bench/)
+- **Published:** Thu, 02 Apr 2026 21:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An Operational Creditor cannot claim any independent or enforceable right to access the Resolution Plan during its consideration under Section 31 of the IBC, and no statutory right vests in it to seek disclosure of the liquidation value as well – SBC Minerals Pvt. Ltd. Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/sbc-minerals-pvt-ltd-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Thu, 02 Apr 2026 23:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Once there is a determination of liability in a judicial proceeding held by way of a suit or by way of an Arbitral Award, that date itself could be taken as to be the cut-off for the purposes of drawing the proceedings either under Section 7, 9 or 95 of the IBC | The aspect of default cannot be made variable in the absence of there being any agreement to the contrary | For making a guarantee to be continuous, it has to flow from the settlement that has been agreed upon between the parties, has had to be specific, and definite in its term, and should have a binding effect, based upon the terms of the agreement itself – T. Venkatram Reddy Vs. L & T Finance Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/t-venkatram-reddy-vs-l-t-finance-ltd-and-anr-nclat-chennai/)
 - **Published:** Thu, 02 Apr 2026 12:39:09 +0000
