@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-03 03:34:18*
+*Last synced: 2026-04-04 07:32:39*
+
+### [To protect homebuyers, real estate insolvency should explore project-wise resolution, not the whole company: NCLAT](https://www.barandbench.com/news/litigation/to-protect-homebuyers-real-estate-insolvency-should-explore-project-wise-resolution-not-whole-company-nclat)
+- **Published:** Sat, 04 Apr 2026 11:08:10 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Whether the powers conferred upon the Income Tax Department under Section 245 of the Income Tax Act, 1961 can be exercised during the Corporate Insolvency Resolution Process, notwithstanding the overriding effect of Section 238 of the Insolvency and Bankruptcy Code, 2016? | Whether the income-tax refunds determined during CIRP constitute assets of the Corporate Debtor forming part of the insolvency estate? – Wind World (India) Ltd. Vs. Income Tax Department – NCLT Ahmedabad Bench](https://ibclaw.in/wind-world-india-ltd-vs-income-tax-department-nclt-ahmedabad-bench/)
 - **Published:** Thu, 02 Apr 2026 20:27:00 +0000
