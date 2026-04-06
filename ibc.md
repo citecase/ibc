@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-06 03:47:05*
+*Last synced: 2026-04-06 08:10:31*
+
+### [Supreme Court Refuses To Interfere With NCLAT’s Order Allowing Adani To Acquire JAL, Asks Tribunal To Decide Expeditiously](https://www.verdictum.in/court-updates/supreme-court/supreme-court-refuses-to-interfere-with-nclats-order-allowing-adani-to-acquire-jal-asks-tribunal-to-decide-expeditiously-1611459)
+- **Published:** Mon, 06 Apr 2026 08:00:50 GMT
+- **Source:** https://verdictum.in/feed
+
+### [International Valuation Standards (IVS), issued by the International Valuation Standards Council (IVSC), are the valuation standards applicable to valuations conducted under the IBC – IBBI Circular IBBI/RV/93/2026 dated 1st April, 2026](https://ibclaw.in/international-valuation-standards-ivs-issued-by-the-international-valuation-standards-council-ivsc-are-the-valuation-standards-applicable-to-valuations-conducted-under-the-ibc-ibbi-circular-ib/)
+- **Published:** Mon, 06 Apr 2026 03:54:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Routing of receivables outside the designated Trust and Retention Account (TRA), in deviation of the TRA Agreement, constitutes a fraudulent transaction under Section 66 of the IBC – Liquidator of Saradambika Power Plant Pvt. Ltd. Vs. Satya Srinivasa Boyina and Ors. – NCLT Amaravati Bench](https://ibclaw.in/liquidator-of-saradambika-power-plant-pvt-ltd-vs-satya-srinivasa-boyina-and-ors-nclt-amaravati-bench/)
+- **Published:** Mon, 06 Apr 2026 04:09:26 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 131 of the Companies Act, 2013 cannot be invoked where a company merely seeks to rectify an inadvertent or mistaken filing of Financial Statement or report in Form AOC-4 XBRL arising from the submission of an incorrect Excel sheet – P & R Infraprojects Ltd. Vs. Ministry of Corporate Affairs and Anr. – NCLT New Delhi Bench](https://ibclaw.in/p-r-infraprojects-ltd-vs-ministry-of-corporate-affairs-and-anr-nclt-new-delhi-bench/)
+- **Published:** Mon, 06 Apr 2026 04:44:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Holds Section 131 Cannot Be Invoked for Rectification of Inadvertent Filing Errors in Financial Statements](https://ibclaw.in/nclt-holds-section-131-cannot-be-invoked-for-rectification-of-inadvertent-filing-errors-in-financial-statements/)
+- **Published:** Mon, 06 Apr 2026 04:49:45 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Report of the Committee on Drafting of Regulations – IBC (Amendment) Bill, 2025](https://ibclaw.in/report-of-the-committee-on-drafting-of-regulations-ibc-amendment-bill-2025/)
+- **Published:** Mon, 06 Apr 2026 05:41:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A Resolution Plan is a confidential document and its circulation is strictly regulated under the statutory framework of the Code and the Regulations framed thereunder – Diamond Road Lines Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/diamond-road-lines-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-nclt-allahabad-bench/)
 - **Published:** Sun, 05 Apr 2026 20:01:00 +0000
