@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-06 08:10:31*
+*Last synced: 2026-04-06 19:36:08*
+
+### [Relevant factors that may influence the decision of the Adjudicating Authority (NCLT) while considering an offer of settlement for the purpose of withdrawing a CIRP within the meaning of Section 12A of IBC read with CIRP Regulation 30A(1)(a) | Resolution Professional (RP) fee non-payment to be considered under the inherent powers prescribed in Rule 11 of the NCLT Rules – Suyog Suryakant Talekar Vs. Trivenimudrai Project Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/suyog-suryakant-talekar-vs-trivenimudrai-project-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 06 Apr 2026 14:00:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Sets Guidelines on Settlement Offers for Insolvency Withdrawal Under Section 12A of IBC](https://ibclaw.in/nclat-sets-guidelines-on-settlement-offers-for-insolvency-withdrawal-under-section-12a-of-ibc/)
+- **Published:** Mon, 06 Apr 2026 14:03:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 14(1)(d) of the IBC, read with CIRP Regulation 31(b), shows that even if the termination notice was delivered before initiation of CIRP, Section 14(1)(d) would still apply and restrict the lessor from recovering the property occupied by the Corporate Debtor | The actual physical possession of the Property cannot be taken away during the subsistence of the moratorium – Sudha Apparels Ltd. Vs. Ravi Sethia, RP of Future Lifestyle Fashion Ltd. – NCLAT New Delhi](https://ibclaw.in/sudha-apparels-ltd-vs-ravi-sethia-rp-of-future-lifestyle-fashion-ltd-nclat-new-delhi/)
+- **Published:** Mon, 06 Apr 2026 14:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Section 14(1)(d) IBC Moratorium Bars Recovery of Leased Property by Owner Even if Lease Terminated Pre-CIRP](https://ibclaw.in/nclat-new-delhi-holds-section-141d-ibc-moratorium-bars-recovery-of-leased-property-by-owner-even-if-lease-terminated-pre-cirp/)
+- **Published:** Mon, 06 Apr 2026 14:53:16 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In cases where the Corporate Debtor has no meaningful assets and liquidation would only entail further costs without any commensurate benefit to stakeholders, the Adjudicating Authority, in exercise of its powers under Sections 33 and 54 of the IBC read with Rule 11 of the NCLT Rules, may permit dissolution to prevent futile proceedings – Gulshan Gaba (RP) Vs. Naresh Kakkar and Anr. – NCLT New Delhi Bench](https://ibclaw.in/gulshan-gaba-rp-vs-naresh-kakkar-and-anr-nclt-new-delhi-bench/)
+- **Published:** Mon, 06 Apr 2026 18:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Advance paid by the Applicant towards purchase of land, even if refundable with interest upon non-completion of sale, does not constitute a financial debt under Section 5(8) of the IBC – South West Mining Ltd. Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/south-west-mining-ltd-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Mon, 06 Apr 2026 18:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Every illegality, breach of contract, or instance of poor management does not amount to oppression or mismanagement under Section 241 and 242 of the Companies Act, 2013 – Ashish Sawe Vs. Eval Realty Solutions India Pvt. Ltd. and Anr. – NCLT New Delhi Bench](https://ibclaw.in/ashish-sawe-vs-eval-realty-solutions-india-pvt-ltd-and-anr-nclt-new-delhi-bench/)
+- **Published:** Mon, 06 Apr 2026 19:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Refuses To Interfere With NCLAT’s Order Allowing Adani To Acquire JAL, Asks Tribunal To Decide Expeditiously](https://www.verdictum.in/court-updates/supreme-court/supreme-court-refuses-to-interfere-with-nclats-order-allowing-adani-to-acquire-jal-asks-tribunal-to-decide-expeditiously-1611459)
 - **Published:** Mon, 06 Apr 2026 08:00:50 GMT
