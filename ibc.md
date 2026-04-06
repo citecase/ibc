@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-04 07:32:39*
+*Last synced: 2026-04-06 03:47:05*
+
+### [A Resolution Plan is a confidential document and its circulation is strictly regulated under the statutory framework of the Code and the Regulations framed thereunder – Diamond Road Lines Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/diamond-road-lines-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Sun, 05 Apr 2026 20:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A registered association of homebuyers, not being a participant in the Committee of Creditors(CoC), has no enforceable right to access Resolution Plan prior to its approval – Association of Independent House Owners of Jaypee Greens Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. and Anr. – NCLT Allahabad Bench](https://ibclaw.in/association-of-independent-house-owners-of-jaypee-greens-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-and-anr-nclt-allahabad-bench/)
+- **Published:** Mon, 06 Apr 2026 03:32:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The statutory protection of moratorium under Section 14 of IBC is confined to the Corporate Debtor and does not bar proceedings against personal guarantors | Even during the subsistence of CIRP against the Corporate Debtor, the Financial Creditor remains legally entitled to pursue remedies against the Personal Guarantors – State Bank of India Vs. Jitendra Singh – NCLT Chandigarh Bench](https://ibclaw.in/state-bank-of-india-vs-jitendra-singh-nclt-chandigarh-bench/)
+- **Published:** Mon, 06 Apr 2026 03:32:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A non-speaking, cryptic order without recorded reasons is unsustainable in law as per settled Supreme Court precedents – Madhav Saran Agarwal and Anr. Vs. Monika Ghei – NCLAT New Delhi](https://ibclaw.in/madhav-saran-agarwal-and-anr-vs-monika-ghei-nclat-new-delhi/)
+- **Published:** Mon, 06 Apr 2026 03:32:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a claim arising out of the same transaction has been admitted in the CIRP, simultaneous enforcement of a contractual remedy, such as specific performance, outside the insolvency framework in respect of the same claim is not permissible | Jurisdiction of NCLT under Section 60(5) of the IBC cannot be invoked to grant reliefs which are in the nature of specific performance of contracts – Harish Kumar and Anr. Vs. Bhuvan Madan, IRP for Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/harish-kumar-and-anr-vs-bhuvan-madan-irp-for-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Mon, 06 Apr 2026 03:41:21 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [To protect homebuyers, real estate insolvency should explore project-wise resolution, not the whole company: NCLAT](https://www.barandbench.com/news/litigation/to-protect-homebuyers-real-estate-insolvency-should-explore-project-wise-resolution-not-whole-company-nclat)
 - **Published:** Sat, 04 Apr 2026 11:08:10 +0530
