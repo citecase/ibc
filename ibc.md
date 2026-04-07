@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-07 07:56:52*
+*Last synced: 2026-04-07 19:36:53*
+
+### [Under the IBBI Liquidation Regulations, 2016, the Stakeholders Consultation Committee (SCC) is fully empowered to request for change of the liquidation – ASREC India Ltd. Vs. Kamal Agarwal and Ors. – NCLAT New Delhi](https://ibclaw.in/asrec-india-ltd-vs-kamal-agarwal-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 07 Apr 2026 18:58:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Withdrawal of CIRP, expansion of CoC role and more: Highlights of IBC Amendment Act 2026](https://www.barandbench.com/news/law-policy/withdrawal-of-cirp-expansion-of-coc-role-and-more-highlights-of-ibc-amendment-act-2026)
 - **Published:** Tue, 07 Apr 2026 11:18:13 +0530
