@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-06 19:36:08*
+*Last synced: 2026-04-07 03:37:48*
+
+### [Whether a shareholder can be paid by the reduction of share capital under Section 66 of the Companies Act, 2013, if the Company is having accumulated losses? – Abtran India Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/abtran-india-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Mon, 06 Apr 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the principal amount awarded under an arbitral award stands paid and acknowledged, and the remaining claim pertains exclusively to interest under a final arbitral award for which execution proceedings are already pending before the competent forum, the Adjudicating Authority under the IBC cannot assume parallel jurisdiction to determine and enforce the same decretal claim – Sterling Industries Vs. Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/sterling-industries-vs-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Mon, 06 Apr 2026 19:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The insolvency forum cannot be converted into a forum for adjudicating individual allottee-specific monetary disputes once the insolvency process has proceeded to the stage of possession being delivered in accordance with the governing framework – Devendra Singh Yadav and Anr. Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/devendra-singh-yadav-and-anr-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Mon, 06 Apr 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 230 of the Companies Act, 2013 requires class-wise approval by three-fourths in value of each class of creditors or members, and does not permit aggregate voting or omnibus extinguishment of liabilities – G. Madhusudhan Rao, Liquidator for Sarda Agro Oils Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/g-madhusudhan-rao-liquidator-for-sarda-agro-oils-ltd-nclt-hyderabad-bench-2/)
+- **Published:** Mon, 06 Apr 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the order under Section 14(1) SARFAESI Act obtained by the bank during the subsistence of a moratorium under Section 96 of IBC, and in suppression of material facts, is valid and can form the basis for taking possession of the applicant’s premises – Dilip Sakharchand Lodhа Vs. Bank of Baroda – DRT Mumbai](https://ibclaw.in/dilip-sakharchand-lodh%d0%b0-vs-bank-of-baroda-drt-mumbai/)
+- **Published:** Mon, 06 Apr 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Relevant factors that may influence the decision of the Adjudicating Authority (NCLT) while considering an offer of settlement for the purpose of withdrawing a CIRP within the meaning of Section 12A of IBC read with CIRP Regulation 30A(1)(a) | Resolution Professional (RP) fee non-payment to be considered under the inherent powers prescribed in Rule 11 of the NCLT Rules – Suyog Suryakant Talekar Vs. Trivenimudrai Project Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/suyog-suryakant-talekar-vs-trivenimudrai-project-ltd-and-anr-nclat-new-delhi/)
 - **Published:** Mon, 06 Apr 2026 14:00:52 +0000
