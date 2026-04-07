@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-07 03:37:48*
+*Last synced: 2026-04-07 07:56:52*
+
+### [Withdrawal of CIRP, expansion of CoC role and more: Highlights of IBC Amendment Act 2026](https://www.barandbench.com/news/law-policy/withdrawal-of-cirp-expansion-of-coc-role-and-more-highlights-of-ibc-amendment-act-2026)
+- **Published:** Tue, 07 Apr 2026 11:18:13 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [President Assents to Insolvency and Bankruptcy Code (Amendment) Act, 2026](https://ibclaw.in/president-assents-to-insolvency-and-bankruptcy-code-amendment-act-2026/)
+- **Published:** Tue, 07 Apr 2026 05:05:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CIRP Simulation Competition 2026, NALSAR University of Law](https://ibclaw.in/cirp-simulation-competition-2026-nalsar-university-of-law/)
+- **Published:** Tue, 07 Apr 2026 05:46:27 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Report of Study on Micro, Small, and Medium Enterprises in the Insolvency and Bankruptcy Code, 2016](https://ibclaw.in/report-of-study-on-micro-small-and-medium-enterprises-in-the-insolvency-and-bankruptcy-code-2016/)
+- **Published:** Tue, 07 Apr 2026 06:12:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether moratorium under Section 14 of the IBC in the proceedings initiated against Corporate Guarantor (Corporate Debtor) and interim moratorium under Section 96 of the IB Code in the proceedings initiated against the Personal Guarantors, would apply qua Principal Borrower against whom no insolvency proceedings have been initiated? – IL & FS Financial Services Ltd. Vs. Serveall Constructions Pvt. Ltd. and Ors. – Bombay High Court](https://ibclaw.in/il-fs-financial-services-ltd-vs-serveall-constructions-pvt-ltd-and-ors-bombay-high-court/)
+- **Published:** Tue, 07 Apr 2026 07:22:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bombay High Court Clarifies Moratorium Under IBC Sections 14 and 96 Does Not Extend to Principal Borrower Absent Insolvency Proceedings](https://ibclaw.in/bombay-high-court-clarifies-moratorium-under-ibc-sections-14-and-96-does-not-extend-to-principal-borrower-absent-insolvency-proceedings/)
+- **Published:** Tue, 07 Apr 2026 07:30:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether a shareholder can be paid by the reduction of share capital under Section 66 of the Companies Act, 2013, if the Company is having accumulated losses? – Abtran India Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/abtran-india-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Mon, 06 Apr 2026 19:40:00 +0000
