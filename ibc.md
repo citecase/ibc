@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-08 03:40:05*
+*Last synced: 2026-04-08 07:59:43*
+
+### [NCLT President appointment pending with CJI since December 2025: Centre tells Delhi High Court](https://www.barandbench.com/news/litigation/nclt-president-appointment-pending-with-cji-since-december-2025-centre-tells-delhi-high-court)
+- **Published:** Wed, 08 Apr 2026 10:33:11 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency and Bankruptcy Code (Amendment) Act, 2026](https://ibclaw.in/insolvency-and-bankruptcy-code-amendment-act-2026/)
+- **Published:** Wed, 08 Apr 2026 07:08:27 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Once the successful bidder participated in the auction on ‘as is where is’, ‘as is what is’, ‘as is how is’, ‘whatever there is’, ‘no recourse’ basis, and the earlier application for similar reliefs was withdrawn without liberty, the Liquidator’s subsequent application for the same reliefs is not maintainable, being barred by constructive res judicata – Biotech Pvt. Ltd. Vs. Dr. Kondapalli Venkat Srinivas, Liquidator of Veda Biofuel Ltd. – NCLAT Chennai](https://ibclaw.in/biotech-pvt-ltd-vs-dr-kondapalli-venkat-srinivas-liquidator-of-veda-biofuel-ltd-nclat-chennai/)
 - **Published:** Tue, 07 Apr 2026 19:44:00 +0000
