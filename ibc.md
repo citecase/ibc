@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-08 07:59:43*
+*Last synced: 2026-04-08 14:10:01*
+
+### [NCLT technical member moves CAT against acting President appointment after withdrawing petition from Delhi HC](https://www.barandbench.com/news/litigation/nclt-technical-member-moves-cat-against-acting-president-appointment-after-withdrawing-petition-from-delhi-hc)
+- **Published:** Wed, 08 Apr 2026 17:01:58 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [CAT dismisses NCLT technical member’s plea against acting President appointment](https://www.barandbench.com/news/litigation/cat-dismisses-nclt-technical-members-plea-against-acting-president-appointment)
+- **Published:** Wed, 08 Apr 2026 19:15:10 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Research study on Resolution Professionals conducted by Management Development Institute, Gurgaon](https://ibclaw.in/research-study-on-resolution-professionals-conducted-by-management-development-institute-gurgaon/)
+- **Published:** Wed, 08 Apr 2026 13:47:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Report of the Committee on Framing Guidelines for Insolvency Proceedings in Real Estate Sector](https://ibclaw.in/report-of-the-committee-on-framing-guidelines-for-insolvency-proceedings-in-real-estate-sector/)
+- **Published:** Wed, 08 Apr 2026 13:48:37 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT President appointment pending with CJI since December 2025: Centre tells Delhi High Court](https://www.barandbench.com/news/litigation/nclt-president-appointment-pending-with-cji-since-december-2025-centre-tells-delhi-high-court)
 - **Published:** Wed, 08 Apr 2026 10:33:11 +0530
