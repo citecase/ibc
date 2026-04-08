@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-07 19:36:53*
+*Last synced: 2026-04-08 03:40:05*
+
+### [Once the successful bidder participated in the auction on ‘as is where is’, ‘as is what is’, ‘as is how is’, ‘whatever there is’, ‘no recourse’ basis, and the earlier application for similar reliefs was withdrawn without liberty, the Liquidator’s subsequent application for the same reliefs is not maintainable, being barred by constructive res judicata – Biotech Pvt. Ltd. Vs. Dr. Kondapalli Venkat Srinivas, Liquidator of Veda Biofuel Ltd. – NCLAT Chennai](https://ibclaw.in/biotech-pvt-ltd-vs-dr-kondapalli-venkat-srinivas-liquidator-of-veda-biofuel-ltd-nclat-chennai/)
+- **Published:** Tue, 07 Apr 2026 19:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A third party cannot claim an independent or enforceable right to access the Resolution Plan – Yamuna Expressway Industrial Development Authority Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. – NCLT Allahabad Bench](https://ibclaw.in/yamuna-expressway-industrial-development-authority-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-nclt-allahabad-bench/)
+- **Published:** Tue, 07 Apr 2026 20:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Liquidator is required to file income tax returns or submit accounts to claim refund of TDS deducted on interest accrued on fixed deposits during liquidation | Whether the NCLT or NCLAT has jurisdiction to direct refund of TDS or interpret the exemption under Section 140 of the Income Tax Act, 1961 in the context of a company under liquidation – S. Dhanapal, Liquidator of Servalakshmi Paper Ltd. Vs. Income Tax Officer and Anr. – NCLAT Chennai](https://ibclaw.in/s-dhanapal-liquidator-of-servalakshmi-paper-ltd-vs-income-tax-officer-and-anr-nclat-chennai/)
+- **Published:** Tue, 07 Apr 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere photocopies of rent receipts are insufficient to prove ownership – Anand Tyagi Vs. Punjab & Sind Bank and Ors. – DRT Delhi](https://ibclaw.in/anand-tyagi-vs-punjab-sind-bank-and-ors-drt-delhi/)
+- **Published:** Tue, 07 Apr 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The knowledge of the order is not relevant for the purposes of computation of limitation for filing appeal under Section 61 of IBC and as soon as the order was pronounced and delivered the limitation shall commence – Denasa Buildcon Vs. Nalwa Steels and Power Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/denasa-buildcon-vs-nalwa-steels-and-power-ltd-and-anr-nclat-chennai/)
+- **Published:** Tue, 07 Apr 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The issue of whether the deposit made by the deceased with the company is to be refunded, and the manner of its safekeeping, falls within the jurisdiction of the NCLT and must be decided on merits without awaiting the outcome of the probate proceedings – Dr. M.A.M. Ramaswamy Chettiar Vs. Chettinad Coal Washeries Pvt. Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/dr-m-a-m-ramaswamy-chettiar-vs-chettinad-coal-washeries-pvt-ltd-and-anr-nclat-chennai/)
+- **Published:** Tue, 07 Apr 2026 23:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Although Section 114(3) of the IBC, 2016 is an enabling provision for the Adjudicating Authority (NCLT) to exercise its discretion but there have to be circumstances apparent on the record to enable the Adjudicating Authority to exercise such power to direct modification of repayment plan – Omkaram Venkata Ramana Vs. Bank of India and Anr. – NCLAT Chennai](https://ibclaw.in/omkaram-venkata-ramana-vs-bank-of-india-and-anr-nclat-chennai/)
+- **Published:** Wed, 08 Apr 2026 00:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Under the IBBI Liquidation Regulations, 2016, the Stakeholders Consultation Committee (SCC) is fully empowered to request for change of the liquidation – ASREC India Ltd. Vs. Kamal Agarwal and Ors. – NCLAT New Delhi](https://ibclaw.in/asrec-india-ltd-vs-kamal-agarwal-and-ors-nclat-new-delhi/)
 - **Published:** Tue, 07 Apr 2026 18:58:00 +0000
