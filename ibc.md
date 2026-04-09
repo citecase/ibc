@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-08 14:10:01*
+*Last synced: 2026-04-09 03:35:38*
+
+### [While exercising power under Section 14 of the SARFAESI Act, even the District Magistrate has no jurisdiction and/or District Magistrate and/or even the Chief Metropolitan Magistrate has no jurisdiction to adjudicate the dispute between secured creditor and debtor | A Chief Judicial Magistrate is equally competent to deal with the application moved by the secured creditor under Section 14 of the SARFAESI Act | No action taken by the Chief Metropolitan Magistrate or District Magistrate (or any officer authorized by them) under Section 14 can be challenged in court or before any other authority – N.Muruganandham Vs. Authorized Officer, IIFL Home Finance Ltd. – DRT Chennai](https://ibclaw.in/n-muruganandham-vs-authorized-officer-iifl-home-finance-ltd-drt-chennai/)
+- **Published:** Wed, 08 Apr 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT technical member moves CAT against acting President appointment after withdrawing petition from Delhi HC](https://www.barandbench.com/news/litigation/nclt-technical-member-moves-cat-against-acting-president-appointment-after-withdrawing-petition-from-delhi-hc)
 - **Published:** Wed, 08 Apr 2026 17:01:58 +0530
