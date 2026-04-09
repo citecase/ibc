@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-09 14:20:33*
+*Last synced: 2026-04-09 19:45:54*
+
+### [Proceedings against the Personal Guarantor are independent in nature and can be initiated irrespective of whether CIRP proceedings have been commenced against the Corporate Debtor – S. Kasi Viswanathan, CA, RP of Mr. Khurshid Alam – NCLT Bengaluru Bench](https://ibclaw.in/s-kasi-viswanathan-ca-rp-of-mr-khurshid-alam-nclt-bengaluru-bench/)
+- **Published:** Thu, 09 Apr 2026 18:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SARFAESI Proceedings at Advanced Stage Cannot Be Defeated by Time-Barred Section 94 IBC Petition Filed by Personal Guarantor – Shoukath Sherif – NCLT Chennai Bench](https://ibclaw.in/shoukath-sherif-nclt-chennai-bench/)
+- **Published:** Thu, 09 Apr 2026 18:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Simultaneous CIRP proceedings against Principal Debtor and Guarantor are permissible – Central Bank of India Vs. Candid Industries Ltd. – NCLT Chennai Bench](https://ibclaw.in/central-bank-of-india-vs-candid-industries-ltd-nclt-chennai-bench/)
+- **Published:** Thu, 09 Apr 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere non-compliance or non-payment of amounts directed by the NCLT does not, by itself, constitute civil contempt; the essential ingredient of wilful and deliberate disobedience must be established | The Tribunal’s contempt jurisdiction cannot be invoked as a substitute for execution proceedings – Satish Gopalakrisha Pillai Vs. Vinesan Gopinathan and Ors. – NCLT Kochi Bench](https://ibclaw.in/satish-gopalakrisha-pillai-vs-vinesan-gopinathan-and-ors-nclt-kochi-bench/)
+- **Published:** Thu, 09 Apr 2026 19:34:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Civil Court Jurisdiction Barred In NBFC Loan Recovery Disputes; NCLT Has Exclusive Domain U/S 45 QA RBI Act: Allahabad High Court](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/shivam-traders-and-hire-purchase-pvt-ltd-v-madhusudan-vehicles-pvt-ltd-2026ahc67074-nclt-exclusive-domain-us-45-qa-1611706)
 - **Published:** Thu, 09 Apr 2026 14:00:21 GMT
