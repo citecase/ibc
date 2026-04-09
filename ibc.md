@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-09 03:35:38*
+*Last synced: 2026-04-09 14:20:33*
+
+### [Civil Court Jurisdiction Barred In NBFC Loan Recovery Disputes; NCLT Has Exclusive Domain U/S 45 QA RBI Act: Allahabad High Court](https://www.verdictum.in/court-updates/high-courts/allahabad-high-court/shivam-traders-and-hire-purchase-pvt-ltd-v-madhusudan-vehicles-pvt-ltd-2026ahc67074-nclt-exclusive-domain-us-45-qa-1611706)
+- **Published:** Thu, 09 Apr 2026 14:00:21 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Regional Provident Fund Commissioner – II (Legal) Vs. Rajendra Jain, RP of Kimaya Industries Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/regional-provident-fund-commissioner-ii-legal-vs-rajendra-jain-rp-of-kimaya-industries-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 08 Apr 2026 14:08:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mahesh Ganpat Angane and Ors. Vs. Dr. Mamta Binani and Anr. – NCLAT New Delhi](https://ibclaw.in/mahesh-ganpat-angane-and-ors-vs-dr-mamta-binani-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 08 Apr 2026 14:11:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where Rule 48(2) of the NCLT Rules, 2016 expressly prescribes a 30-day period for restoration of a petition dismissed for non-appearance, the Tribunal’s inherent powers under Rule 11 or discretionary powers under Rules 15 and 153 cannot be invoked to override this express limitation | Sufficient cause for condonation of delay must be established, and mere negligence or non-communication by counsel does not constitute sufficient cause in the context of time-bound insolvency proceedings – V-Con Integrated Solutions Pvt. Ltd. Vs. Shreeram Technology Services Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/v-con-integrated-solutions-pvt-ltd-vs-shreeram-technology-services-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 09 Apr 2026 04:47:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Inherent Powers Cannot Override Express 30-Day Limit for Restoration Under Rule 48(2) of NCLT Rules, 2016](https://ibclaw.in/nclat-rules-inherent-powers-cannot-override-express-30-day-limit-for-restoration-under-rule-482-of-nclt-rules-2016/)
+- **Published:** Thu, 09 Apr 2026 04:48:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once liquidation value for secured creditor has been computed on the basis of resolution plan and approved within the CoC framework by the Adjudicating Authority, the entitlement of a creditor cannot be re-opened even by the CoC, not to say the Monitoring Committee | Monitoring Committee cannot assume the role of the CoC or the Adjudicating Authority to revisit or modify the terms of the plan – Indian Bank and Ors. Vs. State Bank of India and Ors. – NCLAT New Delhi](https://ibclaw.in/indian-bank-and-ors-vs-state-bank-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 09 Apr 2026 09:56:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Monitoring Committee Cannot Modify CoC-Approved Resolution Plan or Revisit Creditor Entitlements Under IBC](https://ibclaw.in/nclat-holds-monitoring-committee-cannot-modify-coc-approved-resolution-plan-or-revisit-creditor-entitlements-under-ibc/)
+- **Published:** Thu, 09 Apr 2026 09:58:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The absence of a specific date of default in the application does not vitiate the proceedings where the DRT orders and Recovery Certificate are on record and the debt and default have been judicially determined – Asset Reconstruction Company (India) Ltd. Vs. Manoharamma Hotel Investments Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/asset-reconstruction-company-india-ltd-vs-manoharamma-hotel-investments-pvt-ltd-nclat-chennai/)
+- **Published:** Thu, 09 Apr 2026 10:50:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Can an MSCS Acquire a Corporate Debtor Under the IBC? Supreme Court Clarifies](https://ibclaw.in/can-an-mscs-acquire-a-corporate-debtor-under-the-ibc-supreme-court-clarifies/)
+- **Published:** Thu, 09 Apr 2026 12:57:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [While exercising power under Section 14 of the SARFAESI Act, even the District Magistrate has no jurisdiction and/or District Magistrate and/or even the Chief Metropolitan Magistrate has no jurisdiction to adjudicate the dispute between secured creditor and debtor | A Chief Judicial Magistrate is equally competent to deal with the application moved by the secured creditor under Section 14 of the SARFAESI Act | No action taken by the Chief Metropolitan Magistrate or District Magistrate (or any officer authorized by them) under Section 14 can be challenged in court or before any other authority – N.Muruganandham Vs. Authorized Officer, IIFL Home Finance Ltd. – DRT Chennai](https://ibclaw.in/n-muruganandham-vs-authorized-officer-iifl-home-finance-ltd-drt-chennai/)
 - **Published:** Wed, 08 Apr 2026 20:55:00 +0000
