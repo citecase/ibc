@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-10 08:07:32*
+*Last synced: 2026-04-10 13:55:26*
+
+### [NCLT Technical member moves Delhi High Court against CAT order on appointment of acting President](https://www.barandbench.com/news/litigation/nclt-technical-member-moves-delhi-high-court-against-cat-order-on-appointment-of-acting-president)
+- **Published:** Fri, 10 Apr 2026 18:17:43 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Adjudicating Authority Has To Satisfy Itself Of Existence Of Plausible Pre-existing Dispute While Considering Application U/S 9 IBC: Supreme Court](https://www.verdictum.in/court-updates/supreme-court/gls-films-industries-private-limited-v-chemical-suppliers-india-private-limited-2026-insc-344-pre-existing-sec-9-ibc-1611776)
+- **Published:** Fri, 10 Apr 2026 13:00:56 GMT
+- **Source:** https://verdictum.in/feed
+
+### [NCLT Mumbai Clarifies Maintenance Dues During CIRP Require CoC Approval to Qualify as CIRP Costs; Maintenance and Property Tax Dues Accruing Post-Liquidation Commencement Constitute Liquidation Costs](https://ibclaw.in/nclt-mumbai-clarifies-maintenance-dues-during-cirp-require-coc-approval-to-qualify-as-cirp-costs-maintenance-and-property-tax-dues-accruing-post-liquidation-commencement-constitute-liquidation-costs/)
+- **Published:** Fri, 10 Apr 2026 09:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Holds Sole Secured Financial Creditor Cannot Withdraw Admitted Claim or Refuse CIRP Costs After CoC Reconstitution](https://ibclaw.in/nclt-mumbai-holds-sole-secured-financial-creditor-cannot-withdraw-admitted-claim-or-refuse-cirp-costs-after-coc-reconstitution/)
+- **Published:** Fri, 10 Apr 2026 12:10:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Can a co-operative society act as resolution applicant under IBC? Supreme Court answers](https://www.barandbench.com/news/litigation/can-a-co-operative-society-act-as-resolution-applicant-under-ibc-supreme-court-answers)
 - **Published:** Thu, 09 Apr 2026 20:47:15 +0530
