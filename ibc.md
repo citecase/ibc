@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-10 03:48:08*
+*Last synced: 2026-04-10 08:07:32*
+
+### [Can a co-operative society act as resolution applicant under IBC? Supreme Court answers](https://www.barandbench.com/news/litigation/can-a-co-operative-society-act-as-resolution-applicant-under-ibc-supreme-court-answers)
+- **Published:** Thu, 09 Apr 2026 20:47:15 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [GLS Films Industries Private Limited v. Chemical Suppliers India Private Limited, 2026 INSC 344 - S.9 IBC](https://www.caseciter.com/2026insc344/)
+- **Published:** Fri, 10 Apr 2026 07:26:28 GMT
+- **Source:** https://caseciter.com/rss
+
+### [NCLT Chennai Rules Takeover of Minority Shares Under Section 230(11) Is Not ‘Disinvestment’; Disinvestment Guidelines Inapplicable to Statutory Takeover Schemes](https://ibclaw.in/nclt-chennai-rules-takeover-of-minority-shares-under-section-23011-is-not-disinvestment-disinvestment-guidelines-inapplicable-to-statutory-takeover-schemes/)
+- **Published:** Fri, 10 Apr 2026 04:06:59 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Holds Tribunal Has Jurisdiction to Entertain Compounding Applications Under Section 441 of Companies Act Irrespective of Pecuniary Limits](https://ibclaw.in/nclt-mumbai-holds-tribunal-has-jurisdiction-to-entertain-compounding-applications-under-section-441-of-companies-act-irrespective-of-pecuniary-limits/)
+- **Published:** Fri, 10 Apr 2026 04:08:01 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Clarifies NCLT’s Role Under Section 9 IBC: Only Existence of Plausible Pre-Existing Dispute to Be Examined, Not Merits](https://ibclaw.in/supreme-court-clarifies-nclts-role-under-section-9-ibc-only-existence-of-plausible-pre-existing-dispute-to-be-examined-not-merits/)
+- **Published:** Fri, 10 Apr 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The report of information utility (NeSL) is sufficient evidence to arrive at the conclusion qua the amount of debt and default – South Indian Bank Ltd. Vs. E.K.S. Spinners Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/south-indian-bank-ltd-vs-e-k-s-spinners-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Thu, 09 Apr 2026 19:57:00 +0000
