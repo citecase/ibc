@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-09 19:45:54*
+*Last synced: 2026-04-10 03:48:08*
+
+### [The report of information utility (NeSL) is sufficient evidence to arrive at the conclusion qua the amount of debt and default – South Indian Bank Ltd. Vs. E.K.S. Spinners Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/south-indian-bank-ltd-vs-e-k-s-spinners-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Thu, 09 Apr 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under Rule 11 of the Second Schedule of the Income Tax Act, the Recovery Officer is under a duty to investigate the matter and decide objections raised by third parties based on evidence – Bank of Maharashtra Vs. Unitech Ltd. and Ors. – DRT Delhi](https://ibclaw.in/bank-of-maharashtra-vs-unitech-ltd-and-ors-drt-delhi/)
+- **Published:** Thu, 09 Apr 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In the absence of any foundational pleadings or substantive or consequential reliefs sought against the proposed parties in the main Company Petition, impleadment cannot be permitted – Smt. Usha Krishnakumar and Ors. Vs. Tharakan Web Innovations Pvt. Ltd. and Ors. – NCLT Kochi Bench](https://ibclaw.in/smt-usha-krishnakumar-and-ors-vs-tharakan-web-innovations-pvt-ltd-and-ors-nclt-kochi-bench/)
+- **Published:** Thu, 09 Apr 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [There is no provision in the IBC or the CIRP Regulations permitting a sole secured financial creditor to withdraw its claim after admission and reconstitution of the CoC | Once admitted, the creditor is bound by statutory duties and cannot unilaterally exit or refuse to pay CIRP costs and fees – SREI Equipment Finance Ltd. Vs. Hajib Raghavan Viswanath, Deemed RP of Interbuild Infrastructure Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/srei-equipment-finance-ltd-vs-hajib-raghavan-viswanath-deemed-rp-of-interbuild-infrastructure-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 09 Apr 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Maintenance dues claimed by a cooperative society in respect of units owned by Corporate Debtor for CIRP period cannot be classified as CIRP costs in the absence of approval by CoC and are not entitled to priority payment | Maintenance charges and property tax dues accruing from the liquidation commencement date until the period of ED attachment constitute liquidation costs under Regulation 2(1)(ea) and must be discharged in priority – Kohinoor City Office Towers Industrial Estate & Premises Co-op. Society Ltd. Vs. Santanu T. Ray, Liquidator and Anr. – NCLT Mumbai Bench](https://ibclaw.in/kohinoor-city-office-towers-industrial-estate-premises-co-op-society-ltd-vs-santanu-t-ray-liquidator-and-anr-nclt-mumbai-bench/)
+- **Published:** Thu, 09 Apr 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The proceedings under Section 14 of SARFAESI Act, 2002 are ministerial and non-adjudicatory in nature; trivial procedural lapses, such as non-mention of outstanding amount, do not vitiate SARFAESI proceedings in absence of substantial prejudice – A.J. Satheshkumar Vs. IDBI Bank Ltd. – DRT Chennai](https://ibclaw.in/a-j-satheshkumar-vs-idbi-bank-ltd-drt-chennai/)
+- **Published:** Thu, 09 Apr 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Powers of the Resolution Professional and Liquidator under the IBC extend only to assets owned by the Corporate Debtor and do not empower them to take control of assets belonging to third parties, even if such assets stand in the name of the Corporate Debtor – Manoj Chandrakant Jagirdar – NCLT Mumbai Bench](https://ibclaw.in/manoj-chandrakant-jagirdar-nclt-mumbai-bench/)
+- **Published:** Thu, 09 Apr 2026 21:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Tribunal has jurisdiction to entertain the application for compounding of offence under Section 441 of the Companies Act, 2013, irrespective of pecuniary limits – Dighi Agencies Pvt. Ltd. and Ors. Vs. Registrar of Companies, Pune – NCLT Mumbai Bench](https://ibclaw.in/dighi-agencies-pvt-ltd-and-ors-vs-registrar-of-companies-pune-nclt-mumbai-bench/)
+- **Published:** Thu, 09 Apr 2026 22:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Takeover of minority shares under a scheme of arrangement approved under Section 230(11) of the Companies Act, 2013, based on fair valuation does not amount to ‘disinvestment’ | Disinvestment Guidelines are applicable only to voluntary divestment initiated by the government entity, not to a statutory takeover scheme – Tamilnadu Industrial Investment Corporation Ltd. Vs. Dipak Raj Sood and Ors. – NCLT Chennai Bench](https://ibclaw.in/tamilnadu-industrial-investment-corporation-ltd-vs-dipak-raj-sood-and-ors-nclt-chennai-bench/)
+- **Published:** Thu, 09 Apr 2026 22:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where a plausible pre-existing dispute exists and is not spurious, hypothetical, or illusory, an application under Section 9 of IBC is not maintainable | The Adjudicating Authority (NCLT) need only examine the existence of such dispute, not its merits – GLS Films Industries Pvt. Ltd. Vs. Chemical Suppliers India Pvt. Ltd. – Supreme Court](https://ibclaw.in/gls-films-industries-pvt-ltd-vs-chemical-suppliers-india-pvt-ltd-supreme-court/)
+- **Published:** Fri, 10 Apr 2026 01:58:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Proceedings against the Personal Guarantor are independent in nature and can be initiated irrespective of whether CIRP proceedings have been commenced against the Corporate Debtor – S. Kasi Viswanathan, CA, RP of Mr. Khurshid Alam – NCLT Bengaluru Bench](https://ibclaw.in/s-kasi-viswanathan-ca-rp-of-mr-khurshid-alam-nclt-bengaluru-bench/)
 - **Published:** Thu, 09 Apr 2026 18:44:00 +0000
