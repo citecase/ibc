@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-13 08:29:13*
+*Last synced: 2026-04-13 14:14:44*
+
+### [Nitendra Kumar Tomer, Suspended Director, Ambro Asia Private Limited v. Unox S.P.A. 2026 INSC 356- S.61 IBC - Limitation](https://www.caseciter.com/2026insc356/)
+- **Published:** Mon, 13 Apr 2026 11:52:40 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Whether an appeal lies against an order of the Tribunal dismissing a contempt petition for non-compliance of its directions, where no punishment for contempt has been imposed? – Venkata Chalam Varanasi Vs. Upender Kumar Agarwal – NCLAT Chennai](https://ibclaw.in/venkata-chalam-varanasi-vs-upender-kumar-agarwal-nclat-chennai/)
+- **Published:** Mon, 13 Apr 2026 11:42:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [With effect from the date of admission of the CIRP, it is not open to the suspended director of the corporate debtor to file an appeal in the name of the corporate debtor while claiming to be its director and authorised representative | Once the interim resolution professional was named by the NCLT in the admission order, Section 17(1)(a) of the IBC would become operative | An appeal so filed is wholly incompetent and not merely defective, and cannot be converted into a maintainable appeal by amendment after expiry of the limitation period prescribed under Section 61(2) of the Code – Nitendra Kumar Tomer Vs. Unox S.P.A. and Anr. – Supreme Court](https://ibclaw.in/nitendra-kumar-tomer-vs-unox-s-p-a-and-anr-supreme-court/)
+- **Published:** Mon, 13 Apr 2026 12:41:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Suspended Director Cannot File Appeal in Name of Corporate Debtor After CIRP Admission; Incompetent Appeal Cannot Be Cured Post-Limitation Under IBC](https://ibclaw.in/supreme-court-holds-suspended-director-cannot-file-appeal-in-name-of-corporate-debtor-after-cirp-admission-incompetent-appeal-cannot-be-cured-post-limitation-under-ibc/)
+- **Published:** Mon, 13 Apr 2026 12:43:58 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The proceedings against the Personal Guarantor are independent and maintainable even if CIRP is not initiated against the Corporate Debtor – S. Kasi Viswanathan, CA, RP of Mrs. Waheeda Khan – NCLT Bengaluru Bench](https://ibclaw.in/s-kasi-viswanathan-ca-rp-of-mrs-waheeda-khan-nclt-bengaluru-bench/)
 - **Published:** Sun, 12 Apr 2026 19:40:00 +0000
