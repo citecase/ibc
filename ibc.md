@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-10 13:55:26*
+*Last synced: 2026-04-13 08:29:13*
+
+### [The proceedings against the Personal Guarantor are independent and maintainable even if CIRP is not initiated against the Corporate Debtor – S. Kasi Viswanathan, CA, RP of Mrs. Waheeda Khan – NCLT Bengaluru Bench](https://ibclaw.in/s-kasi-viswanathan-ca-rp-of-mrs-waheeda-khan-nclt-bengaluru-bench/)
+- **Published:** Sun, 12 Apr 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 5th April, 2026 to 12th April, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-5th-april-2026-to-12th-april-2026/)
+- **Published:** Mon, 13 Apr 2026 05:48:25 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Technical member moves Delhi High Court against CAT order on appointment of acting President](https://www.barandbench.com/news/litigation/nclt-technical-member-moves-delhi-high-court-against-cat-order-on-appointment-of-acting-president)
 - **Published:** Fri, 10 Apr 2026 18:17:43 +0530
