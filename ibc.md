@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-14 14:18:43*
+*Last synced: 2026-04-14 19:48:58*
+
+### [For the purpose of filing Appeal under Section 61 of IBC, when the Judgment order is pronounced in the Open Court, the period of limitation would start running from the date when the Judgment was pronounced and not otherwise – Harish Shah Vs. Ramakrishnan Sadasivan, RP of Lokaa Developer Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/harish-shah-vs-ramakrishnan-sadasivan-rp-of-lokaa-developer-pvt-ltd-nclat-chennai/)
+- **Published:** Tue, 14 Apr 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Navin M. Raheja Vs. Shravan Minocha and Ors. – NCLAT New Delhi](https://ibclaw.in/navin-m-raheja-vs-shravan-minocha-and-ors-nclat-new-delhi/)
 - **Published:** Fri, 10 Apr 2026 14:39:24 +0000
