@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-14 08:11:09*
+*Last synced: 2026-04-14 14:18:43*
+
+### [Navin M. Raheja Vs. Shravan Minocha and Ors. – NCLAT New Delhi](https://ibclaw.in/navin-m-raheja-vs-shravan-minocha-and-ors-nclat-new-delhi/)
+- **Published:** Fri, 10 Apr 2026 14:39:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sachin Ghayal Sugar Pvt. Ltd. Vs. Buldana Urban Co-operative Credit Society Ltd. – NCLAT New Delhi](https://ibclaw.in/sachin-ghayal-sugar-pvt-ltd-vs-buldana-urban-co-operative-credit-society-ltd-nclat-new-delhi/)
+- **Published:** Mon, 13 Apr 2026 12:42:28 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Bar body moves Allahabad High Court against new filing framework for NCLT Allahabad, flags delays](https://www.barandbench.com/news/litigation/bar-body-moves-allahabad-high-court-against-new-filing-framework-for-nclt-allahabad-flags-delays)
 - **Published:** Tue, 14 Apr 2026 10:05:12 +0530
