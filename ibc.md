@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-14 03:49:26*
+*Last synced: 2026-04-14 08:11:09*
+
+### [Bar body moves Allahabad High Court against new filing framework for NCLT Allahabad, flags delays](https://www.barandbench.com/news/litigation/bar-body-moves-allahabad-high-court-against-new-filing-framework-for-nclt-allahabad-flags-delays)
+- **Published:** Tue, 14 Apr 2026 10:05:12 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Dismissal of the Contempt Petition is an exclusive prerogative of the Tribunal, and after filing of the Contempt Petition, the Applicant himself has no role thereafter | When there is an order of punishment as against the alleged Contemnor, it is the Contemnor who can file an Appeal under Section 19 of the Contempt of Courts Act, 1971, and not the Applicant to the Contempt Application / Petition – Venkata Chalam Varanasi Vs. Ushabai Agarwal – NCLAT Chennai](https://ibclaw.in/venkata-chalam-varanasi-vs-ushabai-agarwal-nclat-chennai-2/)
 - **Published:** Mon, 13 Apr 2026 21:27:00 +0000
