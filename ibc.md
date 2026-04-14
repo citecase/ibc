@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-13 14:14:44*
+*Last synced: 2026-04-14 03:49:26*
+
+### [Dismissal of the Contempt Petition is an exclusive prerogative of the Tribunal, and after filing of the Contempt Petition, the Applicant himself has no role thereafter | When there is an order of punishment as against the alleged Contemnor, it is the Contemnor who can file an Appeal under Section 19 of the Contempt of Courts Act, 1971, and not the Applicant to the Contempt Application / Petition – Venkata Chalam Varanasi Vs. Ushabai Agarwal – NCLAT Chennai](https://ibclaw.in/venkata-chalam-varanasi-vs-ushabai-agarwal-nclat-chennai-2/)
+- **Published:** Mon, 13 Apr 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Nitendra Kumar Tomer, Suspended Director, Ambro Asia Private Limited v. Unox S.P.A. 2026 INSC 356- S.61 IBC - Limitation](https://www.caseciter.com/2026insc356/)
 - **Published:** Mon, 13 Apr 2026 11:52:40 GMT
