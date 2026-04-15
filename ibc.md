@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-14 19:48:58*
+*Last synced: 2026-04-15 03:48:47*
+
+### [When a Tribunal passes order in the Contempt Petition filed before it, under Section 425 of the Companies Act, Appeal against the same will have to be dealt with in accordance with the provisions of Section 19 of the Contempt of Courts Act, 1971 – Venkata Chalam Varanasi Vs. Ritesh Agarwal – NCLAT Chennai](https://ibclaw.in/venkata-chalam-varanasi-vs-ritesh-agarwal-nclat-chennai/)
+- **Published:** Tue, 14 Apr 2026 20:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Adjudicating Authority (NCLT) ought to have exercised discretion under Section 7(5)(a) of the IBC, applying Vidarbha Industries Power Judgment, to keep admission of the Section 7 application in abeyance or refuse admission on account of the arbitral award/execution claim in favour of the Corporate Debtor – Vikram Sharma Vs. Canara Bank – NCLAT New Delhi](https://ibclaw.in/vikram-sharma-vs-canara-bank-nclat-new-delhi/)
+- **Published:** Tue, 14 Apr 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [For the purpose of filing Appeal under Section 61 of IBC, when the Judgment order is pronounced in the Open Court, the period of limitation would start running from the date when the Judgment was pronounced and not otherwise – Harish Shah Vs. Ramakrishnan Sadasivan, RP of Lokaa Developer Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/harish-shah-vs-ramakrishnan-sadasivan-rp-of-lokaa-developer-pvt-ltd-nclat-chennai/)
 - **Published:** Tue, 14 Apr 2026 19:33:00 +0000
