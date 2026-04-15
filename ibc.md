@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-15 14:11:01*
+*Last synced: 2026-04-15 19:49:10*
+
+### [Limitation under Section 61(2) of the IBC commences from the date of pronouncement of the impugned order and not from the date of knowledge, particularly where the appellant was a party who participated in the proceeding – Anurag Gupta Vs. Rare Assets Reconstruction Pvt. Ltd. and Ors. – NCLAT Chennai](https://ibclaw.in/anurag-gupta-vs-rare-assets-reconstruction-pvt-ltd-and-ors-nclat-chennai/)
+- **Published:** Wed, 15 Apr 2026 19:03:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Merely by adverting to routine reasons like re-pagination, formatting issues, compilation of annexures/documents etc. cannot justify prolonged and unexplained delay in curing defects in appeal under Section 61 of IBC – Kotak Mahindra Bank Ltd. Vs. Naren Sheth, RP of DBM Geotechnics & Construction Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/kotak-mahindra-bank-ltd-vs-naren-sheth-rp-of-dbm-geotechnics-construction-pvt-ltd-and-ors-nclat-new-delhi/)
 - **Published:** Wed, 15 Apr 2026 08:53:54 +0000
