@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-15 03:48:47*
+*Last synced: 2026-04-15 08:13:45*
+
+### [Discussion Paper on Amendments to IBBI (Information Utilities) Regulations, 2017](https://ibclaw.in/discussion-paper-on-amendments-to-ibbi-information-utilities-regulations-2017/)
+- **Published:** Wed, 15 Apr 2026 07:28:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Discussion Paper on Amendments to IBBI (Inspection and Investigation) Regulations, 2017](https://ibclaw.in/discussion-paper-on-amendments-to-ibbi-inspection-and-investigation-regulations-2017/)
+- **Published:** Wed, 15 Apr 2026 07:36:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Discussion Paper on Amendments to IBBI (Grievance and Complaint Handling Procedure) Regulations, 2017](https://ibclaw.in/discussion-paper-on-amendments-to-ibbi-grievance-and-complaint-handling-procedure-regulations-2017/)
+- **Published:** Wed, 15 Apr 2026 07:44:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [When a Tribunal passes order in the Contempt Petition filed before it, under Section 425 of the Companies Act, Appeal against the same will have to be dealt with in accordance with the provisions of Section 19 of the Contempt of Courts Act, 1971 – Venkata Chalam Varanasi Vs. Ritesh Agarwal – NCLAT Chennai](https://ibclaw.in/venkata-chalam-varanasi-vs-ritesh-agarwal-nclat-chennai/)
 - **Published:** Tue, 14 Apr 2026 20:24:00 +0000
