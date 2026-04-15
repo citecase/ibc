@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-15 08:13:45*
+*Last synced: 2026-04-15 14:11:01*
+
+### [Merely by adverting to routine reasons like re-pagination, formatting issues, compilation of annexures/documents etc. cannot justify prolonged and unexplained delay in curing defects in appeal under Section 61 of IBC – Kotak Mahindra Bank Ltd. Vs. Naren Sheth, RP of DBM Geotechnics & Construction Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/kotak-mahindra-bank-ltd-vs-naren-sheth-rp-of-dbm-geotechnics-construction-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 15 Apr 2026 08:53:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Even if the notice of dispute has been given, which contains the patently feeble legal argument or an assertion of fact unsupported by evidence and is spurious and illusionary, adjudicating authority can still proceed to admit application and reject the defence which can be said to be a moonshine defence – Narayani Resources Pvt. Ltd. Vs. Essar Power Gujarat Ltd. – NCLAT New Delhi](https://ibclaw.in/narayani-resources-pvt-ltd-vs-essar-power-gujarat-ltd-nclat-new-delhi/)
+- **Published:** Wed, 15 Apr 2026 08:59:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [After initiation of moratorium no assessment proceedings can be continued by EPFO which is prohibited – Employees Provident Fund Organisation, Kandivali Vs. Kailash Shah, RP of ITSource Technologies Ltd. – NCLAT New Delhi](https://ibclaw.in/employees-provident-fund-organisation-kandivali-vs-kailash-shah-rp-of-itsource-technologies-ltd-nclat-new-delhi/)
+- **Published:** Wed, 15 Apr 2026 10:34:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether, while declining to interfere with the impugned orders on the ground of availability of an effective alternative remedy, the High Court could direct that the period spent before it be excluded in computing the limitation period for filing an appeal under Section 61 of the IBC before the NCLAT? – P V Mohammed Equbal Vs. Tata Capital Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/p-v-mohammed-equbal-vs-tata-capital-ltd-and-anr-nclat-chennai/)
+- **Published:** Wed, 15 Apr 2026 10:45:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Chennai Rules High Court Cannot Direct Exclusion of Writ Petition Period from Limitation for IBC Appeals](https://ibclaw.in/nclat-chennai-rules-high-court-cannot-direct-exclusion-of-writ-petition-period-from-limitation-for-ibc-appeals/)
+- **Published:** Wed, 15 Apr 2026 10:56:34 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Discussion Paper on Amendments to IBBI (Information Utilities) Regulations, 2017](https://ibclaw.in/discussion-paper-on-amendments-to-ibbi-information-utilities-regulations-2017/)
 - **Published:** Wed, 15 Apr 2026 07:28:20 +0000
