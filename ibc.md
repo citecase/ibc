@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-15 19:49:10*
+*Last synced: 2026-04-16 03:55:24*
+
+### [Resolution Plans being conditional, lacking certainty, not providing for full and upfront payment of CIRP costs, not clearly assuming responsibility for statutory approvals, and not satisfactorily addressing encumbrances/attachments/pending litigations, are non-compliant and cannot be approved – K Parameswaran Nair, RP of Samson and Sons Builders and Developers Pvt. Ltd. – NCLT Kochi Bench](https://ibclaw.in/k-parameswaran-nair-rp-of-samson-and-sons-builders-and-developers-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Wed, 15 Apr 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Application under Section 94 of IBC by personal guarantor must be exercised bona fide for insolvency resolution; filing immediately before advanced SARFAESI possession proceedings to obtain interim moratorium and stall recovery amounts to abuse attracting Section 65 principles – Awadhesh Narain Tiwari Vs. Janaseva Sahakari Bank (Borivalli) Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/awadhesh-narain-tiwari-vs-janaseva-sahakari-bank-borivalli-ltd-nclt-ahmedabad-bench/)
+- **Published:** Wed, 15 Apr 2026 21:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the period during which the CIRP remained stalled due to judicial intervention deserved exclusion from computation of the CIRP period? – CA Vineeta Maheshwari, RP of Bloom Dekor Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/ca-vineeta-maheshwari-rp-of-bloom-dekor-ltd-nclt-ahmedabad-bench/)
+- **Published:** Wed, 15 Apr 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Settlement Agreement clause providing reversion to original loan terms on breach to be enforced as agreed; Adjudicating Authority cannot rewrite contractual consequences while examining debt and default under Section 7 of the IBC – APRN Enterprises Pvt. Ltd. Vs. Marveledge Realtors Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/aprn-enterprises-pvt-ltd-vs-marveledge-realtors-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 15 Apr 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the auction of the property of the Corporate Debtor under the Chhattisgarh Protection of Interest of Depositors Act, 2005 can be sustained in law after the commencement of CIRP and the imposition of the moratorium under Section 14 of the Insolvency and Bankruptcy Code, 2016 (IBC)? – CMA Shaikh Nafis Anjum, Liquidator of Suvidha Farming Allied Ltd. Vs. Tehsildar, Bhkhara and Anr. – NCLT Indore Bench](https://ibclaw.in/cma-shaikh-nafis-anjum-liquidator-of-suvidha-farming-allied-ltd-vs-tehsildar-bhkhara-and-anr-nclt-indore-bench/)
+- **Published:** Wed, 15 Apr 2026 22:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Issue of direction for creating the lien on the bank accounts results into execution and enforcement of a decree or order of the court of law which action is expressly prohibited by an order of moratorium under section 14 of the IBC | Any action that affects the implementation of the moratorium is an issue affecting the insolvency resolution of the Corporate Debtor and within the powers of NCLT under section 60(5) of the IBC, 2016 read with Rule 11 of the NCLT Rules – Wind World (India) Ltd. Vs. IDBI Bank Ltd. and Anr. – NCLT Ahmedabad Bench](https://ibclaw.in/wind-world-india-ltd-vs-idbi-bank-ltd-and-anr-nclt-ahmedabad-bench/)
+- **Published:** Wed, 15 Apr 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Profit from the revenue-sharing arrangement cannot be equated with an operational debt, and the agreement is essentially in the nature of a joint venture cannot be construed as service or goods supplied – Gutz Feel Film Production LLP Vs. Eros International Media Ltd. – NCLT Mumbai Bench](https://ibclaw.in/gutz-feel-film-production-llp-vs-eros-international-media-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 15 Apr 2026 22:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The scope of enquiry under Section 10 of IBC is not mechanical and the Adjudicating Authority must examine whether the application is filed bona fide for resolution or is an abuse aimed at stalling recovery; read with Section 65, a Section 10 application need not be admitted merely because debt and default exist – Q Top Fab Engineering Pvt. Ltd. Vs. Punjab National Bank and Anr. – NCLT Ahmedabad Bench](https://ibclaw.in/q-top-fab-engineering-pvt-ltd-vs-punjab-national-bank-and-anr-nclt-ahmedabad-bench/)
+- **Published:** Wed, 15 Apr 2026 22:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jurisdiction of Adjudicating Authority (NCLT) under Section 60(5) of the IBC cannot be invoked to seek production/verification of documents pertaining to the CIRP of the Corporate Debtor after resolution plan approval and conclusion of CIRP – Deputy Commissioner of Commerical Taxes and Ors. Vs. Adhunik Alloys and Power Ltd. and Ors. – NCLT Kolkata Bench](https://ibclaw.in/deputy-commissioner-of-commerical-taxes-and-ors-vs-adhunik-alloys-and-power-ltd-and-ors-nclt-kolkata-bench/)
+- **Published:** Wed, 15 Apr 2026 23:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where CIRP admission is set aside and dispute is settled between initiating financial creditor and corporate debtor, liability to bear outstanding CIRP costs/ Resolution Professional (RP) fees follows the party who invoked and pursued CIRP – Madan Gopal Jindal, RP of White Water Hospitality Pvt. Ltd. Vs. V.I.R. Foods Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/madan-gopal-jindal-rp-of-white-water-hospitality-pvt-ltd-vs-v-i-r-foods-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Wed, 15 Apr 2026 23:30:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Limitation under Section 61(2) of the IBC commences from the date of pronouncement of the impugned order and not from the date of knowledge, particularly where the appellant was a party who participated in the proceeding – Anurag Gupta Vs. Rare Assets Reconstruction Pvt. Ltd. and Ors. – NCLAT Chennai](https://ibclaw.in/anurag-gupta-vs-rare-assets-reconstruction-pvt-ltd-and-ors-nclat-chennai/)
 - **Published:** Wed, 15 Apr 2026 19:03:00 +0000
