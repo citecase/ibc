@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-16 14:20:04*
+*Last synced: 2026-04-16 19:45:39*
+
+### [Whether the CoC’s decision to conduct a second round of challenge mechanism process is in violation of Regulation 39(1A) of CIRP Regulations? – Orissa Metaliks Pvt. Ltd. Vs. Avil Jerome Menezes, RP of Future Enterprises Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/orissa-metaliks-pvt-ltd-vs-avil-jerome-menezes-rp-of-future-enterprises-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 16 Apr 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Discussion Paper on proposed amendments to the IBBI (Voluntary Liquidation Process)](https://ibclaw.in/discussion-paper-on-proposed-amendments-to-the-ibbi-voluntary-liquidation-process/)
 - **Published:** Thu, 16 Apr 2026 08:00:15 +0000
