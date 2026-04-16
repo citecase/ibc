@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-16 03:55:24*
+*Last synced: 2026-04-16 14:20:04*
+
+### [Discussion Paper on proposed amendments to the IBBI (Voluntary Liquidation Process)](https://ibclaw.in/discussion-paper-on-proposed-amendments-to-the-ibbi-voluntary-liquidation-process/)
+- **Published:** Thu, 16 Apr 2026 08:00:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The mere expressed intention to resume business in the future does not, by itself, constitute a sufficient ground for restoration the name of the Company under Section 252 of the Companies Act, 2013 – Rachit Deviprasad Tiwari Vs. Registrar of Companies – NCLT Mumbai Bench](https://ibclaw.in/rachit-deviprasad-tiwari-vs-registrar-of-companies-nclt-mumbai-bench/)
+- **Published:** Thu, 16 Apr 2026 08:43:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Resolution Plans being conditional, lacking certainty, not providing for full and upfront payment of CIRP costs, not clearly assuming responsibility for statutory approvals, and not satisfactorily addressing encumbrances/attachments/pending litigations, are non-compliant and cannot be approved – K Parameswaran Nair, RP of Samson and Sons Builders and Developers Pvt. Ltd. – NCLT Kochi Bench](https://ibclaw.in/k-parameswaran-nair-rp-of-samson-and-sons-builders-and-developers-pvt-ltd-nclt-kochi-bench/)
 - **Published:** Wed, 15 Apr 2026 21:02:00 +0000
