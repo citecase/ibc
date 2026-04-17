@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-17 03:51:57*
+*Last synced: 2026-04-17 08:13:00*
+
+### [Madras HC refuses to direct NCLT to grant urgent hearing to Karti Chidambaram over freezing of bank account](https://www.barandbench.com/news/litigation/madras-hc-refuses-to-direct-nclt-to-grant-urgent-hearing-to-karti-chidambaram-over-freezing-of-bank-account)
+- **Published:** Fri, 17 Apr 2026 10:05:20 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [State Bank of India Vs. Anopsingh Kiritsinh Sarvaiya – NCLAT New Delhi](https://ibclaw.in/state-bank-of-india-vs-anopsingh-kiritsinh-sarvaiya-nclat-new-delhi/)
+- **Published:** Thu, 16 Apr 2026 06:45:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Unity Small Finance Bank Ltd. Vs. Abhishek Chowdhary – NCLAT New Delhi](https://ibclaw.in/unity-small-finance-bank-ltd-vs-abhishek-chowdhary-nclat-new-delhi/)
+- **Published:** Thu, 16 Apr 2026 13:14:17 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Honey Gupta Vs. Ace Infracity Developers Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/honey-gupta-vs-ace-infracity-developers-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 16 Apr 2026 13:16:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Notified Area Autholuty, Ankleshwar (GIDC) Vs. Techno Forge Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/notified-area-autholuty-ankleshwar-gidc-vs-techno-forge-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 16 Apr 2026 13:30:06 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [While the commercial wisdom of the CoC is ordinarily accorded due deference by the Adjudicating Authority, the same cannot be permitted to override the statutory mandate of ensuring that the CIRP has been conducted in a complete and proper manner – Mukesh Kumar Jain, Liquidator of Jayesh Lifescience India Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/mukesh-kumar-jain-liquidator-of-jayesh-lifescience-india-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Thu, 16 Apr 2026 19:49:00 +0000
