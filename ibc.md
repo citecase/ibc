@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-17 08:13:00*
+*Last synced: 2026-04-17 14:03:17*
+
+### [Proposed Amendments to IBBI (Liquidation Process) Regulations, 2016](https://ibclaw.in/proposed-amendments-to-ibbi-liquidation-process-regulations-2016/)
+- **Published:** Fri, 17 Apr 2026 07:59:59 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Discussion Paper on IBBI (Creditor-Initiated Insolvency Resolution Process) Regulations, 2026](https://ibclaw.in/discussion-paper-on-ibbi-creditor-initiated-insolvency-resolution-process-regulations-2026/)
+- **Published:** Fri, 17 Apr 2026 09:18:34 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Madras HC refuses to direct NCLT to grant urgent hearing to Karti Chidambaram over freezing of bank account](https://www.barandbench.com/news/litigation/madras-hc-refuses-to-direct-nclt-to-grant-urgent-hearing-to-karti-chidambaram-over-freezing-of-bank-account)
 - **Published:** Fri, 17 Apr 2026 10:05:20 +0530
