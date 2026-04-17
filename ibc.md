@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-16 19:45:39*
+*Last synced: 2026-04-17 03:51:57*
+
+### [While the commercial wisdom of the CoC is ordinarily accorded due deference by the Adjudicating Authority, the same cannot be permitted to override the statutory mandate of ensuring that the CIRP has been conducted in a complete and proper manner – Mukesh Kumar Jain, Liquidator of Jayesh Lifescience India Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/mukesh-kumar-jain-liquidator-of-jayesh-lifescience-india-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 16 Apr 2026 19:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Form B demand notice issued under Rule 7(1) can be treated as a notice invoking the guarantee? – Indian Bank Vs. Varez Karsi Dadina – NCLT Kolkata Bench](https://ibclaw.in/indian-bank-vs-varez-karsi-dadina-nclt-kolkata-bench/)
+- **Published:** Thu, 16 Apr 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Legal representative of deceased can become party to proceedings under Section 241 and 242 of the Companies Act, 2013 even if he/she is not a member of the company – Anjum Karmali (Khandelwal) – NCLT Mumbai Bench](https://ibclaw.in/anjum-karmali-khandelwal-nclt-mumbai-bench/)
+- **Published:** Thu, 16 Apr 2026 22:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether the CoC’s decision to conduct a second round of challenge mechanism process is in violation of Regulation 39(1A) of CIRP Regulations? – Orissa Metaliks Pvt. Ltd. Vs. Avil Jerome Menezes, RP of Future Enterprises Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/orissa-metaliks-pvt-ltd-vs-avil-jerome-menezes-rp-of-future-enterprises-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Thu, 16 Apr 2026 19:38:00 +0000
