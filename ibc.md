@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-20 08:33:55*
+*Last synced: 2026-04-20 19:40:15*
+
+### [Interest amount claimed by an operational creditor cannot be justifiably added to the operational debt if the interest amount reflected in the invoices was not backed by a contractual agreement nor demonstrated by past conduct and practice between the parties – Shivani Enterprises Vs. S Square Cargo Movers Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/shivani-enterprises-vs-s-square-cargo-movers-pvt-ltd-nclat-new-delhi/)
+- **Published:** Mon, 20 Apr 2026 14:48:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Interest in Invoices Not Backed by Contract or Past Practice Cannot Be Added to Operational Debt Under IBC](https://ibclaw.in/nclat-holds-interest-in-invoices-not-backed-by-contract-or-past-practice-cannot-be-added-to-operational-debt-under-ibc/)
+- **Published:** Mon, 20 Apr 2026 14:54:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Auction sale under the SARFAESI Act cannot cover land beyond the area described in Section 13(2), Section 13(4) and redemption notices | Sale liable to be set aside where CERSAI registration/valuation/website-upload proof is deficient and non-mortgaged land is taken into possession – Ankit Cotton Company and Ors. Vs. Authorized Officer, HDFC Bank and Ors. – DRT Chandigarh](https://ibclaw.in/ankit-cotton-company-and-ors-vs-authorized-officer-hdfc-bank-and-ors-drt-chandigarh/)
+- **Published:** Mon, 20 Apr 2026 14:55:41 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Non-compliance with Rule 8(1) and (2) of the Security Interest (Enforcement) Rules, 2002 vitiates possession notice and renders consequent Section 14 order for physical possession unsustainable – L. Gayathri Vs. Authorized Officer, Karur Vysya Bank Ltd. and Anr. – DRT Madurai](https://ibclaw.in/l-gayathri-vs-authorized-officer-karur-vysya-bank-ltd-and-anr-drt-madurai/)
+- **Published:** Mon, 20 Apr 2026 19:39:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Amendment Act 2026: Architecture of a new insolvency order - What changes and how to structure around it [Part I]](https://www.barandbench.com/view-point/ibc-amendment-act-2026-architecture-of-a-new-insolvency-order-what-changes-and-how-to-structure-around-it-part-i)
 - **Published:** Mon, 20 Apr 2026 13:27:59 +0530
