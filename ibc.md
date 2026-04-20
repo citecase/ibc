@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-20 03:58:40*
+*Last synced: 2026-04-20 08:33:55*
+
+### [IBC Amendment Act 2026: Architecture of a new insolvency order - What changes and how to structure around it [Part I]](https://www.barandbench.com/view-point/ibc-amendment-act-2026-architecture-of-a-new-insolvency-order-what-changes-and-how-to-structure-around-it-part-i)
+- **Published:** Mon, 20 Apr 2026 13:27:59 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Settlement deed in favour of guarantor’s wife during pendency of OA and while property was under mortgage held void and insufficient to defeat recovery proceedings – M. Revathy Vs. State Bank of India and Ors. – DRT Chennai](https://ibclaw.in/m-revathy-vs-state-bank-of-india-and-ors-drt-chennai/)
 - **Published:** Sun, 19 Apr 2026 19:57:00 +0000
