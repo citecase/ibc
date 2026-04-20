@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-17 14:03:17*
+*Last synced: 2026-04-20 03:58:40*
+
+### [Settlement deed in favour of guarantor’s wife during pendency of OA and while property was under mortgage held void and insufficient to defeat recovery proceedings – M. Revathy Vs. State Bank of India and Ors. – DRT Chennai](https://ibclaw.in/m-revathy-vs-state-bank-of-india-and-ors-drt-chennai/)
+- **Published:** Sun, 19 Apr 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Non-deposit of amounts deducted from employees’ salaries with the credit society attracts liability for contribution under Section 66 of the Insolvency and Bankruptcy Code, 2016 – Suniel Dhhandhania and Anr. Vs. Dr. Vichitra Narayan Pathak, RP of Golden Tobacco Ltd. – NCLAT New Delhi](https://ibclaw.in/suniel-dhhandhania-and-anr-vs-dr-vichitra-narayan-pathak-rp-of-golden-tobacco-ltd-nclat-new-delhi/)
+- **Published:** Sun, 19 Apr 2026 20:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Evidence filed only with written arguments without affidavit not treated as valid evidence | Unrebutted irregularities in service and publication render SARFAESI measures illegal and irregular, vitiating sale on account of fraud and undervaluation – Sushil Kumar and Anr. Vs. Authorized Officer, Punjab National Bank and Ors. – DRT Patna](https://ibclaw.in/sushil-kumar-and-anr-vs-authorized-officer-punjab-national-bank-and-ors-drt-patna/)
+- **Published:** Sun, 19 Apr 2026 20:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jurisdiction to try offences under the IBC is specifically conferred upon the Special Court linked to the place where the registered office of the company is situated and the said provision overrides the general provisions of the Cr.P.C. relating to territorial jurisdiction – Vinay Bhadauria Vs. Insolvency and Bankruptcy Board of India – Madhya Pradesh High Court](https://ibclaw.in/vinay-bhadauria-vs-insolvency-and-bankruptcy-board-of-india-madhya-pradesh-high-court/)
+- **Published:** Sun, 19 Apr 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The sum deposited in court upon encashment of the bank guarantee was in substance a court-ordered pre-deposit towards compliance with the stay condition and therefore remained an asset of the corporate debtor within CIRP, to be controlled by the RP and administered for payment to creditors under the IBC – Morarjee Textiles Ltd. and Anr. Vs. Union of India and Ors. – Bombay High Court](https://ibclaw.in/morarjee-textiles-ltd-and-anr-vs-union-of-india-and-ors-bombay-high-court/)
+- **Published:** Sun, 19 Apr 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Proposed Amendments to IBBI (Liquidation Process) Regulations, 2016](https://ibclaw.in/proposed-amendments-to-ibbi-liquidation-process-regulations-2016/)
 - **Published:** Fri, 17 Apr 2026 07:59:59 +0000
