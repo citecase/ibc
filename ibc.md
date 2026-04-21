@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-20 19:40:15*
+*Last synced: 2026-04-21 03:52:07*
+
+### [Non-service of possession and sale notice and discrepancy in bank’s account books regarding loan facility as fraud vitiating SARFAESI measures including auction sale – Poonam Singh and Ors. Vs. Punjab National Bank and Ors. – DRT Patna](https://ibclaw.in/poonam-singh-and-ors-vs-punjab-national-bank-and-ors-drt-patna/)
+- **Published:** Mon, 20 Apr 2026 19:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 17(1) of the SARFAESI Act, 2002 prescribes a mandatory 45-day period to challenge measures and the DRT has no power to condone delay | No fresh notice to legal heirs is required where demand notice was served in the borrower’s lifetime and legal heirs were served as mortgagors – Darshan Commrade Pvt. Ltd. and Ors. Vs. Authorised Officer, Karur Vysya Bank – DRT Chennai](https://ibclaw.in/darshan-commrade-pvt-ltd-and-ors-vs-authorised-officer-karur-vysya-bank-drt-chennai/)
+- **Published:** Mon, 20 Apr 2026 19:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 58(3) of the Companies Act, 2013 does not bar condonation of delay by applying Section 433 read with the Limitation Act, 1963 – Mysore Mercantile Company Ltd. and Anr. Vs. Kamalapuri Naraisimaih Jayalakshmi and Ors. – NCLAT Chennai](https://ibclaw.in/mysore-mercantile-company-ltd-and-anr-vs-kamalapuri-naraisimaih-jayalakshmi-and-ors-nclat-chennai/)
+- **Published:** Mon, 20 Apr 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 62(1)(c) of the Companies Act, 2013 could not be applied retrospectively – Peerless General Finance Investment Co Ltd. Vs. Bhagwati Developers Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/peerless-general-finance-investment-co-ltd-vs-bhagwati-developers-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 20 Apr 2026 22:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pending labour proceedings and disputes as to quantum/entitlement of wage dues constitute a plausible pre-existing dispute | Dispute can be brought to the notice of the Adjudicating Authority even at the stage of filing reply to Section 9 application by the Corporate Debtor – Rashtriya Mill Mazdoor Sangh, Bombay Vs. National Textile Corporation Ltd. – NCLAT New Delhi](https://ibclaw.in/rashtriya-mill-mazdoor-sangh-bombay-vs-national-textile-corporation-ltd-nclat-new-delhi/)
+- **Published:** Mon, 20 Apr 2026 22:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The legislative fiat of IBC does not equip the Adjudicating Authority (NCLT) to raise general concerns about the fitness, justness or effectiveness of a Resolution Plan once it is approved by CoC in the exercise of its commercial wisdom – Art Construction Pvt. Ltd. Vs. Udayraj Patwardhan, RP of Adel Landmarks Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/art-construction-pvt-ltd-vs-udayraj-patwardhan-rp-of-adel-landmarks-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 21 Apr 2026 01:25:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Interest amount claimed by an operational creditor cannot be justifiably added to the operational debt if the interest amount reflected in the invoices was not backed by a contractual agreement nor demonstrated by past conduct and practice between the parties – Shivani Enterprises Vs. S Square Cargo Movers Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/shivani-enterprises-vs-s-square-cargo-movers-pvt-ltd-nclat-new-delhi/)
 - **Published:** Mon, 20 Apr 2026 14:48:15 +0000
