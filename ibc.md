@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-21 03:52:07*
+*Last synced: 2026-04-21 08:17:44*
+
+### [IBC Amendment Act 2026: Architecture of a new insolvency order - What changes and how to structure around it [Part II]](https://www.barandbench.com/view-point/the-ibc-amendment-act-2026the-architecture-of-a-new-insolvency-order-what-changes-and-how-to-structure-around-it-part-ii)
+- **Published:** Tue, 21 Apr 2026 12:02:16 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 13th April, 2026 to 19th April, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-13th-april-2026-to-19th-april-2026/)
+- **Published:** Tue, 21 Apr 2026 06:43:48 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Non-service of possession and sale notice and discrepancy in bank’s account books regarding loan facility as fraud vitiating SARFAESI measures including auction sale – Poonam Singh and Ors. Vs. Punjab National Bank and Ors. – DRT Patna](https://ibclaw.in/poonam-singh-and-ors-vs-punjab-national-bank-and-ors-drt-patna/)
 - **Published:** Mon, 20 Apr 2026 19:54:00 +0000
