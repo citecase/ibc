@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-21 08:17:44*
+*Last synced: 2026-04-21 14:15:55*
+
+### [NCLAT Fortnightly: Important orders on IBC (Feb 1 – Feb 15, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-feb-1-feb-15-2026)
+- **Published:** Tue, 21 Apr 2026 16:55:35 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NPAC to hold conference on IBC - From Resolution to Resilience: Reimagining India’s Corporate Restructuring Landscape](https://www.barandbench.com/news/npac-to-hold-conference-on-ibc-from-resolution-to-resilience-reimagining-indias-corporate-restructuring-landscape)
+- **Published:** Tue, 21 Apr 2026 17:02:28 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [IBC Amendment Act 2026: Architecture of a new insolvency order - What changes and how to structure around it [Part II]](https://www.barandbench.com/view-point/the-ibc-amendment-act-2026the-architecture-of-a-new-insolvency-order-what-changes-and-how-to-structure-around-it-part-ii)
 - **Published:** Tue, 21 Apr 2026 12:02:16 +0530
