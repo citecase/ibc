@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-21 14:15:55*
+*Last synced: 2026-04-21 19:45:31*
+
+### [Sanjay Pandurang Kalate Vs. Jayesh Natvarlal Sanghrajka, RP of Envirant Developers Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/sanjay-pandurang-kalate-vs-jayesh-natvarlal-sanghrajka-rp-of-envirant-developers-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 21 Apr 2026 14:22:27 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SARFAESI action quashed for improper NPA classification, wrongful reversal of cutback appropriations and mis-adjustment of LC margin against interest, with bank denied benefit of its own delays – Aksh Optifibre Ltd. Vs. Union Bank of India and Anr. – DRT Jaipur](https://ibclaw.in/aksh-optifibre-ltd-vs-union-bank-of-india-and-anr-drt-jaipur/)
+- **Published:** Tue, 21 Apr 2026 19:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Securitisation application by minors represented by a changed guardian without material to show competency and raising issues already decided in earlier S.A. held not maintainable as barred by res judicata – Baby Assa Fathima and Ors. Vs. Authorized Officer, IDBI Bank Ltd. and Anr. – DRT Ernakulam](https://ibclaw.in/baby-assa-fathima-and-ors-vs-authorized-officer-idbi-bank-ltd-and-anr-drt-ernakulam/)
+- **Published:** Tue, 21 Apr 2026 19:39:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Fortnightly: Important orders on IBC (Feb 1 – Feb 15, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-feb-1-feb-15-2026)
 - **Published:** Tue, 21 Apr 2026 16:55:35 +0530
