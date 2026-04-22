@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-22 08:16:31*
+*Last synced: 2026-04-22 14:17:58*
+
+### [Jurisdiction & Powers of NCLT under the IBC | Judicial Precedents Compendium (JPC) | Comp. I | Vol. 1](https://ibclaw.in/jurisdiction-powers-of-nclt-under-the-ibc-judicial-precedents-compendium-jpc-comp-i-vol-1/)
+- **Published:** Wed, 22 Apr 2026 08:45:58 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court flags delays by NCLT in approving resolution plans, seeks nationwide data on pending plans](https://www.barandbench.com/news/litigation/supreme-court-flags-delays-by-nclt-in-approving-resolution-plans-seeks-nationwide-data-on-pending-plans)
 - **Published:** Tue, 21 Apr 2026 14:32:01 +0530
