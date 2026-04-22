@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-21 19:45:31*
+*Last synced: 2026-04-22 03:48:12*
+
+### [SARFAESI action cannot be sustained against property of a third party where the property is not part of the mortgaged asset – Santosh Lamba Vs. Orix Leasing and Financial Services Ltd. and Ors. – DRT Delhi](https://ibclaw.in/santosh-lamba-vs-orix-leasing-and-financial-services-ltd-and-ors-drt-delhi/)
+- **Published:** Tue, 21 Apr 2026 19:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Repeatedly dismissed SARFAESI challenges preclude fresh challenge to Section 13(2) and 13(4) notices | Auction not liable to be set aside where sale notice description and bank valuation reports found proper and applicant fails to prove procedural lapse – A 2 Z Departmental Store Vs. Baghat Urban Cooperative Bank Ltd. and Ors. – DRT Chandigarh](https://ibclaw.in/a-2-z-departmental-store-vs-baghat-urban-cooperative-bank-ltd-and-ors-drt-chandigarh/)
+- **Published:** Tue, 21 Apr 2026 19:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Power to verify, estimate, and revise claims is vested in the interim resolution professional/resolution professional under CIRP Regulations 13 and 14, and the Successful Resolution Applicant (SRA) cannot claim or be conferred an open-ended jurisdiction to re-verify or reopen claims already admitted by the RP – Jai Kishore Prasad and Anr. Vs. Apex Heights Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/jai-kishore-prasad-and-anr-vs-apex-heights-pvt-ltd-nclat-new-delhi/)
+- **Published:** Tue, 21 Apr 2026 21:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Development rights under a Development Agreement remain a Corporate Debtor’s asset for CIRP where alleged automatic termination for cheque dishonour was neither acted upon nor proved, and transfer of such rights during moratorium under Section 14 of IBC is void and non-est – Maximal Infrastructure Pvt. Ltd. Vs. Ganga Ram Agarwal (RP) – NCLAT New Delhi](https://ibclaw.in/maximal-infrastructure-pvt-ltd-vs-ganga-ram-agarwal-rp-nclat-new-delhi/)
+- **Published:** Tue, 21 Apr 2026 23:10:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Sanjay Pandurang Kalate Vs. Jayesh Natvarlal Sanghrajka, RP of Envirant Developers Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/sanjay-pandurang-kalate-vs-jayesh-natvarlal-sanghrajka-rp-of-envirant-developers-pvt-ltd-and-ors-nclat-new-delhi/)
 - **Published:** Tue, 21 Apr 2026 14:22:27 +0000
