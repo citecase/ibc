@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-22 14:17:58*
+*Last synced: 2026-04-22 19:47:34*
+
+### [Unregistered partnership firm’s invoice-based supply claim not barred by Section 69(2) of the Partnership Act where no contract proved, and recoverable as compensation under Section 70 of the Contract Act with reasonable interest – Sri Vasan Minerals Vs. Totale Global Pvt. Ltd. – Madras High Court](https://ibclaw.in/sri-vasan-minerals-vs-totale-global-pvt-ltd-madras-high-court/)
+- **Published:** Wed, 22 Apr 2026 18:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 17(1) of the SARFAESI Act mandates filing within forty-five days from the date of the measure and confers no power on the DRT to condone delay | Sale certificate is consequential and cannot be challenged alone as a measure – B. P. Kanikairaj and Anr. Vs. Authorised Officer, Karur Vysya Bank and Ors. – DRT Chennai](https://ibclaw.in/b-p-kanikairaj-and-anr-vs-authorised-officer-karur-vysya-bank-and-ors-drt-chennai/)
+- **Published:** Wed, 22 Apr 2026 19:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Limitation under Section 17 of the SARFAESI Act, 2002 runs from measures under Section 13(4) and not from Field Kanungo letters issued for execution of a Section 14 order | Co-extensive liability of guarantor under Section 128 of the Indian Contract Act, 1872 – Jagtar Singh Vs. Authorised Officer, Bank of Baroda – DRT Chandigarh](https://ibclaw.in/jagtar-singh-vs-authorised-officer-bank-of-baroda-drt-chandigarh/)
+- **Published:** Wed, 22 Apr 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Non-compliance with Rule 3A of the Security Interest (Enforcement) Rules, 2002 in considering and communicating reasons on the borrower’s representation under Section 13(3A) of the SARFAESI Act vitiates measures leading to a possession notice – Sri V. Benjamin and Ors. Vs. State Bank of India – DRT Bengaluru](https://ibclaw.in/sri-v-benjamin-and-ors-vs-state-bank-of-india-drt-bengaluru/)
+- **Published:** Wed, 22 Apr 2026 19:39:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Jurisdiction & Powers of NCLT under the IBC | Judicial Precedents Compendium (JPC) | Comp. I | Vol. 1](https://ibclaw.in/jurisdiction-powers-of-nclt-under-the-ibc-judicial-precedents-compendium-jpc-comp-i-vol-1/)
 - **Published:** Wed, 22 Apr 2026 08:45:58 +0000
