@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-22 03:48:12*
+*Last synced: 2026-04-22 08:16:31*
+
+### [Supreme Court flags delays by NCLT in approving resolution plans, seeks nationwide data on pending plans](https://www.barandbench.com/news/litigation/supreme-court-flags-delays-by-nclt-in-approving-resolution-plans-seeks-nationwide-data-on-pending-plans)
+- **Published:** Tue, 21 Apr 2026 14:32:01 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [SARFAESI action cannot be sustained against property of a third party where the property is not part of the mortgaged asset – Santosh Lamba Vs. Orix Leasing and Financial Services Ltd. and Ors. – DRT Delhi](https://ibclaw.in/santosh-lamba-vs-orix-leasing-and-financial-services-ltd-and-ors-drt-delhi/)
 - **Published:** Tue, 21 Apr 2026 19:52:00 +0000
