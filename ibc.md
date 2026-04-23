@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-23 14:19:11*
+*Last synced: 2026-04-23 19:50:26*
+
+### [The period of limitation would be attracted from the date when the default occurs and not from the date of declaration of NPA – Debdas Chakraborty, RP of Souvanik Mal – NCLT Kolkata Bench](https://ibclaw.in/debdas-chakraborty-rp-of-souvanik-mal-nclt-kolkata-bench/)
+- **Published:** Thu, 23 Apr 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Enforcement under Chapter III of the SARFAESI Act requires proof of service of Section 13(2) and Section 13(4) notices as per the Rules and registration of the security interest under Section 26-D – Sh. Varinderpal Singh and Anr. Vs. Authorised Officer, The Tarn Taran, Central Cooperative Bank Ltd. and Anr. – DRT Chandigarh](https://ibclaw.in/sh-varinderpal-singh-and-anr-vs-authorised-officer-the-tarn-taran-central-cooperative-bank-ltd-and-anr-drt-chandigarh/)
+- **Published:** Thu, 23 Apr 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Debts of the proprietorship could not be loaded onto the corporate debtor to reach the IBC Section 4 threshold – Bhushan Power & Steel Ltd. Vs. A.G. Pipes Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/bhushan-power-steel-ltd-vs-a-g-pipes-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 23 Apr 2026 19:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Anjani Technoplast Ltd. v. Shubh Gautam 2026 INSC 410 - IBC - Money Recovery](https://www.caseciter.com/2026insc410/)
 - **Published:** Thu, 23 Apr 2026 12:10:08 GMT
