@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-23 03:59:20*
+*Last synced: 2026-04-23 08:20:35*
+
+### [The Adjudicating Authority (NCLT) has no jurisdiction to substitute the Committee of Creditors’ (CoC) duly-approved choice of replacement Resolution Professional (RP) with its own nominee where the statutory requirements are fulfilled under Section 27 of IBC – Subrata Roy and Ors. Vs. Rajiv Mohan Ors. – NCLAT New Delhi](https://ibclaw.in/subrata-roy-and-ors-vs-rajiv-mohan-ors-nclat-new-delhi/)
+- **Published:** Thu, 23 Apr 2026 07:27:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds Adjudicating Authority Cannot Substitute CoC-Approved Resolution Professional Under Section 27 of IBC](https://ibclaw.in/nclat-holds-adjudicating-authority-cannot-substitute-coc-approved-resolution-professional-under-section-27-of-ibc/)
+- **Published:** Thu, 23 Apr 2026 07:28:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a Homebuyer’s claim is admitted by the Resolution Professional (RP) and reflected in the approved Resolution Plan, the Successful Resolution Applicant (SRA) cannot reopen or indefinitely scrutinize it beyond the time permitted under the plan – Sanjeev Sangal Vs. Apex Heights Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/sanjeev-sangal-vs-apex-heights-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 23 Apr 2026 07:51:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Recommends IBBI Prevent Re-Verification of RP-Admitted Homebuyer Claims by SRA Under Resolution Plans](https://ibclaw.in/nclat-recommends-ibbi-prevent-re-verification-of-rp-admitted-homebuyer-claims-by-sra-under-resolution-plans/)
+- **Published:** Thu, 23 Apr 2026 07:56:11 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [RBI Master Circular para 4.2.4 (Accounts with temporary deficiencies) does not absolve borrower’s liability where other guideline norms are not complied with; SARFAESI measures sustained – Sri Manish Agarwal and Ors. Vs. Authorized Officer, Punjab National Bank and Ors. – DRT Kolkata](https://ibclaw.in/sri-manish-agarwal-and-ors-vs-authorized-officer-punjab-national-bank-and-ors-drt-kolkata/)
 - **Published:** Wed, 22 Apr 2026 19:52:00 +0000
