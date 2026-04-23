@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-23 08:20:35*
+*Last synced: 2026-04-23 14:19:11*
+
+### [Anjani Technoplast Ltd. v. Shubh Gautam 2026 INSC 410 - IBC - Money Recovery](https://www.caseciter.com/2026insc410/)
+- **Published:** Thu, 23 Apr 2026 12:10:08 GMT
+- **Source:** https://caseciter.com/rss
+
+### [A three-point approach for the NCLT while approving a Resolution Plan: (i) check discharge of statutory responsibilities; respect CoC’s commercial space; (ii) assess whether irregularities constitute ‘material irregularity’; (iii) if tangible facts indicate statutory fraud/misuse, right to probe the same – Nimai Gautam Shah, RP of Zep Infratech Ltd. Vs. Raj Radhe Finance Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/nimai-gautam-shah-rp-of-zep-infratech-ltd-vs-raj-radhe-finance-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 23 Apr 2026 12:08:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT, as an umpire in Cricket field, is required only to watch how the game is played by CoC-RP, NCLAT Sets Out Three-Point Approach for NCLT Approval of Resolution Plans Under IBC](https://ibclaw.in/nclt-as-an-umpire-in-cricket-field-is-required-only-to-watch-how-the-game-is-played-by-coc-rp-nclat-sets-out-three-point-approach-for-nclt-approval-of-resolution-plans-under-ibc/)
+- **Published:** Thu, 23 Apr 2026 12:23:16 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC must not be used as a tool for coercion or as a substitute for execution of a money decree; although a decree may furnish a fresh cause of action, recourse to Section 7 of IBC is not automatic and must be rejected where the insolvency process is invoked only to enforce individual dues and where the very quantum/existence of debt is seriously contested and better suited for execution/computation before the civil court – Anjani Technoplast Ltd. Vs. Shubh Gautam – Supreme Court](https://ibclaw.in/anjani-technoplast-ltd-vs-shubh-gautam-supreme-court/)
+- **Published:** Thu, 23 Apr 2026 13:22:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Clarifies IBC Cannot Be Used as Substitute for Execution of Money Decrees or for Coercive Recovery](https://ibclaw.in/supreme-court-clarifies-ibc-cannot-be-used-as-substitute-for-execution-of-money-decrees-or-for-coercive-recovery/)
+- **Published:** Thu, 23 Apr 2026 13:30:05 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The Adjudicating Authority (NCLT) has no jurisdiction to substitute the Committee of Creditors’ (CoC) duly-approved choice of replacement Resolution Professional (RP) with its own nominee where the statutory requirements are fulfilled under Section 27 of IBC – Subrata Roy and Ors. Vs. Rajiv Mohan Ors. – NCLAT New Delhi](https://ibclaw.in/subrata-roy-and-ors-vs-rajiv-mohan-ors-nclat-new-delhi/)
 - **Published:** Thu, 23 Apr 2026 07:27:37 +0000
