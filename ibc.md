@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-22 19:47:34*
+*Last synced: 2026-04-23 03:59:20*
+
+### [RBI Master Circular para 4.2.4 (Accounts with temporary deficiencies) does not absolve borrower’s liability where other guideline norms are not complied with; SARFAESI measures sustained – Sri Manish Agarwal and Ors. Vs. Authorized Officer, Punjab National Bank and Ors. – DRT Kolkata](https://ibclaw.in/sri-manish-agarwal-and-ors-vs-authorized-officer-punjab-national-bank-and-ors-drt-kolkata/)
+- **Published:** Wed, 22 Apr 2026 19:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Filling in documents by bank officials on behalf of their customers does not mean that they have standing instructions from the customers | Once, the bank was not justified in issuing the notice under Section 13(2) of SARFAESI Act, 2002, it could not issue the notice under Section 13(4) – Vinoj Kumar Sharma and Ors. Vs. UCO Bank and Anr. – DRT Chandigarh](https://ibclaw.in/vinoj-kumar-sharma-and-ors-vs-uco-bank-and-anr-drt-chandigarh/)
+- **Published:** Wed, 22 Apr 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Right to maintenance being equivalent to a fundamental right will be superior to and have overriding effect than the statutory rights afforded to Financial Creditors, Secured Creditors, Operational Creditors or any other such claimants encompassed within the SARFAESI Act, 2002, the Insolvency and Bankruptcy Code, 2016 (IBC) or similar such laws – Mast. Mihir Vs. Dr. Pankaj – Bombay High Court](https://ibclaw.in/mast-mihir-vs-dr-pankaj-bombay-high-court/)
+- **Published:** Wed, 22 Apr 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Unregistered partnership firm’s invoice-based supply claim not barred by Section 69(2) of the Partnership Act where no contract proved, and recoverable as compensation under Section 70 of the Contract Act with reasonable interest – Sri Vasan Minerals Vs. Totale Global Pvt. Ltd. – Madras High Court](https://ibclaw.in/sri-vasan-minerals-vs-totale-global-pvt-ltd-madras-high-court/)
 - **Published:** Wed, 22 Apr 2026 18:32:00 +0000
