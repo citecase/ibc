@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-24 03:58:31*
+*Last synced: 2026-04-24 08:31:57*
+
+### [NCLAT Fortnightly: Important orders on IBC (Feb 16 – Feb 28, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-feb-16-feb-28-2026)
+- **Published:** Fri, 24 Apr 2026 11:25:37 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [SARFAESI enforcement requires lawful NPA classification, proved service of notices, and registration of security interest with Central Registry under Section 26-D | Section 31(i) bar where secured asset is agricultural land – Bhullar Steel Chaughat and Ors. Vs. State Bank of India and Ors. – DRT Chandigarh](https://ibclaw.in/bhullar-steel-chaughat-and-ors-vs-state-bank-of-india-and-ors-drt-chandigarh/)
 - **Published:** Thu, 23 Apr 2026 19:56:00 +0000
