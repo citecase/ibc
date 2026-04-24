@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-23 19:50:26*
+*Last synced: 2026-04-24 03:58:31*
+
+### [SARFAESI enforcement requires lawful NPA classification, proved service of notices, and registration of security interest with Central Registry under Section 26-D | Section 31(i) bar where secured asset is agricultural land – Bhullar Steel Chaughat and Ors. Vs. State Bank of India and Ors. – DRT Chandigarh](https://ibclaw.in/bhullar-steel-chaughat-and-ors-vs-state-bank-of-india-and-ors-drt-chandigarh/)
+- **Published:** Thu, 23 Apr 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Secured creditor’s failure to rebut borrower’s pleaded procedural non-compliance under the SARFAESI Act, 2002 resulting in setting aside of possession notice under Section 13(4) and the Chief Judicial Magistrate’s order under Section 14 | Debt Recovery Tribunal not being a court cannot entertain contempt proceedings – Sundarraj Kanagaraj and Anr. Vs. Chief Judicial Magistrate and Anr. – DRT Madurai](https://ibclaw.in/sundarraj-kanagaraj-and-anr-vs-chief-judicial-magistrate-and-anr-drt-madurai/)
+- **Published:** Thu, 23 Apr 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Section 65 proceeding under IBC must rest on specific pleadings and material showing that initiation of CIRP was fraudulent or with malicious intent, and cannot be used to indirectly seek re-adjudication of debt and default already decided on admission – Canara Bank Vs. Bhavesh Mansukhbai Rathod (IRP) and Ors. – NCLAT New Delhi](https://ibclaw.in/canara-bank-vs-bhavesh-mansukhbai-rathod-irp-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 23 Apr 2026 22:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where Homebuyers/Allottees and Developer have agreed to a different rate or mechanism of compensation, granting additional interest at 8% p.a. under CIRP Regulation 16A(7) would amount to double counting of the same interest component and result in unjust enrichment – Abhijit Ghosh Vs. Ashish Chhawchharia, RP of Riverbank Developers Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/abhijit-ghosh-vs-ashish-chhawchharia-rp-of-riverbank-developers-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Thu, 23 Apr 2026 23:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dr. Srinivas Manchala Vs. State Bank of India and Ors. – NCLAT Chennai](https://ibclaw.in/dr-srinivas-manchala-vs-state-bank-of-india-and-ors-nclat-chennai/)
+- **Published:** Fri, 24 Apr 2026 01:04:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The period of limitation would be attracted from the date when the default occurs and not from the date of declaration of NPA – Debdas Chakraborty, RP of Souvanik Mal – NCLT Kolkata Bench](https://ibclaw.in/debdas-chakraborty-rp-of-souvanik-mal-nclt-kolkata-bench/)
 - **Published:** Thu, 23 Apr 2026 19:33:00 +0000
