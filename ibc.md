@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-27 14:34:23*
+*Last synced: 2026-04-27 19:54:44*
+
+### [Non-compliance with CIRP Regulations and failure to transparently place avoidance (PUFE) material before CoC justifies rejection of CoC-approved resolution plan and re-run of CIRP | Direction to investigate RP’s conduct upheld – Sandeep Lucky, SRA Vs. Sh. Rajeev Lochan (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/sandeep-lucky-sra-vs-sh-rajeev-lochan-rp-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 27 Apr 2026 19:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SARFAESI sale vitiated by non-compliance with service/publication/affixture requirements under Rules 8(1), 8(2), 8(6) and 8(7), valuation irregularities under Rule 8(5), delayed 25% deposit under Rule 9(3), and discrepancy in property description in sale certificate – Tanishkaa Fashion and Anr. Vs. Authorised Officer, Canara Bank and Anr. – DRT Madurai](https://ibclaw.in/tanishkaa-fashion-and-anr-vs-authorised-officer-canara-bank-and-anr-drt-madurai/)
+- **Published:** Mon, 27 Apr 2026 19:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The moratorium under Section 14 of the IBC does not extend to guarantors, and that the liability of the guarantor remains independent and enforceable notwithstanding the initiation or conclusion of CIRP against the Principal Borrower – Omkara Asset Reconstruction Pvt. Ltd. Vs. Kristal Projects (India) Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/omkara-asset-reconstruction-pvt-ltd-vs-kristal-projects-india-ltd-nclt-bengaluru-bench/)
+- **Published:** Mon, 27 Apr 2026 19:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Belated deposit of bid amount after auction sale and issuance of sale certificate not a ground to set aside sale in absence of proved fraud or connivance – V. Velayutham Vs. Authorised Officer, Lakshmi Vilas Bank Ltd. and Ors. – DRT Chennai](https://ibclaw.in/v-velayutham-vs-authorised-officer-lakshmi-vilas-bank-ltd-and-ors-drt-chennai/)
+- **Published:** Mon, 27 Apr 2026 19:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The insolvency framework under the IBC is intended to facilitate resolution of genuine insolvency and not to be invoked as a substitute for recovery proceedings, particularly in circumstances where the liability itself is not clearly crystallised – SNJ Synthetics Ltd. Vs. Akron Formulations India Pvt. Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/snj-synthetics-ltd-vs-akron-formulations-india-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 27 Apr 2026 19:50:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether if the civil court has passed a decree during the commencement of the original period of limitation of three years whether the same would provide a fresh cause of action starting the three years’ limitation a fresh for filing an application under Section 95 of IBC – Dineshbhai Premjibhai Lathidadia Vs. Sarvodaya Sahakari Bank Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/dineshbhai-premjibhai-lathidadia-vs-sarvodaya-sahakari-bank-ltd-and-anr-nclat-new-delhi/)
 - **Published:** Mon, 27 Apr 2026 10:57:31 +0000
