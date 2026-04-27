@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-24 08:31:57*
+*Last synced: 2026-04-27 04:07:57*
+
+### [SARFAESI measures upheld where secured creditor established due compliance with Section 13(2) demand notices, Section 13(4) possession notice, and Rule 8 requirements culminating in auction sale and registered sale certificate – S. Srinivasan Vs. Authorized Officer, Tamilnadu Mercantile Bank Ltd. and Anr. – DRT Chennai](https://ibclaw.in/s-srinivasan-vs-authorized-officer-tamilnadu-mercantile-bank-ltd-and-anr-drt-chennai/)
+- **Published:** Sun, 26 Apr 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Classification of loan accounts as NPA without informing the borrowers and without record of classification as sub-standard, doubtful or loss | Non-proof of service of notices under Sections 13(2) and 13(4) of the SARFAESI Act as per the Security Interest (Enforcement) Rules, 2002 – Rakesh Jain and Anr. Vs. ICICI Bank Ltd. and Anr. – DRT Chandigarh](https://ibclaw.in/rakesh-jain-and-anr-vs-icici-bank-ltd-and-anr-drt-chandigarh/)
+- **Published:** Sun, 26 Apr 2026 19:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Burden lies on the person claiming exemption to establish that at the time of availing the loan the property was used exclusively for agricultural purpose and that there was intention to retain its agricultural nature | Chief Judicial Magistrate, while considering an application under Section 14 of the SARFAESI Act, has no jurisdiction to adjudicate any controversy between the parties on merit | Where demand and possession notices were already served on the deceased, there was no necessity to issue fresh notices to legal heirs – Kurias Thomas Vs. South Indian Bank Ltd. – DRT Ernakulam](https://ibclaw.in/kurias-thomas-vs-south-indian-bank-ltd-drt-ernakulam/)
+- **Published:** Sun, 26 Apr 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once the Adjudicating Authority approves the resolution plan, the creditors cannot enforce their original contractual rights outside the approved plan | The dissenting Financial Creditor has no right to question the commercial wisdom of the CoC – Kerala Financial Corporation Vs. Sharon Hills Residential and Ors. – NCLT Kochi Bench](https://ibclaw.in/kerala-financial-corporation-vs-sharon-hills-residential-and-ors-nclt-kochi-bench/)
+- **Published:** Sun, 26 Apr 2026 21:37:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Fortnightly: Important orders on IBC (Feb 16 – Feb 28, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-feb-16-feb-28-2026)
 - **Published:** Fri, 24 Apr 2026 11:25:37 +0530
