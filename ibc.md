@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-27 09:04:51*
+*Last synced: 2026-04-27 14:34:23*
+
+### [Whether if the civil court has passed a decree during the commencement of the original period of limitation of three years whether the same would provide a fresh cause of action starting the three years’ limitation a fresh for filing an application under Section 95 of IBC – Dineshbhai Premjibhai Lathidadia Vs. Sarvodaya Sahakari Bank Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/dineshbhai-premjibhai-lathidadia-vs-sarvodaya-sahakari-bank-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 27 Apr 2026 10:57:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The use of the word ‘may’ in the opening line of Regulation 21 of IBBI (Liquidation Process) Regulations, 2016 implies that while these modes of proof are authoritative, reliable and assured, the three modes are not exhaustive – ASREC (India) Ltd. Vs. Bhaskar Gopal Shetty (Liquidator) and Anr. – NCLAT New Delhi](https://ibclaw.in/asrec-india-ltd-vs-bhaskar-gopal-shetty-liquidator-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 27 Apr 2026 11:31:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Allotment of flats to a legal firm against legal/professional fee dues, without disbursement of money, is not financial debt under Section 5(8)(f) of the IBC – L & L Partners Litigation Vs. Jalesh Kumar Grover, RP of Grandstar Realty Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/l-l-partners-litigation-vs-jalesh-kumar-grover-rp-of-grandstar-realty-pvt-ltd-nclat-new-delhi/)
+- **Published:** Mon, 27 Apr 2026 12:51:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Rules Allotment of Flats Against Legal Fees Is Not Financial Debt Under IBC Section 5(8)(f)](https://ibclaw.in/nclat-rules-allotment-of-flats-against-legal-fees-is-not-financial-debt-under-ibc-section-58f/)
+- **Published:** Mon, 27 Apr 2026 12:52:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mere mentioning of interest in unilateral invoices is not sufficient unless there is a consent by the Corporate Debtor or any agreement between the parties to pay the interest or Operational Creditor satisfy that interest was paid at any point of time | The mere fact that invoices were received and signed by the Corporate Debtor cannot lead to conclusion that CD was liable to pay interest – Aggarwal Ply House Vs. Techno Fac Contracts Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/aggarwal-ply-house-vs-techno-fac-contracts-pvt-ltd-nclat-new-delhi/)
 - **Published:** Mon, 27 Apr 2026 04:28:07 +0000
