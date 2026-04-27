@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-27 04:07:57*
+*Last synced: 2026-04-27 09:04:51*
+
+### [Mere mentioning of interest in unilateral invoices is not sufficient unless there is a consent by the Corporate Debtor or any agreement between the parties to pay the interest or Operational Creditor satisfy that interest was paid at any point of time | The mere fact that invoices were received and signed by the Corporate Debtor cannot lead to conclusion that CD was liable to pay interest – Aggarwal Ply House Vs. Techno Fac Contracts Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/aggarwal-ply-house-vs-techno-fac-contracts-pvt-ltd-nclat-new-delhi/)
+- **Published:** Mon, 27 Apr 2026 04:28:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Recovering Residual Corporate Liabilities Through Insolvency Proceedings Against Directors – By Satish Bijarniya, Vice President-Legal, OMKARA ARC](https://ibclaw.in/recovering-residual-corporate-liabilities-through-insolvency-proceedings-against-directors-by-satish-bijarniya-omkara-arc/)
+- **Published:** Mon, 27 Apr 2026 05:00:56 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When Creditors Choose Settlement: Scope of Withdrawal of Insolvency Proceedings under Section 12A of IBC; The Byju’s Insolvency SAGA: Settlement, Withdrawal and The Limits of Section 12A – By Shubhangi Shukla](https://ibclaw.in/when-creditors-choose-settlement-scope-of-withdrawal-of-insolvency-proceedings-under-section-12a-of-ibc-the-byjus-insolvency-saga-settlement-withdrawal-and-the-limits-of-section-12a-by/)
+- **Published:** Mon, 27 Apr 2026 05:02:17 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 20th April, 2026 to 26th April, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-20th-april-2026-to-26th-april-2026/)
+- **Published:** Mon, 27 Apr 2026 05:30:27 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [SARFAESI measures upheld where secured creditor established due compliance with Section 13(2) demand notices, Section 13(4) possession notice, and Rule 8 requirements culminating in auction sale and registered sale certificate – S. Srinivasan Vs. Authorized Officer, Tamilnadu Mercantile Bank Ltd. and Anr. – DRT Chennai](https://ibclaw.in/s-srinivasan-vs-authorized-officer-tamilnadu-mercantile-bank-ltd-and-anr-drt-chennai/)
 - **Published:** Sun, 26 Apr 2026 19:38:00 +0000
