@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-28 04:23:01*
+*Last synced: 2026-04-28 09:03:55*
+
+### [Locked Wallets, Open Courts: India’s Insolvency challenge of Cryptocurrency – By Adv. Parth Paresh Shah](https://ibclaw.in/locked-wallets-open-courts-indias-insolvency-challenge-of-cryptocurrency-by-adv-parth-paresh-shah/)
+- **Published:** Tue, 28 Apr 2026 05:01:55 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The role of the Adjudicating Authority is limited to examining whether the Resolution Professional’s decision to reject a claim is arbitrary or illegal; where the Resolution Professional has considered the available records, transaction pattern and forensic audit material indicating round-tripping/fraudulent transactions, such rejection cannot be interfered with – Amav Developers LLP Vs. Anurag Nirbhaya, RP of Pushpanjali Realms and Infratech Ltd. – NCLT Allahabad Bench](https://ibclaw.in/amav-developers-llp-vs-anurag-nirbhaya-rp-of-pushpanjali-realms-and-infratech-ltd-nclt-allahabad-bench/)
 - **Published:** Mon, 27 Apr 2026 21:02:00 +0000
