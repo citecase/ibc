@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-27 19:54:44*
+*Last synced: 2026-04-28 04:23:01*
+
+### [The role of the Adjudicating Authority is limited to examining whether the Resolution Professional’s decision to reject a claim is arbitrary or illegal; where the Resolution Professional has considered the available records, transaction pattern and forensic audit material indicating round-tripping/fraudulent transactions, such rejection cannot be interfered with – Amav Developers LLP Vs. Anurag Nirbhaya, RP of Pushpanjali Realms and Infratech Ltd. – NCLT Allahabad Bench](https://ibclaw.in/amav-developers-llp-vs-anurag-nirbhaya-rp-of-pushpanjali-realms-and-infratech-ltd-nclt-allahabad-bench/)
+- **Published:** Mon, 27 Apr 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings under Section 95 of the IBC are confined to personal guarantors, as defined under Section 5(22) of the Code and a person claiming coparcenary rights would not fall within the scope of consideration for impleadment in proceedings under Section 95 – Dr. Srinivas Manchala Vs. State Bank of India and Ors. – NCLAT Chennai](https://ibclaw.in/dr-srinivas-manchala-vs-state-bank-of-india-and-ors-nclat-chennai-2/)
+- **Published:** Mon, 27 Apr 2026 21:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the amount claimed as refund of advance for non-supply of goods constituted an operational debt/debt under IBC capable of being pursued under Section 9 of IBC, particularly in light of the plea of forfeiture and subsequent dealings – Geeta Sugars Vs. Indian Sugars and Refiners Ltd. – NCLAT Chennai](https://ibclaw.in/geeta-sugars-vs-indian-sugars-and-refiners-ltd-nclat-chennai/)
+- **Published:** Mon, 27 Apr 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When the claim is supported by proof, the same ought to be considered by the Liquidator even if it is filed in an incorrect form | The principle laid down in the Prabhjit Singh Soni Judgment would equally apply to liquidation proceedings under the IBBI (Liquidation Process) Regulations, 2016 – BEML Ltd. Vs. Padma Priyanka Vangala, Liquidator of BEML Midwest Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/beml-ltd-vs-padma-priyanka-vangala-liquidator-of-beml-midwest-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 27 Apr 2026 21:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Real estate allottees, including those holding RERA refund orders, continue to fall within the same class of financial creditors for the purpose of the minimum threshold prescribed under the second proviso to Section 7(1) of the IBC and cannot initiate CIRP unless the statutory numerical threshold is satisfied – Arumugam Thimmarayan and Ors. Vs. Ozone Projects Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/arumugam-thimmarayan-and-ors-vs-ozone-projects-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Mon, 27 Apr 2026 22:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Merely writing off accumulated losses against the Securities Premium Account and General Reserves and by reducing the paid-up value of equity and preference shares can by no stretch of imagination fall within the ambit of Section 230(1)(b) of the Companies Act, 2013 in view of specific provisions of Section 66 dealing with the reduction of share capital – Bangalore Elevated Tollway Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/bangalore-elevated-tollway-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 27 Apr 2026 22:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The inherent powers vested in Adjudicating Authority (NCLT) in terms of Rule 11 of NCLT Rules, 2016 cannot be exercised to allow distribution during CIRP process in accordance with the Section 53 of the IBC without following the mandate of Section 30(2) of the IBC – Punjab National Bank Vs. Arshiya Ltd. – NCLT Mumbai Bench](https://ibclaw.in/punjab-national-bank-vs-arshiya-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 27 Apr 2026 22:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Adjudicating Authority (NCLT), exercising jurisdiction under the IBC, 2016, cannot assume the role of a regulatory authority under Foreign Exchange Management Act, 1999 (FEMA) or undertake determination of the legality or colour of funds which can be done only under such specialised statutory regime – Aakash Educational Services Ltd. Vs. Shailendra Ajmera, RP of Think and Learn Pvt. Ltd. and Anr. – NCLT Bengaluru Bench](https://ibclaw.in/aakash-educational-services-ltd-vs-shailendra-ajmera-rp-of-think-and-learn-pvt-ltd-and-anr-nclt-bengaluru-bench/)
+- **Published:** Tue, 28 Apr 2026 00:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Security interest in liquidation can be proved under Liquidation Process Regulation 21 by any of the prescribed modes, including proof of registration with CERSAI, and is not exclusively dependent on ROC registration under Section 77 of Companies Act, 2013 | A DRT order based on consent terms does not create fresh security and, in any event, remains subordinate to the already existing security interests acknowledged in the consent terms – Kotak Mahindra Bank Ltd. Vs. IDBI Bank Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/kotak-mahindra-bank-ltd-vs-idbi-bank-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 28 Apr 2026 01:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether after approval of a resolution plan by Committee of Creditors (CoC), the consortium whose plan was approved can change its composition by inducting a new member? – Consortium of Wafi Investments Ltd. and Anr. Vs. Vishal Jain (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/consortium-of-wafi-investments-ltd-and-anr-vs-vishal-jain-rp-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 28 Apr 2026 02:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Non-compliance with CIRP Regulations and failure to transparently place avoidance (PUFE) material before CoC justifies rejection of CoC-approved resolution plan and re-run of CIRP | Direction to investigate RP’s conduct upheld – Sandeep Lucky, SRA Vs. Sh. Rajeev Lochan (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/sandeep-lucky-sra-vs-sh-rajeev-lochan-rp-and-ors-nclat-new-delhi/)
 - **Published:** Mon, 27 Apr 2026 19:09:00 +0000
