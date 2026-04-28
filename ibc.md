@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-28 09:03:55*
+*Last synced: 2026-04-28 15:04:38*
+
+### [State Bank of India & Ors. v. Doha Bank Q.P.S.C.  2026 INSC 423 - IBC - Financial Debt - Corporate Guarantees](https://www.caseciter.com/2026insc423/)
+- **Published:** Tue, 28 Apr 2026 09:56:11 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Income Tax Department as Operational Creditor cannot continue its recourse of attaching the Bank Account of Corporate Debtor during the moratorium under Section 14 of IBC – Vishnu Kant Kabra, IRP of Deep Star Alloys and Steels Pvt. Ltd. Vs. Punjab National Bank and Ors. – NCLT Mumbai Bench](https://ibclaw.in/vishnu-kant-kabra-irp-of-deep-star-alloys-and-steels-pvt-ltd-vs-punjab-national-bank-and-ors-nclt-mumbai-bench/)
+- **Published:** Tue, 28 Apr 2026 09:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A liability arising from a corporate guarantee falls within the ambit of financial debt under Section 5(8) of the IBC | Mere non-disclosure of a corporate guarantee in the financial statements of the Corporate Debtor does not deprive the creditor of its right to lodge a claim | Merely because the corporate guarantees were not filed along with Form-C, the claim could not have been negated | Insufficiency of stamp duty is a curable defect and does not render the instrument void or unenforceable | Documents which are relevant to deciding the lis can be produced at the stage of appeal – State Bank of India and Ors. Vs. Doha Bank Q.P.S.C. and Anr. – Supreme Court](https://ibclaw.in/state-bank-of-india-and-ors-vs-doha-bank-q-p-s-c-and-anr-supreme-court/)
+- **Published:** Tue, 28 Apr 2026 12:41:56 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Corporate Guarantee Liability Constitutes Financial Debt Under IBC; Non-Disclosure or Insufficient Stamping Does Not Bar Creditor Claims](https://ibclaw.in/supreme-court-holds-corporate-guarantee-liability-constitutes-financial-debt-under-ibc-non-disclosure-or-insufficient-stamping-does-not-bar-creditor-claims/)
+- **Published:** Tue, 28 Apr 2026 12:49:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Extension of last date for receipt of public comments on Discussion Papers](https://ibclaw.in/extension-of-last-date-for-receipt-of-public-comments-on-discussion-papers/)
+- **Published:** Tue, 28 Apr 2026 14:51:24 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Locked Wallets, Open Courts: India’s Insolvency challenge of Cryptocurrency – By Adv. Parth Paresh Shah](https://ibclaw.in/locked-wallets-open-courts-indias-insolvency-challenge-of-cryptocurrency-by-adv-parth-paresh-shah/)
 - **Published:** Tue, 28 Apr 2026 05:01:55 +0000
