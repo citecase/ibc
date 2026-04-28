@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-28 15:04:38*
+*Last synced: 2026-04-28 20:02:10*
+
+### [The Adjudicating Authority (NCLT) at admission of application under Section 9 of IBC, is to see whether there exists a real, plausible, pre-existing dispute and not undertake a detailed trial – Mittal Polysacks Pvt. Ltd. Vs. Burnpur Cement Ltd. – NCLT Kolkata Bench](https://ibclaw.in/mittal-polysacks-pvt-ltd-vs-burnpur-cement-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 28 Apr 2026 18:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Challenge to NPA classification and Section 13(2) demand notice is an independent cause of action and cannot be introduced by amendment in a Securitisation Application (SA) confined to a sale notice | Interlocutory relief cannot restrain future SARFAESI measures not impugned in the Securitisation Application – Challani Ranka Jewellery and Ors. Vs. Authorised Officer Indian Overseas Bank – DRT Chennai](https://ibclaw.in/challani-ranka-jewellery-and-ors-vs-authorised-officer-indian-overseas-bank-drt-chennai/)
+- **Published:** Tue, 28 Apr 2026 19:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [R. Jayaram Vs. Authorised Officer, Housing Development Finance Corporation Ltd. – DRT Chennai](https://ibclaw.in/r-jayaram-vs-authorised-officer-housing-development-finance-corporation-ltd-drt-chennai/)
+- **Published:** Tue, 28 Apr 2026 19:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The threshold limit for invoking the provisions of Section 95 of the IBC, 2016, with respect to the Personal Guarantor to a Corporate Debtor, would be Rs. One Crore | The provisions of IBC, 2016 override the provisions of SARFAESI Act, 2002 and also of RDDB Act, 1993 | Invocation of provisions of SARFAESI Act and filling of an OA before Ld. DRT does not invalidate the filling of application u/s 95 of IBC, 2016 – Canara Bank Vs. Deepak Nagjibhai Patel – NCLT Mumbai Bench](https://ibclaw.in/canara-bank-vs-deepak-nagjibhai-patel-nclt-mumbai-bench/)
+- **Published:** Tue, 28 Apr 2026 19:46:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State Bank of India & Ors. v. Doha Bank Q.P.S.C.  2026 INSC 423 - IBC - Financial Debt - Corporate Guarantees](https://www.caseciter.com/2026insc423/)
 - **Published:** Tue, 28 Apr 2026 09:56:11 GMT
