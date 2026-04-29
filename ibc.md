@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-29 14:38:54*
+*Last synced: 2026-04-29 19:59:52*
+
+### [Secured creditor failing to clearly intimate decision to realise security interest in Form D within Liquidation Process Regulation 21A timeline and continuing as SCC member not entitled to invoke option under Section 52 of IBC at later stage – Tata Capital Financial Services Ltd. Vs. Sanjay Mahajan, Liquidator of Jans Copper Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/tata-capital-financial-services-ltd-vs-sanjay-mahajan-liquidator-of-jans-copper-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 29 Apr 2026 18:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The threshold of Rs. 1 crore under Section 4 of IBC is to be seen at the time of filing of the CIRP application and not subsequent thereto – Mangal Sales Corporation Vs. Prolific Papers Pvt. Ltd. and Ors. – NCLT New Delhi Bench](https://ibclaw.in/mangal-sales-corporation-vs-prolific-papers-pvt-ltd-and-ors-nclt-new-delhi-bench/)
+- **Published:** Wed, 29 Apr 2026 19:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rule 8(1) and (2) of the Security Interest (Enforcement) Rules, 2002 requires service and affixture of possession notice and publication in two leading newspapers before taking possession of immovable secured asset – B. Mahalakshmi Vs. Authorised Officer, REPCO Home Finance Ltd. and Anr. – DRT Madurai](https://ibclaw.in/b-mahalakshmi-vs-authorised-officer-repco-home-finance-ltd-and-anr-drt-madurai/)
+- **Published:** Wed, 29 Apr 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Prior dismissal of SARFAESI applications challenging sale notices attaining finality precludes re-agitation of the same issues under Section 17(1) of the SARFAESI Act, 2002; consequential Section 14 order for physical possession sustained – S. Murugesan Vs. District Collector, Tirunelveli District and Ors. – DRT Madurai](https://ibclaw.in/s-murugesan-vs-district-collector-tirunelveli-district-and-ors-drt-madurai/)
+- **Published:** Wed, 29 Apr 2026 19:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Invocation of provisions of SARFAESI Act and filling of an OA before Ld. DRT do not invalidate the filling of application under Section 95 of IBC, 2016 – Canara Bank Vs. Shewta Deepak Patel – NCLT Mumbai Bench](https://ibclaw.in/canara-bank-vs-shewta-deepak-patel-nclt-mumbai-bench/)
+- **Published:** Wed, 29 Apr 2026 19:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proof of service of Section 13(2) demand notice and compliance with procedure under the SARFAESI Act, 2002 and the Security Interest Enforcement Rules, 2002 validate subsequent Section 13(4) possession notice – A.H. Fathima Nasira Vs. Union Bank of India – DRT Chennai](https://ibclaw.in/a-h-fathima-nasira-vs-union-bank-of-india-drt-chennai-2/)
+- **Published:** Wed, 29 Apr 2026 19:43:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court initiates suo motu case to address delays by NCLT in approving resolution plans](https://www.barandbench.com/news/litigation/supreme-court-initiates-suo-motu-case-to-address-delays-by-nclt-in-approving-resolution-plans)
 - **Published:** Wed, 29 Apr 2026 16:08:52 +0530
