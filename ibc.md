@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-29 08:38:31*
+*Last synced: 2026-04-29 14:38:54*
+
+### [Supreme Court initiates suo motu case to address delays by NCLT in approving resolution plans](https://www.barandbench.com/news/litigation/supreme-court-initiates-suo-motu-case-to-address-delays-by-nclt-in-approving-resolution-plans)
+- **Published:** Wed, 29 Apr 2026 16:08:52 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLAT Fortnightly: Important orders on IBC (Mar 1 – Mar 15, 2026)](https://www.barandbench.com/columns/nclat-fortnightly-important-orders-on-ibc-mar-1-mar-15-2026)
+- **Published:** Wed, 29 Apr 2026 16:22:30 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Annual Summer Vacation 2026 in respect of NCLAT Chennai Bench, Chennai](https://ibclaw.in/annual-summer-vacation-2026-in-respect-of-nclat-chennai-bench-chennai/)
+- **Published:** Wed, 29 Apr 2026 11:02:10 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Corporate guarantee liability is “financial debt” under IBC: Supreme Court](https://www.barandbench.com/news/litigation/corporate-guarantee-liability-is-financial-debt-under-ibc-supreme-court)
 - **Published:** Tue, 28 Apr 2026 20:34:23 +0530
