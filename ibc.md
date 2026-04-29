@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-29 04:09:24*
+*Last synced: 2026-04-29 08:38:31*
+
+### [Corporate guarantee liability is “financial debt” under IBC: Supreme Court](https://www.barandbench.com/news/litigation/corporate-guarantee-liability-is-financial-debt-under-ibc-supreme-court)
+- **Published:** Tue, 28 Apr 2026 20:34:23 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT Acting President allows single-bench judicial members to hear certain matters to tackle backlogs](https://www.barandbench.com/news/litigation/nclt-acting-president-allows-single-bench-judicial-members-to-hear-certain-matters-to-tackle-backlogs)
+- **Published:** Wed, 29 Apr 2026 10:40:08 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Suspended director of MSME who twice defaulted on EMD timelines forfeits opportunity to submit resolution plan; belated non-binding investor support cannot reopen CIRP after CoC has approved a plan – Ramachandran Radhakrishnan Vs. Naveen Kumar Jain, RP of Stellence Pharmscience Pvt. Ltd. and Ors. – NCLT Bengaluru Bench](https://ibclaw.in/ramachandran-radhakrishnan-vs-naveen-kumar-jain-rp-of-stellence-pharmscience-pvt-ltd-and-ors-nclt-bengaluru-bench/)
 - **Published:** Tue, 28 Apr 2026 20:10:00 +0000
