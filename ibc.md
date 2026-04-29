@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-28 20:02:10*
+*Last synced: 2026-04-29 04:09:24*
+
+### [Suspended director of MSME who twice defaulted on EMD timelines forfeits opportunity to submit resolution plan; belated non-binding investor support cannot reopen CIRP after CoC has approved a plan – Ramachandran Radhakrishnan Vs. Naveen Kumar Jain, RP of Stellence Pharmscience Pvt. Ltd. and Ors. – NCLT Bengaluru Bench](https://ibclaw.in/ramachandran-radhakrishnan-vs-naveen-kumar-jain-rp-of-stellence-pharmscience-pvt-ltd-and-ors-nclt-bengaluru-bench/)
+- **Published:** Tue, 28 Apr 2026 20:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC mandates protection of the interests of creditors, and the Adjudicating Authority (NCLT) cannot permit diminution of value on account of conduct attributable to a contracting party – Kamarajar Port Ltd. Vs. N. Veerapandian, Liquidator of Sical Iron Ore Terminal Ltd. – NCLT Chennai Bench](https://ibclaw.in/kamarajar-port-ltd-vs-n-veerapandian-liquidator-of-sical-iron-ore-terminal-ltd-nclt-chennai-bench/)
+- **Published:** Tue, 28 Apr 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An order of attachment passed by an Arbitral Tribunal is a protective measure and does not equate to the creation of a security interest as defined under Section 3(31) of IBC | A decree-holder or an award holder does not automatically acquire the status of a Secured Creditor under the IBC – Savithri Naidu and Ors. Vs. Ebenezar Inbaraj, Liquidator for Landmark Housing Projects Chennai Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/savithri-naidu-and-ors-vs-ebenezar-inbaraj-liquidator-for-landmark-housing-projects-chennai-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Tue, 28 Apr 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 17(1) of the SARFAESI Act, 2002: Forty-five day limitation for filing securitisation application is mandatory and Debts Recovery Tribunal has no jurisdiction to condone dela – JJ Fuels and Ors. Vs. Shriram City Union Finance Ltd. – DRT Chennai](https://ibclaw.in/jj-fuels-and-ors-vs-shriram-city-union-finance-ltd-drt-chennai/)
+- **Published:** Tue, 28 Apr 2026 20:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Competing MSME-promoter applicants not entitled to copy of other resolution plans – Jubin Kishore Thakkar and Ors. Vs. Ashutosh Agarwala, RP of Colour Roof (India) Ltd. – NCLT Mumbai Bench](https://ibclaw.in/jubin-kishore-thakkar-and-ors-vs-ashutosh-agarwala-rp-of-colour-roof-india-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 28 Apr 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [While the Adjudicating Authority (NCLT) has jurisdiction to adjudicate disputes arising out of the CIRP, such jurisdiction cannot be exercised to reopen or revive claims that stand settled in terms of an approved Resolution Plan | For an expense (lease expense) to qualify as Insolvency Resolution Process Costs (IRPC) under CIRP Regulation 31, it must ordinarily be incurred by the IRP/RP for conduct of CIRP/going concern and be placed before and approved/ratified by the CoC – DBS Bank India Ltd. Vs. Orchid Pharma Ltd. and Ors. – NCLT Chennai Bench](https://ibclaw.in/dbs-bank-india-ltd-vs-orchid-pharma-ltd-and-ors-nclt-chennai-bench/)
+- **Published:** Tue, 28 Apr 2026 21:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether surplus cash flow/ profit generated during CIRP, before the approval and implementation of Resolution Plan, belongs to Successful Resolution Applicant (SRA), or it must be distributed amongst stakeholders/creditors in accordance with Section 53 of the IBC? – Manjeet Cotton Pvt. Ltd. Vs. Phoenix ARC Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/manjeet-cotton-pvt-ltd-vs-phoenix-arc-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 29 Apr 2026 03:21:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The Adjudicating Authority (NCLT) at admission of application under Section 9 of IBC, is to see whether there exists a real, plausible, pre-existing dispute and not undertake a detailed trial – Mittal Polysacks Pvt. Ltd. Vs. Burnpur Cement Ltd. – NCLT Kolkata Bench](https://ibclaw.in/mittal-polysacks-pvt-ltd-vs-burnpur-cement-ltd-nclt-kolkata-bench/)
 - **Published:** Tue, 28 Apr 2026 18:34:00 +0000
