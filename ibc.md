@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-29 19:59:52*
+*Last synced: 2026-04-30 04:11:42*
+
+### [Former Punjab & Haryana HC Justice Anupinder Singh Grewal appointed NCLT President](https://www.barandbench.com/news/former-punjab-haryana-hc-justice-anupinder-singh-grewal-appointed-nclt-president)
+- **Published:** Thu, 30 Apr 2026 09:21:20 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Secured creditor failing to clearly intimate decision to realise security interest in Form D within Liquidation Process Regulation 21A timeline and continuing as SCC member not entitled to invoke option under Section 52 of IBC at later stage – Tata Capital Financial Services Ltd. Vs. Sanjay Mahajan, Liquidator of Jans Copper Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/tata-capital-financial-services-ltd-vs-sanjay-mahajan-liquidator-of-jans-copper-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Wed, 29 Apr 2026 18:55:00 +0000
