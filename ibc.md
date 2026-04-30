@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-30 04:11:42*
+*Last synced: 2026-04-30 08:39:27*
+
+### [Delhi High Court closes plea over NCLT acting President appointment](https://www.barandbench.com/news/litigation/delhi-high-court-closes-plea-over-nclt-acting-president-appointment)
+- **Published:** Thu, 30 Apr 2026 12:01:39 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Shankar Khandelwal v. Omkara Asset Reconstruction Pvt. Ltd. & Anr., 2026 INSC 429 - IBC - Limitation Act - RP](https://www.caseciter.com/2026insc429/)
+- **Published:** Thu, 30 Apr 2026 05:28:21 GMT
+- **Source:** https://caseciter.com/rss
 
 ### [Former Punjab & Haryana HC Justice Anupinder Singh Grewal appointed NCLT President](https://www.barandbench.com/news/former-punjab-haryana-hc-justice-anupinder-singh-grewal-appointed-nclt-president)
 - **Published:** Thu, 30 Apr 2026 09:21:20 +0530
