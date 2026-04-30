@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-30 08:39:27*
+*Last synced: 2026-04-30 14:36:09*
+
+### [Appointment of Justice (Retd.) Anupinder Singh Grewal to the post of President, National Company Law Tribunal (NCLT)](https://ibclaw.in/appointment-of-justice-retd-anupinder-singh-grewal-to-the-post-of-president-national-company-law-tribunal-nclt/)
+- **Published:** Thu, 30 Apr 2026 09:17:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Admission of Claim by Resolution Professional Is Not Acknowledgment Under Section 18 of Limitation Act](https://ibclaw.in/supreme-court-holds-admission-of-claim-by-resolution-professional-is-not-acknowledgment-under-section-18-of-limitation-act/)
+- **Published:** Thu, 30 Apr 2026 09:50:15 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Delhi High Court closes plea over NCLT acting President appointment](https://www.barandbench.com/news/litigation/delhi-high-court-closes-plea-over-nclt-acting-president-appointment)
 - **Published:** Thu, 30 Apr 2026 12:01:39 +0530
