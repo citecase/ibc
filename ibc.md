@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-04-30 14:36:09*
+*Last synced: 2026-05-02 13:53:41*
+
+### [Gera Green Innovation Vs. Northern Coalfields Ltd. and Ors. – Madhya Pradesh High Court](https://ibclaw.in/gera-green-innovation-vs-northern-coalfields-ltd-and-ors-madhya-pradesh-high-court/)
+- **Published:** Fri, 01 May 2026 05:52:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Appointment of Justice (Retd.) Anupinder Singh Grewal to the post of President, National Company Law Tribunal (NCLT)](https://ibclaw.in/appointment-of-justice-retd-anupinder-singh-grewal-to-the-post-of-president-national-company-law-tribunal-nclt/)
 - **Published:** Thu, 30 Apr 2026 09:17:53 +0000
