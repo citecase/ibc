@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-02 13:53:41*
+*Last synced: 2026-05-04 09:03:39*
+
+### [NCLAT dismisses Vedanta's plea to halt Adani's resolution plan for Jaiprakash Associates](https://www.barandbench.com/news/litigation/nclat-dismisses-vedantas-plea-to-halt-adanis-resolution-plan-for-jaiprakash-associates)
+- **Published:** Mon, 04 May 2026 10:47:17 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 27th April, 2026 to 3rd May, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-27th-april-2026-to-3rd-may-2026/)
+- **Published:** Mon, 04 May 2026 06:21:59 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Gera Green Innovation Vs. Northern Coalfields Ltd. and Ors. – Madhya Pradesh High Court](https://ibclaw.in/gera-green-innovation-vs-northern-coalfields-ltd-and-ors-madhya-pradesh-high-court/)
 - **Published:** Fri, 01 May 2026 05:52:03 +0000
