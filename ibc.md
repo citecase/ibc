@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-04 09:03:39*
+*Last synced: 2026-05-04 14:38:47*
+
+### [Litigation trends in real estate: Insolvency and dispute resolution](https://www.barandbench.com/leading-questions/litigation-trends-in-real-estate-insolvency-and-dispute-resolution)
+- **Published:** Mon, 04 May 2026 18:18:30 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Five reasons why NCLAT upheld Adani’s bid for Jaiprakash Associates, dismissed Vedanta's challenge](https://www.barandbench.com/news/litigation/five-reasons-why-nclat-upheld-adanis-bid-for-jaiprakash-associates-dismissed-vedantas-challenge)
+- **Published:** Mon, 04 May 2026 19:26:23 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [NCLAT dismisses Vedanta's plea to halt Adani's resolution plan for Jaiprakash Associates](https://www.barandbench.com/news/litigation/nclat-dismisses-vedantas-plea-to-halt-adanis-resolution-plan-for-jaiprakash-associates)
 - **Published:** Mon, 04 May 2026 10:47:17 +0530
