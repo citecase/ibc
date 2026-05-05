@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-04 14:38:47*
+*Last synced: 2026-05-05 08:33:13*
+
+### [Same transaction, same facts, same bench, different orders: NCLAT pulls up NCLT](https://www.barandbench.com/news/litigation/same-transaction-same-facts-same-bench-different-orders-nclat-pulls-up-nclt)
+- **Published:** Tue, 05 May 2026 11:14:14 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Sunil Surendrabhai Kakkad Vs. Samir Ganeshbhai Marathe and Anr. – NCLAT New Delhi](https://ibclaw.in/sunil-surendrabhai-kakkad-vs-samir-ganeshbhai-marathe-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 04 May 2026 13:29:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Professional (RP) is not prohibited from expressing its opinion | Where RP acts on the instructions of the CoC, such conduct cannot be characterised as a material irregularity | Decision to abandon the continuing CIRP and to start a new process is decision of the CoC in it commercial wisdom | Maximisation of the assets of the Corporate Debtor objective has to be achieved in a time bound manner with intent to resolve and revive the Corporate Debtor | Judicial intervention in the commercial wisdom of the CoC is narrow and statutorily confined – Vedanta Ltd. Vs. Bhuvan Madan, RP of Jaiprakash Associates Ltd. and Ors – NCLAT New Delhi](https://ibclaw.in/vedanta-ltd-vs-bhuvan-madan-rp-of-jaiprakash-associates-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 05 May 2026 05:51:22 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vedanta’s higher NPV bid and post-bid Addendum cannot override CoC’s commercial wisdom in approving Adani’s Resolution Plan for Jaiprakash Associates Ltd.: NCLAT](https://ibclaw.in/vedantas-higher-npv-bid-and-post-bid-addendum-cannot-override-cocs-commercial-wisdom-in-approving-adanis-resolution-plan-for-jaiprakash-associates-ltd-nclat/)
+- **Published:** Tue, 05 May 2026 05:56:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether, despite the parties being JV/consortium partners, the unpaid amount claimed for the supply component under the Internal Agreement and Addendum constituted an operational debt maintainable under Section 9 of the Insolvency and Bankruptcy Code, 2016? – Amarendra Mohapatra Vs. Daga Power Systems & Engineers Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/amarendra-mohapatra-vs-daga-power-systems-engineers-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 05 May 2026 07:54:21 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Litigation trends in real estate: Insolvency and dispute resolution](https://www.barandbench.com/leading-questions/litigation-trends-in-real-estate-insolvency-and-dispute-resolution)
 - **Published:** Mon, 04 May 2026 18:18:30 +0530
