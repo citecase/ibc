@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-05 08:33:13*
+*Last synced: 2026-05-05 19:57:18*
+
+### [Over 4,200 homebuyers get relief as Supreme Court restores insolvency plans for Earth Infra's projects](https://www.barandbench.com/news/litigation/over-4200-homebuyers-get-relief-as-supreme-court-restores-insolvency-plans-for-earth-infras-projects)
+- **Published:** Tue, 05 May 2026 21:38:46 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Personal guarantor insolvency application under IBC Section 95 held maintainable when filed through officer holding power of attorney backed by board resolution – Kamlesh Keshavbhai Gondaliya Vs. IDBI Trusteeship Services Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/kamlesh-keshavbhai-gondaliya-vs-idbi-trusteeship-services-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 05 May 2026 19:37:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Same transaction, same facts, same bench, different orders: NCLAT pulls up NCLT](https://www.barandbench.com/news/litigation/same-transaction-same-facts-same-bench-different-orders-nclat-pulls-up-nclt)
 - **Published:** Tue, 05 May 2026 11:14:14 +0530
