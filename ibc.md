@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-06 09:03:58*
+*Last synced: 2026-05-06 15:11:41*
+
+### [Navigating the overlap between IBC and arbitration vis-à-vis moratorium: A judicial overview of the evolving framework](https://www.barandbench.com/view-point/navigating-the-overlap-between-ibc-and-arbitration-vis-vis-moratorium-a-judicial-overview-of-the-evolving-framework)
+- **Published:** Wed, 06 May 2026 17:34:04 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [NCLAT sets aside ₹301 crore CCI penalty against Grasim](https://www.barandbench.com/news/litigation/nclat-sets-aside-301-crore-cci-penalty-against-grasim)
 - **Published:** Wed, 06 May 2026 11:06:27 +0530
