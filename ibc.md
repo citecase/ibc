@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-06 04:22:50*
+*Last synced: 2026-05-06 09:03:58*
+
+### [NCLAT sets aside ₹301 crore CCI penalty against Grasim](https://www.barandbench.com/news/litigation/nclat-sets-aside-301-crore-cci-penalty-against-grasim)
+- **Published:** Wed, 06 May 2026 11:06:27 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Where the creditor, despite stating its intention to realise security, fails to comply with Liquidation Process Regulation 21A(2) (including payment within 90 days) and also does not intimate realisation value or take effective steps for realisation, the statutory consequence under Regulation 21A(3) follows automatically and the asset becomes part of the liquidation estate, leaving no discretion with the liquidator or the Tribunal – STCI Finance Ltd. Vs. IMP Powers Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/stci-finance-ltd-vs-imp-powers-ltd-and-ors-nclat-new-delhi-2/)
+- **Published:** Tue, 05 May 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT relied on "hallucinated citations" in its judgment: Suspended Essel director tells Supreme Court](https://www.barandbench.com/news/litigation/nclt-relied-on-hallucinated-citations-in-its-judgment-suspended-essel-director-tells-supreme-court)
 - **Published:** Tue, 05 May 2026 13:31:15 +0530
