@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-05 19:57:18*
+*Last synced: 2026-05-06 04:22:50*
+
+### [NCLT relied on "hallucinated citations" in its judgment: Suspended Essel director tells Supreme Court](https://www.barandbench.com/news/litigation/nclt-relied-on-hallucinated-citations-in-its-judgment-suspended-essel-director-tells-supreme-court)
+- **Published:** Tue, 05 May 2026 13:31:15 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [So long as a dispute truly exists in fact and is not spurious, hypothetical or illusory, the Adjudicating Authority has to reject the Section 9 application – Span Engineers Vs. Pragati Infra and Engineering LLP – NCLAT New Delhi](https://ibclaw.in/span-engineers-vs-pragati-infra-and-engineering-llp-nclat-new-delhi/)
+- **Published:** Tue, 05 May 2026 20:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where Form G prescribed timelines for EoI and publication of provisional and final list of prospective resolution applicants, and an applicant’s name did not appear in the final list, a resolution plan from the applicant could not be directed to be accepted or considered, in view of CIRP Regulation 39(1B)(b) – Ram Prasad Agarwala Vs. Bijay Murmuria, RP and Ors. – NCLAT New Delhi](https://ibclaw.in/ram-prasad-agarwala-vs-bijay-murmuria-rp-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 05 May 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Over 4,200 homebuyers get relief as Supreme Court restores insolvency plans for Earth Infra's projects](https://www.barandbench.com/news/litigation/over-4200-homebuyers-get-relief-as-supreme-court-restores-insolvency-plans-for-earth-infras-projects)
 - **Published:** Tue, 05 May 2026 21:38:46 +0530
