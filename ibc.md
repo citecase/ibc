@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-07 09:11:34*
+*Last synced: 2026-05-07 15:13:58*
+
+### [Dhanlaxmi Bank Limited v. Mohammed Javed Sultan   2026 INSC 460 - S.7 IBC](https://www.caseciter.com/2026insc460/)
+- **Published:** Thu, 07 May 2026 12:37:23 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Hotel Horizon Pvt. Ltd. Vs. Tea4health Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/hotel-horizon-pvt-ltd-vs-tea4health-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 06 May 2026 14:20:45 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Radha Buildtech (India) Pvt. Ltd. Vs. Solitaire Infomedia Pvt. Ltd. Through Jalesh Kumar Grover RP and Ors. – NCLAT New Delhi](https://ibclaw.in/radha-buildtech-india-pvt-ltd-vs-solitaire-infomedia-pvt-ltd-through-jalesh-kumar-grover-rp-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 06 May 2026 14:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Lifting/Piercing the Corporate Veil under the IBC | Judicial Precedents Compendium (JPC) | Comp. I | Vol. 2](https://ibclaw.in/lifting-piercing-the-corporate-veil-under-the-ibc-judicial-precedents-compendium-jpc-comp-i-vol-2/)
+- **Published:** Thu, 07 May 2026 10:16:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Clarifies IBC Cannot Be Invoked as Debt Recovery Tool in Absence of Genuine Financial Distress](https://ibclaw.in/supreme-court-clarifies-ibc-cannot-be-invoked-as-debt-recovery-tool-in-absence-of-genuine-financial-distress/)
+- **Published:** Thu, 07 May 2026 14:37:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where object behind the invocation of IBC is to compel payment rather than to address genuine financial distress, such invocation would amount to an abuse of process | IBC operates as a collective insolvency resolution mechanism and not as a forum for adjudication of individual contractual claims or as a substitute for recovery proceedings pending before the DRT, which is the appropriate forum for debt recovery and enforcement of contractual rights – Dhanlaxmi Bank Ltd. Vs. Mohammed Javed Sultan and Ors. – Supreme Court](https://ibclaw.in/dhanlaxmi-bank-ltd-vs-mohammed-javed-sultan-and-ors-supreme-court/)
+- **Published:** Thu, 07 May 2026 14:38:28 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Personal guarantors and insolvency under IBC: Legal challenges](https://www.barandbench.com/leading-questions/personal-guarantors-and-insolvency-under-ibc-legal-challenges)
 - **Published:** Thu, 07 May 2026 12:02:55 +0530
