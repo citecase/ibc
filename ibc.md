@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-06 15:11:41*
+*Last synced: 2026-05-07 09:11:34*
+
+### [Personal guarantors and insolvency under IBC: Legal challenges](https://www.barandbench.com/leading-questions/personal-guarantors-and-insolvency-under-ibc-legal-challenges)
+- **Published:** Thu, 07 May 2026 12:02:55 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Navigating the overlap between IBC and arbitration vis-à-vis moratorium: A judicial overview of the evolving framework](https://www.barandbench.com/view-point/navigating-the-overlap-between-ibc-and-arbitration-vis-vis-moratorium-a-judicial-overview-of-the-evolving-framework)
 - **Published:** Wed, 06 May 2026 17:34:04 +0530
