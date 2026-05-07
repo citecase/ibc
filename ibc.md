@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-07 15:13:58*
+*Last synced: 2026-05-07 20:02:19*
+
+### [When order is pronounced, the period of limitation starts running from the date of pronouncement and not from the date of uploading of the order | The NCLAT has no power to condone any delay beyond the period stipulated under Section 61 of IBC – Divyesh Desai, Liquidator of Trend Electronics Ltd. Vs. Life Insurance Corporation of India and Ors. – NCLAT New Delhi](https://ibclaw.in/divyesh-desai-liquidator-of-trend-electronics-ltd-vs-life-insurance-corporation-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 07 May 2026 20:01:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dhanlaxmi Bank Limited v. Mohammed Javed Sultan   2026 INSC 460 - S.7 IBC](https://www.caseciter.com/2026insc460/)
 - **Published:** Thu, 07 May 2026 12:37:23 GMT
