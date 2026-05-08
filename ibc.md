@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-07 20:02:19*
+*Last synced: 2026-05-08 03:58:56*
+
+### [The Adjudicating Authority (NCLT) is not required to adjudicate upon the merits of the claim or determine the exact liability, but only to examine whether there exists a real dispute between the parties prior to issuance of the demand notice, and whether such dispute is bona fide and not a mere sham defence – Rattan Singh Builders Pvt. Ltd. Vs. Indorama Ventures Yarns Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rattan-singh-builders-pvt-ltd-vs-indorama-ventures-yarns-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 07 May 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the sole member of the CoC was an operational creditor whose dues had been cleared by a related party financial creditor, but the initiating applicant did not file the withdrawal application/Form FA, the case was not one for withdrawal under section 12A of IBC – Chittaranjan Ganesh Naik Vs. Scharffler Elmotec Statomat Gmbh and Ors. – NCLAT New Delhi](https://ibclaw.in/chittaranjan-ganesh-naik-vs-scharffler-elmotec-statomat-gmbh-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 07 May 2026 20:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Delay in re-filing appeal before NCLAT cannot be condoned on vague plea of personal exigency or unavailability of authorised signatory; a company, being capable of acting through its directors, officers or other authorised representatives, cannot justify prolonged delay by attributing default to a single individual – Om Logistics Ltd. Vs. Bakul Casting Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/om-logistics-ltd-vs-bakul-casting-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 07 May 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [When order is pronounced, the period of limitation starts running from the date of pronouncement and not from the date of uploading of the order | The NCLAT has no power to condone any delay beyond the period stipulated under Section 61 of IBC – Divyesh Desai, Liquidator of Trend Electronics Ltd. Vs. Life Insurance Corporation of India and Ors. – NCLAT New Delhi](https://ibclaw.in/divyesh-desai-liquidator-of-trend-electronics-ltd-vs-life-insurance-corporation-of-india-and-ors-nclat-new-delhi/)
 - **Published:** Thu, 07 May 2026 20:01:00 +0000
