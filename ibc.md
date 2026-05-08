@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-08 03:58:56*
+*Last synced: 2026-05-08 14:23:19*
+
+### [The object and purpose of IBC is to reorganize and revive the Corporate Debtor and Section 9 application cannot be leveraged as a tool to decide disputes between the parties regarding the operational dues – Airtech Airconditioners Vs. Kamladityya Construction Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/airtech-airconditioners-vs-kamladityya-construction-pvt-ltd-nclat-new-delhi/)
+- **Published:** Fri, 08 May 2026 08:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Justice (Retd.) Anupinder Singh Grewal Appointed as President of NCLT](https://ibclaw.in/justice-retd-anupinder-singh-grewal-appointed-as-president-of-nclt/)
+- **Published:** Fri, 08 May 2026 09:26:28 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The Adjudicating Authority (NCLT) is not required to adjudicate upon the merits of the claim or determine the exact liability, but only to examine whether there exists a real dispute between the parties prior to issuance of the demand notice, and whether such dispute is bona fide and not a mere sham defence – Rattan Singh Builders Pvt. Ltd. Vs. Indorama Ventures Yarns Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rattan-singh-builders-pvt-ltd-vs-indorama-ventures-yarns-pvt-ltd-nclat-new-delhi/)
 - **Published:** Thu, 07 May 2026 20:09:00 +0000
