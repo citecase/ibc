@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-08 14:23:19*
+*Last synced: 2026-05-09 13:59:12*
+
+### [Repaying a loan to a family member of the bankrupt (an associate within the meaning of Section 79(2) of the IBC) in full, while other creditors remain unpaid, constitutes a preferential transaction under Section 165 of the IBC – Sivaram Prasad Bhamidi (Bankruptcy Trustee) Vs. Mulpuri Siva Ramakrishna and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/sivaram-prasad-bhamidi-vs-mulpuri-siva-ramakrishna-and-anr-nclt-hyderabad-bench/)
+- **Published:** Sat, 09 May 2026 11:51:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The object and purpose of IBC is to reorganize and revive the Corporate Debtor and Section 9 application cannot be leveraged as a tool to decide disputes between the parties regarding the operational dues – Airtech Airconditioners Vs. Kamladityya Construction Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/airtech-airconditioners-vs-kamladityya-construction-pvt-ltd-nclat-new-delhi/)
 - **Published:** Fri, 08 May 2026 08:28:00 +0000
