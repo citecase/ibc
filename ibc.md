@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-09 13:59:12*
+*Last synced: 2026-05-10 19:40:21*
+
+### [Mere pendency of recovery proceedings or enforcement actions by creditors cannot by itself be construed as a ground to reject an application filed under Section 10 of the IBC – Vanathi Exports Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/vanathi-exports-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Sun, 10 May 2026 19:34:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Repaying a loan to a family member of the bankrupt (an associate within the meaning of Section 79(2) of the IBC) in full, while other creditors remain unpaid, constitutes a preferential transaction under Section 165 of the IBC – Sivaram Prasad Bhamidi (Bankruptcy Trustee) Vs. Mulpuri Siva Ramakrishna and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/sivaram-prasad-bhamidi-vs-mulpuri-siva-ramakrishna-and-anr-nclt-hyderabad-bench/)
 - **Published:** Sat, 09 May 2026 11:51:18 +0000
