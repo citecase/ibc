@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-11 10:07:00*
+*Last synced: 2026-05-11 20:17:40*
+
+### [Frozen bank account in oppression and mismanagement proceedings may be defreezed for limited operations under Independent Administrator’s supervision without prejudging validity of underlying transactions – Hitesh Shah and Anr. Vs. Aquafil Polymers Company Pvt. Ltd. and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/hitesh-shah-and-anr-vs-aquafil-polymers-company-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 11 May 2026 18:33:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency proceedings may be initiated against a corporate guarantor irrespective of the stage of proceedings concerning the Principal Borrower, and that approval of a resolution plan does not ipso facto discharge the guarantor’s liability unless specifically provided therein – Silbhadar Vyapaar Pvt. Ltd. Vs. Vurupa Trading Pvt. Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/silbhadar-vyapaar-pvt-ltd-vs-vurupa-trading-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Mon, 11 May 2026 19:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [By virtue of Section 424 of the Companies Act, 2013, NCLT/NCLAT are guided by principles of natural justice and the principles of CPC; as the Companies Act contains no specific provision for framing of issues, mere exchange of pleadings cannot be treated as commencement of trial so as to bar amendment; amendment can be permitted at any stage and a rigid approach as to timing is unwarranted – Sunway Opus International Pvt. Ltd. and Ors. Vs. Opus Developers and Builders Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/sunway-opus-international-pvt-ltd-and-ors-vs-opus-developers-and-builders-pvt-ltd-nclat-chennai/)
+- **Published:** Mon, 11 May 2026 19:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The essentials of section 66 (1) wherein there is Liability fixed upon any person and the essentials of section 66(2) that the Liability fixed upon only Director or Partner – K. Sivalingam, RP for MPL Cars Pvt. Ltd. Vs. Singaravelu Ravindranathan and Ors. – NCLT Chennai Bench](https://ibclaw.in/k-sivalingam-rp-for-mpl-cars-pvt-ltd-vs-singaravelu-ravindranathan-and-ors-nclt-chennai-bench/)
+- **Published:** Mon, 11 May 2026 19:36:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 4th May, 2026 to 10th May, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-4th-may-2026-to-10th-may-2026/)
 - **Published:** Mon, 11 May 2026 05:29:58 +0000
