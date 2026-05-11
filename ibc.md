@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-10 19:40:21*
+*Last synced: 2026-05-11 04:44:47*
+
+### [In terms of Section 34(8) of IBC read with Liquidation Process Regulation 4, where the payable liquidation fee and costs were computed on the agreed monthly fee and the majority SCC members had discharged their proportionate liability, the remaining SCC members were liable to contribute their proportionate share – Santosh Bhatia (Liquidator) Vs. MBS Impex Pvt. Ltd. and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/santosh-bhatia-liquidator-vs-mbs-impex-pvt-ltd-and-ors-nclt-hyderabad-bench/)
+- **Published:** Sun, 10 May 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Withdrawal of claim from principal borrower’s CIRP and exclusion from resolution plan does not, absent express discharge/novation, bar financial creditor’s claim in personal guarantor insolvency under Section 95 of IBC – Hemant Kumar Bohra Vs. Manohar Lal Vij and Ors. – NCLT Jaipur Bench](https://ibclaw.in/hemant-kumar-bohra-vs-manohar-lal-vij-and-ors-nclt-jaipur-bench/)
+- **Published:** Sun, 10 May 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interim moratorium under Section 96 of IBC stays DRT proceedings in respect of debt, precluding consideration of receiver application; IA should be kept pending during moratorium – Sushil Kumar Ganeriwala Vs. Indian Bank and Ors. – DRAT Kolkata](https://ibclaw.in/sushil-kumar-ganeriwala-vs-indian-bank-and-ors-drat-kolkata/)
+- **Published:** Sun, 10 May 2026 21:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [If issuance of the sale certificate had been stayed by the DRT prior to commencement of CIRP, and upon commencement of CIRP the moratorium under Section 14 of the IBC prohibited further SARFAESI enforcement, the sale had not attained finality and ownership continued to vest in the Corporate Debtor – Usha Vs. Rakesh Kumar Tulsyan (RP) and Ors. – NCLT Mumbai Bench](https://ibclaw.in/usha-vs-rakesh-kumar-tulsyan-rp-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 10 May 2026 22:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interim moratorium under Section 96 of IBC protects individual’s estate and it does not protect him from Section 66 liability as a director of the Company in which the assets of the company have been reduced or diverted to defraud the creditors | Application under section 66 of the Code is not for recovery of a personal debt, but for adjudication of fraudulent conduct and restoration of value wrongfully diverted – Bank of India Vs. Mayur Balubhai Shah and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/bank-of-india-vs-mayur-balubhai-shah-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 11 May 2026 00:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Moratorium under Section 14(1)(a) of IBC bars execution/continuation of an arbitral award in any form, and continued implementation of the award that deprives the RP of custody and control of corporate debtor’s assets is impermissible; the award cannot override the IBC’s mandate | NCLT’s residuary jurisdiction under IBC Section 60(5) extends to directing handover of corporate debtor’s assets notwithstanding arbitral award – Parvinder Sing (RP) Vs. Neel-Rattan Enterprises Pvt. Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/parvinder-sing-rp-vs-neel-rattan-enterprises-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Mon, 11 May 2026 01:37:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mere pendency of recovery proceedings or enforcement actions by creditors cannot by itself be construed as a ground to reject an application filed under Section 10 of the IBC – Vanathi Exports Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/vanathi-exports-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Sun, 10 May 2026 19:34:00 +0000
