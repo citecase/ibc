@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-12 15:22:16*
+*Last synced: 2026-05-12 20:15:14*
+
+### [In proceedings under Section 7 of IBC, it is open for the parties to place before the Adjudicating Authority any subsequent event, which has material bearing on the proceedings – Kunal Structure India Pvt. Ltd. and Anr. Vs. Kotak Mahindra Bank Ltd. – NCLAT New Delhi](https://ibclaw.in/kunal-structure-india-pvt-ltd-and-anr-vs-kotak-mahindra-bank-ltd-nclat-new-delhi/)
+- **Published:** Tue, 12 May 2026 19:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [For a transaction to qualify as preferential under Section 165 of the IBC, it must be shown that the act of the bankrupt had the effect of placing a creditor or associate in a better position than they would have been in the event of bankruptcy – Sivaram Prasad Bhamidi (Bankruptcy Trustee) Vs. Mulpuri Siva Ramakrishna and Anr.  – NCLT Hyderabad Bench](https://ibclaw.in/sivaram-prasad-bhamidi-vs-mulpuri-siva-ramakrishna-nclt-hyderabad-bench/)
+- **Published:** Tue, 12 May 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Liquidation claim limitation to run from date of knowledge where Regulation 12(3) publication not proved | Delay condoned and liquidator directed to verify statutory tax claim as liquidation not concluded – Joint Commissioner of Commercial Taxes and GST Vs. Anuradha Bisani, Liquidator of Lanco Infratech Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/joint-commissioner-of-commercial-taxes-and-gst-vs-anuradha-bisani-liquidator-of-lanco-infratech-ltd-nclt-hyderabad-bench/)
+- **Published:** Tue, 12 May 2026 19:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Offences under Sections 129/133 of Companies Act, 2013 are compoundable under S.441(1) as they are not punishable with imprisonment only or with imprisonment and also with fine – Vinod Bhandawat Vs. Registrar of Companies – NCLT Ahmedabad Bench](https://ibclaw.in/vinod-bhandawat-vs-registrar-of-companies-nclt-ahmedabad-bench/)
+- **Published:** Tue, 12 May 2026 19:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Period of limitation in applications under Section 95 of the IBC against the Personal Guarantor would commence from date of raising demand of payment from Guarantor and his default of the same – State Bank of India Vs. Rajesh Meena – NCLT New Delhi Bench](https://ibclaw.in/reshma-mittal-vs-rajesh-meena-nclt-new-delhi-bench/)
+- **Published:** Tue, 12 May 2026 19:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When a suit in respect of the same claim is pending prior to issuance of the demand notice under Section 8 of the IBC, it constitutes a sufficient ground for rejection of the application under Section 9 of the IBC | The issue with regard to limitation cannot be gone into and decided when Section 9 application itself was not to be entertained due to pendency of the suit filed by the corporate debtor – Basanti Devi Lohia Vs. West Bengal Agro Textile Corporation Ltd. – NCLAT New Delhi](https://ibclaw.in/basanti-devi-lohia-vs-west-bengal-agro-textile-corporation-ltd-nclat-new-delhi/)
+- **Published:** Tue, 12 May 2026 20:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Rule 22(2) categorically requires every appeal to be accompanied by a certified copy of the impugned order; filing without even applying for such certified copy before expiry of limitation, and without seeking exemption under Rules 14 and 15, was not a curable procedural lapse but made the appeal wholly incompetent – Angelwoods Apartment Allottees Association Vs. M Lalitha and Anr. – Supreme Court](https://ibclaw.in/angelwoods-apartment-allottees-association-vs-m-lalitha-and-anr-supreme-court/)
 - **Published:** Tue, 12 May 2026 12:50:18 +0000
