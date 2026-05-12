@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-11 20:17:40*
+*Last synced: 2026-05-12 04:23:46*
+
+### [Section 7(3) of IBC is an enabling provision requiring prima facie material and is not a standalone ground to reject without considering debt and default on merits – Emgee Media Integrated Services Pvt. Ltd. Vs. Vyjayanthi Televentures Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/emgee-media-integrated-services-pvt-ltd-vs-vyjayanthi-televentures-pvt-ltd-nclat-chennai/)
+- **Published:** Mon, 11 May 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency proceedings can run parallel to SARFAESI proceedings, the same does not mean that the provisions of the IBC can be invoked as a tactical measure to obstruct recovery, especially when the facts indicate lack of bona fides – Kalpana Ashok Garg Vs. Standard Chartered Bank – NCLT Ahmedabad Bench](https://ibclaw.in/kalpana-ashok-garg-vs-standard-chartered-bank-nclt-ahmedabad-bench/)
+- **Published:** Mon, 11 May 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 10A of IBC creates a permanent bar only in respect of defaults occurring during the specified window and does not preclude initiation of CIRP for distinct and independent defaults arising after 24.03.2021 | Post-10A non-payment of instalments/interest can constitute fresh actionable defaults, and even interest alone may satisfy the Section 4 threshold – Sumer Buildcorp Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/sumer-buildcorp-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 11 May 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Delay in filing appeal under Section 58 of the Companies Act, 2013 condonable by applying Section 433 of the Companies Act read with Section 29 of the Limitation Act and exercising NCLT Rule 11 inherent powers where no upper limit is prescribed – Harti Venkataravanppa Dharmesh Vs. Smt. Kamalapuri Narasimaih Jayalakshmi and Ors. – NCLAT Chennai](https://ibclaw.in/harti-venkataravanppa-dharmesh-vs-smt-kamalapuri-narasimaih-jayalakshmi-and-ors-nclat-chennai/)
+- **Published:** Mon, 11 May 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Application under Section 94 of IBC filed after auction conclusion and confirmation held to be abuse of process and cannot unsettle confirmed SARFAESI sale – Ashwani Kumar Oberoi Vs. State Bank of India and Ors. – NCLAT New Delhi](https://ibclaw.in/ashwani-kumar-oberoi-vs-state-bank-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 11 May 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 36(4)(a)(iii) of IBC excludes from liquidation estate all sums due to any workman or employee from provident fund, pension fund and gratuity fund and such excluded amounts cannot fall within Section 53 distribution applicable only to liquidation estate assets | Absence of a separate fund with the corporate debtor does not negate the statutory exclusion – Regional P.F. Commissioner, Employees Provident Fund Organisation Vs. Vipul Garg (Liquidator) and Ors. – NCLAT New Delhi](https://ibclaw.in/regional-p-f-commissioner-employees-provident-fund-organisation-vs-vipul-garg-liquidator-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 11 May 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether inclusion of a prospective bidder in the recipient list of the email sent after the SCC meeting constituted a breach of confidentiality? – Amresh Shukla, Liquidator of Girdharilal Sugar & Allied Industries Ltd. Vs. State of Madhya Pradesh and Ors. – NCLT Indore Bench](https://ibclaw.in/amresh-shukla-liquidator-of-girdharilal-sugar-allied-industries-ltd-vs-state-of-madhya-pradesh-and-ors-nclt-indore-bench/)
+- **Published:** Mon, 11 May 2026 23:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Merely because Section 8 of IBC provides for an option to issue the Section 8 demand notice in Form 3 or Form 4 cannot be seen to allow the Operational Creditor to take refuge of Form 3 to escape from the requirement of submission of invoices to prove the debt and amount in default | When the relevant Rules clearly outline that a particular Form is to be used for a particular purpose, compliance to the same cannot be ignored or brushed aside or treated as discretionary – Rama Traders Vs. Rocket Engineering Corporation Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rama-traders-vs-rocket-engineering-corporation-pvt-ltd-nclat-new-delhi/)
+- **Published:** Mon, 11 May 2026 23:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Deduction/refund of TDS deducted by the Bank on interest accrued on fixed deposits of liquidation sale proceeds, and the question of any exemption or requirement under Section 140 of the Income-tax Act, 1961, fall within the exclusive domain of the competent Income Tax Authorities; the IBC, including Sections 60(5) and 238, does not confer jurisdiction upon the Adjudicating Authority (NCLT) to direct refund of such TDS – S. Dhanapal, Liquidator of Servalakshmi Paper Ltd. Vs. Income Tax Officer and Anr. – NCLAT Chennai](https://ibclaw.in/s-dhanapal-liquidator-of-servalakshmi-paper-ltd-vs-income-tax-officer-and-anr-nclat-chennai-2/)
+- **Published:** Tue, 12 May 2026 01:52:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Frozen bank account in oppression and mismanagement proceedings may be defreezed for limited operations under Independent Administrator’s supervision without prejudging validity of underlying transactions – Hitesh Shah and Anr. Vs. Aquafil Polymers Company Pvt. Ltd. and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/hitesh-shah-and-anr-vs-aquafil-polymers-company-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
 - **Published:** Mon, 11 May 2026 18:33:04 +0000
