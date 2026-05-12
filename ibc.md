@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-12 09:18:53*
+*Last synced: 2026-05-12 15:22:16*
+
+### [NCLAT Rule 22(2) categorically requires every appeal to be accompanied by a certified copy of the impugned order; filing without even applying for such certified copy before expiry of limitation, and without seeking exemption under Rules 14 and 15, was not a curable procedural lapse but made the appeal wholly incompetent – Angelwoods Apartment Allottees Association Vs. M Lalitha and Anr. – Supreme Court](https://ibclaw.in/angelwoods-apartment-allottees-association-vs-m-lalitha-and-anr-supreme-court/)
+- **Published:** Tue, 12 May 2026 12:50:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Appeal Without Certified Copy of Impugned Order Under NCLAT Rule 22(2) Is Incompetent and Not Curable](https://ibclaw.in/supreme-court-holds-appeal-without-certified-copy-of-impugned-order-under-nclat-rule-222-is-incompetent-and-not-curable/)
+- **Published:** Tue, 12 May 2026 12:52:58 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [In Real Estate Insolvency, The Project is the Unit of Reckoning, Not the Company – By Adv. Komal Abrol](https://ibclaw.in/in-real-estate-insolvency-the-project-is-the-unit-of-reckoning-not-the-company-by-adv-komal-abrol/)
 - **Published:** Tue, 12 May 2026 04:52:57 +0000
