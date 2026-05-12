@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-12 04:23:46*
+*Last synced: 2026-05-12 09:18:53*
+
+### [In Real Estate Insolvency, The Project is the Unit of Reckoning, Not the Company – By Adv. Komal Abrol](https://ibclaw.in/in-real-estate-insolvency-the-project-is-the-unit-of-reckoning-not-the-company-by-adv-komal-abrol/)
+- **Published:** Tue, 12 May 2026 04:52:57 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Section 7(3) of IBC is an enabling provision requiring prima facie material and is not a standalone ground to reject without considering debt and default on merits – Emgee Media Integrated Services Pvt. Ltd. Vs. Vyjayanthi Televentures Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/emgee-media-integrated-services-pvt-ltd-vs-vyjayanthi-televentures-pvt-ltd-nclat-chennai/)
 - **Published:** Mon, 11 May 2026 20:23:00 +0000
