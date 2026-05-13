@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-12 20:15:14*
+*Last synced: 2026-05-13 04:30:45*
+
+### [Liquidator is not entitled to remuneration in the absence of approval under the applicable regulations and in the absence of any realised and distributed amount – Bhaskar Gopal Shetty (Liquidator) Vs. DCB Bank and Ors. – NCLT Mumbai Bench](https://ibclaw.in/bhaskar-gopal-shetty-liquidator-vs-dcb-bank-and-ors-nclt-mumbai-bench/)
+- **Published:** Tue, 12 May 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Cash payments to related-party creditors immediately before CIRP, not in ordinary course, constituted preferential transactions under Section 43 of IBC | Timelines under CIRP Regulation 35A are directory  – Hasti Mal Kachhara, RP of Nagraj Alloys Pvt. Ltd. Vs. Niraj Mangal Meshram and Ors. – NCLT Mumbai Bench](https://ibclaw.in/hasti-mal-kachhara-rp-of-nagraj-alloys-pvt-ltd-vs-niraj-mangal-meshram-and-ors-nclt-mumbai-bench/)
+- **Published:** Tue, 12 May 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interim moratorium under Section 96 of IBC on co-owner’s Section 94 application bars SARFAESI sale of joint secured asset during its subsistence – Hemraj Madhukar Chaudhari Vs. Hasti Co-Op. Bank Ltd. and Ors. – DRT Aurangabad](https://ibclaw.in/hemraj-madhukar-chaudhari-vs-hasti-co-op-bank-ltd-and-ors-drt-aurangabad/)
+- **Published:** Tue, 12 May 2026 22:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the amounts lying to the credit of the Bankrupt in the EPF account (including employee contribution and employer contribution, excluding pension) form part of the Bankruptcy Estate and are liable to be transferred to the Bankruptcy Trustee? – Sivaram Prasad Bhamidi (Bankruptcy Trustee) Vs. Mulpuri Siva Ramakrishna and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/sivaram-prasad-bhamidi-vs-mulpuri-siva-ramakrishna-and-anr-nclt-hyderabad-bench-2/)
+- **Published:** Tue, 12 May 2026 22:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A creditor’s mention of ‘N.A.’ in Column 5 of Form B does not amount to a waiver of the statutory charge; however, the creditor remains bound to inform the Resolution Professional (RP) of the statutory charge | Section 48 of the Gujarat VAT Act creates a statutory charge only for VAT claim, and the same benefit cannot be extended to CST component of the claim – Assistant Commissioner of State Tax, Vapi Vs. ARCK Resolution Professionals LLP (RP) and Anr. – NCLAT New Delhi](https://ibclaw.in/assistant-commissioner-of-state-tax-vapi-vs-arck-resolution-professionals-llp-rp-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 12 May 2026 23:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether time spent in prosecuting a proceeding under Section 9 of the IBC, which was rejected by the NCLT on the ground of pre-existing dispute, could be excluded under Section 14 of the Limitation Act, 1963 while computing limitation for a subsequent civil suit for recovery – Jones Lang Lasalle Property Consultants (India) Pvt. Ltd. Vs. M. A. Leasing and Consruction Pvt. Ltd. and Ors. – Calcutta High Court](https://ibclaw.in/jones-lang-lasalle-property-consultants-india-pvt-ltd-vs-m-a-leasing-and-consruction-pvt-ltd-and-ors-calcutta-high-court/)
+- **Published:** Wed, 13 May 2026 00:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether, in the context of a back-to-back contract (B2B contract) between the corporate debtor and the sub-contractor, the dues payable to the sub-contractor by the corporate debtor from out of the payment received / to be received from the principal employer will constitute to be an asset owned by a third-party (sub-contractor in this case), which is in possession of the corporate debtor within the framework of section 36(4)(a)(i) of IBC? | When an infrastructure project is being executed by a corporate debtor through a sub-contractor under a back-to-back contract and it is continued during the CIRP period, can the amount relating to the work done prior to CIRP differentiated from the amount relating to the work done after the commencement of CIRP for the purpose of making payment to the sub- contractor? – Imperial Coastal Infra Vs. Liquidator of IVRCL Ltd. and Ors. – NCLAT Chennai](https://ibclaw.in/imperial-coastal-infra-vs-liquidator-of-ivrcl-ltd-and-ors-nclat-chennai/)
+- **Published:** Wed, 13 May 2026 00:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Professional (RP) is empowered under Section 25(2)(d) of the IBC and CIRP Regulation 27(2) to appoint Transaction Auditors and other professionals without requiring consultation or approval of the CoC | No provision under the IBC requires prior approval of the CoC for filing avoidance transaction applications – Dharamveer Singh Magan Singh Shekhawat and Ors. Vs. Dharmendra Dhelariya, RP of KSS Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/dharamveer-singh-magan-singh-shekhawat-and-ors-vs-dharmendra-dhelariya-rp-of-kss-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 13 May 2026 00:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [In proceedings under Section 7 of IBC, it is open for the parties to place before the Adjudicating Authority any subsequent event, which has material bearing on the proceedings – Kunal Structure India Pvt. Ltd. and Anr. Vs. Kotak Mahindra Bank Ltd. – NCLAT New Delhi](https://ibclaw.in/kunal-structure-india-pvt-ltd-and-anr-vs-kotak-mahindra-bank-ltd-nclat-new-delhi/)
 - **Published:** Tue, 12 May 2026 19:35:00 +0000
