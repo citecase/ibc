@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-13 04:30:45*
+*Last synced: 2026-05-13 09:25:13*
+
+### [MNLU Mumbai announces Certificate Course on Insolvency & Bankruptcy Code (IBC)](https://www.barandbench.com/Law-School/mnlu-mumbai-certificate-course-insolvency-bankruptcy-code)
+- **Published:** Wed, 13 May 2026 14:25:08 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Angelwoods Apartment Allottees Association v. M. Lalitha  2026 INSC 479 - NCLAT Rules - Certified Copy Requirement](https://www.caseciter.com/2026insc479/)
+- **Published:** Wed, 13 May 2026 07:51:03 GMT
+- **Source:** https://caseciter.com/rss
+
+### [The Insolvency and Bankruptcy Code (Amendment) Bill, 2026 : A Structural Overhaul With Unresolved Fault Lines – By Adv. Shantanu Vyas & Adv. Anvesha Mishra](https://ibclaw.in/the-insolvency-and-bankruptcy-code-amendment-bill-2026-a-structural-overhaul-with-unresolved-fault-lines-by-adv-shantanu-vyas-adv-anvesha-mishra/)
+- **Published:** Wed, 13 May 2026 04:52:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Liquidator is not entitled to remuneration in the absence of approval under the applicable regulations and in the absence of any realised and distributed amount – Bhaskar Gopal Shetty (Liquidator) Vs. DCB Bank and Ors. – NCLT Mumbai Bench](https://ibclaw.in/bhaskar-gopal-shetty-liquidator-vs-dcb-bank-and-ors-nclt-mumbai-bench/)
 - **Published:** Tue, 12 May 2026 21:26:00 +0000
