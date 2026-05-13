@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-13 09:25:13*
+*Last synced: 2026-05-13 20:17:54*
+
+### [Successful Resolution Applicant, being a transferee, is liable to pay the outstanding provident fund dues pertaining to the period prior to transfer, and that compliance with the provisions of the EPF & MP Act, 1952 is mandatory and not subject to the commercial wisdom of the Committee of Creditors – Jindal Saw Ltd. Vs. Employee Provident Fund Organization – NCLT Hyderabad Bench](https://ibclaw.in/jindal-saw-ltd-vs-employee-provident-fund-organization-nclt-hyderabad-bench/)
+- **Published:** Wed, 13 May 2026 19:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Even though the Regulation 17A of PGIRP regulations 2019 contemplate summoning a meeting to notify non-availability, in case of anomaly between Regulations and the IBC, primacy must be given to the IBC; and that non-availability of a repayment plan has the same consequence as rejection of a repayment plan by creditors – Orbis Trusteeship Services Pvt. Ltd. Vs. Gurneet Singh Sikka – NCLT New Delhi Bench](https://ibclaw.in/orbis-trusteeship-services-pvt-ltd-vs-gurneet-singh-sikka-nclt-new-delhi-bench/)
+- **Published:** Wed, 13 May 2026 19:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Conditional insistence on acceptance of consequence sheet does not establish pre-existing dispute once undisputed operational debt stands crystallized and accepted – Rakesh Dalpatram Panchal Vs. Kisaan Steels Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/rakesh-dalpatram-panchal-vs-kisaan-steels-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 13 May 2026 20:04:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [MNLU Mumbai announces Certificate Course on Insolvency & Bankruptcy Code (IBC)](https://www.barandbench.com/Law-School/mnlu-mumbai-certificate-course-insolvency-bankruptcy-code)
 - **Published:** Wed, 13 May 2026 14:25:08 +0530
