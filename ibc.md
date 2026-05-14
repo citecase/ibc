@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-14 04:28:53*
+*Last synced: 2026-05-14 09:15:19*
+
+### [From Judicial Evolution to Legislative Reset: Recalibrating CIRP under the IBC – By Adv. Shishir Srivastava](https://ibclaw.in/from-judicial-evolution-to-legislative-reset-recalibrating-cirp-under-the-ibc-by-adv-shishir-srivastava/)
+- **Published:** Thu, 14 May 2026 05:30:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Model Bye-Laws and Governing Board of Insolvency Professional Agencies) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-model-bye-laws-and-governing-board-of-insolvency-professional-agencies-amendment-regulations-2026/)
+- **Published:** Thu, 14 May 2026 05:50:34 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [An individual’s contractual involvement via a term sheet cannot be conflated with the definition of a partner as envisaged under Section 5(24)(a) of IBC | Mere contractual involvement under the Term Sheet could not make the applicant a related party – Pardeep Kumar Goel Vs. Atul Kumar Kinra, RP of Chandigarh Overseas Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/pardeep-kumar-goel-vs-atul-kumar-kinra-rp-nclt-chandigarh-bench/)
 - **Published:** Wed, 13 May 2026 20:55:00 +0000
