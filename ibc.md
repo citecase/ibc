@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-13 20:17:54*
+*Last synced: 2026-05-14 04:28:53*
+
+### [An individual’s contractual involvement via a term sheet cannot be conflated with the definition of a partner as envisaged under Section 5(24)(a) of IBC | Mere contractual involvement under the Term Sheet could not make the applicant a related party – Pardeep Kumar Goel Vs. Atul Kumar Kinra, RP of Chandigarh Overseas Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/pardeep-kumar-goel-vs-atul-kumar-kinra-rp-nclt-chandigarh-bench/)
+- **Published:** Wed, 13 May 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 33(5) of IBC bars initiation of legal proceedings for recovery against the corporate debtor | A notice directing recovery and the bank marking a lien on the liquidation account amounted to impermissible recovery proceedings – Aneel Saraogi, Liquidator of Citylife Retail Pvt. Ltd. Vs. Axis Bank Ltd. – NCLT Kolkata Bench](https://ibclaw.in/aneel-saraogi-vs-axis-bank-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 13 May 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether, in liquidation, the Excise and Taxation Department, Gurgaon could be treated as a secured creditor and share sale proceeds along with the secured financial creditor, on the basis of Section 26 of the Haryana VAT Act and Rainbow Papers? – Federal Bank Ltd. Vs. Pradeep Upadhyay, Liquidator of Dugal Associates Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/federal-bank-ltd-vs-pradeep-upadhyay-liquidator-of-dugal-associates-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 13 May 2026 21:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Post-CIRP contractual water and service charges remain payable while underlying agreements subsist, but do not qualify as insolvency resolution process costs – Rajasthan State Industrial Development & Investment Corporation Ltd. Vs. Shrivallabh Pittie Industries Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/rajasthan-state-industrial-development-investment-corporation-ltd-vs-shrivallabh-pittie-industries-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 13 May 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere repayment of an antecedent debt within the look-back period did not by itself satisfy section 43 of IBC | Section 43 preference not established without showing creditor was placed in a better position under section 53 – Pankaj Bhattad, RP of Laxmiramuna Investments Pvt. Ltd. Vs. Krishan Raghunath Prasad Khadaria and Ors. – NCLT Mumbai Bench](https://ibclaw.in/pankaj-bhattad-rp-of-laxmiramuna-investments-pvt-ltd-vs-krishan-raghunath-prasad-khadaria-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 13 May 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 177(1) of IBC indicates legitimate claims are not to be shut out when no distribution has occurred | Belated creditor claim condoned where delay resulted from bankrupt’s suppression and no dividend process had commenced – Federal Bank Ltd. Vs. C. Prabhakaran – NCLT Kochi Bench](https://ibclaw.in/federal-bank-ltd-vs-c-prabhakaran-nclt-kochi-bench/)
+- **Published:** Wed, 13 May 2026 21:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amounts invested towards equity participation or business ventures, even with a mere promise to pay a premium in recognition of the investment and other value additions, do not fall within the ambit of financial debt under Section 5(8) of the IBC – Karne Ramesh Babu Vs. Kalzen Contech Pvt. Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/karne-ramesh-babu-vs-kalzen-contech-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Wed, 13 May 2026 22:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a statutory lien asserted by the State Tax Department can override a bank’s prior registered security interest created where the bank has elected under Section 52(1)(b) of IBC to realise its security outside liquidation? – State Tax Officer Vs. Shri Keyur J. Shah (Liquidator) and Ors. – NCLAT New Delhi](https://ibclaw.in/state-tax-officer-vs-shri-keyur-j-shah-liquidator-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 13 May 2026 23:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Successful Resolution Applicant, being a transferee, is liable to pay the outstanding provident fund dues pertaining to the period prior to transfer, and that compliance with the provisions of the EPF & MP Act, 1952 is mandatory and not subject to the commercial wisdom of the Committee of Creditors – Jindal Saw Ltd. Vs. Employee Provident Fund Organization – NCLT Hyderabad Bench](https://ibclaw.in/jindal-saw-ltd-vs-employee-provident-fund-organization-nclt-hyderabad-bench/)
 - **Published:** Wed, 13 May 2026 19:50:00 +0000
