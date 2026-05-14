@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-14 15:06:34*
+*Last synced: 2026-05-14 20:15:10*
+
+### [Proceedings against a Personal Guarantor are maintainable independently and it is not a prerequisite that CIRP must be pending against the Corporate Debtor | The pendency of proceedings under SARFAESI Act or before the DRT does not bar initiation of proceedings under the IBC – Encore Asset Reconstruction Company Pvt. Ltd. Vs. Shri Keshav Kumar Nachani – NCLT Indore Bench](https://ibclaw.in/encore-asset-reconstruction-company-pvt-ltd-vs-shri-keshav-kumar-nachani-nclt-indore-bench/)
+- **Published:** Thu, 14 May 2026 19:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The refusal to accept the demand notice amounts to deemed service in law – ICICI Bank Ltd. Vs. Srivasta Janaswamy and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/icici-bank-ltd-vs-srivasta-janaswamy-and-anr-nclt-hyderabad-bench/)
+- **Published:** Thu, 14 May 2026 19:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Contraventions of Companies Act, 2013, sections 129 and 133 held compoundable under section 441 and compounded on payment of minimum fine, with delay condoned – Rajesh Shantilal Adani Vs. Registrar of Companies – NCLT Ahmedabad Bench](https://ibclaw.in/rajesh-shantilal-adani-vs-registrar-of-companies-nclt-ahmedabad-bench/)
+- **Published:** Thu, 14 May 2026 19:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The adjudicatory function under Part III of IBC effectively commences after submission of the resolution professional’s recommendatory report under Section 99, and that prior to such report the Tribunal is not expected to adjudicate issues relating to the merits of the insolvency application – Pramod Kumar Sukhija Vs. UCO Bank – NCLT Chandigarh Bench](https://ibclaw.in/pramod-kumar-sukhija-vs-uco-bank-nclt-chandigarh-bench/)
+- **Published:** Thu, 14 May 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The enquiry under Section 66 of IBC is distinct from preferential and undervalued transactions and must be supported by specific material facts – Murali Mohan Chevuturi (Liquidator) Vs. Sandeep Kumar Karampuri and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/murali-mohan-chevuturi-vs-sandeep-kumar-karampuri-and-ors-nclt-hyderabad-bench/)
+- **Published:** Thu, 14 May 2026 19:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pre-CIRP statutory tax charge and attachment not directed to be removed in liquidation sale conducted on ‘as is where is’ basis – Ramchandra D. Chaudhary (Liquidator) Vs. Assistant Commissioner of State Tах and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/ramchandra-d-chaudhary-liquidator-vs-assistant-commissioner-of-state-t%d0%b0%d1%85-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Thu, 14 May 2026 20:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether foreign oil and gas assets held through subsidiaries of Videocon Oil Venture Ltd. could be treated as assets of Videocon Industries Ltd. and included in its CIRP and Information Memorandum, particularly because lenders of the foreign asset financing had lodged claims in the CIRP of Videocon Industries Ltd. on the basis of corporate guarantee? – State Bank of India Vs. Venugopal Dhoot – NCLAT New Delhi](https://ibclaw.in/state-bank-of-india-vs-venugopal-dhoot-nclat-new-delhi/)
 - **Published:** Thu, 14 May 2026 14:05:23 +0000
