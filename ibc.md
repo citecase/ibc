@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-14 09:15:19*
+*Last synced: 2026-05-14 15:06:34*
+
+### [Whether foreign oil and gas assets held through subsidiaries of Videocon Oil Venture Ltd. could be treated as assets of Videocon Industries Ltd. and included in its CIRP and Information Memorandum, particularly because lenders of the foreign asset financing had lodged claims in the CIRP of Videocon Industries Ltd. on the basis of corporate guarantee? – State Bank of India Vs. Venugopal Dhoot – NCLAT New Delhi](https://ibclaw.in/state-bank-of-india-vs-venugopal-dhoot-nclat-new-delhi/)
+- **Published:** Thu, 14 May 2026 14:05:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Rules Foreign Oil and Gas Assets of Subsidiaries Cannot Be Included in CIRP of Videocon Industries Ltd](https://ibclaw.in/nclat-rules-foreign-oil-and-gas-assets-of-subsidiaries-cannot-be-included-in-cirp-of-videocon-industries-ltd/)
+- **Published:** Thu, 14 May 2026 14:06:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 48 of the GVAT Act creates a statutory first charge on passing of the assessment order itself, and such statutory charge is not dependent on registration under Section 77 of the Companies Act | Liquidation Process Regulation 21 is permissive and not exhaustive as to modes of proof, and non-disclosure of security interest in the claim form did not defeat the claim | Secured status extended only to GVAT dues and not CST dues | If secured creditor did not exercise the option to realise security under Section 52 of IBC, it was deemed under Regulation 21A to have relinquished the security and was entitled to distribution as a secured operational creditor only for VAT dues – State Tax Officer, State of Gujarat Vs. Jaykumar P. Arlani (Liquidator) and Ors. – NCLAT New Delhi](https://ibclaw.in/state-tax-officer-state-of-gujarat-vs-jaykumar-p-arlani-liquidator-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 14 May 2026 14:36:12 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Statutory First Charge Under GVAT Act Creates Secured Creditor Status Upon Assessment Order; Registration Not Mandatory for VAT Dues in Liquidation](https://ibclaw.in/nclat-clarifies-statutory-first-charge-under-gvat-act-creates-secured-creditor-status-upon-assessment-order-registration-not-mandatory-for-vat-dues-in-liquidation/)
+- **Published:** Thu, 14 May 2026 14:38:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [From Judicial Evolution to Legislative Reset: Recalibrating CIRP under the IBC – By Adv. Shishir Srivastava](https://ibclaw.in/from-judicial-evolution-to-legislative-reset-recalibrating-cirp-under-the-ibc-by-adv-shishir-srivastava/)
 - **Published:** Thu, 14 May 2026 05:30:46 +0000
