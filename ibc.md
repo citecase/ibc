@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-15 09:30:53*
+*Last synced: 2026-05-15 15:00:48*
+
+### [Alka Agrawal  v. State of Maharashtra 2026 INSC 489 - MPID Act - Loan Transaction - Deposit](https://www.caseciter.com/2026insc489/)
+- **Published:** Fri, 15 May 2026 11:27:54 GMT
+- **Source:** https://caseciter.com/rss
 
 ### [The Insolvency and Bankruptcy Code (Amendment) Act, 2026: A comprehensive analysis](https://www.barandbench.com/view-point/the-insolvency-and-bankruptcy-code-amendment-act-2026-a-comprehensive-analysis)
 - **Published:** Fri, 15 May 2026 11:20:20 +0530
