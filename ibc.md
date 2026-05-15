@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-14 20:15:10*
+*Last synced: 2026-05-15 04:35:11*
+
+### [Where the very reduction of shareholding below the statutory threshold is alleged as an act of oppression under Section 241-242 of the Companies Act, 2013, maintainability and merits can be considered together, and the petition may be examined on merits – Sachin Natrajan Vs. S.N.V.G. Logistics Pvt. Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/sachin-natrajan-vs-s-n-v-g-logistics-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 14 May 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution plan reverted to CoC for reconsideration due to inadequate due diligence on SRA viability, CIRP cost clarity, demerger conditionality, receivables, losses, and treatment of Income Tax claim – CA & IP Bhavan Trivedi, RP of Button Industries Pvt. Ltd. Vs. Income Tax Department and Anr. – NCLT Ahmedabad Bench](https://ibclaw.in/ca-ip-bhavan-trivedi-rp-of-button-industries-pvt-ltd-vs-income-tax-department-and-anr-nclt-ahmedabad-bench/)
+- **Published:** Thu, 14 May 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A litigant must remain vigilant and that NCLT Rule 11 inherent powers cannot be used to reopen a concluded order when a statutory appellate remedy was available and not availed – Sandeep Sadanandan and Ors. Vs. Vivek Menon P. K. and Ors. – NCLT Kochi Bench](https://ibclaw.in/sandeep-sadanandan-and-ors-vs-vivek-menon-p-k-and-ors-nclt-kochi-bench/)
+- **Published:** Thu, 14 May 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Court possesses inherent power under Sections 4 and 5 of Provincial Insolvency Act to grant interim orders against arrest in execution even before final adjudication – P. Purushotham Reddy Vs. R. Munwar Basha and Ors. – Andhra Pradesh High Court](https://ibclaw.in/p-purushotham-reddy-vs-r-munwar-basha-and-ors-andhra-pradesh-high-court/)
+- **Published:** Thu, 14 May 2026 20:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bad commercial decisions or diversions without fraudulent purpose or personal benefit do not attract Section 66 liability, as audit reports alone cannot conclusively prove wrongful trading absent clear intent to defraud or minimise creditor losses | Proceedings under Section 66 of IBC are civil in nature and the standard of proof is that of preponderance of probabilities – HDFC Bank Ltd. Vs. Terlin Engineerings OPC Pvt. Ltd. and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/hdfc-bank-ltd-vs-terlin-engineerings-opc-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Thu, 14 May 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Recovery Officer must decide third-party obstruction objection under Rule 43 of Income-tax (Certificate Proceedings) Rules, 1962 before appointing Commissioner for possession – S.N.Ganapathy Vs. Recovery Officer, Debts Recovery Officer and Ors. – DRT Madurai](https://ibclaw.in/s-n-ganapathy-vs-recovery-officer-debts-recovery-officer-and-ors-drt-madurai/)
+- **Published:** Thu, 14 May 2026 22:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the landowner could seek exclusion of unsold inventory in the project and the subject property from the valuation of the corporate debtor and the Information Memorandum on the basis of an arbitral award – Ishan Singh Vs. Narender Kumar Sharma, RP of Spaze Towers Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/ishan-singh-vs-narender-kumar-sharma-rp-of-spaze-towers-pvt-ltd-nclat-new-delhi/)
+- **Published:** Thu, 14 May 2026 22:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Proceedings against a Personal Guarantor are maintainable independently and it is not a prerequisite that CIRP must be pending against the Corporate Debtor | The pendency of proceedings under SARFAESI Act or before the DRT does not bar initiation of proceedings under the IBC – Encore Asset Reconstruction Company Pvt. Ltd. Vs. Shri Keshav Kumar Nachani – NCLT Indore Bench](https://ibclaw.in/encore-asset-reconstruction-company-pvt-ltd-vs-shri-keshav-kumar-nachani-nclt-indore-bench/)
 - **Published:** Thu, 14 May 2026 19:53:00 +0000
