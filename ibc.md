@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-15 04:35:11*
+*Last synced: 2026-05-15 09:30:53*
+
+### [The Insolvency and Bankruptcy Code (Amendment) Act, 2026: A comprehensive analysis](https://www.barandbench.com/view-point/the-insolvency-and-bankruptcy-code-amendment-act-2026-a-comprehensive-analysis)
+- **Published:** Fri, 15 May 2026 11:20:20 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Where the very reduction of shareholding below the statutory threshold is alleged as an act of oppression under Section 241-242 of the Companies Act, 2013, maintainability and merits can be considered together, and the petition may be examined on merits – Sachin Natrajan Vs. S.N.V.G. Logistics Pvt. Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/sachin-natrajan-vs-s-n-v-g-logistics-pvt-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Thu, 14 May 2026 20:25:00 +0000
