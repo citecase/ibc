@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-15 15:00:48*
+*Last synced: 2026-05-17 19:44:33*
+
+### [Resolution Professional (RP) cannot invoke Section 60(5) of IBC to compel disclosure of confidential settlement terms, alleged non-compete payment, or convening of EGM of subsidiary company when Corporate Debtor was not party to settlement | Companies Act rights relating to inspection of books, financial statements, removal of directors, and calling of EOGM must be exercised by RP as shareholder under Sections 136 and 100(4) of Companies Act, 2013 without NCLT intervention – Pankaj Mahajan (RP) Vs. Ajay Mittal and Ors. – NCLT Mumbai Bench](https://ibclaw.in/pankaj-mahajan-rp-vs-ajay-mittal-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 17 May 2026 18:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 9 petition rejected where contemporaneous debit notes and correspondence showed a plausible pre-existing dispute as to quality/quantity and quantum, leaving no crystallised undisputed operational debt – Intertex Pvt. Ltd. Vs. Electrotherm (India) Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/intertex-pvt-ltd-vs-electrotherm-india-ltd-nclt-ahmedabad-bench/)
+- **Published:** Sun, 17 May 2026 19:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Section 7 petition dismissed as infructuous on admission of Section 9 CIRP can be restored where effect and operation of Section 9 admission order is kept in abeyance | Revival does not amount to simultaneous CIRP – IDBI Trusteeship Services Ltd. Vs. Ozone Projects Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/idbi-trusteeship-services-ltd-vs-ozone-projects-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Sun, 17 May 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Contractual inspection rights under Shareholders’ Agreement supplement statutory shareholder rights and justify limited expanded inspection of rights issue documents – Cyklop Asia Pvt. Ltd. Vs. Grip Strapping Technologies Pvt. Ltd. and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/cyklop-asia-pvt-ltd-vs-grip-strapping-technologies-pvt-ltd-and-ors-nclt-hyderabad-bench-2/)
+- **Published:** Sun, 17 May 2026 19:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Alka Agrawal  v. State of Maharashtra 2026 INSC 489 - MPID Act - Loan Transaction - Deposit](https://www.caseciter.com/2026insc489/)
 - **Published:** Fri, 15 May 2026 11:27:54 GMT
