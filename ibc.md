@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-17 19:44:33*
+*Last synced: 2026-05-18 04:50:42*
+
+### [The absence of any material evidence of disbursement of the alleged loan strikes at the root of the transaction, as the existence of a financial debt cannot be established merely on the basis of a written agreement without proof of actual flow of funds from the creditor to the debtor – In re: GPT Pharmaceuticals Pvt. Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/in-re-gpt-pharmaceuticals-pvt-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Sun, 17 May 2026 19:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Limitation for an application under Section 95 of IBC runs from the expiry of period specified in the first demand notice, any subsequent demands after first notice of demand are not relevant for the purpose of determination of limitation – Canara Bank Vs. Rajiv Prasad – NCLT Mumbai Bench](https://ibclaw.in/canara-bank-vs-rajiv-prasad-nclt-mumbai-bench/)
+- **Published:** Sun, 17 May 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where secured creditor failed to rebut the borrower’s allegations of non-compliance with the SARFAESI Act and Rules, and no reply was shown to have been sent to the borrower’s objections, the possession notice is liable to be set aside – C. Sundaramoorthy Vs. Authorized Officer, Hinduja Housing Finance – DRT Madurai](https://ibclaw.in/c-sundaramoorthy-vs-authorized-officer-hinduja-housing-finance-drt-madurai/)
+- **Published:** Sun, 17 May 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [MSME interest claim under Section 16 of Micro, Small and Medium Enterprises Development Act, 2006 requires petitioner’s monthly-rest compound interest computation and supporting supply/acceptance particulars – Charu Engineering Industries and Anr. Vs. State of Assam and Ors. – Gauhati High Court](https://ibclaw.in/charu-engineering-industries-and-anr-vs-state-of-assam-and-ors-gauhati-high-court/)
+- **Published:** Sun, 17 May 2026 21:41:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Resolution Professional (RP) cannot invoke Section 60(5) of IBC to compel disclosure of confidential settlement terms, alleged non-compete payment, or convening of EGM of subsidiary company when Corporate Debtor was not party to settlement | Companies Act rights relating to inspection of books, financial statements, removal of directors, and calling of EOGM must be exercised by RP as shareholder under Sections 136 and 100(4) of Companies Act, 2013 without NCLT intervention – Pankaj Mahajan (RP) Vs. Ajay Mittal and Ors. – NCLT Mumbai Bench](https://ibclaw.in/pankaj-mahajan-rp-vs-ajay-mittal-and-ors-nclt-mumbai-bench/)
 - **Published:** Sun, 17 May 2026 18:58:00 +0000
