@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-18 04:50:42*
+*Last synced: 2026-05-18 20:14:23*
+
+### [Claim for MSME interest requires Section 16 monthly-rests computation and factual verification by department – Charu Technology Pvt. Ltd. Vs. State of Assam and Ors. – Gauhati High Court](https://ibclaw.in/charu-technology-pvt-ltd-vs-state-of-assam-and-ors-gauhati-high-court/)
+- **Published:** Mon, 18 May 2026 18:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [While the Tribunal (NCLT) cannot enforce a contract as a civil court would, it is equally empowered under Sections 241 and 242 of the Companies Act, 2013 to examine the surrounding circumstances of such contractual arrangements where they bear directly upon fairness, probity, and the rights of a member in the affairs of the Company – Venkatesh Kalloji Vs. Stee Consulting and Software Technologies Pvt. Ltd. and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/venkatesh-kalloji-vs-stee-consulting-and-software-technologies-pvt-ltd-and-ors-nclt-hyderabad-bench/)
+- **Published:** Mon, 18 May 2026 18:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Section 9 application rejected where debit notes and contemporaneous correspondence evidenced a pre-existing dispute and Information Utility record marked the debt as disputed – A.T. Trade Overseas Pvt. Ltd. Vs. Electrotherm (India) Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/a-t-trade-overseas-pvt-ltd-vs-electrotherm-india-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 18 May 2026 19:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Burden lay on IRP to substantiate that fees/expenses were duly approved in a properly convened CoC meeting with proper notice, agenda and voting – Amresh Shukla Vs. Rajesh Jhunjhunwala (Liquidator) and Ors. – NCLT Indore Bench](https://ibclaw.in/amresh-shukla-vs-rajesh-jhunjhunwala-liquidator-and-ors-nclt-indore-bench/)
+- **Published:** Mon, 18 May 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When suit was pending before issuance of demand notice under Section 8 of IBC that was a sufficient ground to reject Section 9 application – Chandra Prakash Lohia @ Nitesh Lohia Vs. West Bengal Agro Textile Corporation Ltd. – NCLAT New Delhi](https://ibclaw.in/chandra-prakash-lohia-nitesh-lohia-vs-west-bengal-agro-textile-corporation-ltd-nclat-new-delhi/)
+- **Published:** Mon, 18 May 2026 20:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Waiver under section 244 of the Companies Act, 2013 denied where petitioner had transferred entire shareholding and was not a member – Kanishk Gupta Vs. Vegganovative Solutions Pvt. Ltd. and Ors. – NCLT Bengaluru Bench](https://ibclaw.in/kanishk-gupta-vs-vegganovative-solutions-pvt-ltd-and-ors-nclt-bengaluru-bench/)
+- **Published:** Mon, 18 May 2026 20:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once the requirements under Section 14 of SARFAESI Act are complied with, the Magistrate must assist in taking possession, and Section 14(3) bars challenge to action taken under Section 14 | Borrower, having not challenged the Section 13(4) possession notice within 45 days, was barred by limitation from raising contentions against it – Hashini Enterprises Vs. Authorized Officer Punjab National Bank – DRT Chennai](https://ibclaw.in/hashini-enterprises-vs-authorized-officer-punjab-national-bank-drt-chennai/)
+- **Published:** Mon, 18 May 2026 20:12:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The absence of any material evidence of disbursement of the alleged loan strikes at the root of the transaction, as the existence of a financial debt cannot be established merely on the basis of a written agreement without proof of actual flow of funds from the creditor to the debtor – In re: GPT Pharmaceuticals Pvt. Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/in-re-gpt-pharmaceuticals-pvt-ltd-and-anr-nclt-hyderabad-bench/)
 - **Published:** Sun, 17 May 2026 19:55:00 +0000
