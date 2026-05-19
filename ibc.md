@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-18 20:14:23*
+*Last synced: 2026-05-19 04:43:04*
+
+### [Consolidation of CIRPs declined where the CoC had already rejected the proposal and one of the CIRPs was at an advanced stage – Suspended Board of Sarita Steel & Power Ltd., through Vipul Mehra Vs. Sanjeev Kumar Jalan and Ors. – NCLT Kolkata Bench](https://ibclaw.in/suspended-board-of-sarita-steel-power-ltd-through-vipul-mehra-vs-sanjeev-kumar-jalan-and-ors-nclt-kolkata-bench/)
+- **Published:** Mon, 18 May 2026 20:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether Regulation 31 of the IBBI (Liquidation Process) Regulations could be invoked to modify the list of stakeholders so as to admit the delayed claim notwithstanding the timelines under the IBC and Regulations? – Ajoy Kumar, Commissioner of Customs Vs. Arvind Gaudana, Liquidator of Spel Granito Pvt. Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/ajoy-kumar-commissioner-of-customs-vs-arvind-gaudana-liquidator-of-spel-granito-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 18 May 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Purchasers who paid the Corporate Debtor’s OTS dues to the mortgagee under an agreement to sell, though sale deed remained unexecuted due to CIRP, are secured creditors as Section 55(6)(b) of the Transfer of Property Act creates a statutory buyer’s charge constituting a security interest under Section 3(31) of the IBC, however, such status is limited to the amount actually paid and not the entire admitted claim – Akme Sarvodaya Dreamventures LLP and Ors. Vs. Megha Agrawal – NCLT Mumbai Bench](https://ibclaw.in/akme-sarvodaya-dreamventures-llp-and-ors-vs-megha-agrawal-nclt-mumbai-bench/)
+- **Published:** Mon, 18 May 2026 23:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether, for the purpose of determining the statutory threshold under Section 4 of the IBC, the conversion of foreign currency debt into Indian Rupees is to be reckoned with reference to the date of invoice, the date of default, or any subsequent date? – PM Copper Wire & Cables BHD Vs. Relicab Cable Manufacturing Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/pm-copper-wire-cables-bhd-vs-relicab-cable-manufacturing-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 19 May 2026 00:06:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Claim for MSME interest requires Section 16 monthly-rests computation and factual verification by department – Charu Technology Pvt. Ltd. Vs. State of Assam and Ors. – Gauhati High Court](https://ibclaw.in/charu-technology-pvt-ltd-vs-state-of-assam-and-ors-gauhati-high-court/)
 - **Published:** Mon, 18 May 2026 18:36:00 +0000
