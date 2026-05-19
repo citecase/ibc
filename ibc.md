@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-19 04:43:04*
+*Last synced: 2026-05-19 20:15:07*
+
+### [Rectification of register ordered where respondents failed to prove valid share transfers and share-transfer documents showed alteration | Director’s cessation set aside for non-compliance with statutory removal procedure; improperly appointed directors removed; petition held maintainable – Avni Dharmesh Patel Vs. Venus Procon Pvt. Ltd. and Anr. – NCLT Ahmedabad Bench](https://ibclaw.in/avni-dharmesh-patel-vs-venus-procon-pvt-ltd-and-anr-nclt-ahmedabad-bench-2/)
+- **Published:** Tue, 19 May 2026 20:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The plea of oral dispute, in absence of any supporting material, does not establish existence of a dispute in terms of Section 5(6) of the IBC – Navkar Polymers Vs. Neo Microns Pvt. Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/navkar-polymers-vs-neo-microns-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 19 May 2026 20:11:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Consolidation of CIRPs declined where the CoC had already rejected the proposal and one of the CIRPs was at an advanced stage – Suspended Board of Sarita Steel & Power Ltd., through Vipul Mehra Vs. Sanjeev Kumar Jalan and Ors. – NCLT Kolkata Bench](https://ibclaw.in/suspended-board-of-sarita-steel-power-ltd-through-vipul-mehra-vs-sanjeev-kumar-jalan-and-ors-nclt-kolkata-bench/)
 - **Published:** Mon, 18 May 2026 20:22:00 +0000
