@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-20 16:06:08*
+*Last synced: 2026-05-20 20:34:13*
+
+### [Whether a registered Deed of Mortgage, executed nearly seven years after the Debenture Subscription Agreement and only weeks before commencement of CIRP, is a preferential transaction under Section 43 of the IBC? – Suraksha Realty Ltd. Vs. Vithal M. Dahake (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/suraksha-realty-ltd-vs-vithal-m-dahake-rp-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adjudicating Authority (NCLT) has power to recall but not to review its own order, and recall can be exercised only on limited grounds | In a Section 7 proceeding, at the pre-admission stage, only the financial creditor and the corporate debtor are necessary parties, and no third-party intervention is contemplated – Chandar Narayan Chavan Vs. M. D. Devcon Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/chandar-narayan-chavan-vs-m-d-devcon-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 19:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an interest-free amount advanced by a former director and reflected in the Corporate Debtor’s books as long-term borrowings can be rejected at the threshold as not constituting financial debt under the IBC? – Rajender Prasad Mittal Vs. Jaikrishan Estates Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/rajender-prasad-mittal-vs-jaikrishan-estates-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 138 of IBC contemplates a trustee’s application after one year, but discharge does not follow automatically and must be granted by a formal order of the Adjudicating Authority under Section 138(2) | Discharge does not terminate the bankruptcy process or affect the powers, duties and functions of the Bankruptcy Trustee | The bankrupt’s continuing obligation to cooperate under Section 150 read with Regulation 12 remains unaffected – Ajay Gupta Vs. Anil Syal and Ors. – NCLT New Delhi Bench](https://ibclaw.in/ajay-gupta-vs-anil-syal-and-ors-nclt-new-delhi-bench/)
+- **Published:** Wed, 20 May 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether limited work performed during a restricted CIRP period, when the constitution of CoC remained stayed by NCLAT, would entitle Interim Resolution Professional to claim full RP fees at the same rate as payable during a fully operational CIRP? – CMA Harshad Deshpande Vs. Shri Rakesh Kumar Relan, RP of Shri Tadco Deesan Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/cma-harshad-deshpande-vs-shri-rakesh-kumar-relan-rp-of-shri-tadco-deesan-pvt-ltd-and-anr-nclat-new-delhi/)
 - **Published:** Wed, 20 May 2026 12:43:46 +0000
