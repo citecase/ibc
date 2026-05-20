@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-19 20:15:07*
+*Last synced: 2026-05-20 10:00:57*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 11th May, 2026 to 17th May, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-11th-may-2026-to-17th-may-2026/)
+- **Published:** Wed, 20 May 2026 05:25:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Extension of tenure of technical members of NCLAT – MCA Notification No. SO-2535(E) dated 15.05.2026](https://ibclaw.in/extension-of-tenure-of-technical-members-of-nclat-mca-notification-no-so-2535e-dated-15-05-2026/)
+- **Published:** Wed, 20 May 2026 06:02:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Rectification of register ordered where respondents failed to prove valid share transfers and share-transfer documents showed alteration | Director’s cessation set aside for non-compliance with statutory removal procedure; improperly appointed directors removed; petition held maintainable – Avni Dharmesh Patel Vs. Venus Procon Pvt. Ltd. and Anr. – NCLT Ahmedabad Bench](https://ibclaw.in/avni-dharmesh-patel-vs-venus-procon-pvt-ltd-and-anr-nclt-ahmedabad-bench-2/)
 - **Published:** Tue, 19 May 2026 20:10:00 +0000
