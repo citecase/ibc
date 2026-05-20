@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-20 10:00:57*
+*Last synced: 2026-05-20 16:06:08*
+
+### [Whether limited work performed during a restricted CIRP period, when the constitution of CoC remained stayed by NCLAT, would entitle Interim Resolution Professional to claim full RP fees at the same rate as payable during a fully operational CIRP? – CMA Harshad Deshpande Vs. Shri Rakesh Kumar Relan, RP of Shri Tadco Deesan Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/cma-harshad-deshpande-vs-shri-rakesh-kumar-relan-rp-of-shri-tadco-deesan-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 12:43:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Holds IRP Not Entitled to Full Fees for Restricted CIRP Period When CoC Constitution Was Stayed](https://ibclaw.in/nclat-holds-irp-not-entitled-to-full-fees-for-restricted-cirp-period-when-coc-constitution-was-stayed/)
+- **Published:** Wed, 20 May 2026 12:44:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a former statutory auditor of the corporate debtor could be treated as a person associated with the management of the corporate debtor for the purposes of Section 19(1) of the IBC | Whether the Resolution Professional (RP) could seek directions under Section 19 compelling the statutory auditor to furnish documents/information, assist in statutory compliances, and complete the pending audit? – Sh. Sanjeev Kumar Arora Vs. Deepak Thukral and Ors. – NCLAT New Delhi](https://ibclaw.in/sh-sanjeev-kumar-arora-vs-deepak-thukral-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 14:21:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Clarifies Statutory Auditors Are Not Persons Associated With Management Under Section 19(1) IBC; Sets Aside Directions to Former Auditor](https://ibclaw.in/nclat-clarifies-statutory-auditors-are-not-persons-associated-with-management-under-section-191-ibc-sets-aside-directions-to-former-auditor/)
+- **Published:** Wed, 20 May 2026 14:24:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 11th May, 2026 to 17th May, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-11th-may-2026-to-17th-may-2026/)
 - **Published:** Wed, 20 May 2026 05:25:57 +0000
