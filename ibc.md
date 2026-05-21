@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-20 20:34:13*
+*Last synced: 2026-05-21 04:53:51*
+
+### [For application under Section 94 of IBC, the limitation has start running against the personal guarantor for taking proceeding under 94 from the cause of action which arose – Yogesh Kumar Thakkar Vs. Indian Overseas Bank and Ors. – NCLAT New Delhi](https://ibclaw.in/yogesh-kumar-thakkar-vs-indian-overseas-bank-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Provisions of the IBC cannot be used for the purpose of directly dissolving the Corporate Debtor, without undergoing the due process of liquidation | An application for dissolution of the Corporate Debtor can only be made after the CIRP and liquidation processes, once the Corporate Debtor’s assets have been fully liquidated – Navin Khandelwal, RP of Nano Minpro Pvt. Ltd. NCLT Mumbai Bench](https://ibclaw.in/navin-khandelwal-rp-of-nano-minpro-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 20 May 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere issuance of reminders and communications, without invoking available legal remedies, may not be sufficient to constitute due discharge of duties cast upon the Resolution Professional | Once the very initiation of the insolvency proceedings is found to be flawed and contrary to the object of the IBC, all consequential actions taken pursuant thereto cannot be allowed to survive – Nitin Om Kothari, RP of Irfan Khan Vs. Irfan Khan – NCLT Ahmedabad Bench](https://ibclaw.in/nitin-om-kothari-rp-of-irfan-khan-vs-irfan-khan-nclt-ahmedabad-bench/)
+- **Published:** Wed, 20 May 2026 22:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an application filed under Section 9 of the IBC, based on royalty payable under a Technical Guidance Agreement, can be rejected for non-annexure of invoices with the demand notice issued under Section 8 of IBC? – Lyka Labs Ltd. Vs. Modi Lifecare Industries Ltd. – NCLAT New Delhi](https://ibclaw.in/lyka-labs-ltd-vs-modi-lifecare-industries-ltd-nclat-new-delhi/)
+- **Published:** Wed, 20 May 2026 23:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings under Section 95(1) of the IBC against personal guarantors are fully maintainable even after or during the CIRP of the corporate debtor or the corporate guarantor | The filing and admission of claims in the CIRP of the corporate guarantor does not amount to full satisfaction of the debt and does not bar the recovery of the remaining dues from other obligants, including the personal guarantors – Amit Bhatnagar Vs. UCO Bank and Ors. – NCLAT New Delhi](https://ibclaw.in/amit-bhatnagar-vs-uco-bank-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 21 May 2026 01:43:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether a registered Deed of Mortgage, executed nearly seven years after the Debenture Subscription Agreement and only weeks before commencement of CIRP, is a preferential transaction under Section 43 of the IBC? – Suraksha Realty Ltd. Vs. Vithal M. Dahake (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/suraksha-realty-ltd-vs-vithal-m-dahake-rp-and-ors-nclat-new-delhi/)
 - **Published:** Wed, 20 May 2026 19:30:00 +0000
