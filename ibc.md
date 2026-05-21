@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-21 04:53:51*
+*Last synced: 2026-05-21 10:09:40*
+
+### [IBBI (Pre-Packaged Insolvency Resolution Process) (Second Amendment) Regulations, 2026](https://ibclaw.in/ibbi-pre-packaged-insolvency-resolution-process-second-amendment-regulations-2026/)
+- **Published:** Thu, 21 May 2026 05:44:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Liquidation Process) (Third Amendment) Regulations, 2026](https://ibclaw.in/ibbi-liquidation-process-third-amendment-regulations-2026/)
+- **Published:** Thu, 21 May 2026 05:45:51 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Insolvency Resolution Process for Corporate Persons) (Second Amendment) Regulations, 2026.](https://ibclaw.in/ibbi-insolvency-resolution-process-for-corporate-persons-second-amendment-regulations-2026/)
+- **Published:** Thu, 21 May 2026 05:47:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [For application under Section 94 of IBC, the limitation has start running against the personal guarantor for taking proceeding under 94 from the cause of action which arose – Yogesh Kumar Thakkar Vs. Indian Overseas Bank and Ors. – NCLAT New Delhi](https://ibclaw.in/yogesh-kumar-thakkar-vs-indian-overseas-bank-and-ors-nclat-new-delhi/)
 - **Published:** Wed, 20 May 2026 20:43:00 +0000
