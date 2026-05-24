@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-21 10:09:40*
+*Last synced: 2026-05-24 19:46:44*
+
+### [Issues relating to title and adjudication of proprietary rights fall within the jurisdiction of the competent civil court/ High Court and do not preclude admission under Section 100 of the IBC – Canara Bank Vs. Keishing James Lalrongbawl – NCLT Guwahati Bench](https://ibclaw.in/canara-bank-vs-keishing-james-lalrongbawl-nclt-guwahati-bench/)
+- **Published:** Sun, 24 May 2026 19:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Professional is duty-bound to admit only those claims which are duly substantiated and reflected in the records of the Corporate Debtor | Under Regulation 12(1) and Regulation 8A(2) of the CIRP Regulations, 2016, the burden lies squarely upon the claimant to establish the existence of debt through reliable documentary evidence, including receipts and proof of payment to the Corporate Debtor – Seema Garg Vs. Rahul Jindal, RP of Samar Estates Pvt. Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/seema-garg-vs-rahul-jindal-rp-of-samar-estates-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Sun, 24 May 2026 19:42:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBBI (Pre-Packaged Insolvency Resolution Process) (Second Amendment) Regulations, 2026](https://ibclaw.in/ibbi-pre-packaged-insolvency-resolution-process-second-amendment-regulations-2026/)
 - **Published:** Thu, 21 May 2026 05:44:07 +0000
