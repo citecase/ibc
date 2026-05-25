@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-24 19:46:44*
+*Last synced: 2026-05-25 05:06:07*
+
+### [The legal character of a transaction is determined at the time of its inception and cannot be shifted at the whims of the parties to suit the jurisdiction of the Adjudicating Authority (NCLT) under IBC – Supreme Plascare India Pvt. Ltd. Vs. Shiroo Polymers Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/supreme-plascare-india-pvt-ltd-vs-shiroo-polymers-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Sun, 24 May 2026 22:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jurisdiction of the Adjudicating Authority (NCLT) under IBC is not ousted merely because an alternative remedy exists under another statute | Statutory dues and recovery proceedings cannot override the objective of resolution under the IBC | IRP cannot effectively carry out his duties without access to the books of account and documents – Anil Arora, RP of SRS Entertainment India Ltd. Vs. Commissioner, Municipal Corporation Faridabad – NCLT Chandigarh Bench](https://ibclaw.in/anil-arora-rp-of-srs-entertainment-india-ltd-vs-commissioner-municipal-corporation-faridabad-nclt-chandigarh-bench/)
+- **Published:** Sun, 24 May 2026 22:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a dissenting secured financial creditor holding sole and exclusive charge over a specific asset of the corporate debtor was entitled to minimum liquidation value referable to that security, or could be paid on the basis of voting share/admitted claim under an approved resolution plan – Indusind Bank Ltd. Vs. Pradeep Kabra, RP of Precision Realty Developers Pvt. Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/indusind-bank-ltd-vs-pradeep-kabra-rp-of-precision-realty-developers-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 24 May 2026 22:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Moratorium under Section 14 of the IBC restricts recovery of possession by the lessor, the decision as to whether the Corporate Debtor should continue to retain or relinquish possession of a leased premises squarely falls within the domain of the commercial wisdom of the Committee of Creditor (CoC) – G. Vinayan Vs. C. S. Narendar Reddy Banala, IRP of Davani Silks Pvt. Ltd. – NCLT Kochi Bench](https://ibclaw.in/g-vinayan-vs-c-s-narendar-reddy-banala-irp-of-davani-silks-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Sun, 24 May 2026 22:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Until the extinguishment and reissuance of fresh shares, the management of the Company would continue to vest in the Liquidator | Even if the Sale Certificate is assumed to be validly issued, the transfer of ownership of the Company to the Successful Auction Bidder would attain finality only upon extinguishment of existing shares and issuance of fresh shares – Rakesh Dugar, RP of Chaitanya Alloys Pvt. Ltd. Vs. Uttam Tekriwal, Liquidator of Gouri Iron and Steel Pvt. Ltd. and Anr. – NCLT Kolkata Bench](https://ibclaw.in/rakesh-dugar-rp-of-chaitanya-alloys-pvt-ltd-vs-uttam-tekriwal-liquidator-of-gouri-iron-and-steel-pvt-ltd-and-anr-nclt-kolkata-bench/)
+- **Published:** Mon, 25 May 2026 00:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 18th May, 2026 to 24th May, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-18th-may-2026-to-24th-may-2026/)
+- **Published:** Mon, 25 May 2026 05:01:55 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Issues relating to title and adjudication of proprietary rights fall within the jurisdiction of the competent civil court/ High Court and do not preclude admission under Section 100 of the IBC – Canara Bank Vs. Keishing James Lalrongbawl – NCLT Guwahati Bench](https://ibclaw.in/canara-bank-vs-keishing-james-lalrongbawl-nclt-guwahati-bench/)
 - **Published:** Sun, 24 May 2026 19:03:00 +0000
