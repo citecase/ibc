@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-25 05:06:07*
+*Last synced: 2026-05-25 10:56:24*
+
+### [e-Journal – Insolvency Bulletin – April, 2026](https://ibclaw.in/e-journal-insolvency-bulletin-april-2026/)
+- **Published:** Mon, 25 May 2026 05:12:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [e-Journal – Debt Recovery Bulletin – April, 2026](https://ibclaw.in/e-journal-debt-recovery-bulletin-april-2026/)
+- **Published:** Mon, 25 May 2026 05:21:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [e-Journal – RERA Bulletin – April, 2026](https://ibclaw.in/e-journal-rera-bulletin-april-2026/)
+- **Published:** Mon, 25 May 2026 05:43:38 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The legal character of a transaction is determined at the time of its inception and cannot be shifted at the whims of the parties to suit the jurisdiction of the Adjudicating Authority (NCLT) under IBC – Supreme Plascare India Pvt. Ltd. Vs. Shiroo Polymers Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/supreme-plascare-india-pvt-ltd-vs-shiroo-polymers-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Sun, 24 May 2026 22:16:00 +0000
