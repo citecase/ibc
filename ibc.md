@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-25 10:56:24*
+*Last synced: 2026-05-25 20:09:54*
+
+### [The proceedings pending adjudication before this Tribunal cannot be kept in abeyance merely on account that some application is pending before the Registrar of Companies – Bhagyodayam Company Vs. Neron Savio – NCLT Kochi Bench](https://ibclaw.in/bhagyodayam-company-vs-neron-savio-nclt-kochi-bench/)
+- **Published:** Mon, 25 May 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Deadlock between equal shareholders and withholding of company records causing statutory non-compliance amounts to mismanagement under Sections 241-242 of the Companies Act – Нarsh Dubal and Anr. Vs. White River Corporation Pvt. Ltd. and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/%d0%bdarsh-dubal-and-anr-vs-white-river-corporation-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 25 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A petition under Sections 241-242 of the Companies Act, 2013 is not liable to be referred to arbitration where the acts complained of go beyond termination under contractual documents and constitute independent statutory violations affecting directorship, board composition, shareholding dilution, corporate governance and fiduciary duties, involving rights in rem exclusively triable by NCLT – Usar Commerce Technologies Pvt. Ltd. Vs. Utsav Soi and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/usar-commerce-technologies-pvt-ltd-vs-utsav-soi-and-ors-nclt-chandigarh-bench/)
+- **Published:** Mon, 25 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether land recorded as agricultural is exempt under Section 31(i) of SARFAESI when no actual agricultural activity is proved and the bank has complied with Rule 8 in issuing possession notice? – G. Babhu Vs. Authorised Officer, Indian Bank – DRT Chennai](https://ibclaw.in/g-babhu-vs-authorised-officer-indian-bank-drt-chennai/)
+- **Published:** Mon, 25 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Section 7 proceedings against a corporate guarantor must be transferred to the NCLT Bench where CIRP of the principal borrower is pending under Sections 60(2) and 60(3) of the IBC – Patel Engineering Ltd. Vs. State Bank of India – NCLT Principal Bench](https://ibclaw.in/patel-engineering-ltd-vs-state-bank-of-india-nclt-principal-bench/)
+- **Published:** Mon, 25 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Sections 241-242 petition founded on alleged breach of a Term Sheet with an arbitration clause is a dressed-up petition and liable to be referred to arbitration under Section 8 of the Arbitration Act – Anand L. Rai – NCLT Mumbai Bench](https://ibclaw.in/anand-l-rai-nclt-mumbai-bench/)
+- **Published:** Mon, 25 May 2026 19:51:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [e-Journal – Insolvency Bulletin – April, 2026](https://ibclaw.in/e-journal-insolvency-bulletin-april-2026/)
 - **Published:** Mon, 25 May 2026 05:12:48 +0000
