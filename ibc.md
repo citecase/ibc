@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-26 04:45:15*
+*Last synced: 2026-05-26 10:33:45*
+
+### [Provisional Attachment under the PMLA and the IBC Moratorium: Navigating Parallel Legal Regimes – By Kashish Ahuja](https://ibclaw.in/provisional-attachment-under-the-pmla-and-the-ibc-moratorium-navigating-parallel-legal-regimes-by-kashish-ahuja/)
+- **Published:** Tue, 26 May 2026 04:57:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Asymmetrical Gatekeeping in Insolvency Proceedings: Re-Examining Creditor Participation – By Saloni Rani & Ishana Saraf](https://ibclaw.in/asymmetrical-gatekeeping-in-insolvency-proceedings-re-examining-creditor-participation-by-saloni-rani-ishana-saraf/)
+- **Published:** Tue, 26 May 2026 05:03:13 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether a claim filed after inordinate delay and after approval of the Resolution Plan by the Committee of Creditors can be directed to be admitted? – State of Punjab Through Assistant Commissioner, State Tax Vs. Jalesh Kumar Grover, RP for Nexgen Laminators Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/state-of-punjab-through-assistant-commissioner-state-tax-vs-jalesh-kumar-grover-rp-for-nexgen-laminators-pvt-ltd-nclt-chandigarh-bench/)
 - **Published:** Mon, 25 May 2026 22:17:00 +0000
