@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-25 20:09:54*
+*Last synced: 2026-05-26 04:45:15*
+
+### [Whether a claim filed after inordinate delay and after approval of the Resolution Plan by the Committee of Creditors can be directed to be admitted? – State of Punjab Through Assistant Commissioner, State Tax Vs. Jalesh Kumar Grover, RP for Nexgen Laminators Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/state-of-punjab-through-assistant-commissioner-state-tax-vs-jalesh-kumar-grover-rp-for-nexgen-laminators-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 25 May 2026 22:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CIRP Regulation 35A, though prescribing timelines for the Resolution Professional to form an opinion and take necessary steps in respect of avoidance transactions, is procedural in nature and cannot be construed as mandatory so as to render an application non-maintainable solely on account of delay – Piyush Kisanlal Jani, RP of Pelican Biotech and Chemicals Labs Pvt. Ltd. Vs. Chuzattil Naryanana Manoj and Anr. – NCLT Kochi Bench](https://ibclaw.in/piyush-kisanlal-jani-rp-of-pelican-biotech-and-chemicals-labs-pvt-ltd-vs-chuzattil-naryanana-manoj-and-anr-nclt-kochi-bench/)
+- **Published:** Mon, 25 May 2026 22:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amendment to Section 3(31), definition of security interest, introduced by the IBC Amendment Act, 2026, is clarificatory in nature and will have retrospective application | A charge created by operation of law under Section 42 TNVAT did not amount to security interest under Section 3(31) of IBC | Where property of the corporate debtor is sold in liquidation, a statutory charge under Section 42 of the TNVAT Act does not by itself make the tax department a secured creditor under Sections 3(30) and 3(31) of IBC, and when its belated claim stood rejected, the attachment must be lifted – Avenue Realty Vs. Assistant Commissioner, Srirangam (GST Circle) and Ors. – Madras High Court](https://ibclaw.in/avenue-realty-vs-assistant-commissioner-srirangam-gst-circle-and-ors-madras-high-court/)
+- **Published:** Mon, 25 May 2026 23:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The proceedings pending adjudication before this Tribunal cannot be kept in abeyance merely on account that some application is pending before the Registrar of Companies – Bhagyodayam Company Vs. Neron Savio – NCLT Kochi Bench](https://ibclaw.in/bhagyodayam-company-vs-neron-savio-nclt-kochi-bench/)
 - **Published:** Mon, 25 May 2026 19:30:00 +0000
