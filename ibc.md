@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-26 16:26:06*
+*Last synced: 2026-05-26 20:30:04*
+
+### [NCLT sanctioned LLP amalgamation under Sections 60 and 62 of the LLP Act subject to compliance with MSME dues, tax liabilities, accounting treatment, and statutory fee requirements – Agrawal Family Food India LLP and Anr. – NCLT Indore Bench](https://ibclaw.in/agrawal-family-food-india-llp-and-anr-nclt-indore-bench/)
+- **Published:** Tue, 26 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT may restrain sale of company’s immovable property and further dilution of shareholding in a Sections 241-242 petition where prima facie illegal reduction of majority shareholding is shown – Sunil Mandwani Vs. Santosh Devcon Pvt. Ltd. and Ors. – NCLT Indore Bench](https://ibclaw.in/sunil-mandwani-vs-santosh-devcon-pvt-ltd-and-ors-nclt-indore-bench/)
+- **Published:** Tue, 26 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Delay in filing SA under Section 17 of SARFAESI Act is not condonable; application filed beyond 45 days against possession notice must fail – V.K. Gheetha and Anr. Vs. JM Financial Asset Reconstruction Company Ltd. – DRT Chennai](https://ibclaw.in/v-k-gheetha-and-anr-vs-jm-financial-asset-reconstruction-company-ltd-drt-chennai/)
+- **Published:** Tue, 26 May 2026 19:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Non-service of demand notice and material misdescription of secured asset vitiate SARFAESI possession and sale proceedings | Sale certificate cancelled and status quo ante restored – Vishwanath Thulasiram Vs. Authorised Officer, Indostar Capital Finance Ltd. and Anr. – DRT Bengaluru](https://ibclaw.in/vishwanath-thulasiram-vs-authorised-officer-indostar-capital-finance-ltd-and-anr-drt-bengaluru/)
+- **Published:** Tue, 26 May 2026 19:47:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vinergy International Pvt. Ltd v. Bharat Petroleum Corporation Ltd. - IBC - Clean Slate Principle](https://www.caseciter.com/vinergy-international-pvt-ltd-v-bharat-petroleum-corporation-ltd-0-ib/)
 - **Published:** Tue, 26 May 2026 15:19:54 GMT
