@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-26 10:33:45*
+*Last synced: 2026-05-26 16:26:06*
+
+### [Vinergy International Pvt. Ltd v. Bharat Petroleum Corporation Ltd. - IBC - Clean Slate Principle](https://www.caseciter.com/vinergy-international-pvt-ltd-v-bharat-petroleum-corporation-ltd-0-ib/)
+- **Published:** Tue, 26 May 2026 15:19:54 GMT
+- **Source:** https://caseciter.com/rss
 
 ### [Provisional Attachment under the PMLA and the IBC Moratorium: Navigating Parallel Legal Regimes – By Kashish Ahuja](https://ibclaw.in/provisional-attachment-under-the-pmla-and-the-ibc-moratorium-navigating-parallel-legal-regimes-by-kashish-ahuja/)
 - **Published:** Tue, 26 May 2026 04:57:07 +0000
