@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-27 04:56:12*
+*Last synced: 2026-05-27 10:38:38*
+
+### [Welcome to argue here, not before NCLAT: Supreme Court to retired technical member](https://www.barandbench.com/news/litigation/welcome-to-argue-here-not-before-nclat-supreme-court-to-retired-technical-member)
+- **Published:** Wed, 27 May 2026 14:48:09 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Consent Terms under the IBC: Revival Rights and Arbitration as an Enforcement Mechanism – By Motaqueef Alam Khan & Swayam Sambhab Mohanty](https://ibclaw.in/consent-terms-under-the-ibc-revival-rights-and-arbitration-as-an-enforcement-mechanism-by-motaqueef-alam-khan-swayam-sambhab-mohanty/)
+- **Published:** Wed, 27 May 2026 05:02:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dissenting Financial Creditors in IBC Amendment Bill 2025 – By Bhoomijaa C S](https://ibclaw.in/dissenting-financial-creditors-in-ibc-amendment-bill-2025-by-bhoomijaa-c-s/)
+- **Published:** Wed, 27 May 2026 05:04:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Under Section 11(6) of the Arbitration and Conciliation Act, 1996, court must confine itself to prima facie existence of arbitration agreement, leaving objections on limitation, maintainability, claim under IBC, and competence to arbitral tribunal – Hindustan Dorr-Oliver Ltd. Vs. Uranium Corporation of India Ltd. – Jharkhand High Court](https://ibclaw.in/hindustan-dorr-oliver-ltd-vs-uranium-corporation-of-india-ltd-jharkhand-high-court/)
 - **Published:** Tue, 26 May 2026 21:41:00 +0000
