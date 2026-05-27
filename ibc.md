@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-27 10:38:38*
+*Last synced: 2026-05-27 16:23:43*
+
+### [Dineshchand Surana v. UCO Bank 2026 INSC 579 - S.138 NI Act - IBC - Moratorium Provisions Applicability](https://www.caseciter.com/2026insc579/)
+- **Published:** Wed, 27 May 2026 13:48:51 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Supreme Court Clarifies CoC’s Commercial Wisdom Is Paramount; SRA Cannot Renegotiate or Withdraw After Plan Approval Under IBC](https://ibclaw.in/supreme-court-clarifies-cocs-commercial-wisdom-is-paramount-sra-cannot-renegotiate-or-withdraw-after-plan-approval-under-ibc/)
+- **Published:** Wed, 27 May 2026 14:34:12 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Welcome to argue here, not before NCLAT: Supreme Court to retired technical member](https://www.barandbench.com/news/litigation/welcome-to-argue-here-not-before-nclat-supreme-court-to-retired-technical-member)
 - **Published:** Wed, 27 May 2026 14:48:09 +0530
