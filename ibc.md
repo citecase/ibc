@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-27 16:23:43*
+*Last synced: 2026-05-27 20:33:24*
+
+### [Whether possession notice under Section 13(4) can be sustained when the bank fails to prove service, affixture and newspaper publication under Rule 8, and the secured assets in Item Nos.1 to 5 are shown to be agricultural lands exempt under Section 31(i) – SBM Starch and Ors. Vs. Authorized Officer, Indian Bank – DRT Madurai](https://ibclaw.in/sbm-starch-and-ors-vs-authorized-officer-indian-bank-drt-madurai/)
+- **Published:** Wed, 27 May 2026 20:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the borrower obtained hotel project finance by mortgaging land for commercial use, the secured asset cannot be treated as agricultural land under Section 31(i) of SARFAESI, and non-service of Rule 8(1) notice on a deceased guarantor’s legal heirs does not vitiate possession taken through the District Magistrate under Section 14 – Hotel Himalaya Snow and Anr. Vs. Kangra Central Co-operative Bank Ltd. and Anr. – DRT Chandigarh](https://ibclaw.in/hotel-himalaya-snow-and-anr-vs-kangra-central-co-operative-bank-ltd-and-anr-drt-chandigarh/)
+- **Published:** Wed, 27 May 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether SARFAESI proceedings can survive when service of Section 13(2) demand notice is not proved and the Section 14 application is unsupported by a proper affidavit? – Ramesh Dyanoba Wadekar and Anr. Vs. Regional Manager, Canara Bank and Ors. – DRT Aurangabad](https://ibclaw.in/ramesh-dyanoba-wadekar-and-anr-vs-regional-manager-canara-bank-and-ors-drt-aurangabad/)
+- **Published:** Wed, 27 May 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a borrower can assail SARFAESI proceedings and claim redemption after a subsequent auction sale without specifically challenging the later sale notice, especially after accepting but failing to honour OTS – Nandkumar Madhukarrao Bakshi Vs. State Bank of India and Ors. – DRT Aurangabad](https://ibclaw.in/nandkumar-madhukarrao-bakshi-vs-state-bank-of-india-and-ors-drt-aurangabad/)
+- **Published:** Wed, 27 May 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SARFAESI possession notice cannot be set aside on bare allegations when the bank proves demand/possession notice publication and the borrower shows no evidence of irregularity – V. Balaji Vs. Authorized Officer, Karur Vysya Bank – DRT Madurai](https://ibclaw.in/v-balaji-vs-authorized-officer-karur-vysya-bank-drt-madurai/)
+- **Published:** Wed, 27 May 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether SARFAESI sale and consequent Section 14 possession can be sustained when the bank issues defective Section 13(2) and 13(4) notices with inconsistent property description, fails to prove compliance with Rules 8(1), 8(2-A), 8(6) and 8(7), and does not establish proper valuation? – Banashree Mohapatra Vs. Authorized Officer, State Bank of India – DRT Cuttack](https://ibclaw.in/banashree-mohapatra-vs-authorized-officer-state-bank-of-india-drt-cuttack/)
+- **Published:** Wed, 27 May 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tribunal (DRT) jurisdiction is confined to find out validity and legality in the securitization proceeding and it cannot adjudicate the exact amount due to the secured creditor – Pramod Kumar Pandey Vs. Union Bank of India and Anr. – DRT Ernakulam](https://ibclaw.in/pramod-kumar-pandey-vs-union-bank-of-india-and-anr-drt-ernakulam/)
+- **Published:** Wed, 27 May 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An application under Section 7 of the IBC filed on the basis of a Board Resolution is maintainable | Proceeding under Section 65 of IBC being penal is nature they required strict pleading and prove for coming to the conclusion that Section 7 application has been fraudulently initiated with malicious intent – J & K Integrated Textiles Park Ltd. Vs. Silklon Processors Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/j-k-integrated-textiles-park-ltd-vs-silklon-processors-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 27 May 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dineshchand Surana v. UCO Bank 2026 INSC 579 - S.138 NI Act - IBC - Moratorium Provisions Applicability](https://www.caseciter.com/2026insc579/)
 - **Published:** Wed, 27 May 2026 13:48:51 GMT
