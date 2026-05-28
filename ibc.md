@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-27 20:33:24*
+*Last synced: 2026-05-28 04:50:35*
+
+### [Whether the time spent in pursuing proceedings under Section 9 of the IBC before the NCLT/NCLAT can be excluded under Section 14 of the Limitation Act, 1963 while examining limitation in a petition under Section 34 of the Arbitration and Conciliation Act, 1996? – Sahaj Bharti Travels Vs. HCL Technologies Ltd. – Delhi High Court](https://ibclaw.in/sahaj-bharti-travels-vs-hcl-technologies-ltd-delhi-high-court/)
+- **Published:** Wed, 27 May 2026 22:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Transferred winding-up proceedings treated as CIRP applications must satisfy the Section 4 IBC threshold – Aidem Ventures Pvt. Ltd. Vs. Skyline Radio Network Ltd. – NCLAT New Delhi](https://ibclaw.in/aidem-ventures-pvt-ltd-vs-skyline-radio-network-ltd-nclat-new-delhi/)
+- **Published:** Wed, 27 May 2026 22:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the Adjudicating Authority could revisit matters already concluded in earlier rounds of litigation, including return of the plan to the CoC and fresh consideration of higher offers? | Whether the promoters’ or suspended management’s settlement proposals under Section 12A of IBC could be entertained after CoC approval of the resolution plan? – Express Resorts and Hotels Ltd. Vs. Amit Jain and Ors. – NCLAT New Delhi](https://ibclaw.in/express-resorts-and-hotels-ltd-vs-amit-jain-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 27 May 2026 22:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the withdrawal application was moved through the IRP in accordance with CIRP Regulation 30A(1)(a) and 30A(3), and no objection had been filed before the Adjudicating Authority by any person including the appellant, the Adjudicating Authority committed no error in allowing withdrawal under Section 12A of IBC – Chandra Prakash Lohia @ Nitesh Lohia Vs. West Bengal Agro Textile Corporation Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/chandra-prakash-lohia-nitesh-lohia-vs-west-bengal-agro-textile-corporation-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 27 May 2026 22:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Every procedural irregularity cannot automatically invalidate the CIRP, unless material prejudice affecting the resolution process is demonstrated | Mere disagreement with the commercial decisions taken during CIRP cannot by itself lead to an inference of fraud or collusion | Once a Resolution Plan has been approved and implemented, judicial interference must remain extremely limited – Dharampal Premchand Ltd. Vs. Jitendra Bhandari and Ors. – NCLAT New Delhi](https://ibclaw.in/dharampal-premchand-ltd-vs-jitendra-bhandari-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 27 May 2026 23:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mere disobedience is not enough to hold a person guilty of civil contempt unless it is accompanied with an element of deliberate and wilful intent to defy the orders of the court – State Bank of India and Ors. Vs. Jyoti Structures Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/state-bank-of-india-and-ors-vs-jyoti-structures-ltd-and-ors-nclat-new-delhi-2/)
+- **Published:** Thu, 28 May 2026 00:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once the CoC, in exercise of its commercial wisdom, approved the Resolution Plan after considering the financial provisions and claims placed before it, the same cannot ordinarily be unsettled at a later stage except within the limited framework permissible under the IBC – Sumeet Industries Ltd. Vs. Dakshin Gujarat Vij Company Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/sumeet-industries-ltd-vs-dakshin-gujarat-vij-company-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 28 May 2026 01:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether possession notice under Section 13(4) can be sustained when the bank fails to prove service, affixture and newspaper publication under Rule 8, and the secured assets in Item Nos.1 to 5 are shown to be agricultural lands exempt under Section 31(i) – SBM Starch and Ors. Vs. Authorized Officer, Indian Bank – DRT Madurai](https://ibclaw.in/sbm-starch-and-ors-vs-authorized-officer-indian-bank-drt-madurai/)
 - **Published:** Wed, 27 May 2026 20:17:00 +0000
