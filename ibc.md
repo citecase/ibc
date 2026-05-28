@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-28 04:50:35*
+*Last synced: 2026-05-28 10:38:13*
+
+### [The fate of uninvoked Bank Guarantees during Corporate Insolvency Resolution Process: Approach for submission of claim by Creditors – By Aishwarya Chevuturi](https://ibclaw.in/the-fate-of-uninvoked-bank-guarantees-during-corporate-insolvency-resolution-process-approach-for-submission-of-claim-by-creditors-by-aishwarya-chevuturi/)
+- **Published:** Thu, 28 May 2026 05:24:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Moratorium under the IBC and Proceedings under Section 138 of the NI Act – Dineshchand Surana Vs. UCO Bank – Supreme Court](https://ibclaw.in/dineshchand-surana-vs-uco-bank-supreme-court/)
+- **Published:** Thu, 28 May 2026 06:24:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court refers to larger Bench the issue whether moratorium under Part III of IBC applies to Section 138 NI Act proceedings; says authoritative pronouncement is required on criminal and compensatory facets](https://ibclaw.in/supreme-court-refers-to-larger-bench-the-issue-whether-moratorium-under-part-iii-of-ibc-applies-to-section-138-ni-act-proceedings-says-authoritative-pronouncement-is-required-on-criminal-and-compensa/)
+- **Published:** Thu, 28 May 2026 07:42:13 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [MCA notifies 26.05.2026 as the commencement date for specified provisions of the Insolvency and Bankruptcy Code (Amendment) Act, 2026](https://ibclaw.in/appointing-26-may-2026-as-the-date-for-certain-provisions-of-ibc-amendment-act-2026/)
+- **Published:** Thu, 28 May 2026 07:50:57 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether the time spent in pursuing proceedings under Section 9 of the IBC before the NCLT/NCLAT can be excluded under Section 14 of the Limitation Act, 1963 while examining limitation in a petition under Section 34 of the Arbitration and Conciliation Act, 1996? – Sahaj Bharti Travels Vs. HCL Technologies Ltd. – Delhi High Court](https://ibclaw.in/sahaj-bharti-travels-vs-hcl-technologies-ltd-delhi-high-court/)
 - **Published:** Wed, 27 May 2026 22:14:00 +0000
