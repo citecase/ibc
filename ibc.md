@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-29 04:53:31*
+*Last synced: 2026-05-29 10:30:22*
+
+### [The 14-Day Mandate: Judicial Discretion and Mandatory Admission under the IBC (Amendment) Act, 2026  – By Saumya Kumar Singh](https://ibclaw.in/the-14-day-mandate-judicial-discretion-and-mandatory-admission-under-the-ibc-amendment-act-2026-by-adv-saumya-kumar-singh/)
+- **Published:** Fri, 29 May 2026 05:05:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Event: The NCLT & AT Bar Association is organising the commemorative event on 01 June 2026](https://ibclaw.in/ibc-event-the-nclt-at-bar-association-is-organising-the-commemorative-event-on-01-june-2026/)
+- **Published:** Fri, 29 May 2026 10:16:09 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where a secured creditor elects under Section 52 of IBC to realise its security interest, delay caused by the Liquidator’s failure to hand over possession, pendency of challenge to the assignment and related litigation cannot trigger reversion of the secured asset to the liquidation estate under Regulation 21A(3) – ARSEC (India) Ltd. Vs. Bhaskar Gopal Shetty (Liquidator) and Ors. – NCLT Mumbai Bench](https://ibclaw.in/arsec-india-ltd-vs-bhaskar-gopal-shetty-liquidator-and-ors-nclt-mumbai-bench/)
 - **Published:** Thu, 28 May 2026 22:27:00 +0000
