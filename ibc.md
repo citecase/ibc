@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-29 10:30:22*
+*Last synced: 2026-05-29 16:23:16*
+
+### [IBC as a stratagem to evade liability under PMLA](https://www.barandbench.com/columns/stratagem-to-evade-liability-under-pmla-insolvency-and-bankruptcy-code-2016)
+- **Published:** Fri, 29 May 2026 18:00:04 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [The 14-Day Mandate: Judicial Discretion and Mandatory Admission under the IBC (Amendment) Act, 2026  – By Saumya Kumar Singh](https://ibclaw.in/the-14-day-mandate-judicial-discretion-and-mandatory-admission-under-the-ibc-amendment-act-2026-by-adv-saumya-kumar-singh/)
 - **Published:** Fri, 29 May 2026 05:05:53 +0000
