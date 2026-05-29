@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-29 16:23:16*
+*Last synced: 2026-05-29 20:58:19*
+
+### [A Section 230 scheme can be permitted in liquidation even without a Regulation 39BA recommendation and beyond 90 days under Regulation 2B if revival better serves stakeholders – AAA Insolvency Professionals LLP, Liquidator of Chinar Realty Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/aaa-insolvency-professionals-llp-liquidator-of-chinar-realty-pvt-ltd-nclt-indore-bench/)
+- **Published:** Fri, 29 May 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an unregistered assignment of loan by the original lender to an ARC is invalid for want of registration under Sections 17 and 28 of the Registration Act, and whether an SA challenging earlier SARFAESI notices survives after issuance of a subsequent demand notice? – Mohanlal Mukherjee Vs. Edelweiss Asset Construction Company Ltd. – DRT Kolkata](https://ibclaw.in/mohanlal-mukherjee-vs-edelweiss-asset-construction-company-ltd-drt-kolkata/)
+- **Published:** Fri, 29 May 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Termination of EPC contract during CIRP cannot be set aside where the contract is not central to the Corporate Debtor and termination was for prior breaches, not insolvency – Keshav Khaneja, RP of Gensol Engineering Ltd. Vs. HMEL Green Energy Pvt. Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/keshav-khaneja-rp-of-gensol-engineering-ltd-vs-hmel-green-energy-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 29 May 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Can Successful Resolution Applicant be substituted to continue pending PUFE proceedings if the approved resolution plan so provides? – Peerless Hospitex Hospital and Research Center Ltd. Vs. Abhijit Hazarika and Ors. – NCLT Guwahati Bench](https://ibclaw.in/peerless-hospitex-hospital-and-research-center-ltd-vs-abhijit-hazarika-and-ors-nclt-guwahati-bench/)
+- **Published:** Fri, 29 May 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Operational creditor who ceased to be a CoC member cannot be directed to pay CIRP cost approved by financial creditors, but as majority stakeholder in the SCC may be directed to contribute proportionate liquidation cost after available bank balance is first utilised – Devendra Jain, Liquidator of Raghuvanshi Industries Pvt. Ltd. Vs. State Tax Department/Officer and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/devendra-jain-liquidator-of-raghuvanshi-industries-pvt-ltd-vs-state-tax-department-officer-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Fri, 29 May 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Proceedings under the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952, are quasi-judicial in nature, quasi-judicial in nature and not mere assessment proceedings, once the moratorium under Section 14 and Section 33(5) of the Insolvency and Bankruptcy Code, 2016, is initiated, it would affect and apply to such proceedings conducted during the moratorium period – Naveen Kumar Jain, RP of Stellence Pharmscience Pvt. Ltd. Vs. Regional PF Commissioner, Employee Provident Fund Organization – NCLT Bengaluru Bench](https://ibclaw.in/naveen-kumar-jain-rp-of-stellence-pharmscience-pvt-ltd-vs-regional-pf-commissioner-employee-provident-fund-organization-nclt-bengaluru-bench/)
+- **Published:** Fri, 29 May 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC as a stratagem to evade liability under PMLA](https://www.barandbench.com/columns/stratagem-to-evade-liability-under-pmla-insolvency-and-bankruptcy-code-2016)
 - **Published:** Fri, 29 May 2026 18:00:04 +0530
