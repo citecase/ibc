@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-28 10:38:13*
+*Last synced: 2026-05-29 04:53:31*
+
+### [Where a secured creditor elects under Section 52 of IBC to realise its security interest, delay caused by the Liquidator’s failure to hand over possession, pendency of challenge to the assignment and related litigation cannot trigger reversion of the secured asset to the liquidation estate under Regulation 21A(3) – ARSEC (India) Ltd. Vs. Bhaskar Gopal Shetty (Liquidator) and Ors. – NCLT Mumbai Bench](https://ibclaw.in/arsec-india-ltd-vs-bhaskar-gopal-shetty-liquidator-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 28 May 2026 22:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the claims of the workers and employees, though pertaining to a period beyond the statutory window of twenty-four months and twelve months preceding the liquidation commencement date, but crystallized by way of Recovery Certificate (RRC) orders and subjected to continuous judicial scrutiny, can be accorded priority under Section 53(1)(b)(i) and Section 53(1)(c) of the Insolvency and Bankruptcy Code, 2016? – Engineer and Electrical Goods Majdoor Sangh Vs. Naveen Khandelwal (Liquidator) and Ors. – NCLT Indore Bench](https://ibclaw.in/engineer-and-electrical-goods-majdoor-sangh-vs-naveen-khandelwal-liquidator-and-ors-nclt-indore-bench/)
+- **Published:** Thu, 28 May 2026 22:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether contribution payable by a secured creditor which has realised its security interest outside liquidation under Section 52 of the IBC, towards CIRP cost and liquidation cost is to be computed in proportion to the value of the assets realised by it or in proportion to its admitted debt/claim? – HDFC Bank Ltd. Vs. Raj Kumar Ralham, Liquidator of Su-Kam Power Systems Ltd. – NCLT New Delhi Bench](https://ibclaw.in/hdfc-bank-ltd-vs-raj-kumar-ralham-liquidator-of-su-kam-power-systems-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 28 May 2026 23:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A deed of hypothecation containing an undertaking by the hypothecator to cause repayment of the borrower’s dues and making the obligors jointly and severally liable constitutes a contract of guarantee, and Section 7 CIRP against such corporate obligor is maintainable before the same NCLT where CIRP of the principal borrower is pending – J.C. Flowers Asset Reconstruction Pvt. Ltd. Vs. Imagine Habitat Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/j-c-flowers-asset-reconstruction-pvt-ltd-vs-imagine-habitat-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 28 May 2026 23:19:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The fate of uninvoked Bank Guarantees during Corporate Insolvency Resolution Process: Approach for submission of claim by Creditors – By Aishwarya Chevuturi](https://ibclaw.in/the-fate-of-uninvoked-bank-guarantees-during-corporate-insolvency-resolution-process-approach-for-submission-of-claim-by-creditors-by-aishwarya-chevuturi/)
 - **Published:** Thu, 28 May 2026 05:24:20 +0000
