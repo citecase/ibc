@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-29 20:58:19*
+*Last synced: 2026-05-30 04:34:43*
+
+### [Section 31(i) of SARFAESI Act exemption cannot be claimed without proof that the secured assets were agricultural lands on the date of mortgage – Anil Kumar C. and Ors. Vs. Federal Bank Ltd. – DRT Ernakulam](https://ibclaw.in/anil-kumar-c-and-ors-vs-federal-bank-ltd-drt-ernakulam/)
+- **Published:** Fri, 29 May 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Debt arising from invoice discounting or supply chain financing of suppliers’ trade receivables for purchase of goods is an operational debt and not a financial debt, and claim for secured status was rightly not granted – Kushal Finnovation Capital Pvt. Ltd. Vs. Rajesh Chillale, IRP of Kallam Brothers Cottons Pvt. Ltd. and Ors. – NCLT Amaravati Bench](https://ibclaw.in/kushal-finnovation-capital-pvt-ltd-vs-rajesh-chillale-irp-of-kallam-brothers-cottons-pvt-ltd-and-ors-nclt-amaravati-bench/)
+- **Published:** Fri, 29 May 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a Resolution Plan is approved by the CoC, it attains a binding and irrevocable character – Sumat Gupta (RP) Vs. Ajay Yadav and Anr. – NCLT Chandigarh Bench](https://ibclaw.in/sumat-gupta-rp-vs-ajay-yadav-and-anr-nclt-chandigarh-bench/)
+- **Published:** Fri, 29 May 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A Section 230 scheme can be permitted in liquidation even without a Regulation 39BA recommendation and beyond 90 days under Regulation 2B if revival better serves stakeholders – AAA Insolvency Professionals LLP, Liquidator of Chinar Realty Pvt. Ltd. – NCLT Indore Bench](https://ibclaw.in/aaa-insolvency-professionals-llp-liquidator-of-chinar-realty-pvt-ltd-nclt-indore-bench/)
 - **Published:** Fri, 29 May 2026 20:29:00 +0000
