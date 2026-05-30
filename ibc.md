@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-30 04:34:43*
+*Last synced: 2026-05-30 08:59:57*
+
+### [NCLT & NCLAT Bar Association to celebrate 10 years of corporate law tribunals](https://www.barandbench.com/news/law-policy/nclt-nclat-bar-association-to-celebrate-10-years-of-corporate-law-tribunals)
+- **Published:** Sat, 30 May 2026 13:26:23 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Section 31(i) of SARFAESI Act exemption cannot be claimed without proof that the secured assets were agricultural lands on the date of mortgage – Anil Kumar C. and Ors. Vs. Federal Bank Ltd. – DRT Ernakulam](https://ibclaw.in/anil-kumar-c-and-ors-vs-federal-bank-ltd-drt-ernakulam/)
 - **Published:** Fri, 29 May 2026 21:24:00 +0000
