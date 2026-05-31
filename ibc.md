@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-30 08:59:57*
+*Last synced: 2026-05-31 19:49:16*
+
+### [Where borrowers, after SARFAESI measures, entered into consent terms/settlement and failed to comply, they waive and are estopped from later challenging Section 13(2) notice and auction sale, and a confirmed sale cannot be set aside absent material irregularity or illegality – Konshila Infrastracture Pvt. Ltd. Vs. Pegasus Assets Reconstruction Pvt. Ltd. – DRT Mumbai](https://ibclaw.in/konshila-infrastracture-pvt-ltd-vs-pegasus-assets-reconstruction-pvt-ltd-drt-mumbai/)
+- **Published:** Sun, 31 May 2026 19:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rule 8(6) notice without a notified sale date is not an actionable SARFAESI measure under Section 17, and third-party title disputes must be tried by the civil court – B.S.S. Selvakumar and Ors. Vs. Omkara Asset Reconstruction Pvt. Ltd. – DRT Chennai](https://ibclaw.in/b-s-s-selvakumar-and-ors-vs-omkara-asset-reconstruction-pvt-ltd-drt-chennai/)
+- **Published:** Sun, 31 May 2026 19:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SARFAESI Section 14 order is liable to be set aside if the secured creditor fails to disclose and account for subsequent remittances and does not state the correct outstanding as on the date of filing the application – Veena. N. Vs. Karnataka Bank Ltd. – DRT Bengaluru](https://ibclaw.in/veena-n-vs-karnataka-bank-ltd-drt-bengaluru/)
+- **Published:** Sun, 31 May 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Section 9 petition is not maintainable where the original operational claim stands governed by a subsequent settlement/novation agreement and the pleaded date of default falls within the bar under Section 10A of the IBC – Suwarna Buildcon Pvt. Ltd. Vs. Sadbhav Engineering Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/suwarna-buildcon-pvt-ltd-vs-sadbhav-engineering-ltd-nclt-ahmedabad-bench-3/)
+- **Published:** Sun, 31 May 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An incomplete MoU requiring execution of a further detailed settlement agreement does not entitle the Corporate Debtor to seek dismissal of a pending Section 7 petition under Section 60(5) of IBC – JUD Cements Ltd. Vs. Satnam Global Infraprojects Ltd. – NCLT Guwahati Bench](https://ibclaw.in/jud-cements-ltd-vs-satnam-global-infraprojects-ltd-nclt-guwahati-bench/)
+- **Published:** Sun, 31 May 2026 19:47:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT & NCLAT Bar Association to celebrate 10 years of corporate law tribunals](https://www.barandbench.com/news/law-policy/nclt-nclat-bar-association-to-celebrate-10-years-of-corporate-law-tribunals)
 - **Published:** Sat, 30 May 2026 13:26:23 +0530
