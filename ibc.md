@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-01 05:26:04*
+*Last synced: 2026-06-01 12:17:01*
+
+### [Cosmic CRF Limited v. Myotic Trading Private Limited 2026 INSC 608 - S. 29A IBC](https://www.caseciter.com/2026insc608/)
+- **Published:** Mon, 01 Jun 2026 06:49:47 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 25th May, 2026 to 31st May, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-25th-may-2026-to-31st-may-2026/)
+- **Published:** Mon, 01 Jun 2026 05:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Transforming Insolvency Governance: Creditor Control and the Changing Role of Adjudication under the Insolvency and Bankruptcy Code (Amendment) Act, 2026 – By Adv. Jansi Satya Naga Lakshmi Pappala](https://ibclaw.in/transforming-insolvency-governance-creditor-control-and-the-changing-role-of-adjudication-under-the-insolvency-and-bankruptcy-code-amendment-act-2026-by-jansi-satya-naga-lakshmi-pappala/)
+- **Published:** Mon, 01 Jun 2026 06:12:16 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Any payment made by the corporate debtor after commencement of CIRP cannot be appropriated towards pre-CIRP electricity dues, which must be claimed in the insolvency process, and such payment can only be adjusted against electricity charges arising during CIRP – Deepak Kumar Garg, IRP for M.S.A. Steel & Alloys Pvt. Ltd. Vs. Pashimanchal Vidyut Vitran Nigam Ltd. – NCLT Allahabad Bench](https://ibclaw.in/deepak-kumar-garg-irp-for-m-s-a-steel-alloys-pvt-ltd-vs-pashimanchal-vidyut-vitran-nigam-ltd-nclt-allahabad-bench/)
 - **Published:** Sun, 31 May 2026 20:42:00 +0000
