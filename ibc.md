@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-05-31 19:49:16*
+*Last synced: 2026-06-01 05:26:04*
+
+### [Any payment made by the corporate debtor after commencement of CIRP cannot be appropriated towards pre-CIRP electricity dues, which must be claimed in the insolvency process, and such payment can only be adjusted against electricity charges arising during CIRP – Deepak Kumar Garg, IRP for M.S.A. Steel & Alloys Pvt. Ltd. Vs. Pashimanchal Vidyut Vitran Nigam Ltd. – NCLT Allahabad Bench](https://ibclaw.in/deepak-kumar-garg-irp-for-m-s-a-steel-alloys-pvt-ltd-vs-pashimanchal-vidyut-vitran-nigam-ltd-nclt-allahabad-bench/)
+- **Published:** Sun, 31 May 2026 20:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Liquidator cannot pay a related-party process advisor separate fees for functions falling within his own statutory role, and excess fee drawn from the liquidation estate beyond Regulation 4 of the Liquidation Regulations is refundable – IDBI Bank Ltd. Vs. Savan Godiawala and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/idbi-bank-ltd-vs-savan-godiawala-and-ors-nclt-hyderabad-bench/)
+- **Published:** Sun, 31 May 2026 20:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sale of Corporate Debtor’s goods during CIRP without approval of the RP/CoC and in violation of Section 14(1)(b) of IBC is illegal, and the party effecting such sale is liable to restore the sale value to the Corporate Debtor – Kedararam Laddha Vs. Deendayal Port Authority (D.P.A) and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/kedararam-laddha-vs-deendayal-port-authority-d-p-a-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Sun, 31 May 2026 21:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where appeals against approval of a resolution plan under Section 31 of IBC are pending, the second proviso to Rule 30(9) of the Companies (Incorporation) Rules, 2014 operates as a bar to shifting of the registered office, and the Regional Director cannot override such embargo by invoking Section 238 of IBC or absence of stay – Jeel Kandla Service and Anr. Vs. Union of India and Ors. – Calcutta High Court](https://ibclaw.in/jeel-kandla-service-and-anr-vs-union-of-india-and-ors-calcutta-high-court-2/)
+- **Published:** Sun, 31 May 2026 22:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT cannot compel CoC members to contribute CIRP costs when the CoC has, in its commercial wisdom, approved raising interim finance – Gonugunta Murali, RP of Sai Krishna Minerals Pvt. Ltd. Vs. Income Tax Department, CIT, Circle -1, Ballari and Ors. – NCLT Bengaluru Bench](https://ibclaw.in/gonugunta-murali-rp-of-sai-krishna-minerals-pvt-ltd-vs-income-tax-department-cit-circle-1-ballari-and-ors-nclt-bengaluru-bench/)
+- **Published:** Sun, 31 May 2026 23:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where borrowers, after SARFAESI measures, entered into consent terms/settlement and failed to comply, they waive and are estopped from later challenging Section 13(2) notice and auction sale, and a confirmed sale cannot be set aside absent material irregularity or illegality – Konshila Infrastracture Pvt. Ltd. Vs. Pegasus Assets Reconstruction Pvt. Ltd. – DRT Mumbai](https://ibclaw.in/konshila-infrastracture-pvt-ltd-vs-pegasus-assets-reconstruction-pvt-ltd-drt-mumbai/)
 - **Published:** Sun, 31 May 2026 19:13:00 +0000
