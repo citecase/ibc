@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-01 12:17:01*
+*Last synced: 2026-06-01 21:49:23*
+
+### [NCLT can condone delay beyond 30 days in filing an application to restore a company appeal dismissed for default under Rule 48(2) of the NCLT Rules, 2016 by applying Section 433 of the Companies Act, 2013 read with Section 5 of the Limitation Act, where sufficient cause is shown – Registrar of Companies Vs. Deseed Benefit Fund Ltd. – NCLT Kolkata Bench](https://ibclaw.in/registrar-of-companies-vs-deseed-benefit-fund-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 01 Jun 2026 19:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A company which raised funds through unregistered public issue of redeemable preference shares, failed to refund the amounts collected, and defaulted in filing financial statements and annual returns for five consecutive years is liable to be wound up under Section 271(c) and (d) of the Companies Act, 2013 – Registrar of Companies, West Bengal Vs. Sunheaven Agro India Ltd. and Ors. – NCLT Kolkata Bench](https://ibclaw.in/registrar-of-companies-west-bengal-vs-sunheaven-agro-india-ltd-and-ors-nclt-kolkata-bench/)
+- **Published:** Mon, 01 Jun 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Cosmic CRF Limited v. Myotic Trading Private Limited 2026 INSC 608 - S. 29A IBC](https://www.caseciter.com/2026insc608/)
 - **Published:** Mon, 01 Jun 2026 06:49:47 GMT
