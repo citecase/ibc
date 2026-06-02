@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-01 21:49:23*
+*Last synced: 2026-06-02 05:11:22*
+
+### [Why so many company law, insolvency appeals reach Supreme Court from NCLAT? Justice Pankaj Mithal asks](https://www.barandbench.com/news/why-so-many-company-law-insolvency-appeals-reach-supreme-court-from-nclat-justice-pankaj-mithal-asks)
+- **Published:** Tue, 02 Jun 2026 10:03:28 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [NCLT can condone delay beyond 30 days in filing an application to restore a company appeal dismissed for default under Rule 48(2) of the NCLT Rules, 2016 by applying Section 433 of the Companies Act, 2013 read with Section 5 of the Limitation Act, where sufficient cause is shown – Registrar of Companies Vs. Deseed Benefit Fund Ltd. – NCLT Kolkata Bench](https://ibclaw.in/registrar-of-companies-vs-deseed-benefit-fund-ltd-nclt-kolkata-bench/)
 - **Published:** Mon, 01 Jun 2026 19:59:00 +0000
