@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-02 05:11:22*
+*Last synced: 2026-06-02 11:05:26*
+
+### [Plaintiff can get court fee refund after IBC plan ‘settlement’: Delhi High Court](https://www.barandbench.com/news/plaintiff-can-get-court-fee-refund-after-ibc-plan-settlement-delhi-high-court)
+- **Published:** Tue, 02 Jun 2026 15:44:42 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Why so many company law, insolvency appeals reach Supreme Court from NCLAT? Justice Pankaj Mithal asks](https://www.barandbench.com/news/why-so-many-company-law-insolvency-appeals-reach-supreme-court-from-nclat-justice-pankaj-mithal-asks)
 - **Published:** Tue, 02 Jun 2026 10:03:28 +0530
