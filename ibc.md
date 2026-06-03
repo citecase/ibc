@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-03 11:27:18*
+*Last synced: 2026-06-03 17:26:51*
+
+### [Thrani Industries Ltd. v. KNK Ship Management 2026 INSC 624 -S.62 IBC - Refiling Delay Condonation](https://www.caseciter.com/2026insc624/)
+- **Published:** Wed, 03 Jun 2026 13:09:31 GMT
+- **Source:** https://caseciter.com/rss
 
 ### [CoC’s Power to Exempt Performance Security under IBC, 2016 – By Satish Bijarniya, Vice President-Legal, OMKARA ARC](https://ibclaw.in/cocs-power-to-exempt-performance-security-under-ibc-2016-by-satish-bijarniya-vice-president-legal-omkara-arc/)
 - **Published:** Wed, 03 Jun 2026 05:10:18 +0000
