@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-02 11:05:26*
+*Last synced: 2026-06-03 11:27:18*
+
+### [CoC’s Power to Exempt Performance Security under IBC, 2016 – By Satish Bijarniya, Vice President-Legal, OMKARA ARC](https://ibclaw.in/cocs-power-to-exempt-performance-security-under-ibc-2016-by-satish-bijarniya-vice-president-legal-omkara-arc/)
+- **Published:** Wed, 03 Jun 2026 05:10:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Insolvency and Bankruptcy Code (Amendment) Act, 2026: An Encyclopedic Analysis of The Transformative Shift – By Khushi Bhatnagar](https://ibclaw.in/the-insolvency-and-bankruptcy-code-amendment-act-2026-an-encyclopedic-analysis-of-the-transformative-shift-by-khushi-bhatnagar/)
+- **Published:** Wed, 03 Jun 2026 05:11:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Plaintiff can get court fee refund after IBC plan ‘settlement’: Delhi High Court](https://www.barandbench.com/news/plaintiff-can-get-court-fee-refund-after-ibc-plan-settlement-delhi-high-court)
 - **Published:** Tue, 02 Jun 2026 15:44:42 +0530
