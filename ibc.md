@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-04 15:59:53*
+*Last synced: 2026-06-04 20:32:50*
+
+### [DRT cannot condone delay in filing a Section 17 SARFAESI application beyond the statutory 45-day period – P.Selvaraj Vs. Authorized Officer, City Union Bank Ltd. – DRT Chennai](https://ibclaw.in/p-selvaraj-vs-authorized-officer-city-union-bank-ltd-drt-chennai/)
+- **Published:** Thu, 04 Jun 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Surplus sale proceeds from auction of a certificate debtor’s property cannot be refunded where the debtor has neither surrendered the original title deeds nor proved their loss by due legal process, especially when earlier rejection of the same claim has attained finality – S. Rajashankar and Anr. Vs. State Bank of India – DRT Chennai](https://ibclaw.in/s-rajashankar-and-anr-vs-state-bank-of-india-drt-chennai/)
+- **Published:** Thu, 04 Jun 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SARFAESI auction sale is invalid where the bank fixes reserve price far below the distress value in the approved valuation report and sells the property for a grossly inadequate price – Sri Shankar Plywood and Ors. Vs. Karur Vysya Bank Ltd. and Ors. – DRT Bengaluru](https://ibclaw.in/sri-shankar-plywood-and-ors-vs-karur-vysya-bank-ltd-and-ors-drt-bengaluru/)
+- **Published:** Thu, 04 Jun 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Karnataka High Court asks Centre to look into delays, irregular sittings of NCLT Bengaluru Bench](https://www.barandbench.com/news/litigation/karnataka-high-court-asks-centre-to-look-into-delays-irregular-sittings-of-nclt-bengaluru-bench)
 - **Published:** Thu, 04 Jun 2026 20:39:02 +0530
