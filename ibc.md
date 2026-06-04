@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-03 17:26:51*
+*Last synced: 2026-06-04 05:22:55*
+
+### [Where land in Himachal Pradesh is sold by a secured creditor through auction under the SARFAESI Act, no separate permission under Section 118 of the Himachal Pradesh Tenancy and Land Reforms Act, 1972 is required, and the auction cannot be set aside absent proof of illegality in valuation, publication, or service of sale notice – Super Video Tronics Vs. Authorized Officer, SBI and Anr. – DRT Chandigarh](https://ibclaw.in/super-video-tronics-vs-authorized-officer-sbi-and-anr-drt-chandigarh/)
+- **Published:** Wed, 03 Jun 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A third party alleged to owe money to the borrower cannot be impleaded in a bank’s OA under Section 19 of the RDB Act unless it is shown to be a necessary or proper party by prima facie material connecting it with the subject matter of the recovery proceedings – SVC Co-operative Bank Ltd. Vs. Unitex Apparels Pvt. Ltd. and Anr. – DRT Bengaluru](https://ibclaw.in/svc-co-operative-bank-ltd-vs-unitex-apparels-pvt-ltd-and-anr-drt-bengaluru/)
+- **Published:** Wed, 03 Jun 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Non-service of Section 13(2) notice on borrower in liquidation through the Official Liquidator renders subsequent SARFAESI measures and auction void – Gopu Bala Reddy and Anr. Vs. Union Bank of India and Anr. – DRT Hyderabad](https://ibclaw.in/gopu-bala-reddy-and-anr-vs-union-bank-of-india-and-anr-drt-hyderabad/)
+- **Published:** Wed, 03 Jun 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Thrani Industries Ltd. v. KNK Ship Management 2026 INSC 624 -S.62 IBC - Refiling Delay Condonation](https://www.caseciter.com/2026insc624/)
 - **Published:** Wed, 03 Jun 2026 13:09:31 GMT
