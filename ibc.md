@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-04 05:22:55*
+*Last synced: 2026-06-04 15:59:53*
+
+### [Karnataka High Court asks Centre to look into delays, irregular sittings of NCLT Bengaluru Bench](https://www.barandbench.com/news/litigation/karnataka-high-court-asks-centre-to-look-into-delays-irregular-sittings-of-nclt-bengaluru-bench)
+- **Published:** Thu, 04 Jun 2026 20:39:02 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Where land in Himachal Pradesh is sold by a secured creditor through auction under the SARFAESI Act, no separate permission under Section 118 of the Himachal Pradesh Tenancy and Land Reforms Act, 1972 is required, and the auction cannot be set aside absent proof of illegality in valuation, publication, or service of sale notice – Super Video Tronics Vs. Authorized Officer, SBI and Anr. – DRT Chandigarh](https://ibclaw.in/super-video-tronics-vs-authorized-officer-sbi-and-anr-drt-chandigarh/)
 - **Published:** Wed, 03 Jun 2026 19:32:00 +0000
