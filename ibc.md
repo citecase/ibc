@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-05 04:57:16*
+*Last synced: 2026-06-05 10:32:39*
+
+### [Sanjay Dave vs Andhra Bank Ltd. & Ors. 2026 INSC 580 - IBC -CoC‑Approved Resolution Plan](https://www.caseciter.com/2026insc580/)
+- **Published:** Fri, 05 Jun 2026 05:09:50 GMT
+- **Source:** https://caseciter.com/rss
+
+### [IBBI (Insolvency Resolution Process for Corporate Persons) (Third Amendment) Regulations, 2026.](https://ibclaw.in/ibbi-insolvency-resolution-process-for-corporate-persons-third-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:58:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Liquidation Process) (Fourth Amendment) Regulations, 2026](https://ibclaw.in/insolvency-and-bankruptcy-board-of-india-liquidation-process-fourth-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:58:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Grievance and Complaint Handling Procedure) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-grievance-and-complaint-handling-procedure-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:58:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Voluntary Liquidation Process) (Second Amendment) Regulations, 2026](https://ibclaw.in/ibbi-voluntary-liquidation-process-second-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:58:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Insolvency Resolution Process for Personal Guarantors to Corporate Debtors) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-insolvency-resolution-process-for-personal-guarantors-to-corporatedebtors-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Bankruptcy Process for Personal Guarantors to Corporate Debtors) (Second Amendment) Regulations, 2026](https://ibclaw.in/ibbi-bankruptcy-process-for-personal-guarantors-to-corporate-debtors-second-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:59:06 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Pre-Packaged Insolvency Resolution Process) (Third Amendment) Regulations, 2026](https://ibclaw.in/ibbi-pre-packaged-insolvency-resolution-process-third-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:59:10 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Inspection and Investigation) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-inspection-and-investigation-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:59:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Information Utilities) (Amendment) Regulations, 2026](https://ibclaw.in/ibbi-information-utilities-amendment-regulations-2026/)
+- **Published:** Fri, 05 Jun 2026 06:59:21 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Overriding The Code, InvITs – By Adv. Anirudhan R & Adv. Sadhana Chudarvizhi M J](https://ibclaw.in/overriding-the-code-invits-by-adv-anirudhan-r-adv-sadhana-chudarvizhi-m-j/)
 - **Published:** Fri, 05 Jun 2026 04:52:33 +0000
