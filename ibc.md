@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-04 20:32:50*
+*Last synced: 2026-06-05 04:57:16*
+
+### [Overriding The Code, InvITs – By Adv. Anirudhan R & Adv. Sadhana Chudarvizhi M J](https://ibclaw.in/overriding-the-code-invits-by-adv-anirudhan-r-adv-sadhana-chudarvizhi-m-j/)
+- **Published:** Fri, 05 Jun 2026 04:52:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [DRT cannot condone delay in filing a Section 17 SARFAESI application beyond the statutory 45-day period – P.Selvaraj Vs. Authorized Officer, City Union Bank Ltd. – DRT Chennai](https://ibclaw.in/p-selvaraj-vs-authorized-officer-city-union-bank-ltd-drt-chennai/)
 - **Published:** Thu, 04 Jun 2026 19:30:00 +0000
