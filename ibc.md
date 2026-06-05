@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-05 10:32:39*
+*Last synced: 2026-06-05 15:35:06*
+
+### [NLU Jodhpur runners-up at 10th Ian Fletcher International Insolvency Law Moot](https://www.barandbench.com/Law-School/nlu-jodhpur-runners-up-at-10th-ian-fletcher-international-insolvency-law-moot)
+- **Published:** Fri, 05 Jun 2026 17:55:28 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Sanjay Dave vs Andhra Bank Ltd. & Ors. 2026 INSC 580 - IBC -CoC‑Approved Resolution Plan](https://www.caseciter.com/2026insc580/)
 - **Published:** Fri, 05 Jun 2026 05:09:50 GMT
