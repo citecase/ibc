@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-06 04:37:41*
+*Last synced: 2026-06-06 09:07:44*
+
+### [The Colossal Saga of Adjudicating Debtors as Insolvents: Unveiling A Sinister Mechanism under The Personal Insolvency Laws In India – By Kumari Pooja](https://ibclaw.in/the-colossal-saga-of-adjudicating-debtors-as-insolvents-unveiling-a-sinister-mechanism-under-the-personal-insolvency-laws-in-india-by-kumari-pooja/)
+- **Published:** Sat, 06 Jun 2026 05:01:30 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [DRT has no power to condone delay in filing an application under Section 17 of the SARFAESI Act beyond 45 days, and a belated challenge by an auction purchaser to forfeiture of 25% bid amount is not maintainable – A. Jagadesh Kumar Vs. Branch Manager, Union Bank of India – DRT Chennai](https://ibclaw.in/a-jagadesh-kumar-vs-branch-manager-union-bank-of-india-drt-chennai/)
 - **Published:** Fri, 05 Jun 2026 19:23:00 +0000
