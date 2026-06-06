@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-05 15:35:06*
+*Last synced: 2026-06-06 04:37:41*
+
+### [DRT has no power to condone delay in filing an application under Section 17 of the SARFAESI Act beyond 45 days, and a belated challenge by an auction purchaser to forfeiture of 25% bid amount is not maintainable – A. Jagadesh Kumar Vs. Branch Manager, Union Bank of India – DRT Chennai](https://ibclaw.in/a-jagadesh-kumar-vs-branch-manager-union-bank-of-india-drt-chennai/)
+- **Published:** Fri, 05 Jun 2026 19:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where pleadings in a Section 17 SARFAESI application are fundamentally inconsistent as to the measure challenged, limitation, and reliefs, and no foundational material for the alleged assignment is produced, the Registry is justified in returning the SA as not maintainable until defects are cured – Bodhiejoy Warehousing Ptd. Ltd. and Ors. Vs. Indian Overseas Bank and Ors. – DRT Chennai](https://ibclaw.in/bodhiejoy-warehousing-ptd-ltd-and-ors-vs-indian-overseas-bank-and-ors-drt-chennai/)
+- **Published:** Fri, 05 Jun 2026 19:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NLU Jodhpur runners-up at 10th Ian Fletcher International Insolvency Law Moot](https://www.barandbench.com/Law-School/nlu-jodhpur-runners-up-at-10th-ian-fletcher-international-insolvency-law-moot)
 - **Published:** Fri, 05 Jun 2026 17:55:28 +0530
