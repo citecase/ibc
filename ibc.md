@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-06 09:07:44*
+*Last synced: 2026-06-08 11:26:17*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 01st June, 2026 to 07th June, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-01st-june-2026-to-07th-june-2026/)
+- **Published:** Mon, 08 Jun 2026 05:50:10 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Strategic Recovery Pathways: How Banks Evaluate SARFAESI vs IBC in Stressed Asset Cases – By Ashok Kakkar](https://ibclaw.in/strategic-recovery-pathways-how-banks-evaluate-sarfaesi-vs-ibc-in-stressed-asset-cases-by-ashok-kakkar/)
+- **Published:** Mon, 08 Jun 2026 07:34:25 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The Colossal Saga of Adjudicating Debtors as Insolvents: Unveiling A Sinister Mechanism under The Personal Insolvency Laws In India – By Kumari Pooja](https://ibclaw.in/the-colossal-saga-of-adjudicating-debtors-as-insolvents-unveiling-a-sinister-mechanism-under-the-personal-insolvency-laws-in-india-by-kumari-pooja/)
 - **Published:** Sat, 06 Jun 2026 05:01:30 +0000
