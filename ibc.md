@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-08 11:26:17*
+*Last synced: 2026-06-09 10:09:18*
+
+### [CA Ramchandra Dallaram Choudhary vs Adani Infrastructure and Developers 2026 INSC 629 - S.62 IBC - Refiling Delay - Limitation](https://www.caseciter.com/2026insc629/)
+- **Published:** Tue, 09 Jun 2026 06:54:03 GMT
+- **Source:** https://caseciter.com/rss
+
+### [Environmental Obligations – The Missing Piece in IBC’s CIRP Framework – By Vanshika Gupta](https://ibclaw.in/environmental-obligations-the-missing-piece-in-ibcs-cirp-framework-by-vanshika-gupta/)
+- **Published:** Tue, 09 Jun 2026 05:00:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 01st June, 2026 to 07th June, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-01st-june-2026-to-07th-june-2026/)
 - **Published:** Mon, 08 Jun 2026 05:50:10 +0000
