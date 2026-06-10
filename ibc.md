@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-09 10:09:18*
+*Last synced: 2026-06-10 10:40:59*
+
+### [AI Assets in CIRP and Liquidation – By Adv. Ansh Gulati](https://ibclaw.in/ai-assets-in-cirp-and-liquidation-by-adv-ansh-gulati/)
+- **Published:** Wed, 10 Jun 2026 05:15:59 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [CA Ramchandra Dallaram Choudhary vs Adani Infrastructure and Developers 2026 INSC 629 - S.62 IBC - Refiling Delay - Limitation](https://www.caseciter.com/2026insc629/)
 - **Published:** Tue, 09 Jun 2026 06:54:03 GMT
