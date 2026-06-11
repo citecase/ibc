@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-11 05:10:32*
+*Last synced: 2026-06-11 16:36:38*
+
+### [NCLT admits SBI plea to initiate personal insolvency proceedings against Anil Ambani](https://www.barandbench.com/news/litigation/nclt-admits-sbi-plea-to-initiate-personal-insolvency-proceedings-against-anil-ambani)
+- **Published:** Thu, 11 Jun 2026 18:36:52 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [An appeal under Section 62 of IBC does not remain alive after the 28 day period allowable under the Supreme Court Rules, 2013 (SCR) for curing defects | Once the window of 60 days prescribed by the IBC, followed by the window of 28 days in re-filing the appeal upon curing of defects permitted by the SCR is shut, the right to appeal stands extinguished – CA Ramchandra Dallaram Choudhary Vs. Adani Infrastructure and Developers Pvt. Ltd. – Supreme Court](https://ibclaw.in/ca-ramchandra-dallaram-choudhary-vs-adani-infrastructure-and-developers-pvt-ltd-supreme-court-2/)
+- **Published:** Thu, 11 Jun 2026 13:18:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Holds Strict Limitation Under IBC Section 62: No Condonation of Delay Beyond 60 Days Plus 28 Days for Curing Defects](https://ibclaw.in/supreme-court-holds-strict-limitation-under-ibc-section-62-no-condonation-of-delay-beyond-60-days-plus-28-days-for-curing-defects/)
+- **Published:** Thu, 11 Jun 2026 13:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Section 66 of the IBC: Fraudulent Trading Is Not a Catch-All Recovery Remedy – By Rajasekhar V.K., Former Judicial Member, NCLT](https://ibclaw.in/section-66-of-the-ibc-fraudulent-trading-is-not-a-catch-all-recovery-remedy-by-rajasekhar-v-k-former-judicial-member-nclt/)
 - **Published:** Thu, 11 Jun 2026 05:09:09 +0000
