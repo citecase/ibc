@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-10 10:40:59*
+*Last synced: 2026-06-11 05:10:32*
+
+### [Section 66 of the IBC: Fraudulent Trading Is Not a Catch-All Recovery Remedy – By Rajasekhar V.K., Former Judicial Member, NCLT](https://ibclaw.in/section-66-of-the-ibc-fraudulent-trading-is-not-a-catch-all-recovery-remedy-by-rajasekhar-v-k-former-judicial-member-nclt/)
+- **Published:** Thu, 11 Jun 2026 05:09:09 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Falling Rupee, Rising Claims: NCLT on Forex Fluctuation, Invoice Dates, and IBC Thresholds – By Roshi Shivam & Anubhav Mishra](https://ibclaw.in/falling-rupee-rising-claims-nclt-on-forex-fluctuation-invoice-dates-and-ibc-thresholds-by-roshi-shivam-anubhav-mishra/)
+- **Published:** Thu, 11 Jun 2026 05:10:16 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [AI Assets in CIRP and Liquidation – By Adv. Ansh Gulati](https://ibclaw.in/ai-assets-in-cirp-and-liquidation-by-adv-ansh-gulati/)
 - **Published:** Wed, 10 Jun 2026 05:15:59 +0000
