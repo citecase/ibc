@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-13 05:05:07*
+*Last synced: 2026-06-15 12:48:55*
+
+### [Centre moves Supreme Court against Gujarat HC ruling on limits of NCLT President’s case transfer powers](https://www.barandbench.com/news/litigation/centre-moves-supreme-court-against-gujarat-hc-ruling-on-limits-of-nclt-presidents-case-transfer-powers)
+- **Published:** Mon, 15 Jun 2026 13:48:07 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Expiry of Authorisation of Assignment (AFA) on an Insolvency Professional attaining 70 years does not require removal from an ongoing assignment, as proviso to Regulation 7A of IBBI (Insolvency Professionals) Regulations, 2016 permits continuation and completion of assignments already undertaken – Chavva Naga Sampathi Tayaru Vs. Sri Ananda Lakshmi Narasimha Industries India Pvt. Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/chavva-naga-sampathi-tayaru-vs-sri-ananda-lakshmi-narasimha-industries-india-pvt-ltd-and-anr-nclat-chennai/)
+- **Published:** Mon, 15 Jun 2026 06:23:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Chennai Clarifies Insolvency Professionals May Complete Ongoing Assignments Despite Expiry of AFA on Attaining 70 Years Under Regulation 7A](https://ibclaw.in/nclat-chennai-clarifies-insolvency-professionals-may-complete-ongoing-assignments-despite-expiry-of-afa-on-attaining-70-years-under-regulation-7a/)
+- **Published:** Mon, 15 Jun 2026 06:24:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An order directing the CoC to reconsider approval of the IRP as RP in light of earlier adverse observations is only interlocutory and does not amount to interference with the CoC’s commercial wisdom under Section 22 of the IBC – TSN Raja, IRP of Panduranga Energy Systems Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/tsn-raja-irp-of-panduranga-energy-systems-pvt-ltd-nclat-chennai/)
+- **Published:** Mon, 15 Jun 2026 07:44:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under the provisions of Section 36 of the IBC, 2016, the holding and subsidiary company, being an independent entity cannot be included into the liquidation estate and that cannot be brought within an ambit of the auction proceedings – Raghava Square Pvt. Ltd. Vs. IVRCL Ltd. and Ors. – NCLAT Chennai](https://ibclaw.in/raghava-square-pvt-ltd-vs-ivrcl-ltd-and-ors-nclat-chennai/)
+- **Published:** Mon, 15 Jun 2026 10:58:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Profit Sharing Agreement, being neither a lease nor a licence and not creating any right in immovable property, cannot entitle a third party to continue occupying the Corporate Debtor’s hotel premises after commencement of CIRP, and the RP can seek eviction to take custody and control of such assets – Tru Prime Pvt. Ltd. Vs. Navneet Gupta, RP of Majestic Hotels Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/tru-prime-pvt-ltd-vs-navneet-gupta-rp-of-majestic-hotels-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 15 Jun 2026 11:06:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [e-Journal – RERA Bulletin – May, 2026](https://ibclaw.in/e-journal-rera-bulletin-may-2026/)
 - **Published:** Sat, 13 Jun 2026 00:01:00 +0000
