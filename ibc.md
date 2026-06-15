@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-15 12:48:55*
+*Last synced: 2026-06-15 21:33:45*
+
+### [The legislative intent behind insertion of the Section 33(1A) of IBC (IBC Amendment Act 2026) appears to be to provide an additional opportunity to the CoC to explore resolution even after expiry of the CIRP period by granting a further period not exceeding 120 days – Prasad Seeds Pvt. Ltd. Vs. Madasa Kumar, RP of Vibha Agrotech Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/prasad-seeds-pvt-ltd-vs-madasa-kumar-rp-of-vibha-agrotech-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Mon, 15 Jun 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the underlying transaction is intertwined with Agreements to Sell, assured returns and pending RERA proceedings, repeated ICD agreements and balance confirmations alone do not conclusively establish a financial debt under Section 5(8) of IBC, and a Section 7 petition is not maintainable where the true nature of the transaction remains seriously disputed – Empire Housing Projects Pvt. Ltd. Vs. Ninaniya Estates Ltd. – NCLT Jaipur Bench](https://ibclaw.in/empire-housing-projects-pvt-ltd-vs-ninaniya-estates-ltd-nclt-jaipur-bench/)
+- **Published:** Mon, 15 Jun 2026 20:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An  application under Section 9 of IBC is not maintainable where pre-existing disputes on quality, account reconciliation and debit/credit note adjustments make the operational debt uncrystallized and below threshold – West-In Avo Pvt. Ltd. Vs. Workin Business Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/west-in-avo-pvt-ltd-vs-workin-business-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 15 Jun 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once a Resolution Plan is approved by the CoC, fresh or belated claims cannot be entertained – Assets Care & Reconstruction Enterprise Ltd. Vs. Shyam Arora, RP for SRS Real Estate Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/assets-care-reconstruction-enterprise-ltd-vs-shyam-arora-rp-for-srs-real-estate-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 15 Jun 2026 20:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Prior approval under the proviso to Section 33(5) of the IBC is mandatory before institution of proceedings by the Liquidator on behalf of the Corporate Debtor – Rajesh Kumar Loomba, Liquidator of Julka Rice and Oil Mills Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/rajesh-kumar-loomba-liquidator-of-julka-rice-and-oil-mills-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 15 Jun 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A higher score under the Evaluation Matrix does not confer any vested right on a resolution applicant to have its plan approved, and NCLT cannot interfere with CoC’s approval of a lower-ranked plan absent material irregularity, statutory violation or arbitrariness in the decision-making process – Dr. Ayyappan Nair Raghavan Pillai Vs. CoC of Attukal Devi Institute of Medical Sciences Ltd. and Ors. – NCLT Kochi Bench](https://ibclaw.in/dr-ayyappan-nair-raghavan-pillai-vs-coc-of-attukal-devi-institute-of-medical-sciences-ltd-and-ors-nclt-kochi-bench-2/)
+- **Published:** Mon, 15 Jun 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [For a corporate guarantee payable on demand, limitation against the corporate guarantor commences from invocation of the guarantee, and a Section 7 IBC application against the corporate guarantor is maintainable notwithstanding pendency of separate Section 7 proceedings against the principal borrower – Bank of India Vs. Bahubali Realbuild Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/bank-of-india-vs-bahubali-realbuild-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 15 Jun 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether assessment and quantification dues arising out of the EPF & MP Act, 1952 after the liquidation commencement date renders the claim non-maintainable? | Whether proceedings under the EPF & MP Act, 1952 are barred by Section 33(5) of the IBC during liquidation? – Central Board of Trust, Employees Provident Fund Vs. Corporate Power Ltd. and Anr. – NCLT Kolkata Bench](https://ibclaw.in/central-board-of-trust-employees-provident-fund-vs-corporate-power-ltd-and-anr-nclt-kolkata-bench/)
+- **Published:** Mon, 15 Jun 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where funds were routed through the Corporate Debtor and transferred on the same day to another group entity, such sham or round-tripping transactions do not constitute a financial debt, and Section 7 of the IBC is not maintainable on that basis – Chandra Shekhar Jha and Anr. Vs. Religare Enterprise Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/chandra-shekhar-jha-and-anr-vs-religare-enterprise-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 15 Jun 2026 21:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In a liquidation sale of the Corporate Debtor as a going concern on an ‘as is where is, as is what is and no recourse’ basis, NCLT may permit change of company status to ‘Active and reconstitution of directors/shareholding, but cannot grant blanket waivers overriding tax, RBI or other statutory authorities – Real Value Infotech Projects Pvt. Ltd. Vs. Bihari Lal Chakravarti (Liquidator) and Anr. – NCLT Jaipur Bench](https://ibclaw.in/real-value-infotech-projects-pvt-ltd-vs-bihari-lal-chakravarti-liquidator-and-anr-nclt-jaipur-bench/)
+- **Published:** Mon, 15 Jun 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Centre moves Supreme Court against Gujarat HC ruling on limits of NCLT President’s case transfer powers](https://www.barandbench.com/news/litigation/centre-moves-supreme-court-against-gujarat-hc-ruling-on-limits-of-nclt-presidents-case-transfer-powers)
 - **Published:** Mon, 15 Jun 2026 13:48:07 +0530
