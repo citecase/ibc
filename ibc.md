@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-16 11:41:41*
+*Last synced: 2026-06-16 21:27:14*
+
+### [Where the Successful Resolution Applicant repeatedly defaults in implementing the approved resolution plan despite extensions and binding timelines fixed by NCLAT, liquidation must follow under Section 33 of the IBC, and private repayment arrangements cannot override judicial directions – G. Madhusudhan Rao Vs. SRA of Bheema Cements Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/g-madhusudhan-rao-vs-sra-of-bheema-cements-ltd-nclt-hyderabad-bench/)
+- **Published:** Tue, 16 Jun 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A subcontractor cannot seek a mandatory direction against the liquidator to certify disputed bills and release payment after sale of the corporate debtor as a going concern – SS Rail Works Pvt. Ltd. Vs. VNR Infrastructure Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/ss-rail-works-pvt-ltd-vs-vnr-infrastructure-ltd-nclt-hyderabad-bench-2/)
+- **Published:** Tue, 16 Jun 2026 19:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Post going-concern sale in liquidation, corporate restructuring may be allowed, but sale-related reliefs cannot be granted directly to non-bidder investors – Frontline Wind Energy Pvt. Ltd. Vs. K. Vatsa Kumar (Liquidator) and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/frontline-wind-energy-pvt-ltd-vs-k-vatsa-kumar-liquidator-and-anr-nclt-hyderabad-bench/)
+- **Published:** Tue, 16 Jun 2026 19:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An EOGM need not be stayed, but its resolutions may be kept in abeyance where the dispute over voting authority under the Articles of Association is still pending adjudication – Jagran Prakashan Ltd. Vs. Mahendra Mohan Gupta and Ors. – NCLAT New Delhi](https://ibclaw.in/jagran-prakashan-ltd-vs-mahendra-mohan-gupta-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 16 Jun 2026 19:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Any withdrawal or utilisation of money from the Corporate Debtor’s bank account during CIRP or liquidation without authorisation of the Resolution Professional or leave of the Adjudicating Authority is illegal, and the persons who withdrew such amounts are liable to restore them to the liquidation estate – Atlantic Spinning and Weaving Mills Ltd. Vs. Garg Industries and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/atlantic-spinning-and-weaving-mills-ltd-vs-garg-industries-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 16 Jun 2026 19:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pendency of Section 34 of Arbitration Act challenge to arbitral award does not defeat Section 7 of IBC – Bindu Kapoor Vs. Sapan Mohan Garg, IRP of Bliss Abode Pvt. Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/bindu-kapoor-vs-sapan-mohan-garg-irp-of-bliss-abode-pvt-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 16 Jun 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Subsequent acknowledgment cannot extend limitation once the financial debt had already become time-barred; IBC Section 7 petition was dismissed as barred by limitation – Prithvi Finvest Co. Pvt. Ltd. Vs. Phyto Biotech Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/prithvi-finvest-co-pvt-ltd-vs-phyto-biotech-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 16 Jun 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An application under Section 9 of IBC is not maintainable where contemporaneous communication prior to the Section 8 notice shows dispute over continuation of services, retrospective billing and reconciliation of accounts, as such defence constitutes a genuine pre-existing dispute under Mobilox – Radiant Digitek Network Ltd. Vs. Srishtivinayak Entertainment Media Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/radiant-digitek-network-ltd-vs-srishtivinayak-entertainment-media-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Tue, 16 Jun 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a third party knowingly party to a fraudulent transaction can be directed under Section 66(1) of the IBC to contribute to the assets of the Corporate Debtor is a fact-dependent issue, and where fresh documents on genuineness of the Master Lease Agreement and supply of machinery were produced, the matter was remanded for fresh consideration – FINVIN Investor Pvt. Ltd. Vs. Orix Leasing and Financial Services Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/finvin-investor-pvt-ltd-vs-orix-leasing-and-financial-services-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Tue, 16 Jun 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Settlement negotiations and part-payments do not bar admission under Section 7 of the IBC – Sanjeev Kumar Jain Vs. Asset Reconstruction Company (India) Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/sanjeev-kumar-jain-vs-asset-reconstruction-company-india-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 16 Jun 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The Resolution Professional is not bound to admit an unverified claim merely because it is filed, and where the claim amount is not substantiated from the Corporate Debtor’s books of account and records, NCLT will not direct admission beyond the amount found verifiable – Hari Kishan Sharma Vs. AKME Projects Ltd. – NCLT New Delhi Bench](https://ibclaw.in/hari-kishan-sharma-vs-akme-projects-ltd-nclt-new-delhi-bench/)
 - **Published:** Mon, 15 Jun 2026 21:41:00 +0000
