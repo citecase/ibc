@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-15 21:33:45*
+*Last synced: 2026-06-16 11:41:41*
+
+### [The Resolution Professional is not bound to admit an unverified claim merely because it is filed, and where the claim amount is not substantiated from the Corporate Debtor’s books of account and records, NCLT will not direct admission beyond the amount found verifiable – Hari Kishan Sharma Vs. AKME Projects Ltd. – NCLT New Delhi Bench](https://ibclaw.in/hari-kishan-sharma-vs-akme-projects-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 15 Jun 2026 21:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CIRP admitted on a claim below the threshold under Section 4 of IBC is liable to be recalled under NCLT Rule 11, and the liquidation application cannot survive – Intelligent IP Management Solutions Pvt. Ltd., RP of Rhythm Infra Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/intelligent-ip-management-solutions-pvt-ltd-rp-of-rhythm-infra-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 15 Jun 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Leased third-party property is not an asset of the Corporate Debtor, yet its possession cannot be recovered during moratorium under Section 14(1)(d) of IBC – Attukal Bhagavathy Temple Trust and Anr. Vs. Attukal Devi Institute of Medical Sciences Ltd. and Anr. – NCLT Kochi Bench](https://ibclaw.in/attukal-bhagavathy-temple-trust-and-anr-vs-attukal-devi-institute-of-medical-sciences-ltd-and-anr-nclt-kochi-bench/)
+- **Published:** Mon, 15 Jun 2026 22:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An unregistered MoU and a purported arbitral award cannot confer occupancy rights over the Corporate Debtor’s hotel premises upon suspended management or related parties after commencement of CIRP, and the RP is entitled to seek their eviction to take control and custody of the assets – Raman Khangura Vs. Navneet Gupta and Ors. – NCLAT New Delhi](https://ibclaw.in/raman-khangura-vs-navneet-gupta-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 15 Jun 2026 23:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An appeal under Section 61 of the IBC filed electronically after office/ court hours is not to be treated as filed on the next day – Acrow Realcon Pvt. Ltd. and Ors. Vs. Union Bank of India and Ors. – NCLAT New Delhi](https://ibclaw.in/acrow-realcon-pvt-ltd-and-ors-vs-union-bank-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 15 Jun 2026 23:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a claim based on a RERA Authority order passed during Section 14 moratorium after commencement of CIRP is admissible? – Vandana Garg, RP of Raguleela Builders Pvt. Ltd. Vs. Mysore Petro Chemicals Ltd. – NCLAT New Delhi](https://ibclaw.in/vandana-garg-rp-of-raguleela-builders-pvt-ltd-vs-mysore-petro-chemicals-ltd-nclat-new-delhi/)
+- **Published:** Tue, 16 Jun 2026 00:23:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [The legislative intent behind insertion of the Section 33(1A) of IBC (IBC Amendment Act 2026) appears to be to provide an additional opportunity to the CoC to explore resolution even after expiry of the CIRP period by granting a further period not exceeding 120 days – Prasad Seeds Pvt. Ltd. Vs. Madasa Kumar, RP of Vibha Agrotech Ltd. and Anr. – NCLT Hyderabad Bench](https://ibclaw.in/prasad-seeds-pvt-ltd-vs-madasa-kumar-rp-of-vibha-agrotech-ltd-and-anr-nclt-hyderabad-bench/)
 - **Published:** Mon, 15 Jun 2026 20:14:00 +0000
