@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-16 21:27:14*
+*Last synced: 2026-06-18 05:19:28*
+
+### [Where construction dues stood settled and the original contract was expressly terminated by a subsequent agreement providing discharge through villas/apartments, the earlier operational debt stood novated under Section 62 of the Contract Act, and a Section 9 IBC petition cannot be maintained on the basis of the original construction claim – Kunnel Engineers and Contractors Pvt. Ltd. Vs. Nest Realtors India Pvt. Ltd. – NCLT Kochi Bench](https://ibclaw.in/kunnel-engineers-and-contractors-pvt-ltd-vs-nest-realtors-india-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Wed, 17 Jun 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Power to determine whether an applicant satisfies the threshold requirements of Section 94 of IBC inheres in the jurisdiction of the Adjudicating Authority (NCLT) itself and such a determination neither amounts to adjudication on merits nor constitutes an impermissible exercise of jurisdiction – K C M Gowda Vs. Aditya Birla Capital Ltd. and Ors. – Karnataka High Court](https://ibclaw.in/k-c-m-gowda-vs-aditya-birla-capital-ltd-and-ors-karnataka-high-court/)
+- **Published:** Thu, 18 Jun 2026 04:29:56 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where plaintiffs, despite participating in US Chapter 11 proceedings, suppressed material orders and framed the plaint to create territorial jurisdiction without impleading the US entities against whom declaratory relief was sought, the Court may strike off the Chapter 11 Trustee from the party array under Section 151 CPC for want of cause of action, leaving Section 14 IBC objections to be raised separately under Order VII Rule 11 CPC – Claudia Z. Springer Vs. Voizzit Technology Pvt. Ltd. – Kerala High Court](https://ibclaw.in/claudia-z-springer-vs-voizzit-technology-pvt-ltd-kerala-high-court/)
+- **Published:** Thu, 18 Jun 2026 04:38:21 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The proceedings under the NI Act cannot only be continued but also initiated against the accused arraigned by virtue of Section 141 of the NI Act, even after the accused company is admitted to the insolvency process – Raj Kumar Choudhary Vs. Surender Singh and Ors. – Punjab & Haryana High Court](https://ibclaw.in/raj-kumar-choudhary-vs-surender-singh-and-ors-punjab-haryana-high-court/)
+- **Published:** Thu, 18 Jun 2026 04:47:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a solitary act of non-payment consequent upon the dishonour of a cheque would constitute a valid cause of action for instituting insolvency proceedings under the provisions of the Kerala Insolvency Act, 1955 – Sheeja Vs. Joy and Ors. – Kerala High Court](https://ibclaw.in/sheeja-vs-joy-and-ors-kerala-high-court/)
+- **Published:** Thu, 18 Jun 2026 04:59:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Applicability of Section 47A of Stamps Act to Sale Certificate through Public Auction for Consideration – By Adv. V.S. Kishore Kumar](https://ibclaw.in/applicability-of-section-47a-of-stamps-act-to-sale-certificate-through-public-auction-for-consideration-by-adv-v-s-kishore-kumar/)
+- **Published:** Thu, 18 Jun 2026 05:07:40 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Civil Sheep or Criminal Wolf? Reassessing Section 138 after Dineshchand Surana (2026) – By Saloni Sharma](https://ibclaw.in/civil-sheep-or-criminal-wolf-reassessing-section-138-after-dineshchand-surana-2026-by-saloni-sharma/)
+- **Published:** Thu, 18 Jun 2026 05:09:12 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Prosecution for pre-CIRP environmental offences cannot continue against a corporate debtor after approval of resolution plan and change in management by virtue of Section 32A of IBC – Ferro Alloys Corporations Ltd. Vs. Sub Divisional Magistrate, Champua and Anr. – Orissa High Court](https://ibclaw.in/ferro-alloys-corporations-ltd-vs-sub-divisional-magistrate-champua-and-anr-orissa-high-court/)
+- **Published:** Thu, 18 Jun 2026 05:16:44 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where the Successful Resolution Applicant repeatedly defaults in implementing the approved resolution plan despite extensions and binding timelines fixed by NCLAT, liquidation must follow under Section 33 of the IBC, and private repayment arrangements cannot override judicial directions – G. Madhusudhan Rao Vs. SRA of Bheema Cements Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/g-madhusudhan-rao-vs-sra-of-bheema-cements-ltd-nclt-hyderabad-bench/)
 - **Published:** Tue, 16 Jun 2026 19:32:00 +0000
