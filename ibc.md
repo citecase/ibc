@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-18 05:19:28*
+*Last synced: 2026-06-18 10:54:28*
+
+### [Once a resolution plan is approved under Section 31 of IBC, all claims not forming part of the plan stand extinguished, and counterclaims raised in arbitration against the corporate debtor are not maintainable even if the creditor had filed its claim in CIRP – MBL Infrastructure Ltd. Vs. Pradeep Colonisers and Suppliers Pvt. Ltd. – Delhi High Court](https://ibclaw.in/mbl-infrastructure-ltd-vs-pradeep-colonisers-and-suppliers-pvt-ltd-delhi-high-court/)
+- **Published:** Thu, 18 Jun 2026 05:26:13 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interplay between the IBC and Electricity Laws | Electricity dues for the period prior to approval of a resolution plan stand extinguished under Sections 31 and 238 of IBC, and distribution authorities cannot raise or recover such pre-CIRP demands after conclusion of CIRP if no claim was filed during the process – South East U.P. Power Transmission Company Ltd. Vs. Prescribed Authority and Ors. – Allahabad High Court](https://ibclaw.in/south-east-u-p-power-transmission-company-ltd-vs-prescribed-authority-and-ors-allahabad-high-court/)
+- **Published:** Thu, 18 Jun 2026 05:29:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Written statement filed beyond the outer limit of 45 days under Section 19(5)(i) of the Recovery of Debts and Bankruptcy Act, 1993 cannot be taken on record and delay therein cannot be condoned – Sway Techno Solutions Pvt. Ltd. and Ors. Vs. State Bank of India – DRAT Delhi](https://ibclaw.in/sway-techno-solutions-pvt-ltd-and-ors-vs-state-bank-of-india-drat-delhi/)
+- **Published:** Thu, 18 Jun 2026 05:48:45 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where construction dues stood settled and the original contract was expressly terminated by a subsequent agreement providing discharge through villas/apartments, the earlier operational debt stood novated under Section 62 of the Contract Act, and a Section 9 IBC petition cannot be maintained on the basis of the original construction claim – Kunnel Engineers and Contractors Pvt. Ltd. Vs. Nest Realtors India Pvt. Ltd. – NCLT Kochi Bench](https://ibclaw.in/kunnel-engineers-and-contractors-pvt-ltd-vs-nest-realtors-india-pvt-ltd-nclt-kochi-bench/)
 - **Published:** Wed, 17 Jun 2026 20:36:00 +0000
