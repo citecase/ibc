@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-18 10:54:28*
+*Last synced: 2026-06-19 05:34:24*
+
+### [The Vidrabha Disruption and Recalibration of Section 7 Gateway Under IBC 2.0 – By Insha Pani](https://ibclaw.in/the-vidrabha-disruption-and-recalibration-of-section-7-gateway-under-ibc-2-0-by-insha-pani/)
+- **Published:** Fri, 19 Jun 2026 05:14:42 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Once a resolution plan is approved under Section 31 of IBC, all claims not forming part of the plan stand extinguished, and counterclaims raised in arbitration against the corporate debtor are not maintainable even if the creditor had filed its claim in CIRP – MBL Infrastructure Ltd. Vs. Pradeep Colonisers and Suppliers Pvt. Ltd. – Delhi High Court](https://ibclaw.in/mbl-infrastructure-ltd-vs-pradeep-colonisers-and-suppliers-pvt-ltd-delhi-high-court/)
 - **Published:** Thu, 18 Jun 2026 05:26:13 +0000
