@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-19 05:34:24*
+*Last synced: 2026-06-19 11:05:03*
+
+### [Litigants can't approach High Courts to dictate NCLT listing: Delhi High Court](https://www.barandbench.com/news/litigation/litigants-cant-approach-high-courts-to-dictate-nclt-listing-delhi-high-court)
+- **Published:** Fri, 19 Jun 2026 13:17:34 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [The Vidrabha Disruption and Recalibration of Section 7 Gateway Under IBC 2.0 – By Insha Pani](https://ibclaw.in/the-vidrabha-disruption-and-recalibration-of-section-7-gateway-under-ibc-2-0-by-insha-pani/)
 - **Published:** Fri, 19 Jun 2026 05:14:42 +0000
