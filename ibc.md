@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-19 11:05:03*
+*Last synced: 2026-06-20 09:49:23*
+
+### [NCLT admits Paytm insolvency plea against Ludo Empire maker](https://www.barandbench.com/news/nclt-admits-paytm-insolvency-plea-against-ludo-empire-maker)
+- **Published:** Sat, 20 Jun 2026 11:39:10 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Litigants can't approach High Courts to dictate NCLT listing: Delhi High Court](https://www.barandbench.com/news/litigation/litigants-cant-approach-high-courts-to-dictate-nclt-listing-delhi-high-court)
 - **Published:** Fri, 19 Jun 2026 13:17:34 +0530
