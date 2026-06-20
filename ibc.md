@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-20 09:49:23*
+*Last synced: 2026-06-20 14:41:45*
+
+### [Interest and Damages: Statutory Dues or Employees’ Rights? – By Bhavyl Bansal](https://ibclaw.in/interest-and-damages-statutory-dues-or-employees-rights-by-bhavyl-bansal/)
+- **Published:** Sat, 20 Jun 2026 11:19:44 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT admits Paytm insolvency plea against Ludo Empire maker](https://www.barandbench.com/news/nclt-admits-paytm-insolvency-plea-against-ludo-empire-maker)
 - **Published:** Sat, 20 Jun 2026 11:39:10 +0530
