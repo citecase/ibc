@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-20 14:41:45*
+*Last synced: 2026-06-20 20:04:43*
+
+### [A non-speaking order forfeiting security for minor delay in conditional RERA compliance is liable to be set aside – JMK Holdings Pvt. Ltd. Vs. Haryana Real Estate Regulatory Authority, Gururam – Haryana REAT](https://ibclaw.in/jmk-holdings-pvt-ltd-vs-haryana-real-estate-regulatory-authority-gururam-haryana-reat/)
+- **Published:** Thu, 18 Jun 2026 19:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Cancellation of allotment under the Affordable Group Housing Policy immediately after execution of the buyer’s agreement, without granting a meaningful opportunity to cure the alleged default, is unsustainable and the allotment is liable to be reinstated – GLS Infracon Pvt. Ltd. Vs. Mahua Das and Anr. – Haryana REAT](https://ibclaw.in/gls-infracon-pvt-ltd-vs-mahua-das-and-anr-haryana-reat/)
+- **Published:** Thu, 18 Jun 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Settlement before the Conciliation Forum on handing over possession does not by itself amount to waiver of the allottee’s statutory right to interest under Section 18 of RERA for delayed possession – Shree Sankalp Associates Vs. Vishal Jugalkishor Pallod – Maharashtra REAT](https://ibclaw.in/shree-sankalp-associates-vs-vishal-jugalkishor-pallod-maharashtra-reat/)
+- **Published:** Thu, 18 Jun 2026 20:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A RERA complaint for refund and interest in a delayed project cannot be rejected merely because the director was impleaded instead of the promoter company where the project stood registered in the director’s name, and the matter is liable to be remanded for impleadment of the company and fresh decision – Suresh Kumar Rajora Vs. Jitendra Kumar Magala and Anr. – Uttar Pradesh REAT](https://ibclaw.in/suresh-kumar-rajora-vs-jitendra-kumar-magala-and-anr-uttar-pradesh-reat/)
+- **Published:** Fri, 19 Jun 2026 19:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Voluntary surrender by defaulting allottees before the possession due date justifies 10% earnest money forfeiture from the refund – Gaurav Gupta and Anr. Vs. Pareena Infrastructures Pvt. Ltd. – Haryana REAT](https://ibclaw.in/gaurav-gupta-and-anr-vs-pareena-infrastructures-pvt-ltd-haryana-reat/)
+- **Published:** Fri, 19 Jun 2026 20:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Promoter cannot postpone possession indefinitely on the basis of pending approvals where the agreement fixes a 48 months plus grace period timeline – DSS Buildtech Pvt. Ltd. Vs. Ruchi Chauhan and Anr. – Haryana REAT](https://ibclaw.in/dss-buildtech-pvt-ltd-vs-ruchi-chauhan-and-anr-haryana-reat/)
+- **Published:** Fri, 19 Jun 2026 20:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Promoter cannot deny possession and documents after full payment and registered sale deed by raising unsupported delayed interest claims – Alliance Villas Pvt. Ltd. Vs. Vasanthakumar and Anr. – Tamil Nadu REAT](https://ibclaw.in/alliance-villas-pvt-ltd-vs-vasanthakumar-and-anr-tamil-nadu-reat/)
+- **Published:** Fri, 19 Jun 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Interest and Damages: Statutory Dues or Employees’ Rights? – By Bhavyl Bansal](https://ibclaw.in/interest-and-damages-statutory-dues-or-employees-rights-by-bhavyl-bansal/)
 - **Published:** Sat, 20 Jun 2026 11:19:44 +0000
