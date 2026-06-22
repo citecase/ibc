@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-22 05:41:50*
+*Last synced: 2026-06-22 21:20:13*
+
+### [Whether a landowner can terminate a pre-CIRP joint development agreement after liquidation and seek exclusion of the project from the liquidation estate? – Narmada Enterprises Vs. Liquidator of IBD Universal Pvt. Ltd. and Ors. – NCLT Principal Bench](https://ibclaw.in/narmada-enterprises-vs-liquidator-of-ibd-universal-pvt-ltd-and-ors-nclt-principal-bench/)
+- **Published:** Mon, 22 Jun 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Corporate Debtor can initiate CIRP under Section 10 of IBC upon default in redemption of OCRDs and repayment of inter-corporate deposits – KSK Wind Energy Pvt. Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/ksk-wind-energy-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 22 Jun 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether CIRP can be withdrawn under Section 12A of IBC after settlement with the sole financial creditor and the operational creditor, even when a liquidation application is pending but no liquidation order has been passed – Adesh Kumar Singla, RP of Redhu Farms Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/adesh-kumar-singla-rp-of-redhu-farms-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 22 Jun 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an application under Sections 43 and 66 of IBC alleging preferential and fraudulent transactions can be adjudicated without service on the respondents – Omkarchand R. Maloo, Liquidator of Intelligent Textile Engineers Pvt. Ltd. Vs. Yash Jatinbhai Baxi and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/omkarchand-r-maloo-liquidator-of-intelligent-textile-engineers-pvt-ltd-vs-yash-jatinbhai-baxi-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 22 Jun 2026 20:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a bank can withhold fixed deposits standing in the Corporate Debtor’s name during CIRP on the basis of a forensic audit alleging diversion of funds – Bank of Baroda Vs. IDBI Bank Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/bank-of-baroda-vs-idbi-bank-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 22 Jun 2026 20:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether post-implementation capital restructuring of a listed Corporate Debtor, including reduction of public shareholding, continuation of listing and induction of new promoters, can be directed under Section 60(5) of IBC when such measures are not part of the approved resolution plan? – Krishnna Kumar Haridas Vs. BSE Ltd. – NCLT Hyderabad Bench](https://ibclaw.in/krishnna-kumar-haridas-vs-bse-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 22 Jun 2026 20:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A claim filed by a marketing associate cannot be admitted as a homebuyer claim under IBC merely on the basis of an MoU and self-maintained ledger entries – RealPro Assets Ltd. Vs. Rahul Jindal, RP of Samar Estates Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/realpro-assets-ltd-vs-rahul-jindal-rp-of-samar-estates-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 22 Jun 2026 20:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Payment to directors’ personal accounts, without proof of transfer to the Corporate Debtor, does not create a financial debt or a homebuyer claim under IBC – Keshab Chand Gupta and Ors. Vs. Rahul Jindal, IRP of Osrik Resolution Pvt. Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/keshab-chand-gupta-and-ors-vs-rahul-jindal-irp-of-osrik-resolution-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Mon, 22 Jun 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Moratorium under Section 14 of the IBC does not bar impleadment of directors or additional directors in pending RERA complaints at the adjudicatory stage where independent allegations against them require examination – Vineet Jindal Vs. Rajasthan Real Estate Regulatory Authority and Anr. – Rajasthan REAT](https://ibclaw.in/vineet-jindal-vs-rajasthan-real-estate-regulatory-authority-and-anr-rajasthan-reat/)
 - **Published:** Sun, 21 Jun 2026 23:05:00 +0000
