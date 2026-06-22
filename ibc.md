@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-20 20:04:43*
+*Last synced: 2026-06-22 05:41:50*
+
+### [Moratorium under Section 14 of the IBC does not bar impleadment of directors or additional directors in pending RERA complaints at the adjudicatory stage where independent allegations against them require examination – Vineet Jindal Vs. Rajasthan Real Estate Regulatory Authority and Anr. – Rajasthan REAT](https://ibclaw.in/vineet-jindal-vs-rajasthan-real-estate-regulatory-authority-and-anr-rajasthan-reat/)
+- **Published:** Sun, 21 Jun 2026 23:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 15th June, 2026 to 21st June, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-15th-june-2026-to-21st-june-2026/)
+- **Published:** Mon, 22 Jun 2026 03:21:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A non-speaking order forfeiting security for minor delay in conditional RERA compliance is liable to be set aside – JMK Holdings Pvt. Ltd. Vs. Haryana Real Estate Regulatory Authority, Gururam – Haryana REAT](https://ibclaw.in/jmk-holdings-pvt-ltd-vs-haryana-real-estate-regulatory-authority-gururam-haryana-reat/)
 - **Published:** Thu, 18 Jun 2026 19:59:00 +0000
