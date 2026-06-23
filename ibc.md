@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-23 10:10:49*
+*Last synced: 2026-06-23 20:33:56*
+
+### [Whether a successful bidder acquiring a Corporate Debtor as a going concern in liquidation is entitled to blanket waivers, concessions and reliefs – Consortium of Maheshkumar Tejraj Inani and Anr. Vs. Ganesh Venkata Siva Rama Krishna Remani (Liquidator) – NCLT Mumbai Bench](https://ibclaw.in/consortium-of-maheshkumar-tejraj-inani-and-anr-vs-ganesh-venkata-siva-rama-krishna-remani-liquidator-nclt-mumbai-bench/)
+- **Published:** Tue, 23 Jun 2026 18:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A liquidation application under Section 33(3) of IBC cannot be dismissed under Section 65 merely because the dissenting financial creditor had earlier failed in seeking liquidation, where the later application is founded on alleged post-approval breaches in implementation of the resolution plan – Jyoti Structures Ltd. Vs. DBS Bank Ltd. – NCLT Mumbai Bench](https://ibclaw.in/jyoti-structures-ltd-vs-dbs-bank-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 23 Jun 2026 18:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Under Sections 35, 36 and 60(5) of IBC, NCLT can direct related-party occupants to vacate and hand over properties forming part of the liquidation estate, and the Liquidator need not resort to civil or rent control proceedings to recover possession of such assets – Pramod Kumar Misra, Liquidator of Venus Garments (India) Ltd. Vs. Duke Fashions (India) Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/pramod-kumar-misra-liquidator-of-venus-garments-india-ltd-vs-duke-fashions-india-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Tue, 23 Jun 2026 18:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Occupation charges for third-party staff and workers’ quarters used by the Corporate Debtor during CIRP are CIRP costs if the premises were retained to keep the Corporate Debtor as a going concern – Indo Rama Synthetics (India) Ltd. Vs. Subhash Kumar Kundra, RP of CIC Industries Ltd. and Anr. – NCLT Principal Bench](https://ibclaw.in/indo-rama-synthetics-india-ltd-vs-subhash-kumar-kundra-rp-of-cic-industries-ltd-and-anr-nclt-principal-bench/)
+- **Published:** Tue, 23 Jun 2026 18:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the Corporate Debtor acknowledged receipt of the Section 8 demand notice by email, admitted the work order and part payment, and failed to show any contemporaneous or genuine pre-existing dispute, a Section 9 IBC application for unpaid dues arising from supply and installation of goods is liable to be admitted – Superwave Communication and Infrasolution Pvt. Ltd. Vs. Rayways Infra Projects Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/superwave-communication-and-infrasolution-pvt-ltd-vs-rayways-infra-projects-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 23 Jun 2026 19:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A person whose flat allotment stood cancelled before CIRP is not a homebuyer or financial creditor under Section 5(8)(f) of IBC, and a claim filed after CoC approval of the resolution plan is not entertainable – Radhey Sham Midha and Anr. Vs. Rahul Jindal, IRP for Samar Estates Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/radhey-sham-midha-and-anr-vs-rahul-jindal-irp-for-samar-estates-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 23 Jun 2026 19:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When the deeming provisions come into existence the transaction entered into between the corporate debtor would be regarded as preferential transaction with attendant consequences irrespective whether the transaction was in fact intended or even anticipated to be so – Narender Kumar Sharmа (Liquidator) Vs. Vallabh Steels Ltd. – NCLT Principal Bench](https://ibclaw.in/narender-kumar-sharm%d0%b0-liquidator-vs-vallabh-steels-ltd-nclt-principal-bench/)
+- **Published:** Tue, 23 Jun 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Inter se distribution under a resolution plan among secured financial creditors cannot create an artificial sub-classification based solely on first and second charge so as to exclude an admitted second-charge secured creditor from value available under the plan, and the CoC must re-determine distribution in conformity with the scheme of the Code and principles underlying Section 53 of IBC – IFCI Ltd. Vs. Paramjeet Singh Bhatia (RP) and Ors. – NCLT Allahabad Bench](https://ibclaw.in/ifci-ltd-vs-paramjeet-singh-bhatia-rp-and-ors-nclt-allahabad-bench/)
+- **Published:** Tue, 23 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether a Section 7 application can be maintained on the basis of an arbitral award when the underlying default in a cash credit facility occurred during the Section 10A period – NKGSB Co-operative Bank Ltd. Vs. KSM Multitrade LLP – NCLT Mumbai Bench](https://ibclaw.in/nkgsb-co-operative-bank-ltd-vs-ksm-multitrade-llp-nclt-mumbai-bench/)
 - **Published:** Mon, 22 Jun 2026 21:30:00 +0000
