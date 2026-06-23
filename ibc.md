@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-22 21:20:13*
+*Last synced: 2026-06-23 10:10:49*
+
+### [Whether a Section 7 application can be maintained on the basis of an arbitral award when the underlying default in a cash credit facility occurred during the Section 10A period – NKGSB Co-operative Bank Ltd. Vs. KSM Multitrade LLP – NCLT Mumbai Bench](https://ibclaw.in/nkgsb-co-operative-bank-ltd-vs-ksm-multitrade-llp-nclt-mumbai-bench/)
+- **Published:** Mon, 22 Jun 2026 21:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether interest under Section 7Q and damages under Section 14B of the Employees’ Provident Funds and Miscellaneous Provisions Act, 1952 are to be treated on par with provident fund contributions and consequently excluded from the liquidation estate under Section 36(4)(a)(iii) of the IBC – Regional Provident Fund Commissioner – II Vs. Antal Infotech Pvt. Ltd. and Anr. – NCLT Bengaluru Bench](https://ibclaw.in/regional-provident-fund-commissioner-ii-vs-antal-infotech-pvt-ltd-and-anr-nclt-bengaluru-bench/)
+- **Published:** Mon, 22 Jun 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether the professional fees for the services rendered in the capacity of a GST Consultant, is within the ambit of Insolvency Resolution Process (CIRP) Costs under Section 5(13)(c) IBC? – Prateek S Jain & Associates Vs. Pratim Bayal and Anr. – NCLT Kolkata Bench](https://ibclaw.in/prateek-s-jain-associates-vs-pratim-bayal-and-anr-nclt-kolkata-bench/)
+- **Published:** Mon, 22 Jun 2026 23:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Two-Month Promise: Statutory Ambition and Institutional Reality in India’s Aviation Insolvency Framework – By Sohankita Mukherjee](https://ibclaw.in/the-two-month-promise-statutory-ambition-and-institutional-reality-in-indias-aviation-insolvency-framework-by-sohankita-mukherjee/)
+- **Published:** Tue, 23 Jun 2026 04:56:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether a landowner can terminate a pre-CIRP joint development agreement after liquidation and seek exclusion of the project from the liquidation estate? – Narmada Enterprises Vs. Liquidator of IBD Universal Pvt. Ltd. and Ors. – NCLT Principal Bench](https://ibclaw.in/narmada-enterprises-vs-liquidator-of-ibd-universal-pvt-ltd-and-ors-nclt-principal-bench/)
 - **Published:** Mon, 22 Jun 2026 20:27:00 +0000
