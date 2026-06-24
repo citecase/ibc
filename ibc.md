@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-23 20:33:56*
+*Last synced: 2026-06-24 09:57:36*
+
+### [Where an operational debt arising from services stands crystallised by an arbitral award and the Section 34 challenge has been dismissed with no subsisting Section 37 proceedings or stay, the Corporate Debtor cannot re-agitate the same disputes as a pre-existing dispute to defeat a Section 9 IBC application – Allegis Services (India) Pvt. Ltd. Vs. Olive Telecommunication Pvt. Ltd. – NCLT Principal Bench](https://ibclaw.in/allegis-services-india-pvt-ltd-vs-olive-telecommunication-pvt-ltd-nclt-principal-bench/)
+- **Published:** Tue, 23 Jun 2026 20:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a prospective resolution applicant can challenge refusal of further extension for submission of a resolution plan after itself participating in a fresh Form-G process but failing to submit any plan – Hindagro Exports India Pvt. Ltd. Vs. Paramjeet Singh Bhatia, RP of Hind Agro Industries Ltd. – NCLT Allahabad Bench](https://ibclaw.in/hindagro-exports-india-pvt-ltd-vs-paramjeet-singh-bhatia-rp-of-hind-agro-industries-ltd-nclt-allahabad-bench/)
+- **Published:** Tue, 23 Jun 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an NCLT can approve a CoC-approved resolution plan while leaving inter se distribution among secured financial creditors to be adjusted separately under Section 53 of IBC? – Paramjeet Singh Bhatia, RP of Hind Agro Industries Ltd. Vs. GSW Enterprise Pvt. Ltd. and Ors. – NCLT Allahabad Bench](https://ibclaw.in/paramjeet-singh-bhatia-rp-of-hind-agro-industries-ltd-vs-gsw-enterprise-pvt-ltd-and-ors-nclt-allahabad-bench/)
+- **Published:** Tue, 23 Jun 2026 20:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an employer can withhold admitted contract dues of the Corporate Debtor during liquidation on the ground of unpaid sub-vendors’ claims or SFIO inquiry – Ashwini Mehra Vs. Rajasthan Rajya Vidyut Utpadan Nigam Ltd. and Anr. – NCLT Principal Bench](https://ibclaw.in/ashwini-mehra-vs-rajasthan-rajya-vidyut-utpadan-nigam-ltd-and-anr-nclt-principal-bench/)
+- **Published:** Tue, 23 Jun 2026 20:53:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether a successful bidder acquiring a Corporate Debtor as a going concern in liquidation is entitled to blanket waivers, concessions and reliefs – Consortium of Maheshkumar Tejraj Inani and Anr. Vs. Ganesh Venkata Siva Rama Krishna Remani (Liquidator) – NCLT Mumbai Bench](https://ibclaw.in/consortium-of-maheshkumar-tejraj-inani-and-anr-vs-ganesh-venkata-siva-rama-krishna-remani-liquidator-nclt-mumbai-bench/)
 - **Published:** Tue, 23 Jun 2026 18:32:00 +0000
