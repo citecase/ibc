@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-24 09:57:36*
+*Last synced: 2026-06-25 20:31:45*
+
+### [A non-speaking NCLT order under Section 60(5)(c) of the IBC, passed without reasons on the reliefs claimed, is unsustainable and liable to be set aside – State Bank of India Vs. Chandramouli Ramasubramaniam, Liquidator of Effimax Engineers Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/state-bank-of-india-vs-chandramouli-ramasubramaniam-liquidator-of-effimax-engineers-pvt-ltd-nclat-chennai/)
+- **Published:** Thu, 25 Jun 2026 18:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Non-filing of a separate guarantee deed does not vitiate proceedings under Section 95 of IBC where the Personal Guarantor has admitted the guarantee and signed the loan agreement as guarantor – Raiz Bashirudeen Vs. Tata Capital Financial Services Ltd. – NCLAT Chennai](https://ibclaw.in/raiz-bashirudeen-vs-tata-capital-financial-services-ltd-nclat-chennai/)
+- **Published:** Thu, 25 Jun 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where an operational debt arising from services stands crystallised by an arbitral award and the Section 34 challenge has been dismissed with no subsisting Section 37 proceedings or stay, the Corporate Debtor cannot re-agitate the same disputes as a pre-existing dispute to defeat a Section 9 IBC application – Allegis Services (India) Pvt. Ltd. Vs. Olive Telecommunication Pvt. Ltd. – NCLT Principal Bench](https://ibclaw.in/allegis-services-india-pvt-ltd-vs-olive-telecommunication-pvt-ltd-nclt-principal-bench/)
 - **Published:** Tue, 23 Jun 2026 20:01:00 +0000
