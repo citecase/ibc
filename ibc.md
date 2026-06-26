@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-25 20:31:45*
+*Last synced: 2026-06-26 09:58:24*
+
+### [Beyond the big numbers: How IBC is encouraging early settlement and better recoveries](https://www.barandbench.com/view-point/beyond-the-big-numbers-how-ibc-is-encouraging-early-settlement-and-better-recoveries)
+- **Published:** Fri, 26 Jun 2026 13:01:12 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [The New Pre-Liquidation CIRP Restoration Window: A Balanced Reform or A Source of Delay? – By Shubham Saini](https://ibclaw.in/the-new-pre-liquidation-cirp-restoration-window-a-balanced-reform-or-a-source-of-delay-by-shubham-saini/)
+- **Published:** Fri, 26 Jun 2026 05:34:39 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency and Bankruptcy Code, 2016: Ground Reality, Practical Challenges and the Way Forward – By Ashok Kakkar](https://ibclaw.in/insolvency-and-bankruptcy-code-2016-ground-reality-practical-challenges-and-the-way-forward-by-ashok-kakkar/)
+- **Published:** Fri, 26 Jun 2026 05:36:28 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A non-speaking NCLT order under Section 60(5)(c) of the IBC, passed without reasons on the reliefs claimed, is unsustainable and liable to be set aside – State Bank of India Vs. Chandramouli Ramasubramaniam, Liquidator of Effimax Engineers Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/state-bank-of-india-vs-chandramouli-ramasubramaniam-liquidator-of-effimax-engineers-pvt-ltd-nclat-chennai/)
 - **Published:** Thu, 25 Jun 2026 18:32:00 +0000
