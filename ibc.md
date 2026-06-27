@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-27 04:35:55*
+*Last synced: 2026-06-27 09:11:57*
+
+### [OFAC sanction, insolvency and Indian tribunals: Can foreign regulatory restrictions defeat IBC proceeding?](https://www.barandbench.com/view-point/ofac-sanction-insolvency-and-indian-tribunals-can-foreign-regulatory-restrictions-defeat-ibc-proceeding)
+- **Published:** Sat, 27 Jun 2026 11:11:07 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Silence is Strategy: The Asymmetry Behind IBC’s Clean Slate Doctrine in Orchid Pharma – By Aryan Chauhan & Ruby Agrawal](https://ibclaw.in/silence-is-strategy-the-asymmetry-behind-ibcs-clean-slate-doctrine-in-orchid-pharma-by-aryan-chauhan-ruby-agrawal/)
+- **Published:** Sat, 27 Jun 2026 05:38:20 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Unclogging the Insolvency Pipeline: Twin Push from the Indian Supreme Court and the Parliament – Adv. Nidhi Singh & Adv. Aatmik Jain](https://ibclaw.in/unclogging-the-insolvency-pipeline-twin-push-from-the-indian-supreme-court-and-the-parliament-adv-nidhi-singh-adv-aatmik-jain/)
 - **Published:** Sat, 27 Jun 2026 04:29:00 +0000
