@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-26 09:58:24*
+*Last synced: 2026-06-27 04:35:55*
+
+### [Unclogging the Insolvency Pipeline: Twin Push from the Indian Supreme Court and the Parliament – Adv. Nidhi Singh & Adv. Aatmik Jain](https://ibclaw.in/unclogging-the-insolvency-pipeline-twin-push-from-the-indian-supreme-court-and-the-parliament-adv-nidhi-singh-adv-aatmik-jain/)
+- **Published:** Sat, 27 Jun 2026 04:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Beyond the big numbers: How IBC is encouraging early settlement and better recoveries](https://www.barandbench.com/view-point/beyond-the-big-numbers-how-ibc-is-encouraging-early-settlement-and-better-recoveries)
 - **Published:** Fri, 26 Jun 2026 13:01:12 +0530
