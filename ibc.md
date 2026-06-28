@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-27 09:11:57*
+*Last synced: 2026-06-28 05:04:05*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 22nd June, 2026 to 28th June, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-22nd-june-2026-to-28th-june-2026/)
+- **Published:** Sat, 27 Jun 2026 22:13:52 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [OFAC sanction, insolvency and Indian tribunals: Can foreign regulatory restrictions defeat IBC proceeding?](https://www.barandbench.com/view-point/ofac-sanction-insolvency-and-indian-tribunals-can-foreign-regulatory-restrictions-defeat-ibc-proceeding)
 - **Published:** Sat, 27 Jun 2026 11:11:07 +0530
