@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-28 05:04:05*
+*Last synced: 2026-06-28 19:54:41*
+
+### [Merits of proposed amendment are not to be examined at amendment stage; relevant test is whether amendment assists real, effective and complete adjudication – Rechtsanwalt Dr. Christian Bachmann Vs. Coffee Day Global Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/rechtsanwalt-dr-christian-bachmann-vs-coffee-day-global-ltd-nclt-bengaluru-bench/)
+- **Published:** Sun, 28 Jun 2026 18:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [In absence of any dispute by the Personal Guarantor and on the basis of the Resolution Professional’s Section 99 report, application under Section 95 of IBC deserves admission under Section 100 to commence insolvency resolution process against the Personal Guarantor – Brinda Bidasaria, RP of Anirudh Pasari – NCLT Kolkata Bench](https://ibclaw.in/brinda-bidasaria-rp-of-anirudh-pasari-nclt-kolkata-bench/)
+- **Published:** Sun, 28 Jun 2026 18:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pending SARFAESI action alone is no ground to reject a Section 94 insolvency application by a personal guarantor when debt and default are undisputed – Madhubala R Jain – NCLT Mumbai Bench](https://ibclaw.in/madhubala-r-jain-nclt-mumbai-bench/)
+- **Published:** Sun, 28 Jun 2026 19:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Status quo over toll project and related assets ordered to protect liquidation estate and ongoing e-auction from alleged third-party interference – SREI Infrastructure Finance Ltd. Vs. Supreme Vasai Bhiwandi Tollways Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/srei-infrastructure-finance-ltd-vs-supreme-vasai-bhiwandi-tollways-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Sun, 28 Jun 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 22nd June, 2026 to 28th June, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-22nd-june-2026-to-28th-june-2026/)
 - **Published:** Sat, 27 Jun 2026 22:13:52 +0000
