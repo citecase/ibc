@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-28 19:54:41*
+*Last synced: 2026-06-29 05:12:46*
+
+### [Whether Leasehold Rights/Tenancy Rights constitute an ‘Asset’ of the Corporate Debtor to be included in the Information Memorandum – Niraj Agarwal, RP of United Royalfab Engineering Pvt. Ltd. Vs. Debasis Roy and Ors. – NCLT Kolkata Bench](https://ibclaw.in/niraj-agarwal-rp-of-united-royalfab-engineering-pvt-ltd-vs-debasis-roy-and-ors-nclt-kolkata-bench/)
+- **Published:** Sun, 28 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A petition under Section 7 of IBC based on an old NPA/default is not maintainable after account regularisation unless a fresh default is specifically pleaded – IIFL Home Finance Ltd. Vs. Bombay ISLE Developers Pvt. Ltd. – NCLT Mumbai Bench](https://ibclaw.in/iifl-home-finance-ltd-vs-bombay-isle-developers-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 28 Jun 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A step-down subsidiary cannot, on the basis of an unreliable and disputed agency agreement, raise belated rental and bill of lading claims against a corporate debtor already sold as a going concern in liquidation – St. John Lines Pte Ltd. Vs. R. Venkatakrishnan (Liquidator) – NCLT Chennai Bench](https://ibclaw.in/st-john-lines-pte-ltd-vs-r-venkatakrishnan-liquidator-nclt-chennai-bench/)
+- **Published:** Sun, 28 Jun 2026 20:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether limitation for filing the appeal under Section 61(2) of the Insolvency and Bankruptcy Code, 2016 commenced from the date of pronouncement of the impugned order or from the date of its uploading on the Tribunal website – Sasmita Kumari Sadangi Vs. Genext Greenpower Solutions Pvt. Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/sasmita-kumari-sadangi-vs-genext-greenpower-solutions-pvt-ltd-and-anr-nclat-chennai/)
+- **Published:** Sun, 28 Jun 2026 20:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the highest bidder in liquidation failed to pay the balance consideration and the letter of intent stood cancelled, sale of the Corporate Debtor as a going concern cannot be permitted afresh after deletion of Regulation 32(e) of the Liquidation Process Regulations – Manish Jain, Liquidator of Shradha Agencies Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/manish-jain-liquidator-of-shradha-agencies-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Sun, 28 Jun 2026 21:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Corporate Debtor cannot seek recall of order closing its right to file reply in a Section 7 petition after availing repeated opportunities, particularly when amended Section 7(5) of IBC mandates admission or rejection within 14 days – Yes Bank Ltd. Vs. Ideal Aurum Nirman LLP – NCLT Kolkata Bench](https://ibclaw.in/yes-bank-ltd-vs-ideal-aurum-nirman-llp-nclt-kolkata-bench/)
+- **Published:** Sun, 28 Jun 2026 21:35:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Merits of proposed amendment are not to be examined at amendment stage; relevant test is whether amendment assists real, effective and complete adjudication – Rechtsanwalt Dr. Christian Bachmann Vs. Coffee Day Global Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/rechtsanwalt-dr-christian-bachmann-vs-coffee-day-global-ltd-nclt-bengaluru-bench/)
 - **Published:** Sun, 28 Jun 2026 18:33:00 +0000
