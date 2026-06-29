@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-29 05:12:46*
+*Last synced: 2026-06-29 11:32:02*
+
+### [A statutory gap in the personal guarantor insolvency framework under Insolvency and Bankruptcy Code, 2016 - Part I](https://www.barandbench.com/view-point/a-statutory-gap-in-the-personal-guarantor-insolvency-framework-under-insolvency-and-bankruptcy-code-2016-part-i)
+- **Published:** Mon, 29 Jun 2026 15:24:57 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Whether Leasehold Rights/Tenancy Rights constitute an ‘Asset’ of the Corporate Debtor to be included in the Information Memorandum – Niraj Agarwal, RP of United Royalfab Engineering Pvt. Ltd. Vs. Debasis Roy and Ors. – NCLT Kolkata Bench](https://ibclaw.in/niraj-agarwal-rp-of-united-royalfab-engineering-pvt-ltd-vs-debasis-roy-and-ors-nclt-kolkata-bench/)
 - **Published:** Sun, 28 Jun 2026 20:32:00 +0000
