@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-29 11:32:02*
+*Last synced: 2026-06-29 20:25:58*
+
+### [A minor delay in varying or rectifying a liquidation claim under Section 38(5) of the IBC can be condoned in the interest of fair opportunity to stakeholders, and the Liquidator must then consider the rectified claim on merits – Laxmi Steels Vs. Aishwarya Mohan Gahrana, Liquidator of VGA Developers Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/laxmi-steels-vs-aishwarya-mohan-gahrana-liquidator-of-vga-developers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 18:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the CIRP had crossed the statutory timeline without any resolution plan, suffered from serious procedural irregularities, absence of financial records and lack of control over the Corporate Debtor’s assets, NCLT refused further extension, invoked Rule 11 read with the principles of Section 65 of the IBC, and recalled the admission order itself – Ashok Arora, RP of Mothers Pride Education Personna Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/ashok-arora-rp-of-mothers-pride-education-personna-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 18:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A joint Section 7 application is maintainable and liable to be admitted where separate loan agreements and disbursal records establish financial debt under Section 5(8) of IBC – RCM Finance & Leasing Pvt. Ltd. and Anr. Vs. ANSA Polymers Ltd. – NCLT New Delhi Bench](https://ibclaw.in/rcm-finance-leasing-pvt-ltd-and-anr-vs-ansa-polymers-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 18:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where sale of the Corporate Debtor as a going concern had already been approved with liberty to the Liquidator to sign necessary ROC forms and with waiver of statutory penalties, NCLT can direct ROC to accept pending financial statements and annual returns through GNL-2 without additional fees or late filing penalties – Jharkhand Mega Food Park Pvt. Ltd. Vs. Registrar of Companies, Ranchi and Anr. – NCLT Kolkata Bench](https://ibclaw.in/jharkhand-mega-food-park-pvt-ltd-vs-registrar-of-companies-ranchi-and-anr-nclt-kolkata-bench/)
+- **Published:** Mon, 29 Jun 2026 18:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the High Court quashes NPA classification and directs the Bank to first consider MSME restructuring before initiating or continuing recovery proceedings, an application under Section 7 of IBC is not maintainable – Punjab National Bank Vs. Siddhanth Vedant Cold Storage Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/punjab-national-bank-vs-siddhanth-vedant-cold-storage-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 29 Jun 2026 19:09:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Private sale of liquidation asset was treated as unsuccessful where the purchaser did not comply with the LOI; advance refund and fresh valuation-based sale were ordered – Bluefireinfotax Consultancy Pvt. Ltd. Vs. Liquidator of VGA Developers Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/bluefireinfotax-consultancy-pvt-ltd-vs-liquidator-of-vga-developers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the very loan transaction relied on in a petition under Section 7 of IBC is alleged by the Financial Creditor’s own Administrator to be a fraudulent round-tripping/sham arrangement and the same issue is pending before NCLT and an Arbitrator, the Adjudicating Authority may decline to admit CIRP as existence of a clear financial debt and default is not established – Srei Equipment Finance Ltd. Vs. Kitply Industries Ltd. – NCLT Guwahati Bench](https://ibclaw.in/srei-equipment-finance-ltd-vs-kitply-industries-ltd-nclt-guwahati-bench/)
+- **Published:** Mon, 29 Jun 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Delay in filing claim before the Liquidator can be condoned under Section 42 of the IBC to ensure fair opportunity to a stakeholder, and the Liquidator can then be directed to consider the claim on merits – Ganpati Construction Company Vs. Aishwarya Mohan Gahrana, Liquidator of VGA Developers Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/ganpati-construction-company-vs-aishwarya-mohan-gahrana-liquidator-of-vga-developers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A statutory gap in the personal guarantor insolvency framework under Insolvency and Bankruptcy Code, 2016 - Part I](https://www.barandbench.com/view-point/a-statutory-gap-in-the-personal-guarantor-insolvency-framework-under-insolvency-and-bankruptcy-code-2016-part-i)
 - **Published:** Mon, 29 Jun 2026 15:24:57 +0530
