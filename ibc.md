@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-30 04:46:20*
+*Last synced: 2026-06-30 20:29:55*
+
+### [Insolvency Journal | June 2026 | IJ Vol. 6](https://ibclaw.in/insolvency-journal-june-2026-ij-vol-6/)
+- **Published:** Tue, 30 Jun 2026 15:52:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An application under Section 9 o IBC is not maintainable where the foundational agreements relied upon to constitute operational debt are of doubtful authenticity, remain improperly executed, and appear to have been used to retrospectively characterise past transactions for recovery of dues under the IBC – Jiostar India Pvt. Ltd. Vs. Absolute Legends Sports Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/jiostar-india-pvt-ltd-vs-absolute-legends-sports-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 30 Jun 2026 18:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An assignee Financial Creditor and CoC/SCC member is liable to contribute its proportionate share of CIRP and liquidation costs, and NCLT can direct payment with interest for default – Keyur Jagsidhbhai Shah, Liquidator of Sagar Autotech Pvt. Ltd. Vs. Ankit Daga – NCLT Indore Bench](https://ibclaw.in/keyur-jagsidhbhai-shah-liquidator-of-sagar-autotech-pvt-ltd-vs-ankit-daga-nclt-indore-bench/)
+- **Published:** Tue, 30 Jun 2026 18:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Additional objections in a petition under Section 7 of IBC cannot be permitted when the grounds and documents were already available to the Corporate Debtor – Morgan Securities and Credits Pvt. Ltd. Vs. BPL Ltd. – NCLT Kochi Bench](https://ibclaw.in/morgan-securities-and-credits-pvt-ltd-vs-bpl-ltd-nclt-kochi-bench/)
+- **Published:** Tue, 30 Jun 2026 18:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [For admission of a homebuyer’s claim in CIRP, the Resolution Professional has to verify only the amount due and outstanding on the insolvency commencement date, and a pre-CIRP refund cannot be re-appropriated first towards interest or delay possession charges to inflate the claim – Ashok Gupta and Ors. Vs. Rahul Jindal, RP of Samar Estate Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/ashok-gupta-and-ors-vs-rahul-jindal-rp-of-samar-estate-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 30 Jun 2026 19:40:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT can permit additional objections and documents after filing of reply under Rule 55 read with Rule 11 of the NCLT Rules, and refusal on the ground that there is no such provision is unsustainable – BPL Ltd. Vs. National Company Law Tribunal, Kochi Bench and Anr. – Kerala High Court](https://ibclaw.in/bpl-ltd-vs-national-company-law-tribunal-kochi-bench-and-anr-kerala-high-court/)
 - **Published:** Mon, 29 Jun 2026 20:30:00 +0000
