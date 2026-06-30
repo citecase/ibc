@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-29 20:25:58*
+*Last synced: 2026-06-30 04:46:20*
+
+### [NCLT can permit additional objections and documents after filing of reply under Rule 55 read with Rule 11 of the NCLT Rules, and refusal on the ground that there is no such provision is unsustainable – BPL Ltd. Vs. National Company Law Tribunal, Kochi Bench and Anr. – Kerala High Court](https://ibclaw.in/bpl-ltd-vs-national-company-law-tribunal-kochi-bench-and-anr-kerala-high-court/)
+- **Published:** Mon, 29 Jun 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where a Special Leave Petition (SLP) against the arbitral award was already pending before issuance of the demand notice under Section 8 of IBC, filing a Section 9 petition by stating that no notice of dispute was received is liable to be treated as a malicious initiation under Section 65 of IBC – Shree Basaveshwar Sugars Ltd. Vs. Uttam Industrial Engineering Pvt. Ltd. – NCLT Bengaluru Bench](https://ibclaw.in/shree-basaveshwar-sugars-ltd-vs-uttam-industrial-engineering-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Mon, 29 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Delay in filing a bankruptcy application under Section 121(2) of the IBC can be condoned, as the three-month period is directory and not mandatory – Tata Capital Ltd. – NCLT New Delhi Bench](https://ibclaw.in/tata-capital-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Once the parties execute a settlement deed before admission of a Section 9 petition, the original claim for supply of goods stands governed by the substituted settlement terms, and default under such settlement does not constitute an operational debt under Section 5(21) of IBC – Silver Collections Pvt. Ltd. Vs. Paragon Knits Ltd. – NCLT New Delhi Bench](https://ibclaw.in/silver-collections-pvt-ltd-vs-paragon-knits-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 29 Jun 2026 20:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where the first auction purchaser failed to pay the balance sale consideration because the issue of pending dues payable to the developer remained unresolved, NCLT directed refund of the forfeited 25% auction amount after adjusting second auction expenses, and directed cooperation with the subsequent successful purchaser – Veesons Energy Systems Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/veesons-energy-systems-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Mon, 29 Jun 2026 21:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT cannot exclude disputed immovable property from the CIRP estate where title and specific performance are sub judice before the civil court, and the Resolution Professional is justified in admitting the claim at a notional value of Re. 1 pending adjudication of such dispute – Sandeep Kumar and Ors. Vs. Chandigarh Overseas Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/sandeep-kumar-and-ors-vs-chandigarh-overseas-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 29 Jun 2026 22:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A minor delay in varying or rectifying a liquidation claim under Section 38(5) of the IBC can be condoned in the interest of fair opportunity to stakeholders, and the Liquidator must then consider the rectified claim on merits – Laxmi Steels Vs. Aishwarya Mohan Gahrana, Liquidator of VGA Developers Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/laxmi-steels-vs-aishwarya-mohan-gahrana-liquidator-of-vga-developers-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Mon, 29 Jun 2026 18:31:00 +0000
