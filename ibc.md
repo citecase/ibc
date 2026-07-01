@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-01 05:06:29*
+*Last synced: 2026-07-01 10:30:15*
+
+### [IBC is not Holy Ganges to wash off criminality: NCLAT says ED action under PMLA not hit by moratorium](https://www.barandbench.com/news/litigation/ibc-is-not-holy-ganges-to-wash-off-criminality-nclat-says-ed-action-under-pmla-not-hit-by-moratorium)
+- **Published:** Wed, 01 Jul 2026 12:01:45 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [A statutory gap in the personal guarantor insolvency framework under The Insolvency and Bankruptcy Code, 2016 - Part II](https://www.barandbench.com/view-point/a-statutory-gap-in-the-personal-guarantor-insolvency-framework-under-insolvency-and-bankruptcy-code-2016-part-ii)
+- **Published:** Wed, 01 Jul 2026 12:23:25 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Jet Airways liquidation: NCLAT backs full provident fund, gratuity for staff](https://www.barandbench.com/news/jet-airways-liquidation-nclat-backs-full-provident-fund-gratuity-for-staff)
 - **Published:** Wed, 01 Jul 2026 08:47:43 +0530
