@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-01 10:30:15*
+*Last synced: 2026-07-01 20:25:06*
+
+### [A Section 95 of IBC application against a personal guarantor is not maintainable where the guarantee was not specifically invoked prior to issuance of Form B notice and the claim is barred by limitation reckoned from the Recovery Certificate, there being no valid acknowledgment by the guarantor – UCO Bank Vs. Mallika Barooah – NCLT Guwahati Bench](https://ibclaw.in/uco-bank-vs-mallika-barooah-nclt-guwahati-bench/)
+- **Published:** Wed, 01 Jul 2026 18:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A duplicate Section 60(5) IBC application seeking restraint on pipeline laying becomes infructuous after NCLT in the connected matter permits action under the PMP Act and vacates the interim order – Bimal Kanti Choudhury Vs. Gail (India) Ltd. and Ors. – NCLT Kolkata Bench](https://ibclaw.in/bimal-kanti-choudhury-vs-gail-india-ltd-and-ors-nclt-kolkata-bench/)
+- **Published:** Wed, 01 Jul 2026 18:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A claimant cannot, in a Section 42 of IBC appeal against rejection of claim by the Liquidator, reopen issues already concluded in earlier proceedings, and a loan claim earlier not accepted cannot be reintroduced under the guise of a fresh claim – V. Jaisankar Vs. CA Mahalingam Suresh Kumar, Liquidator of Ganga Foundations Pvt. Ltd. – NCLT Chennai Bench](https://ibclaw.in/v-jaisankar-vs-ca-mahalingam-suresh-kumar-liquidator-of-ganga-foundations-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Wed, 01 Jul 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Late claim of Operational Creditor is not maintainable once the Resolution Plan is approved by the CoC and awaits NCLT approval – Sh. Vinay Kumar Vs. Technicolour Dream Pants Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/sh-vinay-kumar-vs-technicolour-dream-pants-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 01 Jul 2026 19:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC is not Holy Ganges to wash off criminality: NCLAT says ED action under PMLA not hit by moratorium](https://www.barandbench.com/news/litigation/ibc-is-not-holy-ganges-to-wash-off-criminality-nclat-says-ed-action-under-pmla-not-hit-by-moratorium)
 - **Published:** Wed, 01 Jul 2026 12:01:45 +0530
