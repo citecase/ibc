@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-06-30 20:29:55*
+*Last synced: 2026-07-01 05:06:29*
+
+### [Jet Airways liquidation: NCLAT backs full provident fund, gratuity for staff](https://www.barandbench.com/news/jet-airways-liquidation-nclat-backs-full-provident-fund-gratuity-for-staff)
+- **Published:** Wed, 01 Jul 2026 08:47:43 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Suspended directors cannot evade Section 19 of IBC by giving evasive replies such as ‘refer MCA website’ or by producing only XBRL filings, and must furnish complete records necessary for CIRP – Teena Saraswat Pandey, RP of Xyron Technologies Ltd. Vs. Aditya Bhatnagar and Ors. – NCLT Indore Bench](https://ibclaw.in/teena-saraswat-pandey-rp-of-xyron-technologies-ltd-vs-aditya-bhatnagar-and-ors-nclt-indore-bench/)
+- **Published:** Tue, 30 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An application under Section 94 of IBC filed by a personal guarantor after conclusion of auction of the mortgaged property under SARFAESI, only to take shelter under Section 96 moratorium and scuttle the concluded sale, is an abuse of process and liable to be rejected – Vandana Ravindra Chaudhari Vs. Union Bank of India – NCLT Mumbai Bench](https://ibclaw.in/vandana-ravindra-chaudhari-vs-union-bank-of-india-nclt-mumbai-bench/)
+- **Published:** Tue, 30 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A housing society cannot recover pre-sale maintenance arrears of the corporate debtor from a successful auction purchaser, and such dues must be pursued only in liquidation under Section 53 of IBC – Anil Patel and Ors. Vs. Panchratna Co-operative Housing Society and Anr. – NCLT Mumbai Bench](https://ibclaw.in/anil-patel-and-ors-vs-panchratna-co-operative-housing-society-and-anr-nclt-mumbai-bench/)
+- **Published:** Tue, 30 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A bald and unsupported dispute raised for the first time after the demand notice under Section 8 of IBC cannot defeat admission of a Section 9 petition – Dakshesh Divyakant Desai Vs. Inodaya Foods Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/dakshesh-divyakant-desai-vs-inodaya-foods-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 30 Jun 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [No perjury action lies for omission of part-payments in proceedings under Section 9 of IBC where the petition was dismissed after the Tribunal considered the adjusted debt – Tollman International Pvt. Ltd. Vs. Capstech Network Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/tollman-international-pvt-ltd-vs-capstech-network-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 30 Jun 2026 21:30:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Journal | June 2026 | IJ Vol. 6](https://ibclaw.in/insolvency-journal-june-2026-ij-vol-6/)
 - **Published:** Tue, 30 Jun 2026 15:52:52 +0000
