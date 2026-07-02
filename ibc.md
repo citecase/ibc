@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-02 04:41:19*
+*Last synced: 2026-07-02 09:43:38*
+
+### [Supreme Court sets aside NCLT judgment for relying on hallucinated AI-generated citations](https://www.barandbench.com/news/litigation/supreme-court-sets-aside-nclt-judgment-for-relying-on-hallucinated-ai-generated-citations)
+- **Published:** Thu, 02 Jul 2026 10:58:30 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Pari Passu But Powerless? Rethinking Workmen’s Dues Under The IBC – Adv. Rohit Kawre & Ashmit Malani](https://ibclaw.in/pari-passu-but-powerless-rethinking-workmens-dues-under-the-ibc-adv-rohit-kawre-ashmit-malani/)
+- **Published:** Thu, 02 Jul 2026 09:16:57 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A pre-CIRP sale of corporate debtor’s mortgaged flats cannot be declared a fraudulent transaction under Section 66 of IBC merely because the original board resolution was unavailable, absent cogent proof of fraudulent intent, conscious participation, or diversion of sale proceeds – Ravindra Beleyur, RP of Reliable Cashew Company Pvt. Ltd. Vs. Shanthanu Malnad and Ors. – NCLT Chennai Bench](https://ibclaw.in/ravindra-beleyur-rp-of-reliable-cashew-company-pvt-ltd-vs-shanthanu-malnad-and-ors-nclt-chennai-bench-2/)
 - **Published:** Wed, 01 Jul 2026 20:58:00 +0000
