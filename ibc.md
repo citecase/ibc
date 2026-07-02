@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-02 14:40:28*
+*Last synced: 2026-07-02 20:03:29*
+
+### [Replacement of a Resolution Professional under Section 27 of IBC requires a prior CoC resolution passed in a duly convened meeting with requisite voting share, and the NCLT cannot directly substitute the RP in absence of such compliance – CoC of Harshil Agrotech Ltd. Vs. Neeraj Kumar Bajaj, RP of Harshil Agrotech Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/coc-of-harshil-agrotech-ltd-vs-neeraj-kumar-bajaj-rp-of-harshil-agrotech-ltd-nclt-ahmedabad-bench/)
+- **Published:** Thu, 02 Jul 2026 18:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Section 95 IBC petition against a Personal Guarantor is maintainable within limitation where the guarantee makes the Corporate Debtor’s acknowledgments binding on the guarantor – State Bank of India Vs. Gokul A. Agarwal – NCLT Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-gokul-a-agarwal-nclt-mumbai-bench-2/)
+- **Published:** Thu, 02 Jul 2026 19:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where contemporaneous communications predating the Section 8 demand notice disclose work-performance disputes and a draft settlement record ongoing disputed claims, admission of an application under Section 9 of IBC is unsustainable – Rahul Bhakat Vs. Sree UGCL Projects Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/rahul-bhakat-vs-sree-ugcl-projects-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 02 Jul 2026 19:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [No contempt lies for non-handover of original title deeds when the bank did not possess them and there was no wilful disobedience of the NCLT’s order – V Square and Anr. Vs. Vishwanath V. Jare – NCLT Mumbai Bench](https://ibclaw.in/v-square-and-anr-vs-vishwanath-v-jare-nclt-mumbai-bench/)
+- **Published:** Thu, 02 Jul 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Corporate Debtor can be ordered into liquidation under Section 33(2) of IBC on the CoC’s commercial decision even where no Form G is issued and no valuation is undertaken, if there are no identifiable assets, no investor interest and no resolution plan before the Adjudicating Authority – Ajay Kumar Atolia, RP of Viratra Export Pvt. Ltd. – NCLT Jaipur Bench](https://ibclaw.in/ajay-kumar-atolia-rp-of-viratra-export-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Thu, 02 Jul 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A fresh demand notice under Section 8 of IBC issued after withdrawal of an earlier defective notice cannot be treated as a continuation of the earlier notice, and where mediation proceedings had already commenced before the fresh notice, the resulting pre-existing dispute renders a Section 9 application not maintainable and liable to be dismissed – Abhay Trading Company Vs. Ask Home Furnishing Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/abhay-trading-company-vs-ask-home-furnishing-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Wed, 01 Jul 2026 23:00:00 +0000
