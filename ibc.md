@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-02 09:43:38*
+*Last synced: 2026-07-02 14:40:28*
+
+### [A fresh demand notice under Section 8 of IBC issued after withdrawal of an earlier defective notice cannot be treated as a continuation of the earlier notice, and where mediation proceedings had already commenced before the fresh notice, the resulting pre-existing dispute renders a Section 9 application not maintainable and liable to be dismissed – Abhay Trading Company Vs. Ask Home Furnishing Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/abhay-trading-company-vs-ask-home-furnishing-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 01 Jul 2026 23:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CIRP can be terminated where the sole creditor constituting the one-member CoC unjustifiably refuses to accept the settlement offered by the promoters or the suspended board of the corporate debtor – Achal Kumar Jindal Vs. Sanjay Kumar Bhuwalka and Anr. – NCLAT New Delhi](https://ibclaw.in/achal-kumar-jindal-vs-sanjay-kumar-bhuwalka-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 02 Jul 2026 11:46:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT New Delhi Holds CIRP Can Be Terminated Where Sole Creditor Unjustifiably Refuses Settlement by Promoters](https://ibclaw.in/nclat-new-delhi-holds-cirp-can-be-terminated-where-sole-creditor-unjustifiably-refuses-settlement-by-promoters/)
+- **Published:** Thu, 02 Jul 2026 11:47:12 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Discussion Paper on Strengthening the Regulatory Framework – Amendments to CIRP Regulations, Liquidation Regulations and PG to CD Regulations](https://ibclaw.in/ibbi-discussion-paper-on-strengthening-the-regulatory-framework-amendments-to-cirp-regulations-liquidation-regulations-and-pg-to-cd-regulations/)
+- **Published:** Thu, 02 Jul 2026 13:42:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Discussion Paper for Strengthening resolution outcomes in Real Estate Insolvency](https://ibclaw.in/ibbi-discussion-paper-for-strengthening-resolution-outcomes-in-real-estate-insolvency/)
+- **Published:** Thu, 02 Jul 2026 13:42:51 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court sets aside NCLT judgment for relying on hallucinated AI-generated citations](https://www.barandbench.com/news/litigation/supreme-court-sets-aside-nclt-judgment-for-relying-on-hallucinated-ai-generated-citations)
 - **Published:** Thu, 02 Jul 2026 10:58:30 +0530
