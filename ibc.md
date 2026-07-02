@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-01 20:25:06*
+*Last synced: 2026-07-02 04:41:19*
+
+### [A pre-CIRP sale of corporate debtor’s mortgaged flats cannot be declared a fraudulent transaction under Section 66 of IBC merely because the original board resolution was unavailable, absent cogent proof of fraudulent intent, conscious participation, or diversion of sale proceeds – Ravindra Beleyur, RP of Reliable Cashew Company Pvt. Ltd. Vs. Shanthanu Malnad and Ors. – NCLT Chennai Bench](https://ibclaw.in/ravindra-beleyur-rp-of-reliable-cashew-company-pvt-ltd-vs-shanthanu-malnad-and-ors-nclt-chennai-bench-2/)
+- **Published:** Wed, 01 Jul 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A nodal agency disbursing Government funds without time value of money is not a financial creditor under Section 5(7) of IBC and Section 7 petition is not maintainable – ICICI Bank Ltd. Vs. Institute of Molecular Medicine – NCLT Kolkata Bench](https://ibclaw.in/icici-bank-ltd-vs-institute-of-molecular-medicine-nclt-kolkata-bench/)
+- **Published:** Wed, 01 Jul 2026 21:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Statutory first charge for tax dues created by operation of State law does not make Government a secured creditor in liquidation under IBC, and such claims are to be treated as Government dues under Section 53 of IBC – Deputy Commissioner of Commercial Taxes and GST Vs. Vinod Kothari, Liquidator of Nicco Corporation Ltd. – NCLT Kolkata Bench](https://ibclaw.in/deputy-commissioner-of-commercial-taxes-and-gst-vs-vinod-kothari-liquidator-of-nicco-corporation-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 01 Jul 2026 21:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An Other Creditor who filed claim in Form F has no right to obtain a copy or extract of the Resolution Plan before its approval – Sandeep Kumar and Ors. Vs. Chandigarh Overseas Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/sandeep-kumar-and-ors-vs-chandigarh-overseas-pvt-ltd-nclt-chandigarh-bench-2/)
+- **Published:** Wed, 01 Jul 2026 21:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether appointment of Directors during moratorium is violation of Moratorium under Section 14 of the IBC? – Indure Pvt. Ltd. Vs. B.K. Coal Fields Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/indure-pvt-ltd-vs-b-k-coal-fields-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 01 Jul 2026 22:35:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [A Section 95 of IBC application against a personal guarantor is not maintainable where the guarantee was not specifically invoked prior to issuance of Form B notice and the claim is barred by limitation reckoned from the Recovery Certificate, there being no valid acknowledgment by the guarantor – UCO Bank Vs. Mallika Barooah – NCLT Guwahati Bench](https://ibclaw.in/uco-bank-vs-mallika-barooah-nclt-guwahati-bench/)
 - **Published:** Wed, 01 Jul 2026 18:35:00 +0000
