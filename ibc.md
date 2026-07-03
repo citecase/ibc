@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-02 20:03:29*
+*Last synced: 2026-07-03 04:26:10*
+
+### [Where a deed of guarantee requires payment upon demand, prior invocation of the personal guarantee stands sufficiently established by the invocation letter, recall notice, statutory demand notice and DRT proceedings read together, and admission of application under Section 95 of IBC is therefore valid – Vijay Pandey Vs. Small Industries Development Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/vijay-pandey-vs-small-industries-development-bank-of-india-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 02 Jul 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where lease rentals forming the very basis of a rental securitisation facility were fraudulently waived in favour of a related party and huge interest-free advances were diverted to directors and related entities, such conduct amounts to fraudulent trading under Section 66 of IBC warranting contribution to the assets of the Corporate Debtor – Gonugunta Murali, Liquidator of Butta Infrastructure Pvt. Ltd. Vs. Siva Neelakanta Butta and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/gonugunta-murali-liquidator-of-butta-infrastructure-pvt-ltd-vs-siva-neelakanta-butta-and-ors-nclt-hyderabad-bench/)
+- **Published:** Thu, 02 Jul 2026 21:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A shareholder or personal guarantor has no locus to challenge a completed liquidation auction, and once sale stands confirmed, full consideration is paid, and sale certificate is issued, the auction cannot be set aside on unsubstantiated allegations of fraud or irregularity – A. Joseb Raj Vs. P.R. Raman and Anr. – NCLAT Chennai](https://ibclaw.in/a-joseb-raj-vs-p-r-raman-and-anr-nclat-chennai/)
+- **Published:** Thu, 02 Jul 2026 21:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where CIRP admission is set aside on the basis of court-recorded consent terms reserving liberty to revive on default, a material breach of the settlement entitles the Financial Creditor to recall of the disposal order, restoration of appeal, and revival of CIRP under Rule 11 of the NCLAT Rules – Axis Bank Ltd. Vs. Chintamani’s Jewellery Arcade Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/axis-bank-ltd-vs-chintamanis-jewellery-arcade-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 02 Jul 2026 21:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Where a competent Civil Court has already passed a consent decree recognising a transferee’s possessory rights under agreements to sell and possession was delivered before commencement of CIRP, the Resolution Professional cannot invoke Sections 18 and 25 of the Insolvency and Bankruptcy Code, 2016 to divest such possession in summary insolvency proceedings, though status quo may continue pending adjudication of a Section 66 application – AKJ Metals Pvt. Ltd. Vs. Brijesh Singh Bhadauriya and Ors. – NCLAT New Delhi](https://ibclaw.in/akj-metals-pvt-ltd-vs-brijesh-singh-bhadauriya-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 02 Jul 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Replacement of a Resolution Professional under Section 27 of IBC requires a prior CoC resolution passed in a duly convened meeting with requisite voting share, and the NCLT cannot directly substitute the RP in absence of such compliance – CoC of Harshil Agrotech Ltd. Vs. Neeraj Kumar Bajaj, RP of Harshil Agrotech Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/coc-of-harshil-agrotech-ltd-vs-neeraj-kumar-bajaj-rp-of-harshil-agrotech-ltd-nclt-ahmedabad-bench/)
 - **Published:** Thu, 02 Jul 2026 18:50:00 +0000
