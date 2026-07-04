@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-04 04:20:18*
+*Last synced: 2026-07-04 14:09:53*
+
+### [Justice Ashok Bhushan demits office as NCLAT Chairperson after nearly five-year tenure](https://www.barandbench.com/news/justice-ashok-bhushan-demits-office-of-the-chairperson-of-the-nclat)
+- **Published:** Sat, 04 Jul 2026 17:42:47 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [The Missing Middle Path: Conditional Recognition under India’s Draft Cross-Border Insolvency Framework – By Siya Sharma & Harshita Jindal](https://ibclaw.in/the-missing-middle-path-conditional-recognition-under-indias-draft-cross-border-insolvency-framework-by-siya-sharma-harshita-jindal/)
 - **Published:** Sat, 04 Jul 2026 02:22:00 +0000
