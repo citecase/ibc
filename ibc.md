@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-03 04:26:10*
+*Last synced: 2026-07-04 04:20:18*
+
+### [The Missing Middle Path: Conditional Recognition under India’s Draft Cross-Border Insolvency Framework – By Siya Sharma & Harshita Jindal](https://ibclaw.in/the-missing-middle-path-conditional-recognition-under-indias-draft-cross-border-insolvency-framework-by-siya-sharma-harshita-jindal/)
+- **Published:** Sat, 04 Jul 2026 02:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Lifting the Corporate Veil in Insolvency; Analysing the Supreme Court’s Decision in Earth Infrastructure Ltd. and the Future of Group Insolvency under the IBC – By Shourya Parihar](https://ibclaw.in/lifting-the-corporate-veil-in-insolvency-analysing-the-supreme-courts-decision-in-earth-infrastructure-ltd-and-the-future-of-group-insolvency-under-the-ibc-by-shourya-parihar/)
+- **Published:** Sat, 04 Jul 2026 02:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [After remand directing an application under Section 7 of IBC to be heard afresh, NCLT cannot refuse filing of an additional affidavit by relying on pre-remand interlocutory orders, since procedural rules must yield to natural justice and full opportunity of hearing – Vinod Anand Vs. Golden Rolls Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/vinod-anand-vs-golden-rolls-pvt-ltd-nclat-new-delhi-2/)
+- **Published:** Sat, 04 Jul 2026 03:20:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Resolution Professional cannot unilaterally reduce an already admitted EPFO claim without primary records proving lower liability, and EPF dues including interest under Section 7Q and damages under Section 14B are fully admissible and payable in priority in CIRP – Employees Provident Fund Organization Vs. Ashok Kumar Gulla – NCLT Indore Bench](https://ibclaw.in/employees-provident-fund-organization-vs-ashok-kumar-gulla-nclt-indore-bench/)
+- **Published:** Sat, 04 Jul 2026 03:20:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [After omission of Regulations 32(e), 32(f) and 32A w.e.f. 14.10.2025, NCLT cannot permit sale of the Corporate Debtor as a going concern or as a continuing juristic entity in liquidation, though slump sale of its assets under Regulation 32 remains permissible – Sanjeev Jhunjhunwala, Liquidator of Dooteriah and Kalej Valley Tea Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/sanjeev-jhunjhunwala-liquidator-of-dooteriah-and-kalej-valley-tea-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Sat, 04 Jul 2026 03:20:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [An inter-corporate loan with time value of money is a financial debt under Section 5(8) of IBC, and default in interest payment warrants admission under Section 7 – Scorpion Nirman Pvt. Ltd. Vs. Swal Ltd. – NCLT Kolkata Bench](https://ibclaw.in/scorpion-nirman-pvt-ltd-vs-swal-ltd-nclt-kolkata-bench/)
+- **Published:** Sat, 04 Jul 2026 03:20:54 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Where a deed of guarantee requires payment upon demand, prior invocation of the personal guarantee stands sufficiently established by the invocation letter, recall notice, statutory demand notice and DRT proceedings read together, and admission of application under Section 95 of IBC is therefore valid – Vijay Pandey Vs. Small Industries Development Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/vijay-pandey-vs-small-industries-development-bank-of-india-and-anr-nclat-new-delhi/)
 - **Published:** Thu, 02 Jul 2026 21:15:00 +0000
