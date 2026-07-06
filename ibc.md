@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-06 04:52:45*
+*Last synced: 2026-07-06 11:12:48*
+
+### [NCLAT reshuffle: Justice Sharad Kumar Sharma to go to Delhi, Justice Seshasayee to Chennai](https://www.barandbench.com/news/law-policy/nclat-reshuffle-justice-sharad-kumar-sharma-to-go-to-delhi-justice-seshasayee-to-chennai)
+- **Published:** Mon, 06 Jul 2026 12:58:05 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Suspended directors cannot avoid their duty under Section 19 of IBC by merely referring the RP to ROC/XBRL records, and must furnish complete signed financial statements, asset details, and creditor-debtor information required for CIRP – Teena Saraswat Pandey, RP of Extol Industries Ltd. Vs. Abhinav Bhatnagar and Ors. – NCLT Indore Bench](https://ibclaw.in/teena-saraswat-pandey-rp-of-extol-industries-ltd-vs-abhinav-bhatnagar-and-ors-nclt-indore-bench/)
 - **Published:** Sun, 05 Jul 2026 20:32:00 +0000
