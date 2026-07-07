@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-06 11:12:48*
+*Last synced: 2026-07-07 04:33:39*
+
+### [Whether an approved resolution plan can be re-opened by a belated one-time payment proposal after repeated non-implementation? – Taguda Pte. Ltd. Vs. State Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/taguda-pte-ltd-vs-state-bank-of-india-and-anr-nclat-new-delhi-2/)
+- **Published:** Mon, 06 Jul 2026 23:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether resignation of a director revokes his personal guarantee or renewal of working capital facilities amounts to novation or variance under Sections 62, 129, 130 and 133 of the Contract Act in proceedings under Section 95 of the IBC?  – Nakul Gupta Vs. State Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/nakul-gupta-vs-state-bank-of-india-and-anr-nclat-new-delhi/)
+- **Published:** Tue, 07 Jul 2026 00:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT reshuffle: Justice Sharad Kumar Sharma to go to Delhi, Justice Seshasayee to Chennai](https://www.barandbench.com/news/law-policy/nclat-reshuffle-justice-sharad-kumar-sharma-to-go-to-delhi-justice-seshasayee-to-chennai)
 - **Published:** Mon, 06 Jul 2026 12:58:05 +0530
