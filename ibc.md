@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-07 04:33:39*
+*Last synced: 2026-07-07 15:26:08*
+
+### [Appointment of Shri Niraj Kumar, Joint Secretary and Legal Adviser as the ex-officio member in IBBI to represent the Ministry of Law & Justice](https://ibclaw.in/appointment-of-shri-niraj-kumar-joint-secretary-and-legal-adviser-as-the-ex-officio-member-in-ibbi-to-represent-the-ministry-of-law-justice/)
+- **Published:** Tue, 07 Jul 2026 06:08:10 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Resignation of Director Does Not Revoke Personal Guarantee; Renewal of Working Capital Facilities Not Novation Under Contract Act in IBC Proceedings](https://ibclaw.in/nclat-resignation-of-director-does-not-revoke-personal-guarantee-renewal-of-working-capital-facilities-not-novation-under-contract-act-in-ibc-proceedings/)
+- **Published:** Tue, 07 Jul 2026 07:53:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Approved Resolution Plan Cannot Be Reopened by Belated Payment Proposal After Repeated Non-Implementation](https://ibclaw.in/nclat-approved-resolution-plan-cannot-be-reopened-by-belated-payment-proposal-after-repeated-non-implementation/)
+- **Published:** Tue, 07 Jul 2026 08:10:38 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Whether an approved resolution plan can be re-opened by a belated one-time payment proposal after repeated non-implementation? – Taguda Pte. Ltd. Vs. State Bank of India and Anr. – NCLAT New Delhi](https://ibclaw.in/taguda-pte-ltd-vs-state-bank-of-india-and-anr-nclat-new-delhi-2/)
 - **Published:** Mon, 06 Jul 2026 23:35:00 +0000
