@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-07 15:26:08*
+*Last synced: 2026-07-08 09:07:03*
+
+### [NCLAT: Adjudicating Authority Under IBC Lacks Jurisdiction Over ED Attachments Under PMLA](https://ibclaw.in/nclat-adjudicating-authority-under-ibc-lacks-jurisdiction-over-ed-attachments-under-pmla/)
+- **Published:** Wed, 08 Jul 2026 05:09:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mega Mall Management Services Pvt. Ltd. Vs. Ajay Kumar Agarwal – NCLAT New Delhi](https://ibclaw.in/mega-mall-management-services-pvt-ltd-vs-ajay-kumar-agarwal-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 05:13:12 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Hannu Steels Pvt. Ltd. Vs. Rathi Powertech Global Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/hannu-steels-pvt-ltd-vs-rathi-powertech-global-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 05:43:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [RP’s omission to object to sole Operational Creditor voting on its own Resolution Plan under Section 30(5) IBC, being a bona fide mistake in peculiar facts, warranted expungement of adverse remarks? – Pragiti Construction Vs. CoC represented by Mahavir Medicare and Anr. – NCLAT New Delhi](https://ibclaw.in/pragiti-construction-vs-coc-represented-by-mahavir-medicare-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 05:54:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sukhbir Singh Vs. Verbio India Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/sukhbir-singh-vs-verbio-india-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 06:02:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dr. Badri Prasad Vs. Tata Capital Financial Services Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/dr-badri-prasad-vs-tata-capital-financial-services-ltd-and-anr-nclat-chennai/)
+- **Published:** Wed, 08 Jul 2026 06:06:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tech Lads India Pvt. Ltd. Vs. Satnam Global Infraprojects Ltd. – NCLAT New Delhi](https://ibclaw.in/tech-lads-india-pvt-ltd-vs-satnam-global-infraprojects-ltd-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 06:33:21 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Assam Power Distribution Company Ltd. Vs. Meena Sureka (RP) – NCLAT New Delhi](https://ibclaw.in/assam-power-distribution-company-ltd-vs-meena-sureka-rp-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 06:38:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether an appeal under Section 61(1) of the Insolvency and Bankruptcy Code, 2016 is maintainable against an order merely deferring consideration of an intervention application and reserving it for hearing with the resolution plan after reconsideration by the CoC? – Ayra Consortium Vs. Trupro Insolvency Services LLP, RP of Amar Prakaash Developers Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/ayra-consortium-vs-trupro-insolvency-services-llp-rp-of-amar-prakaash-developers-pvt-ltd-nclat-chennai/)
+- **Published:** Wed, 08 Jul 2026 07:02:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Deepti Pankaj Chugh Vs. State Bank of India – NCLAT New Delhi](https://ibclaw.in/deepti-pankaj-chugh-vs-state-bank-of-india-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 07:15:30 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Appointment of Shri Niraj Kumar, Joint Secretary and Legal Adviser as the ex-officio member in IBBI to represent the Ministry of Law & Justice](https://ibclaw.in/appointment-of-shri-niraj-kumar-joint-secretary-and-legal-adviser-as-the-ex-officio-member-in-ibbi-to-represent-the-ministry-of-law-justice/)
 - **Published:** Tue, 07 Jul 2026 06:08:10 +0000
