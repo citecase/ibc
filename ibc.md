@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-08 14:56:19*
+*Last synced: 2026-07-08 20:04:13*
+
+### [Justice Ashok Bhushan Bids Farewell as NCLAT Chairperson, Says Public Office Is a Public Trust](https://ibclaw.in/justice-ashok-bhushan-bids-farewell-as-nclat-chairperson-says-public-office-is-a-public-trust/)
+- **Published:** Wed, 08 Jul 2026 15:29:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Uniworth Enterprises LLP Vs. Starco Metaplast Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/uniworth-enterprises-llp-vs-starco-metaplast-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 19:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Whether a Section 9 CIRP admission order can be quashed in appeal when the Operational Creditor and Corporate Debtor had already entered into a settlement prior to the admission order and both parties seek disposal in terms of that settlement? – Chintalapati Venkata Satya Surya Raghurama Raju Vs. Jajoo Rashmi Refractories Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/chintalapati-venkata-satya-surya-raghurama-raju-vs-jajoo-rashmi-refractories-ltd-and-anr-nclat-chennai/)
+- **Published:** Wed, 08 Jul 2026 19:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Justice Yogesh Khanna appointed NCLAT officiating chairperson](https://www.barandbench.com/news/law-policy/justice-yogesh-khanna-appointed-nclat-officiating-chairperson)
 - **Published:** Wed, 08 Jul 2026 18:59:44 +0530
