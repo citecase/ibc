@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-08 09:07:03*
+*Last synced: 2026-07-08 14:56:19*
+
+### [Justice Yogesh Khanna appointed NCLAT officiating chairperson](https://www.barandbench.com/news/law-policy/justice-yogesh-khanna-appointed-nclat-officiating-chairperson)
+- **Published:** Wed, 08 Jul 2026 18:59:44 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [NCLAT: Adjudicating Authority Under IBC Lacks Jurisdiction Over ED Attachments Under PMLA](https://ibclaw.in/nclat-adjudicating-authority-under-ibc-lacks-jurisdiction-over-ed-attachments-under-pmla/)
 - **Published:** Wed, 08 Jul 2026 05:09:08 +0000
