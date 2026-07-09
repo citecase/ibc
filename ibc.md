@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-09 10:04:09*
+*Last synced: 2026-07-09 15:41:35*
+
+### [Extension of time for filing Forms to monitor insolvency resolution processes for PGs to Corporate Debtors – IBBI Circular No. IBBI/II/104/2026 dated 09.07.2026](https://ibclaw.in/extension-of-time-for-filing-forms-to-monitor-insolvency-resolution-processes-for-ps-to-corporate-debtors-under-ibc-2016-ibbi-circular-no-ibbi-ii-104-2026-dated-09-07-2026/)
+- **Published:** Thu, 09 Jul 2026 12:05:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Cosmos Co-Operative Bank Ltd. Vs. Anil Kumar Gilra – NCLAT New Delhi](https://ibclaw.in/cosmos-co-operative-bank-ltd-vs-anil-kumar-gilra-nclat-new-delhi/)
+- **Published:** Thu, 09 Jul 2026 13:50:53 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Kochi dismisses Morgan Securities’ ₹1,323 crore insolvency plea against BPL](https://www.barandbench.com/news/litigation/nclt-kochi-dismisses-morgan-securities-1323-crore-insolvency-plea-against-bpl)
 - **Published:** Thu, 09 Jul 2026 11:18:09 +0530
