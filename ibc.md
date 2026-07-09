@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-08 20:04:13*
+*Last synced: 2026-07-09 04:31:42*
+
+### [Gaurav Jaiswal Vs. Indian Renewable Energy Development Agency Ltd. (IREDA) and Anr. – NCLAT New Delhi](https://ibclaw.in/gaurav-jaiswal-vs-indian-renewable-energy-development-agency-ltd-ireda-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [New Okhla Industrial Development Authority Vs. Manohar Lal Vij (RP) and Anr. – NCLAT New Delhi](https://ibclaw.in/new-okhla-industrial-development-authority-vs-manohar-lal-vij-rp-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 21:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Assets Care & Reconstruction Enterprise Ltd. Vs. Viswanadha Sarma (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/assets-care-reconstruction-enterprise-ltd-vs-viswanadha-sarma-rp-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 21:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajkumar Jhawar and Anr. Vs. Arun Kapoor, RP for Monarch Brookfields LLP and Ors. – NCLAT New Delhi](https://ibclaw.in/rajkumar-jhawar-and-anr-vs-arun-kapoor-rp-for-monarch-brookfields-llp-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 21:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gaurav Bhalla Vs. Beacon Trusteeship Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/gaurav-bhalla-vs-beacon-trusteeship-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 21:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Micro Capitals Pvt. Ltd. Vs. Commissioner of Income Tax and Ors. – NCLAT New Delhi](https://ibclaw.in/micro-capitals-pvt-ltd-vs-commissioner-of-income-tax-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 23:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amount paid towards subscription of shares/warrants, absent repayment obligation, did not constitute financial debt under Section 5(8) or Section 5(8)(f) of IBC – Metamorphosis Trading LLP Vs. Kumar Motors Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/metamorphosis-trading-llp-vs-kumar-motors-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 08 Jul 2026 23:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Tax Officer-6 Vs. Besto Tradelink Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/state-tax-officer-6-vs-besto-tradelink-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 09 Jul 2026 00:36:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Justice Ashok Bhushan Bids Farewell as NCLAT Chairperson, Says Public Office Is a Public Trust](https://ibclaw.in/justice-ashok-bhushan-bids-farewell-as-nclat-chairperson-says-public-office-is-a-public-trust/)
 - **Published:** Wed, 08 Jul 2026 15:29:58 +0000
