@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-09 04:31:42*
+*Last synced: 2026-07-09 10:04:09*
+
+### [NCLT Kochi dismisses Morgan Securities’ ₹1,323 crore insolvency plea against BPL](https://www.barandbench.com/news/litigation/nclt-kochi-dismisses-morgan-securities-1323-crore-insolvency-plea-against-bpl)
+- **Published:** Thu, 09 Jul 2026 11:18:09 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Gaurav Jaiswal Vs. Indian Renewable Energy Development Agency Ltd. (IREDA) and Anr. – NCLAT New Delhi](https://ibclaw.in/gaurav-jaiswal-vs-indian-renewable-energy-development-agency-ltd-ireda-and-anr-nclat-new-delhi/)
 - **Published:** Wed, 08 Jul 2026 20:55:00 +0000
