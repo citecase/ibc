@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-10 10:00:30*
+*Last synced: 2026-07-10 15:13:12*
+
+### [Justice (Retd.) Yogesh Khanna Appointed Officiating Chairperson of NCLAT](https://ibclaw.in/justice-retd-yogesh-khanna-appointed-officiating-chairperson-of-nclat/)
+- **Published:** Fri, 10 Jul 2026 09:22:21 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Beyond Commercial Wisdom: The Supreme Court’s Third Phase of Insolvency Law](https://www.barandbench.com/columns/beyond-commercial-wisdom-the-supreme-courts-third-phase-of-insolvency-law)
 - **Published:** Fri, 10 Jul 2026 14:36:40 +0530
