@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-10 04:34:28*
+*Last synced: 2026-07-10 10:00:30*
+
+### [Beyond Commercial Wisdom: The Supreme Court’s Third Phase of Insolvency Law](https://www.barandbench.com/columns/beyond-commercial-wisdom-the-supreme-courts-third-phase-of-insolvency-law)
+- **Published:** Fri, 10 Jul 2026 14:36:40 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Mohd Nazim Khan Vs. HDFC Bank Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/mohd-nazim-khan-vs-hdfc-bank-ltd-and-ors-nclat-new-delhi/)
 - **Published:** Thu, 09 Jul 2026 20:38:00 +0000
