@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-09 15:41:35*
+*Last synced: 2026-07-10 04:34:28*
+
+### [Mohd Nazim Khan Vs. HDFC Bank Ltd. and Ors. – NCLAT New Delhi](https://ibclaw.in/mohd-nazim-khan-vs-hdfc-bank-ltd-and-ors-nclat-new-delhi/)
+- **Published:** Thu, 09 Jul 2026 20:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Krihaan Texchem Pvt. Ltd. Vs. UPL Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/krihaan-texchem-pvt-ltd-vs-upl-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Thu, 09 Jul 2026 20:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tropical Ventures Company Ltd. Vs. INCAB Industries Ltd. – NCLAT New Delhi](https://ibclaw.in/tropical-ventures-company-ltd-vs-incab-industries-ltd-nclat-new-delhi/)
+- **Published:** Thu, 09 Jul 2026 22:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Progfin Pvt. Ltd. Vs. Ganesh Benzoplast Ltd. – NCLAT New Delhi](https://ibclaw.in/progfin-pvt-ltd-vs-ganesh-benzoplast-ltd-nclat-new-delhi/)
+- **Published:** Thu, 09 Jul 2026 23:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Extension of time for filing Forms to monitor insolvency resolution processes for PGs to Corporate Debtors – IBBI Circular No. IBBI/II/104/2026 dated 09.07.2026](https://ibclaw.in/extension-of-time-for-filing-forms-to-monitor-insolvency-resolution-processes-for-ps-to-corporate-debtors-under-ibc-2016-ibbi-circular-no-ibbi-ii-104-2026-dated-09-07-2026/)
 - **Published:** Thu, 09 Jul 2026 12:05:52 +0000
