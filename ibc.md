@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-10 15:13:12*
+*Last synced: 2026-07-13 04:09:06*
+
+### [Mehsana Food Tradelinkers Pvt. Ltd. Vs. Mehsana Dairy and Food Products Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/mehsana-food-tradelinkers-pvt-ltd-vs-mehsana-dairy-and-food-products-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 13 Jul 2026 04:03:36 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Justice (Retd.) Yogesh Khanna Appointed Officiating Chairperson of NCLAT](https://ibclaw.in/justice-retd-yogesh-khanna-appointed-officiating-chairperson-of-nclat/)
 - **Published:** Fri, 10 Jul 2026 09:22:21 +0000
