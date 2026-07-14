@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-13 04:09:06*
+*Last synced: 2026-07-14 08:36:24*
+
+### [Supreme Court takes up NCLT Member appointments, inadequate infrastructure issues; matter listed for September 21](https://ibclaw.in/supreme-court-takes-up-nclt-member-appointments-inadequate-infrastructure-issues-matter-listed-for-september-21/)
+- **Published:** Tue, 14 Jul 2026 07:51:54 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mehsana Food Tradelinkers Pvt. Ltd. Vs. Mehsana Dairy and Food Products Ltd. – NCLT Ahmedabad Bench](https://ibclaw.in/mehsana-food-tradelinkers-pvt-ltd-vs-mehsana-dairy-and-food-products-ltd-nclt-ahmedabad-bench/)
 - **Published:** Mon, 13 Jul 2026 04:03:36 +0000
