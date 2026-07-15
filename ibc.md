@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-14 08:36:24*
+*Last synced: 2026-07-15 03:44:40*
+
+### [State Bank of India and Ors. Vs. Manoj Kumar Das and Ors. – NCLAT New Delhi](https://ibclaw.in/state-bank-of-india-and-ors-vs-manoj-kumar-das-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 15 Jul 2026 03:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Brajesh Kumar Tripathi and Anr. Vs. Hasti Mal Kachhara (RP) and Ors. – NCLAT New Delhi](https://ibclaw.in/brajesh-kumar-tripathi-and-anr-vs-hasti-mal-kachhara-rp-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 15 Jul 2026 03:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court takes up NCLT Member appointments, inadequate infrastructure issues; matter listed for September 21](https://ibclaw.in/supreme-court-takes-up-nclt-member-appointments-inadequate-infrastructure-issues-matter-listed-for-september-21/)
 - **Published:** Tue, 14 Jul 2026 07:51:54 +0000
