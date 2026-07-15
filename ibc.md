@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-15 03:44:40*
+*Last synced: 2026-07-15 08:55:02*
+
+### [Wild Dreams Trading Company Pvt. Ltd. Vs. Ascendancy Financial Services Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/wild-dreams-trading-company-pvt-ltd-vs-ascendancy-financial-services-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 15 Jul 2026 03:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Infrastructure Leasing & Financial Services Ltd. Vs. Union of India and Ors. – NCLAT New Delhi](https://ibclaw.in/infrastructure-leasing-financial-services-ltd-vs-union-of-india-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 15 Jul 2026 03:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Surender Pal Singh Mangat Vs. Oriental Bank of Commerce and Ors. – NCLAT New Delhi](https://ibclaw.in/surender-pal-singh-mangat-vs-oriental-bank-of-commerce-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 15 Jul 2026 04:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Srinivasa Rao Idupulapati Vs. ISR Infra Pvt. Ltd. and Anr. – NCLAT Chennai](https://ibclaw.in/srinivasa-rao-idupulapati-vs-isr-infra-pvt-ltd-and-anr-nclat-chennai/)
+- **Published:** Wed, 15 Jul 2026 04:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mukesh Kumar Vs. Baba Shri Chand Alloys and Ors. – NCLAT New Delhi](https://ibclaw.in/mukesh-kumar-vs-baba-shri-chand-alloys-and-ors-nclat-new-delhi/)
+- **Published:** Wed, 15 Jul 2026 04:03:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State Bank of India and Ors. Vs. Manoj Kumar Das and Ors. – NCLAT New Delhi](https://ibclaw.in/state-bank-of-india-and-ors-vs-manoj-kumar-das-and-ors-nclat-new-delhi/)
 - **Published:** Wed, 15 Jul 2026 03:29:00 +0000
