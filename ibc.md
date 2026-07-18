@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-15 08:55:02*
+*Last synced: 2026-07-18 08:21:13*
+
+### [IBBI Quiz 2026 – Insolvency and Bankruptcy Code, 2016 (IBC Quiz) 15 July to 15 Aug 2026 – Start here](https://ibclaw.in/ibbi-quiz-on-ibc/)
+- **Published:** Sat, 18 Jul 2026 04:43:49 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Commercial Wisdom or Legal Evasion? Revisiting SBI v. Venugopal Dhoot – By Adv. Shubhang Shukla](https://ibclaw.in/commercial-wisdom-or-legal-evasion-revisiting-sbi-v-venugopal-dhoot-by-adv-shubhang-shukla/)
+- **Published:** Sat, 18 Jul 2026 05:57:53 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Wild Dreams Trading Company Pvt. Ltd. Vs. Ascendancy Financial Services Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/wild-dreams-trading-company-pvt-ltd-vs-ascendancy-financial-services-pvt-ltd-nclat-new-delhi/)
 - **Published:** Wed, 15 Jul 2026 03:47:00 +0000
