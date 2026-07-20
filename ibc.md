@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-20 09:42:02*
+*Last synced: 2026-07-20 14:39:21*
+
+### [IBC does not adequately account for interests of MSMEs, small operational creditors: Supreme Court](https://www.barandbench.com/news/litigation/ibc-does-not-adequately-account-for-interests-of-msmes-small-operational-creditors-supreme-court)
+- **Published:** Mon, 20 Jul 2026 16:27:25 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Phoenix ARC Pvt. Ltd. Vs. Cherupushpam Films Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/phoenix-arc-pvt-ltd-vs-cherupushpam-films-pvt-ltd-nclat-chennai/)
 - **Published:** Mon, 20 Jul 2026 04:48:42 +0000
