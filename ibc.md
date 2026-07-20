@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-18 08:21:13*
+*Last synced: 2026-07-20 09:42:02*
+
+### [Phoenix ARC Pvt. Ltd. Vs. Cherupushpam Films Pvt. Ltd. – NCLAT Chennai](https://ibclaw.in/phoenix-arc-pvt-ltd-vs-cherupushpam-films-pvt-ltd-nclat-chennai/)
+- **Published:** Mon, 20 Jul 2026 04:48:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [UCO Bank Vs. Subrata Das – NCLAT New Delhi](https://ibclaw.in/uco-bank-vs-subrata-das-nclat-new-delhi/)
+- **Published:** Mon, 20 Jul 2026 04:55:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Santosh R. Shetty Vs. Rajan Deshraj Agarwal and Ors. – NCLAT New Delhi](https://ibclaw.in/santosh-r-shetty-vs-rajan-deshraj-agarwal-and-ors-nclat-new-delhi/)
+- **Published:** Mon, 20 Jul 2026 05:08:28 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Uttar Pradesh Housing and Development Board Vs. K.S.N. Buildwell Pvt. Ltd. and Anr. – NCLAT New Delhi](https://ibclaw.in/uttar-pradesh-housing-and-development-board-vs-k-s-n-buildwell-pvt-ltd-and-anr-nclat-new-delhi/)
+- **Published:** Mon, 20 Jul 2026 05:29:45 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBBI Quiz 2026 – Insolvency and Bankruptcy Code, 2016 (IBC Quiz) 15 July to 15 Aug 2026 – Start here](https://ibclaw.in/ibbi-quiz-on-ibc/)
 - **Published:** Sat, 18 Jul 2026 04:43:49 +0000
