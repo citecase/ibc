@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-20 14:39:21*
+*Last synced: 2026-07-21 09:10:11*
+
+### [IRR Compression in Real Time: Why Enforcement Directorate and Customs Trump the IBC Shield – By Manoj Thakur](https://ibclaw.in/the-nclt-cannot-save-your-irr-why-private-credit-is-bleeding-capital-to-pmla-and-gst-blockades-by-manoj-thakur/)
+- **Published:** Tue, 21 Jul 2026 08:23:11 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC does not adequately account for interests of MSMEs, small operational creditors: Supreme Court](https://www.barandbench.com/news/litigation/ibc-does-not-adequately-account-for-interests-of-msmes-small-operational-creditors-supreme-court)
 - **Published:** Mon, 20 Jul 2026 16:27:25 +0530
