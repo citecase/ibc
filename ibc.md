@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-21 09:10:11*
+*Last synced: 2026-07-22 03:57:32*
+
+### [Yogesh Patel Vs. Arzoo.com (India) Pvt. Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/yogesh-patel-vs-arzoo-com-india-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Tue, 21 Jul 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chinmay Dangayach Vs. RKM Merchandise LLP and Ors. – NCLT Jaipur Bench](https://ibclaw.in/chinmay-dangayach-vs-rkm-merchandise-llp-and-ors-nclt-jaipur-bench/)
+- **Published:** Tue, 21 Jul 2026 21:30:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IRR Compression in Real Time: Why Enforcement Directorate and Customs Trump the IBC Shield – By Manoj Thakur](https://ibclaw.in/the-nclt-cannot-save-your-irr-why-private-credit-is-bleeding-capital-to-pmla-and-gst-blockades-by-manoj-thakur/)
 - **Published:** Tue, 21 Jul 2026 08:23:11 +0000
