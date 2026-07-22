@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-22 14:34:39*
+*Last synced: 2026-07-22 19:52:42*
+
+### [Prism Impex Pvt. Ltd. Vs. Tantia Agrochemicals Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/prism-impex-pvt-ltd-vs-tantia-agrochemicals-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 22 Jul 2026 19:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chandrasekhar Sagutoor, RP of A. Dominic Savio – NCLT, Chennai Bench](https://ibclaw.in/chandrasekhar-sagutoor-rp-of-a-dominic-savio-nclt-chennai-bench/)
+- **Published:** Wed, 22 Jul 2026 19:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dy. Commissioner of Income Tax Vs. Mukesh Gupta, RP of Gupta Builders and Promoters Pvt. Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/dy-commissioner-of-income-tax-vs-mukesh-gupta-rp-of-gupta-builders-and-promoters-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Wed, 22 Jul 2026 19:48:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Central Bank of India Vs. Superfine Metals Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/central-bank-of-india-vs-superfine-metals-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Wed, 22 Jul 2026 09:28:00 +0000
