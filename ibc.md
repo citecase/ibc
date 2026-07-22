@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-22 03:57:32*
+*Last synced: 2026-07-22 09:09:38*
+
+### [Robin Dahiya Vs. Abhimanyu Mittal, RP of Hygiene Feeds and Farms Pvt. Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/robin-dahiya-vs-abhimanyu-mittal-rp-of-hygiene-feeds-and-farms-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Tue, 21 Jul 2026 21:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pashupati Facility and Management Service Pvt. Ltd. Vs. Ojaan Realty Pvt. Ltd. – NCLT New Delhi Bench](https://ibclaw.in/pashupati-facility-and-management-service-pvt-ltd-vs-ojaan-realty-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 21 Jul 2026 22:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [J and K Integrated Textile Park Ltd. Vs. Jyotsna Industries Pvt. Ltd. – NCLT Chandigarh Bench](https://ibclaw.in/j-and-k-integrated-textile-park-ltd-vs-jyotsna-industries-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 21 Jul 2026 23:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KSK Mahanadi Power Company Ltd. Vs. Paradeep Customs Division, Office of the Deputy Commissioner and Ors. – NCLT Hyderabad Bench](https://ibclaw.in/ksk-mahanadi-power-company-ltd-vs-paradeep-customs-division-office-of-the-deputy-commissioner-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 21 Jul 2026 23:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Yogesh Patel Vs. Arzoo.com (India) Pvt. Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/yogesh-patel-vs-arzoo-com-india-pvt-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Tue, 21 Jul 2026 21:25:00 +0000
