@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-22 09:09:38*
+*Last synced: 2026-07-22 14:34:39*
+
+### [Central Bank of India Vs. Superfine Metals Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/central-bank-of-india-vs-superfine-metals-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 22 Jul 2026 09:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Subir Mukherjee Vs. Ram Ratan Modi, RP of Duncans Industries Ltd. – NCLAT New Delhi](https://ibclaw.in/subir-mukherjee-vs-ram-ratan-modi-rp-of-duncans-industries-ltd-nclat-new-delhi/)
+- **Published:** Wed, 22 Jul 2026 10:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Gratuity and Leave Encashment Not CIRP Costs Under IBC Section 5(13)](https://ibclaw.in/nclat-gratuity-and-leave-encashment-not-cirp-costs-under-ibc-section-513/)
+- **Published:** Wed, 22 Jul 2026 10:29:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CA Som Prakash Aggarwal Vs. National Financial Reporting Authority – NCLAT New Delhi](https://ibclaw.in/ca-som-prakash-aggarwal-vs-national-financial-reporting-authority-nclat-new-delhi/)
+- **Published:** Wed, 22 Jul 2026 10:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds NFRA Penalties on Auditor and Firm for Audit Failures under Companies Act and Ind AS 109](https://ibclaw.in/nclat-upholds-nfra-penalties-on-auditor-and-firm-for-audit-failures-under-companies-act-and-ind-as-109/)
+- **Published:** Wed, 22 Jul 2026 10:49:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Apollo Green Energy Ltd. Vs. Royal Cap House – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/apollo-green-energy-ltd-vs-royal-cap-house-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 22 Jul 2026 14:15:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Robin Dahiya Vs. Abhimanyu Mittal, RP of Hygiene Feeds and Farms Pvt. Ltd. and Ors. – NCLT Chandigarh Bench](https://ibclaw.in/robin-dahiya-vs-abhimanyu-mittal-rp-of-hygiene-feeds-and-farms-pvt-ltd-and-ors-nclt-chandigarh-bench/)
 - **Published:** Tue, 21 Jul 2026 21:55:00 +0000
