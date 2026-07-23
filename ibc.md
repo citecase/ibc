@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-22 19:52:42*
+*Last synced: 2026-07-23 03:54:49*
+
+### [Piombino Steel Ltd. and Anr. – NCLT Mumbai Bench](https://ibclaw.in/piombino-steel-ltd-and-anr-nclt-mumbai-bench/)
+- **Published:** Wed, 22 Jul 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Phoenix ARC Pvt. Ltd. Vs. Balakrishnan Venkatachalam (RP) and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/phoenix-arc-pvt-ltd-vs-balakrishnan-venkatachalam-rp-and-anr-nclt-bengaluru-bench/)
+- **Published:** Wed, 22 Jul 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [K.M Kalappa and Ors. Vs. Sovereign Developers & Infrastructure Ltd. Represented by RP – NCLT, Bengaluru Bench](https://ibclaw.in/k-m-kalappa-and-ors-vs-sovereign-developers-infrastructure-ltd-represented-by-rp-nclt-bengaluru-bench/)
+- **Published:** Wed, 22 Jul 2026 21:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Maharashtra Airport Development Company Ltd. Vs. Vinod Kumar Kothari and Anr. – NCLAT New Delhi](https://ibclaw.in/maharashtra-airport-development-company-ltd-vs-vinod-kumar-kothari-and-anr-nclat-new-delhi/)
+- **Published:** Wed, 22 Jul 2026 21:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ashok Ramchandra Panchal and Anr. Vs. Veer Fabricators Pvt. Ltd. and Ors. – NCLT Ahmedabad Bench](https://ibclaw.in/ashok-ramchandra-panchal-and-anr-vs-veer-fabricators-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Wed, 22 Jul 2026 23:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shree Dhanvantari Pharmaceuticals Vs. Konkan Ayur Pharma Pvt. Ltd. – NCLAT New Delhi](https://ibclaw.in/shree-dhanvantari-pharmaceuticals-vs-konkan-ayur-pharma-pvt-ltd-nclat-new-delhi/)
+- **Published:** Wed, 22 Jul 2026 23:50:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Prism Impex Pvt. Ltd. Vs. Tantia Agrochemicals Pvt. Ltd. – NCLT Kolkata Bench](https://ibclaw.in/prism-impex-pvt-ltd-vs-tantia-agrochemicals-pvt-ltd-nclt-kolkata-bench/)
 - **Published:** Wed, 22 Jul 2026 19:10:00 +0000
