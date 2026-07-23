@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-23 03:54:49*
+*Last synced: 2026-07-23 14:41:10*
+
+### [Vinod Malik Vs. CMYK Printech Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/vinod-malik-vs-cmyk-printech-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 23 Jul 2026 10:20:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 23 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-23-july-2026/)
+- **Published:** Thu, 23 Jul 2026 11:59:13 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Piombino Steel Ltd. and Anr. – NCLT Mumbai Bench](https://ibclaw.in/piombino-steel-ltd-and-anr-nclt-mumbai-bench/)
 - **Published:** Wed, 22 Jul 2026 21:20:00 +0000
