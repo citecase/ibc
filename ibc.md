@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-23 14:41:10*
+*Last synced: 2026-07-23 19:55:49*
+
+### [Devaunshi Mehta nee Thackersey Vs. Bhishma Realty Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/devaunshi-mehta-nee-thackersey-vs-bhishma-realty-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 23 Jul 2026 19:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Birendra Kumar Agrawal Vs. Middle East Management Services LLP and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/birendra-kumar-agrawal-vs-middle-east-management-services-llp-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 23 Jul 2026 19:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chhattisgarh State Power Distribution Co. Ltd. Vs. Sumit Binani, RP of KSK Mahanadi Power Company Ltd. and Anr. – NCLT, Hyderabad Bench](https://ibclaw.in/chhattisgarh-state-power-distribution-co-ltd-vs-sumit-binani-rp-of-ksk-mahanadi-power-company-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Thu, 23 Jul 2026 19:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Poonam Raj Sharma Vs. State Bank of India and Anr. – NCLT Allahabad Bench](https://ibclaw.in/poonam-raj-sharma-vs-state-bank-of-india-and-anr-nclt-allahabad-bench/)
+- **Published:** Thu, 23 Jul 2026 19:55:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vinod Malik Vs. CMYK Printech Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/vinod-malik-vs-cmyk-printech-ltd-nclt-new-delhi-bench/)
 - **Published:** Thu, 23 Jul 2026 10:20:15 +0000
