@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-24 03:54:24*
+*Last synced: 2026-07-24 09:03:34*
+
+### [Beyond Resolution: How is the IBC reshaping corporate India?](https://www.barandbench.com/leading-questions/beyond-resolution-how-is-the-ibc-reshaping-corporate-india)
+- **Published:** Fri, 24 Jul 2026 12:06:40 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Rajan Kumar and Anr. Vs. Subodh Kumar Aggarwal, RP of Bil Vyapar Ltd. and Anr. – NCLT, Kolkata Bench](https://ibclaw.in/rajan-kumar-and-anr-vs-subodh-kumar-aggarwal-rp-of-bil-vyapar-ltd-and-anr-nclt-kolkata-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:21 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anish Niranjan Nanavaty, RP of Reliance Communications Infrastructure Ltd. Vs. Worldtel Tamil Nadu Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/anish-niranjan-nanavaty-rp-of-reliance-communications-infrastructure-ltd-vs-worldtel-tamil-nadu-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nikhil Agarwal Vs. Twin Towers Tradelink Pvt. Ltd. and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/nikhil-agarwal-vs-twin-towers-tradelink-pvt-ltd-and-ors-nclt-guwahati-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:27 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Manyata Infrastructure Developments Pvt. Ltd. Vs. Buoyant Technology Constellation Pvt. Ltd. and Ors. – NCLT, Bengaluru Bench](https://ibclaw.in/manyata-infrastructure-developments-pvt-ltd-vs-buoyant-technology-constellation-pvt-ltd-and-ors-nclt-bengaluru-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ram Chandran Traders Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/ram-chandran-traders-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tatad Nayan Gautambhai Vs. Pradhin Ltd. – NCLT, Chennai Bench](https://ibclaw.in/tatad-nayan-gautambhai-vs-pradhin-ltd-nclt-chennai-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NPGC Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/npgc-ltd-nclt-kolkata-bench/)
+- **Published:** Fri, 24 Jul 2026 05:48:41 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Aditya Birla Finance Ltd. Vs. Shapos Services Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/aditya-birla-finance-ltd-vs-shapos-services-pvt-ltd-nclt-bengaluru-bench/)
 - **Published:** Thu, 23 Jul 2026 19:56:00 +0000
