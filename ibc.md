@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-24 09:03:34*
+*Last synced: 2026-07-24 19:55:57*
+
+### [IBC Laws Today | Daily Case Laws Updates | 24 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-24-july-2026/)
+- **Published:** Fri, 24 Jul 2026 15:38:46 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Beyond Resolution: How is the IBC reshaping corporate India?](https://www.barandbench.com/leading-questions/beyond-resolution-how-is-the-ibc-reshaping-corporate-india)
 - **Published:** Fri, 24 Jul 2026 12:06:40 +0530
