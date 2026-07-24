@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-23 19:55:49*
+*Last synced: 2026-07-24 03:54:24*
+
+### [Aditya Birla Finance Ltd. Vs. Shapos Services Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/aditya-birla-finance-ltd-vs-shapos-services-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Thu, 23 Jul 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Vaibhav Lodha – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-vaibhav-lodha-nclt-mumbai-bench/)
+- **Published:** Thu, 23 Jul 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Carnet Elias Fernandes Vs. Chirag Rajendrakumar Shah (Liquidator) and Ors. – NCLT, Indore Bench](https://ibclaw.in/carnet-elias-fernandes-vs-chirag-rajendrakumar-shah-liquidator-and-ors-nclt-indore-bench/)
+- **Published:** Thu, 23 Jul 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Devaunshi Mehta nee Thackersey Vs. Bhishma Realty Ltd. and Ors. – NCLT Mumbai Bench](https://ibclaw.in/devaunshi-mehta-nee-thackersey-vs-bhishma-realty-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Thu, 23 Jul 2026 19:20:00 +0000
