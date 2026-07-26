@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-24 19:55:57*
+*Last synced: 2026-07-26 04:06:52*
+
+### [Calcutta High Court Sets Aside IBBI Order Cancelling Insolvency Professional’s Registration for Lack of Jurisdiction and Procedural Irregularity](https://ibclaw.in/calcutta-high-court-sets-aside-ibbi-order-cancelling-insolvency-professionals-registration-for-lack-of-jurisdiction-and-procedural-irregularity/)
+- **Published:** Sat, 25 Jul 2026 20:50:25 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 24 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-24-july-2026/)
 - **Published:** Fri, 24 Jul 2026 15:38:46 +0000
