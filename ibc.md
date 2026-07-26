@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-26 04:06:52*
+*Last synced: 2026-07-26 19:44:20*
+
+### [Asset Reconstruction Company (India) Ltd. Vs. Umesh Garg, RP of JCT Ltd. and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/asset-reconstruction-company-india-ltd-vs-umesh-garg-rp-of-jct-ltd-and-anr-nclt-chandigarh-bench/)
+- **Published:** Sun, 26 Jul 2026 19:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Electro Trade Vs. ETA Engineering Pvt. Ltd. and Ors. – NCLT, Chennai Bench](https://ibclaw.in/electro-trade-vs-eta-engineering-pvt-ltd-and-ors-nclt-chennai-bench/)
+- **Published:** Sun, 26 Jul 2026 19:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A. Jeyavelu Vs. Aaltta Tools and Designs Pvt. Ltd. and Ors. – NCLT, Chennai Bench](https://ibclaw.in/a-jeyavelu-vs-aaltta-tools-and-designs-pvt-ltd-and-ors-nclt-chennai-bench/)
+- **Published:** Sun, 26 Jul 2026 19:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Manish Kapoor Vs. Surender Devasani, Liquidator of Vikram Structures Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/manish-kapoor-vs-surender-devasani-liquidator-of-vikram-structures-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Sun, 26 Jul 2026 19:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mangaldas Finance Vs. Ramos Ceramic Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/mangaldas-finance-vs-ramos-ceramic-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Sun, 26 Jul 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Calcutta High Court Sets Aside IBBI Order Cancelling Insolvency Professional’s Registration for Lack of Jurisdiction and Procedural Irregularity](https://ibclaw.in/calcutta-high-court-sets-aside-ibbi-order-cancelling-insolvency-professionals-registration-for-lack-of-jurisdiction-and-procedural-irregularity/)
 - **Published:** Sat, 25 Jul 2026 20:50:25 +0000
