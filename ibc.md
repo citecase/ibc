@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-27 04:22:50*
+*Last synced: 2026-07-27 10:26:21*
+
+### [Dhartiben Mukeshbhai Bhoraniya Vs. Security Ops India Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/dhartiben-mukeshbhai-bhoraniya-vs-security-ops-india-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 27 Jul 2026 05:15:25 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Pradeep Kumar Lakhani, RP of Dion Global Solutions Ltd. Vs. Deputy Commissioner of Income Tax – NCLT, New Delhi Bench](https://ibclaw.in/pradeep-kumar-lakhani-rp-of-dion-global-solutions-ltd-vs-deputy-commissioner-of-income-tax-nclt-new-delhi-bench/)
 - **Published:** Sun, 26 Jul 2026 21:19:00 +0000
