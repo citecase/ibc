@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-26 19:44:20*
+*Last synced: 2026-07-27 04:22:50*
+
+### [Pradeep Kumar Lakhani, RP of Dion Global Solutions Ltd. Vs. Deputy Commissioner of Income Tax – NCLT, New Delhi Bench](https://ibclaw.in/pradeep-kumar-lakhani-rp-of-dion-global-solutions-ltd-vs-deputy-commissioner-of-income-tax-nclt-new-delhi-bench/)
+- **Published:** Sun, 26 Jul 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IIFL Home Finance Ltd. (IIFL) Vs. K Mordani Constructions LLP – NCLT, Mumbai Bench](https://ibclaw.in/iifl-home-finance-ltd-iifl-vs-k-mordani-constructions-llp-nclt-mumbai-bench/)
+- **Published:** Sun, 26 Jul 2026 23:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [R. Srikant Ayyer Vs. Neogreen Agriculture LLP – NCLT, Mumbai Bench](https://ibclaw.in/r-srikant-ayyer-vs-neogreen-agriculture-llp-nclt-mumbai-bench/)
+- **Published:** Sun, 26 Jul 2026 23:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Asset Reconstruction Company (India) Ltd. Vs. Umesh Garg, RP of JCT Ltd. and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/asset-reconstruction-company-india-ltd-vs-umesh-garg-rp-of-jct-ltd-and-anr-nclt-chandigarh-bench/)
 - **Published:** Sun, 26 Jul 2026 19:23:00 +0000
