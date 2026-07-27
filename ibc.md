@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-27 10:26:21*
+*Last synced: 2026-07-27 15:24:14*
+
+### [Supreme Court: IBC Moratorium Under Section 14 Does Not Bar Consumer Proceedings Against Non-Corporate Debtor Parties](https://ibclaw.in/supreme-court-ibc-moratorium-under-section-14-does-not-bar-consumer-proceedings-against-non-corporate-debtor-parties/)
+- **Published:** Mon, 27 Jul 2026 13:36:41 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 27 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-27-july-2026/)
+- **Published:** Mon, 27 Jul 2026 13:50:22 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dhartiben Mukeshbhai Bhoraniya Vs. Security Ops India Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/dhartiben-mukeshbhai-bhoraniya-vs-security-ops-india-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
 - **Published:** Mon, 27 Jul 2026 05:15:25 +0000
