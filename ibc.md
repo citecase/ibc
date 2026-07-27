@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-27 15:24:14*
+*Last synced: 2026-07-27 20:05:10*
+
+### [Prawinchandra Prafulchandra Dwary (Liquidator) Vs. Bank of India – NCLT, Indore Bench](https://ibclaw.in/prawinchandra-prafulchandra-dwary-liquidator-vs-bank-of-india-nclt-indore-bench/)
+- **Published:** Mon, 27 Jul 2026 19:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court: IBC Moratorium Under Section 14 Does Not Bar Consumer Proceedings Against Non-Corporate Debtor Parties](https://ibclaw.in/supreme-court-ibc-moratorium-under-section-14-does-not-bar-consumer-proceedings-against-non-corporate-debtor-parties/)
 - **Published:** Mon, 27 Jul 2026 13:36:41 +0000
