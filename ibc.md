@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-28 15:00:17*
+*Last synced: 2026-07-28 20:01:51*
+
+### [IBC Laws Today | Daily Case Laws Updates | 28 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-28-july-2026/)
+- **Published:** Tue, 28 Jul 2026 15:36:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Employees Provident Fund Organisation Vs. Darshan Singh Anand (RP) and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/employees-provident-fund-organisation-vs-darshan-singh-anand-rp-and-anr-nclt-chandigarh-bench/)
+- **Published:** Tue, 28 Jul 2026 19:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [D. Ramanan Vs. Svenestar Foudations Pvt. Ltd. and Anr. – NCLT, Chennai Bench](https://ibclaw.in/d-ramanan-vs-svenestar-foudations-pvt-ltd-and-anr-nclt-chennai-bench/)
+- **Published:** Tue, 28 Jul 2026 19:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Conundrum of Committee of Creditors vis-à-vis Section 29A and Section 30(5), IBC 2016](https://www.barandbench.com/view-point/conundrum-of-committee-of-creditors-vis-vis-section-29a-and-section-305-ibc-2016)
 - **Published:** Tue, 28 Jul 2026 09:33:21 +0530
