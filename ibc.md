@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-27 20:05:10*
+*Last synced: 2026-07-28 03:47:15*
+
+### [Naman Vs. Suresh Pal – NCLT, Chandigarh Bench](https://ibclaw.in/naman-vs-suresh-pal-nclt-chandigarh-bench/)
+- **Published:** Mon, 27 Jul 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ovaron Infrastructure & MEP Services Vs. Shapoorji Pallonji and Company Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/ovaron-infrastructure-mep-services-vs-shapoorji-pallonji-and-company-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 27 Jul 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gopal Dhirajlal Vadalia and Ors. Vs. Prabhat Solvent Extraction Industries Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/gopal-dhirajlal-vadalia-and-ors-vs-prabhat-solvent-extraction-industries-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 27 Jul 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sabar Singh Prabhakar and Anr. Vs. Chayya Gupta (RP) and Ors. – NCLT, Indore Bench](https://ibclaw.in/sabar-singh-prabhakar-and-anr-vs-chayya-gupta-rp-and-ors-nclt-indore-bench/)
+- **Published:** Mon, 27 Jul 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Prawinchandra Prafulchandra Dwary (Liquidator) Vs. Bank of India – NCLT, Indore Bench](https://ibclaw.in/prawinchandra-prafulchandra-dwary-liquidator-vs-bank-of-india-nclt-indore-bench/)
 - **Published:** Mon, 27 Jul 2026 19:45:00 +0000
