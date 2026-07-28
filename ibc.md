@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-28 03:47:15*
+*Last synced: 2026-07-28 09:18:15*
+
+### [IBC moratorium protects only corporate debtor, not promoters or directors: Supreme Court](https://www.barandbench.com/news/litigation/ibc-moratorium-protects-only-corporate-debtor-not-promoters-or-directors-supreme-court)
+- **Published:** Tue, 28 Jul 2026 13:25:31 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Naman Vs. Suresh Pal – NCLT, Chandigarh Bench](https://ibclaw.in/naman-vs-suresh-pal-nclt-chandigarh-bench/)
 - **Published:** Mon, 27 Jul 2026 20:28:00 +0000
