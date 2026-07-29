@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-29 03:50:18*
+*Last synced: 2026-07-29 19:52:45*
+
+### [Rishi Prasad Agarwal and Ors. Vs. Druk Fuels Ltd. and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/rishi-prasad-agarwal-and-ors-vs-druk-fuels-ltd-and-ors-nclt-guwahati-bench/)
+- **Published:** Wed, 29 Jul 2026 19:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Feedback Highways Omt (P) Ltd. and Anr. Vs. Bhubaneshwar Expressways Pvt. Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/feedback-highways-omt-p-ltd-and-anr-vs-bhubaneshwar-expressways-pvt-ltd-and-ors-nclt-new-delhi-bench/)
+- **Published:** Wed, 29 Jul 2026 19:21:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [UC Inclusive Credit Pvt. Ltd. Vs. Ganesh Benzoplast Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/uc-inclusive-credit-pvt-ltd-vs-ganesh-benzoplast-ltd-nclt-mumbai-bench/)
 - **Published:** Tue, 28 Jul 2026 21:15:00 +0000
