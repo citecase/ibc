@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-28 20:01:51*
+*Last synced: 2026-07-29 03:50:18*
+
+### [UC Inclusive Credit Pvt. Ltd. Vs. Ganesh Benzoplast Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/uc-inclusive-credit-pvt-ltd-vs-ganesh-benzoplast-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 28 Jul 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mangaldas Finance Vs. Milano Papers Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/mangaldas-finance-vs-milano-papers-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 28 Jul 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sanjeev Kumar Singh Vs. Indian Motion Picture Producers Association and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/sanjeev-kumar-singh-vs-indian-motion-picture-producers-association-and-ors-nclt-mumbai-bench/)
+- **Published:** Tue, 28 Jul 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Morgan Securities and Credits Pvt. Ltd. Vs. BPL Ltd. – NCLT, Kochi Bench](https://ibclaw.in/morgan-securities-and-credits-pvt-ltd-vs-bpl-ltd-nclt-kochi-bench-2/)
+- **Published:** Tue, 28 Jul 2026 22:23:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 28 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-28-july-2026/)
 - **Published:** Tue, 28 Jul 2026 15:36:33 +0000
