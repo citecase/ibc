@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-29 19:52:45*
+*Last synced: 2026-07-30 03:41:46*
+
+### [K. D. Lite Developers Pvt. Ltd. Vs. M.S. Gopikrishnan and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/k-d-lite-developers-pvt-ltd-vs-m-s-gopikrishnan-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 29 Jul 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rupa Infotech and Infrastructure Pvt. Ltd. Vs. Hiren Bharani and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/rupa-infotech-and-infrastructure-pvt-ltd-vs-hiren-bharani-and-ors-nclt-mumbai-bench-2/)
+- **Published:** Wed, 29 Jul 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Rishi Prasad Agarwal and Ors. Vs. Druk Fuels Ltd. and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/rishi-prasad-agarwal-and-ors-vs-druk-fuels-ltd-and-ors-nclt-guwahati-bench/)
 - **Published:** Wed, 29 Jul 2026 19:18:00 +0000
