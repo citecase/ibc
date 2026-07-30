@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-30 09:14:46*
+*Last synced: 2026-07-30 20:02:59*
+
+### [Shailendra Ravi and Ors. Vs. Surender Devasani, Liquidator of Vikram Structures Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/shailendra-ravi-and-ors-vs-surender-devasani-liquidator-of-vikram-structures-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Thu, 30 Jul 2026 19:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amarendera Financial Pvt. Ltd. Vs. Cynosure Real Estates Pvt. Ltd. – NCLT, Principal Bench](https://ibclaw.in/amarendera-financial-pvt-ltd-vs-cynosure-real-estates-pvt-ltd-nclt-principal-bench/)
+- **Published:** Thu, 30 Jul 2026 19:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Vaddineni Savitri Naidu – NCLT, Chennai Bench](https://ibclaw.in/state-bank-of-india-vs-vaddineni-savitri-naidu-nclt-chennai-bench/)
+- **Published:** Thu, 30 Jul 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Vaddineni Devasena – NCLT, Chennai Bench](https://ibclaw.in/state-bank-of-india-vs-vaddineni-devasena-nclt-chennai-bench/)
+- **Published:** Thu, 30 Jul 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [R. Hari Prasad, RP of Coastal Automobiles Pvt. Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/r-hari-prasad-rp-of-coastal-automobiles-pvt-ltd-nclt-amaravati-bench/)
+- **Published:** Thu, 30 Jul 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Global Enterprise and Anr. Vs. Suvarnabhoomi Infra Developers Pvt. Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/global-enterprise-and-anr-vs-suvarnabhoomi-infra-developers-pvt-ltd-nclt-amaravati-bench-2/)
 - **Published:** Wed, 29 Jul 2026 20:35:00 +0000
