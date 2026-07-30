@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-30 03:41:46*
+*Last synced: 2026-07-30 09:14:46*
+
+### [Global Enterprise and Anr. Vs. Suvarnabhoomi Infra Developers Pvt. Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/global-enterprise-and-anr-vs-suvarnabhoomi-infra-developers-pvt-ltd-nclt-amaravati-bench-2/)
+- **Published:** Wed, 29 Jul 2026 20:35:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [K. D. Lite Developers Pvt. Ltd. Vs. M.S. Gopikrishnan and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/k-d-lite-developers-pvt-ltd-vs-m-s-gopikrishnan-and-ors-nclt-mumbai-bench/)
 - **Published:** Wed, 29 Jul 2026 20:15:00 +0000
