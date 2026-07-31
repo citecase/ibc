@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-31 04:01:16*
+*Last synced: 2026-07-31 09:24:30*
+
+### [Jet Airways (India) Ltd. through Satish Kumar Gupta, Liquidator Vs. Maharashtra Industrial Development Corporation – NCLT, Mumbai Bench](https://ibclaw.in/jet-airways-india-ltd-through-satish-kumar-gupta-liquidator-vs-maharashtra-industrial-development-corporation-nclt-mumbai-bench/)
+- **Published:** Thu, 30 Jul 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 30 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-30-july-2026/)
+- **Published:** Fri, 31 Jul 2026 04:34:40 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Guarantor’s Dilemma: How Section 28A Disrupts India’s Insolvency Architecture – By Ananya Singh](https://ibclaw.in/the-guarantors-dilemma-how-section-28a-disrupts-indias-insolvency-architecture-by-ananya-singh/)
+- **Published:** Fri, 31 Jul 2026 05:13:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Shailesh Desai Vs. Ramila Kirti Sheth – NCLT, Mumbai Bench](https://ibclaw.in/shailesh-desai-vs-ramila-kirti-sheth-nclt-mumbai-bench/)
 - **Published:** Thu, 30 Jul 2026 20:18:00 +0000
