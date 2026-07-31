@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-30 20:02:59*
+*Last synced: 2026-07-31 04:01:16*
+
+### [Shailesh Desai Vs. Ramila Kirti Sheth – NCLT, Mumbai Bench](https://ibclaw.in/shailesh-desai-vs-ramila-kirti-sheth-nclt-mumbai-bench/)
+- **Published:** Thu, 30 Jul 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dy. Commissioner of Income Tax Vs. Darshan Singh Anand (RP) – NCLT, Chandigarh Bench](https://ibclaw.in/dy-commissioner-of-income-tax-vs-darshan-singh-anand-rp-nclt-chandigarh-bench/)
+- **Published:** Thu, 30 Jul 2026 20:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Dr. Jitendra Das Maganti and Anr. – NCLT, Amaravati Bench](https://ibclaw.in/state-bank-of-india-vs-dr-jitendra-das-maganti-and-anr-nclt-amaravati-bench/)
+- **Published:** Thu, 30 Jul 2026 21:53:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Shailendra Ravi and Ors. Vs. Surender Devasani, Liquidator of Vikram Structures Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/shailendra-ravi-and-ors-vs-surender-devasani-liquidator-of-vikram-structures-pvt-ltd-nclt-bengaluru-bench/)
 - **Published:** Thu, 30 Jul 2026 19:19:00 +0000
