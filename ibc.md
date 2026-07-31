@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-31 09:24:30*
+*Last synced: 2026-07-31 14:59:58*
+
+### [South Indian Bank Ltd. Vs. Brijesh Singh Bhadauriya, RP for RCI Industries and Technologies Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/south-indian-bank-ltd-vs-brijesh-singh-bhadauriya-rp-for-rci-industries-and-technologies-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 31 Jul 2026 12:50:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [ARC Research and Development Centre Ltd. and Anr. Vs. Liquidator of Adya Oils and Chemicals Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/arc-research-and-development-centre-ltd-and-anr-vs-liquidator-of-adya-oils-and-chemicals-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 31 Jul 2026 13:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds NCLT Jurisdiction to Protect Corporate Debtor’s Right of Way Under Section 60(5)(c) IBC](https://ibclaw.in/nclat-upholds-nclt-jurisdiction-to-protect-corporate-debtors-right-of-way-under-section-605c-ibc/)
+- **Published:** Fri, 31 Jul 2026 13:18:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sturdy Industries Ltd. Vs. Surya Irrigation Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sturdy-industries-ltd-vs-surya-irrigation-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 31 Jul 2026 13:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 31 July 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-31-july-2026/)
+- **Published:** Fri, 31 Jul 2026 14:14:01 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Jet Airways (India) Ltd. through Satish Kumar Gupta, Liquidator Vs. Maharashtra Industrial Development Corporation – NCLT, Mumbai Bench](https://ibclaw.in/jet-airways-india-ltd-through-satish-kumar-gupta-liquidator-vs-maharashtra-industrial-development-corporation-nclt-mumbai-bench/)
 - **Published:** Thu, 30 Jul 2026 20:51:00 +0000
