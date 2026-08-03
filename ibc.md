@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-03 04:06:43*
+*Last synced: 2026-08-03 10:23:54*
+
+### [Vivid Solutions Pvt. Ltd. and Ors. Vs. Mukesh Jain and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vivid-solutions-pvt-ltd-and-ors-vs-mukesh-jain-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 02 Aug 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ashok Kumar Gupta Vs. IDBI Trusteeship Services Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/ashok-kumar-gupta-vs-idbi-trusteeship-services-ltd-and-ors-nclt-new-delhi-bench-2/)
 - **Published:** Sun, 02 Aug 2026 20:58:00 +0000
