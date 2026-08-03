@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-07-31 14:59:58*
+*Last synced: 2026-08-03 04:06:43*
+
+### [Ashok Kumar Gupta Vs. IDBI Trusteeship Services Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/ashok-kumar-gupta-vs-idbi-trusteeship-services-ltd-and-ors-nclt-new-delhi-bench-2/)
+- **Published:** Sun, 02 Aug 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Advance India Projects Ltd. Vs. JNB Management Pvt. Ltd. – NCLT, Principal Bench](https://ibclaw.in/advance-india-projects-ltd-vs-jnb-management-pvt-ltd-nclt-principal-bench/)
+- **Published:** Sun, 02 Aug 2026 21:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kuber Infrastructure Realities LLP Vs. CNX Corporation Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/kuber-infrastructure-realities-llp-vs-cnx-corporation-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 02 Aug 2026 21:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ashok Kumar Golechha, RP of Sovika Aviation Services Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/ashok-kumar-golechha-rp-of-sovika-aviation-services-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 02 Aug 2026 21:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Devendrakumar Ramshanker Mishra Vs. Vatshalya Developers Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/devendrakumar-ramshanker-mishra-vs-vatshalya-developers-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 02 Aug 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Institute of Instrumentation & Media Science and Ors. Vs. Sudha Sarma (Liquidator) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/institute-of-instrumentation-media-science-and-ors-vs-sudha-sarma-liquidator-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 03 Aug 2026 00:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [South Indian Bank Ltd. Vs. Brijesh Singh Bhadauriya, RP for RCI Industries and Technologies Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/south-indian-bank-ltd-vs-brijesh-singh-bhadauriya-rp-for-rci-industries-and-technologies-ltd-nclat-principal-bench-new-delhi/)
 - **Published:** Fri, 31 Jul 2026 12:50:30 +0000
