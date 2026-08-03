@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-03 10:23:54*
+*Last synced: 2026-08-03 15:25:31*
+
+### [IBC Laws Today | Daily Case Laws Updates | 03 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-03-august-2026/)
+- **Published:** Mon, 03 Aug 2026 12:17:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mrunal Kanubhai Patel Vs. Vanshita Transport Thr. Its Prop. Nilesh V. Thakkar and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/mrunal-kanubhai-patel-vs-vanshita-transport-thr-its-prop-nilesh-v-thakkar-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 03 Aug 2026 14:31:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Sets Aside Insolvency Order Against Monte Carlo Ltd. After Settlement and Finds Prior Dispute Under IBC Section 9](https://ibclaw.in/nclat-sets-aside-insolvency-order-against-monte-carlo-ltd-after-settlement-and-finds-prior-dispute-under-ibc-section-9/)
+- **Published:** Mon, 03 Aug 2026 14:40:50 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ammeet Kumar Agarwal Vs. Ssarvi Resolution Services LLP (RP) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ammeet-kumar-agarwal-vs-ssarvi-resolution-services-llp-rp-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 03 Aug 2026 14:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds NCLT Order Directing Restoration of Funds Withdrawn During Moratorium Under IBC Section 14](https://ibclaw.in/nclat-upholds-nclt-order-directing-restoration-of-funds-withdrawn-during-moratorium-under-ibc-section-14/)
+- **Published:** Mon, 03 Aug 2026 15:07:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vivid Solutions Pvt. Ltd. and Ors. Vs. Mukesh Jain and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vivid-solutions-pvt-ltd-and-ors-vs-mukesh-jain-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Sun, 02 Aug 2026 22:20:00 +0000
