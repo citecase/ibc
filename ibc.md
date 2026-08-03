@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-03 15:25:31*
+*Last synced: 2026-08-03 20:12:40*
+
+### [Ashok Kumar Golechha, RP of Vas Infrastructure Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/ashok-kumar-golechha-rp-of-vas-infrastructure-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 03 Aug 2026 20:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 03 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-03-august-2026/)
 - **Published:** Mon, 03 Aug 2026 12:17:37 +0000
