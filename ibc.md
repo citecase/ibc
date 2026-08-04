@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-03 20:12:40*
+*Last synced: 2026-08-04 03:48:55*
+
+### [Manoj Kumar Goyal and Anr. Vs. Dinesh Khetan and Ors. – NCLT, Principal Bench](https://ibclaw.in/manoj-kumar-goyal-and-anr-vs-dinesh-khetan-and-ors-nclt-principal-bench/)
+- **Published:** Mon, 03 Aug 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Punjab State Biotech Corporation – NCLT, Chandigarh Bench](https://ibclaw.in/punjab-state-biotech-corporation-nclt-chandigarh-bench/)
+- **Published:** Mon, 03 Aug 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rishi Ganga Enterprises Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/rishi-ganga-enterprises-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 03 Aug 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jeevan Jyoti Vanijya Ltd. Vs. Sunstar Realty Development Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/jeevan-jyoti-vanijya-ltd-vs-sunstar-realty-development-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 03 Aug 2026 21:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rishi Gupta and Anr. Vs. IDBI Trusteeship Services Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/rishi-gupta-and-anr-vs-idbi-trusteeship-services-ltd-and-ors-nclt-new-delhi-bench-2/)
+- **Published:** Mon, 03 Aug 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ashok Kumar Golechha, RP of Vas Infrastructure Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/ashok-kumar-golechha-rp-of-vas-infrastructure-ltd-nclt-mumbai-bench/)
 - **Published:** Mon, 03 Aug 2026 20:00:00 +0000
