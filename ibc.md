@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-04 15:02:31*
+*Last synced: 2026-08-04 20:09:09*
+
+### [SBI Global Factors Ltd. Vs. AKS Electricals & Electronics Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/sbi-global-factors-ltd-vs-aks-electricals-electronics-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 04 Aug 2026 19:57:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 04 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-04-august-2026/)
 - **Published:** Tue, 04 Aug 2026 14:28:35 +0000
