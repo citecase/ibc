@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-04 03:48:55*
+*Last synced: 2026-08-04 09:20:48*
+
+### [Trademarks as assets in insolvency: Valuation, jurisdiction and realisation under IBC](https://www.barandbench.com/view-point/trademarks-as-assets-in-insolvency-valuation-jurisdiction-and-realisation-under-the-ibc)
+- **Published:** Tue, 04 Aug 2026 11:50:00 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Manoj Kumar Goyal and Anr. Vs. Dinesh Khetan and Ors. – NCLT, Principal Bench](https://ibclaw.in/manoj-kumar-goyal-and-anr-vs-dinesh-khetan-and-ors-nclt-principal-bench/)
 - **Published:** Mon, 03 Aug 2026 20:58:00 +0000
