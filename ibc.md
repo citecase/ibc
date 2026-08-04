@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-04 09:20:48*
+*Last synced: 2026-08-04 15:02:31*
+
+### [IBC Laws Today | Daily Case Laws Updates | 04 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-04-august-2026/)
+- **Published:** Tue, 04 Aug 2026 14:28:35 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Trademarks as assets in insolvency: Valuation, jurisdiction and realisation under IBC](https://www.barandbench.com/view-point/trademarks-as-assets-in-insolvency-valuation-jurisdiction-and-realisation-under-the-ibc)
 - **Published:** Tue, 04 Aug 2026 11:50:00 +0530
