@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-04 20:09:09*
+*Last synced: 2026-08-05 03:44:30*
+
+### [Mohammad Khalid, RP of Peel Works Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/mohammad-khalid-rp-of-peel-works-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 04 Aug 2026 20:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Canara Bank Ltd. Vs. Globiz Exim Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-ltd-vs-globiz-exim-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 04 Aug 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KDRA Insolvency Professionals Pvt. Ltd., RP of 4B Networks Pvt. Ltd. Vs. Armaan Sunil Kothari – NCLT, Mumbai Bench](https://ibclaw.in/kdra-insolvency-professionals-pvt-ltd-rp-of-4b-networks-pvt-ltd-vs-armaan-sunil-kothari-nclt-mumbai-bench/)
+- **Published:** Tue, 04 Aug 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [South Indian Bank Ltd. Vs. Royal Dry Fruits Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/south-indian-bank-ltd-vs-royal-dry-fruits-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 04 Aug 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rudra Construction Co. Vs. Om Prakash Agarwal and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/rudra-construction-co-vs-om-prakash-agarwal-and-anr-nclt-mumbai-bench/)
+- **Published:** Tue, 04 Aug 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [SBI Global Factors Ltd. Vs. AKS Electricals & Electronics Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/sbi-global-factors-ltd-vs-aks-electricals-electronics-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Tue, 04 Aug 2026 19:57:00 +0000
