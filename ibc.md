@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-05 03:44:30*
+*Last synced: 2026-08-05 20:08:59*
+
+### [IBC Laws Today | Daily Case Laws Updates | 05 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-05-august-2026/)
+- **Published:** Wed, 05 Aug 2026 14:49:10 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SC Shah Corporation and Ors. Vs. NCS Autocars Pvt. Ltd. – NCLT, Kochi Bench](https://ibclaw.in/sc-shah-corporation-and-ors-vs-ncs-autocars-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Wed, 05 Aug 2026 19:56:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mohammad Khalid, RP of Peel Works Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/mohammad-khalid-rp-of-peel-works-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Tue, 04 Aug 2026 20:24:00 +0000
