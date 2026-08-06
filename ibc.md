@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-05 20:08:59*
+*Last synced: 2026-08-06 03:50:20*
+
+### [Akkme Food Craft Ltd. Vs. Regal Enterprises Ltd. – NCLT, Principal Bench](https://ibclaw.in/akkme-food-craft-ltd-vs-regal-enterprises-ltd-nclt-principal-bench/)
+- **Published:** Wed, 05 Aug 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Union of India Vs. Suneeta Reddy and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/union-of-india-vs-suneeta-reddy-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 05 Aug 2026 21:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Atul Rajwadkar (RP) Vs. Mahesh Guvvala and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/atul-rajwadkar-rp-vs-mahesh-guvvala-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 05 Aug 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 05 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-05-august-2026/)
 - **Published:** Wed, 05 Aug 2026 14:49:10 +0000
