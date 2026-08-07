@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-06 03:50:20*
+*Last synced: 2026-08-07 03:30:17*
+
+### [ICICI Bank Ltd. Vs. Creativity at Best Technologies Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/icici-bank-ltd-vs-creativity-at-best-technologies-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 06 Aug 2026 20:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adamji Investments Pvt. Ltd. Vs. M Cons Media Marketing Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/adamji-investments-pvt-ltd-vs-m-cons-media-marketing-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 06 Aug 2026 20:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nitu Mittal Vs. Rajesh Bansal and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/nitu-mittal-vs-rajesh-bansal-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 06 Aug 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tropical Ventures Company Ltd. Vs. INCAB Industries Ltd., Through Pankaj Kumar Tibrewal, RP and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/tropical-ventures-company-ltd-vs-incab-industries-ltd-through-pankaj-kumar-tibrewal-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 06 Aug 2026 21:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kedar Parshuram Mulye (RP) Vs. Sri Adhikari Brothers Digital Network Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/kedar-parshuram-mulye-rp-vs-sri-adhikari-brothers-digital-network-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 06 Aug 2026 21:54:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Akkme Food Craft Ltd. Vs. Regal Enterprises Ltd. – NCLT, Principal Bench](https://ibclaw.in/akkme-food-craft-ltd-vs-regal-enterprises-ltd-nclt-principal-bench/)
 - **Published:** Wed, 05 Aug 2026 20:59:00 +0000
