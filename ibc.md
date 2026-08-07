@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-07 13:50:13*
+*Last synced: 2026-08-07 19:30:48*
+
+### [Nuzhat Aisha Naseer Vs. Canara Bank and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/nuzhat-aisha-naseer-vs-canara-bank-and-ors-nclat-chennai-bench/)
+- **Published:** Fri, 07 Aug 2026 15:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Prabhaben Ravjibhai Harkani Vs. Bank of Baroda and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/prabhaben-ravjibhai-harkani-vs-bank-of-baroda-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 07 Aug 2026 15:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 07 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-07-august-2026/)
+- **Published:** Fri, 07 Aug 2026 15:54:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Gunvant G Trevadia Vs. Juliet Apparels Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/gunvant-g-trevadia-vs-juliet-apparels-pvt-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Fri, 07 Aug 2026 08:45:42 +0000
