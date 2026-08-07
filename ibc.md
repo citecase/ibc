@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-07 03:30:17*
+*Last synced: 2026-08-07 13:50:13*
+
+### [Gunvant G Trevadia Vs. Juliet Apparels Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/gunvant-g-trevadia-vs-juliet-apparels-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Fri, 07 Aug 2026 08:45:42 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [ICICI Bank Ltd. Vs. Creativity at Best Technologies Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/icici-bank-ltd-vs-creativity-at-best-technologies-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Thu, 06 Aug 2026 20:22:00 +0000
