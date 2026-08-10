@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-10 02:41:17*
+*Last synced: 2026-08-10 13:56:29*
+
+### [Clean Slate or Clean Sweep? Re-examining the Rights of Operational Creditors under IBC after Tata Steel v. Varsha – By Harshit Tripathi & Agrimaa Shrivastava](https://ibclaw.in/clean-slate-or-clean-sweep-re-examining-the-rights-of-operational-creditors-under-ibc-after-tata-steel-v-varsha-by-harshit-tripathi-agrimaa-shrivastava/)
+- **Published:** Mon, 10 Aug 2026 08:04:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Shiv Om Sharma and Ors. Vs. Amar Jyoti Universe Nidhi Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/shiv-om-sharma-and-ors-vs-amar-jyoti-universe-nidhi-ltd-nclt-allahabad-bench/)
 - **Published:** Sun, 09 Aug 2026 20:31:00 +0000
