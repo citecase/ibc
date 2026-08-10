@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-07 19:30:48*
+*Last synced: 2026-08-10 02:41:17*
+
+### [Shiv Om Sharma and Ors. Vs. Amar Jyoti Universe Nidhi Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/shiv-om-sharma-and-ors-vs-amar-jyoti-universe-nidhi-ltd-nclt-allahabad-bench/)
+- **Published:** Sun, 09 Aug 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sarish Mittal Vs. Nipan Bansal (RP) – NCLT, Chandigarh Bench](https://ibclaw.in/sarish-mittal-vs-nipan-bansal-rp-nclt-chandigarh-bench/)
+- **Published:** Sun, 09 Aug 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Canara Bank Ltd. Vs. Jayanti Shekhar – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-ltd-vs-jayanti-shekhar-nclt-mumbai-bench/)
+- **Published:** Sun, 09 Aug 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vittol S.A. Vs. Asian Natural Resources (India) Ltd. and Ors. – NCLT, Indore Bench](https://ibclaw.in/vittol-s-a-vs-asian-natural-resources-india-ltd-and-ors-nclt-indore-bench/)
+- **Published:** Sun, 09 Aug 2026 20:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Raychem RPG Pvt. Ltd. Vs. Soura Natural Energy Solutions India Pvt. Ltd. – NCLT, Kochi Bench](https://ibclaw.in/raychem-rpg-pvt-ltd-vs-soura-natural-energy-solutions-india-pvt-ltd-nclt-kochi-bench-3/)
+- **Published:** Sun, 09 Aug 2026 20:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Priyanka Bansal (alias Kajal Bansal) Vs. Hemashu Jetley (RP) and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/priyanka-bansal-alias-kajal-bansal-vs-hemashu-jetley-rp-and-ors-nclt-chandigarh-bench/)
+- **Published:** Sun, 09 Aug 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shakeel Qureshi and Ors. Vs. Rehber Food Industries Pvt. Ltd. and Ors. – NCLT, Allahabad Bench](https://ibclaw.in/shakeel-qureshi-and-ors-vs-rehber-food-industries-pvt-ltd-and-ors-nclt-allahabad-bench/)
+- **Published:** Sun, 09 Aug 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Nuzhat Aisha Naseer Vs. Canara Bank and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/nuzhat-aisha-naseer-vs-canara-bank-and-ors-nclat-chennai-bench/)
 - **Published:** Fri, 07 Aug 2026 15:47:00 +0000
