@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-10 13:56:29*
+*Last synced: 2026-08-10 19:31:57*
+
+### [IBC Laws Today | Daily Case Laws Updates | 10 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-10-august-2026/)
+- **Published:** Mon, 10 Aug 2026 14:05:11 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Clean Slate or Clean Sweep? Re-examining the Rights of Operational Creditors under IBC after Tata Steel v. Varsha – By Harshit Tripathi & Agrimaa Shrivastava](https://ibclaw.in/clean-slate-or-clean-sweep-re-examining-the-rights-of-operational-creditors-under-ibc-after-tata-steel-v-varsha-by-harshit-tripathi-agrimaa-shrivastava/)
 - **Published:** Mon, 10 Aug 2026 08:04:00 +0000
