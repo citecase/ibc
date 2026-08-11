@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-10 19:31:57*
+*Last synced: 2026-08-11 02:35:21*
+
+### [Thahakoya Muhammad Ismail Kunju Vs. Registrar of Companies, Kerala & Lakshadweep – NCLT, Kochi Bench](https://ibclaw.in/thahakoya-muhammad-ismail-kunju-vs-registrar-of-companies-kerala-lakshadweep-nclt-kochi-bench/)
+- **Published:** Mon, 10 Aug 2026 20:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jaspal Singh and Anr. Vs. Canara Bank and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/jaspal-singh-and-anr-vs-canara-bank-and-ors-nclt-chandigarh-bench/)
+- **Published:** Mon, 10 Aug 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Lokesh Garg and Anr. Vs. Associated Machinery Corporation and Ors. – NCLT, Allahabad Bench](https://ibclaw.in/lokesh-garg-and-anr-vs-associated-machinery-corporation-and-ors-nclt-allahabad-bench/)
+- **Published:** Mon, 10 Aug 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [TJSB Sahakari Bank Ltd. Vs. Prem Dharamdas Kewalramani – NCLT, Mumbai Bench](https://ibclaw.in/tjsb-sahakari-bank-ltd-vs-prem-dharamdas-kewalramani-nclt-mumbai-bench/)
+- **Published:** Mon, 10 Aug 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Harsh Vardhan Krishnatray and Ors. Vs. Vatika One On One Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/harsh-vardhan-krishnatray-and-ors-vs-vatika-one-on-one-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 10 Aug 2026 20:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Saroj Didwania (Proprieter) Vs. Standard Motocorp Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/saroj-didwania-proprieter-vs-standard-motocorp-pvt-ltd-nclt-indore-bench/)
+- **Published:** Mon, 10 Aug 2026 20:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jossy Steephen Kattur Vs. Cherupushpam Films Pvt. Ltd. and Ors. – NCLT, Kochi Bench](https://ibclaw.in/jossy-steephen-kattur-vs-cherupushpam-films-pvt-ltd-and-ors-nclt-kochi-bench/)
+- **Published:** Mon, 10 Aug 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 10 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-10-august-2026/)
 - **Published:** Mon, 10 Aug 2026 14:05:11 +0000
