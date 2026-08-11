@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-11 02:35:21*
+*Last synced: 2026-08-11 13:55:22*
+
+### [Bombay High Court Clarifies Section 96(4) IBC Moratorium Scope for Personal Guarantors in Arbitration Petition](https://ibclaw.in/bombay-high-court-clarifies-section-964-ibc-moratorium-scope-for-personal-guarantors-in-arbitration-petition/)
+- **Published:** Tue, 11 Aug 2026 10:37:32 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Thahakoya Muhammad Ismail Kunju Vs. Registrar of Companies, Kerala & Lakshadweep – NCLT, Kochi Bench](https://ibclaw.in/thahakoya-muhammad-ismail-kunju-vs-registrar-of-companies-kerala-lakshadweep-nclt-kochi-bench/)
 - **Published:** Mon, 10 Aug 2026 20:26:00 +0000
