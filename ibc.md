@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-11 13:55:22*
+*Last synced: 2026-08-11 19:35:24*
+
+### [Aditya Vivek Kawde Vs. Bank of Maharashtra and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/aditya-vivek-kawde-vs-bank-of-maharashtra-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 11 Aug 2026 14:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 11 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-11-august-2026/)
+- **Published:** Tue, 11 Aug 2026 15:33:28 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Bombay High Court Clarifies Section 96(4) IBC Moratorium Scope for Personal Guarantors in Arbitration Petition](https://ibclaw.in/bombay-high-court-clarifies-section-964-ibc-moratorium-scope-for-personal-guarantors-in-arbitration-petition/)
 - **Published:** Tue, 11 Aug 2026 10:37:32 +0000
