@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-12 03:04:36*
+*Last synced: 2026-08-12 07:59:30*
+
+### [Digital Access in CIRP: The Missing Custody Protocol – By Devansh Awasthi](https://ibclaw.in/digital-access-in-cirp-the-missing-custody-protocol-by-devansh-awasthi/)
+- **Published:** Wed, 12 Aug 2026 05:54:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Sudhanshu Chaudhary and Ors. Vs. Global New Energies & Technologies and Anr. – NCLT, Allahabad Bench](https://ibclaw.in/sudhanshu-chaudhary-and-ors-vs-global-new-energies-technologies-and-anr-nclt-allahabad-bench/)
 - **Published:** Tue, 11 Aug 2026 20:32:00 +0000
