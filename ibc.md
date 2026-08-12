@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-12 13:57:57*
+*Last synced: 2026-08-12 19:38:11*
+
+### [IBC Laws Today | Daily Case Laws Updates | 12 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-12-august-2026/)
+- **Published:** Wed, 12 Aug 2026 14:31:14 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A. Arumugam Vs. New Hope Food Industries Pvt. Ltd. and Ors. – NCLT, Chennai Bench](https://ibclaw.in/a-arumugam-vs-new-hope-food-industries-pvt-ltd-and-ors-nclt-chennai-bench/)
+- **Published:** Wed, 12 Aug 2026 19:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [ASREC (India) Ltd. Vs. Raunak Prashant Khadilkar – NCLT, Mumbai Bench](https://ibclaw.in/asrec-india-ltd-vs-raunak-prashant-khadilkar-nclt-mumbai-bench/)
+- **Published:** Wed, 12 Aug 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [GS Industries Vs. Larsen & Toubro Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/gs-industries-vs-larsen-toubro-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 12 Aug 2026 19:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mahananda Udhavrao Deshkhaire – NCLT, Mumbai Bench](https://ibclaw.in/mahananda-udhavrao-deshkhaire-nclt-mumbai-bench-2/)
+- **Published:** Wed, 12 Aug 2026 19:33:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Clarifies Key Issues in Filing Insolvency Applications under Section 9 of the IBC](https://ibclaw.in/supreme-court-clarifies-key-issues-in-filing-insolvency-applications-under-section-9-of-the-ibc/)
 - **Published:** Wed, 12 Aug 2026 12:38:35 +0000
