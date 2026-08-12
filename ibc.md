@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-12 07:59:30*
+*Last synced: 2026-08-12 13:57:57*
+
+### [Supreme Court Clarifies Key Issues in Filing Insolvency Applications under Section 9 of the IBC](https://ibclaw.in/supreme-court-clarifies-key-issues-in-filing-insolvency-applications-under-section-9-of-the-ibc/)
+- **Published:** Wed, 12 Aug 2026 12:38:35 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Digital Access in CIRP: The Missing Custody Protocol – By Devansh Awasthi](https://ibclaw.in/digital-access-in-cirp-the-missing-custody-protocol-by-devansh-awasthi/)
 - **Published:** Wed, 12 Aug 2026 05:54:08 +0000
