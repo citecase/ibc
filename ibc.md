@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-11 19:35:24*
+*Last synced: 2026-08-12 03:04:36*
+
+### [Sudhanshu Chaudhary and Ors. Vs. Global New Energies & Technologies and Anr. – NCLT, Allahabad Bench](https://ibclaw.in/sudhanshu-chaudhary-and-ors-vs-global-new-energies-technologies-and-anr-nclt-allahabad-bench/)
+- **Published:** Tue, 11 Aug 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [TJSB Sahakari Bank Ltd. Vs. Roshan Kumar Kewalramani – NCLT, Mumbai Bench](https://ibclaw.in/tjsb-sahakari-bank-ltd-vs-roshan-kumar-kewalramani-nclt-mumbai-bench/)
+- **Published:** Tue, 11 Aug 2026 20:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Universal Polychem (India) Pvt. Ltd. Vs. Krishna Electrical Industries Ltd. – NCLT, Indore Bench](https://ibclaw.in/universal-polychem-india-pvt-ltd-vs-krishna-electrical-industries-ltd-nclt-indore-bench/)
+- **Published:** Tue, 11 Aug 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Immaneni Eswara Rao, RP of Mangalagiri Textiles Mills Pvt. Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/immaneni-eswara-rao-rp-of-mangalagiri-textiles-mills-pvt-ltd-nclt-amaravati-bench/)
+- **Published:** Tue, 11 Aug 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Trocko Logi Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/trocko-logi-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 11 Aug 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Swapnil Jain, RP of Omnibay Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/swapnil-jain-rp-of-omnibay-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 11 Aug 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Associated Machinery Corporation Ltd. Vs. Sunder Engineering Works – NCLT, Allahabad Bench](https://ibclaw.in/associated-machinery-corporation-ltd-vs-sunder-engineering-works-nclt-allahabad-bench/)
+- **Published:** Tue, 11 Aug 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sarita Patni Vs. Assets Care & Reconstruction Enterprise Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sarita-patni-vs-assets-care-reconstruction-enterprise-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 11 Aug 2026 21:53:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Aditya Vivek Kawde Vs. Bank of Maharashtra and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/aditya-vivek-kawde-vs-bank-of-maharashtra-and-anr-nclat-principal-bench-new-delhi/)
 - **Published:** Tue, 11 Aug 2026 14:41:00 +0000
