@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-12 19:38:11*
+*Last synced: 2026-08-13 03:08:19*
+
+### [Manu Kumar Rajwani Vs. Sagar Sunil Lalwani – NCLT, Mumbai Bench](https://ibclaw.in/manu-kumar-rajwani-vs-sagar-sunil-lalwani-nclt-mumbai-bench/)
+- **Published:** Wed, 12 Aug 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [TJSB Sahakari Bank Ltd. Vs. Parvati Kumar Kewalramani – NCLT, Mumbai Bench](https://ibclaw.in/tjsb-sahakari-bank-ltd-vs-parvati-kumar-kewalramani-nclt-mumbai-bench/)
+- **Published:** Wed, 12 Aug 2026 20:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Central Bank of India Vs. Ashok Pranjivan Bosmiya – NCLT, Mumbai Bench](https://ibclaw.in/central-bank-of-india-vs-ashok-pranjivan-bosmiya-nclt-mumbai-bench/)
+- **Published:** Wed, 12 Aug 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jaideep Singh Vs. Gaurav Srivastava IRP, for Global Mega Ventures Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/jaideep-singh-vs-gaurav-srivastava-irp-for-global-mega-ventures-pvt-ltd-nclt-indore-bench/)
+- **Published:** Wed, 12 Aug 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nirmal Ujjwal Credit Co-Operative Society Ltd. Vs. Indian Bank and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/nirmal-ujjwal-credit-co-operative-society-ltd-vs-indian-bank-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 12 Aug 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gold Star Realtors Ltd. Vs. Ram Phal Bhardwaj, RP of ANS Apartments Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/gold-star-realtors-ltd-vs-ram-phal-bhardwaj-rp-of-ans-apartments-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 12 Aug 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 12 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-12-august-2026/)
 - **Published:** Wed, 12 Aug 2026 14:31:14 +0000
