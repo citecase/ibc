@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-13 03:08:19*
+*Last synced: 2026-08-13 08:01:16*
+
+### [Reciprocity vs Cooperation: Rethinking India’s Cross-Border Framework in Light of the UNCITRAL Model Law – By Naimisa Madduri](https://ibclaw.in/reciprocity-vs-cooperation-rethinking-indias-cross-border-framework-in-light-of-the-uncitral-model-law-by-naimisa-madduri/)
+- **Published:** Thu, 13 Aug 2026 05:04:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Launches e-Inspection and e-Certified Copy Services: Online Process, Fees and Complete Guide](https://ibclaw.in/nclt-launches-e-inspection-and-e-certified-copy-services-online-process-fees-and-complete-guide/)
+- **Published:** Thu, 13 Aug 2026 07:56:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Manu Kumar Rajwani Vs. Sagar Sunil Lalwani – NCLT, Mumbai Bench](https://ibclaw.in/manu-kumar-rajwani-vs-sagar-sunil-lalwani-nclt-mumbai-bench/)
 - **Published:** Wed, 12 Aug 2026 20:31:00 +0000
