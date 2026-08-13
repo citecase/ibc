@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-13 08:01:16*
+*Last synced: 2026-08-13 19:34:31*
+
+### [IBC Laws Today | Daily Case Laws Updates | 13 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-13-august-2026/)
+- **Published:** Thu, 13 Aug 2026 14:49:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Leel Electricals Ltd. Vs. Mahavir Ship Breakers – NCLT, Allahabad Bench](https://ibclaw.in/leel-electricals-ltd-vs-mahavir-ship-breakers-nclt-allahabad-bench/)
+- **Published:** Thu, 13 Aug 2026 19:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Reciprocity vs Cooperation: Rethinking India’s Cross-Border Framework in Light of the UNCITRAL Model Law – By Naimisa Madduri](https://ibclaw.in/reciprocity-vs-cooperation-rethinking-indias-cross-border-framework-in-light-of-the-uncitral-model-law-by-naimisa-madduri/)
 - **Published:** Thu, 13 Aug 2026 05:04:15 +0000
