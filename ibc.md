@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-13 19:34:31*
+*Last synced: 2026-08-14 03:06:49*
+
+### [Vijay Singh – NCLT, Chandigarh Bench](https://ibclaw.in/vijay-singh-nclt-chandigarh-bench/)
+- **Published:** Thu, 13 Aug 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Trade Concepts India Ltd. Vs. Registrar of Companies – NCLT, Principal Bench](https://ibclaw.in/trade-concepts-india-ltd-vs-registrar-of-companies-nclt-principal-bench/)
+- **Published:** Thu, 13 Aug 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Axis Bank Ltd. Vs. Kshipra Motors Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/axis-bank-ltd-vs-kshipra-motors-pvt-ltd-nclt-indore-bench/)
+- **Published:** Thu, 13 Aug 2026 20:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sapna Dharmendra Singh – NCLT, Mumbai Bench](https://ibclaw.in/sapna-dharmendra-singh-nclt-mumbai-bench/)
+- **Published:** Thu, 13 Aug 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Crescendo Vs. Drushti Realtors Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/crescendo-vs-drushti-realtors-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 13 Aug 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Rajeev Arora – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-rajeev-arora-nclt-mumbai-bench/)
+- **Published:** Thu, 13 Aug 2026 21:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 13 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-13-august-2026/)
 - **Published:** Thu, 13 Aug 2026 14:49:36 +0000
