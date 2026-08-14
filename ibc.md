@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-14 03:06:49*
+*Last synced: 2026-08-14 07:57:09*
+
+### [Beyond the Corporate Debtor, Supreme Court Clarifies that Section 14 IBC Moratorium does not Shield Directors, Promoters, or Co-Respondents – By Nishi Dubey & Gopal Krishna](https://ibclaw.in/beyond-the-corporate-debtor-supreme-court-clarifies-that-section-14-ibc-moratorium-does-not-shield-directors-promoters-or-co-respondents-by-nishi-dubey-gopal-krishna/)
+- **Published:** Fri, 14 Aug 2026 06:10:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT issued directions regarding the issuance of certified copies of applications, petitions, documents, and resolution plans in pending and disposed matters](https://ibclaw.in/nclat-issued-directions-regarding-the-issuance-of-certified-copies-of-applications-petitions-documents-and-resolution-plans-in-pending-and-disposed-matters/)
+- **Published:** Fri, 14 Aug 2026 07:37:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Instructions regarding Registry Practice, Listing of Cases and Preparation of Daily Cause Lists before the NCLT – NCLT Circular Dated 12.08.2026](https://ibclaw.in/instructions-regarding-registry-practice-listing-of-cases-and-preparation-of-daily-cause-lists-before-the-nclt-nclt-circular-dated-12-08-2026/)
+- **Published:** Fri, 14 Aug 2026 07:42:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vijay Singh – NCLT, Chandigarh Bench](https://ibclaw.in/vijay-singh-nclt-chandigarh-bench/)
 - **Published:** Thu, 13 Aug 2026 20:37:00 +0000
