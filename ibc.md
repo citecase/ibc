@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-14 13:54:13*
+*Last synced: 2026-08-14 19:29:05*
+
+### [IBC Laws Today | Daily Case Laws Updates | 14 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-14-august-2026/)
+- **Published:** Fri, 14 Aug 2026 16:11:14 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Advocates acting as insolvency professionals liable to collect, deposit GST: Delhi High Court](https://www.barandbench.com/news/litigation/advocates-acting-as-insolvency-professionals-liable-to-collect-deposit-gst-delhi-high-court)
 - **Published:** Thu, 13 Aug 2026 19:43:09 +0530
