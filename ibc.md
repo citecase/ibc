@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-14 07:57:09*
+*Last synced: 2026-08-14 13:54:13*
+
+### [Advocates acting as insolvency professionals liable to collect, deposit GST: Delhi High Court](https://www.barandbench.com/news/litigation/advocates-acting-as-insolvency-professionals-liable-to-collect-deposit-gst-delhi-high-court)
+- **Published:** Thu, 13 Aug 2026 19:43:09 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Beyond the Corporate Debtor, Supreme Court Clarifies that Section 14 IBC Moratorium does not Shield Directors, Promoters, or Co-Respondents – By Nishi Dubey & Gopal Krishna](https://ibclaw.in/beyond-the-corporate-debtor-supreme-court-clarifies-that-section-14-ibc-moratorium-does-not-shield-directors-promoters-or-co-respondents-by-nishi-dubey-gopal-krishna/)
 - **Published:** Fri, 14 Aug 2026 06:10:35 +0000
