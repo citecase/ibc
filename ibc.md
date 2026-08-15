@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-14 19:29:05*
+*Last synced: 2026-08-15 07:07:32*
+
+### [From Code to Command: How IBC 2.0 Redefines Corporate Insolvency in India – By Aditi Bhardwaj](https://ibclaw.in/from-code-to-command-how-ibc-2-0-redefines-corporate-insolvency-in-india-by-aditi-bhardwaj/)
+- **Published:** Sat, 15 Aug 2026 05:11:13 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Clean Slate or Claim Extinguishment? Reassessing Liability Transfer in IBC Led M&A – By Anirudh Vasudevan](https://ibclaw.in/clean-slate-or-claim-extinguishment-reassessing-liability-transfer-in-ibc-led-ma-by-anirudh-vasudevan/)
+- **Published:** Sat, 15 Aug 2026 05:12:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Discussion Paper on Guidance to IPs for Due Diligence to Identify Fraudulent or Malicious Initiation of CIRP, and Recourse under Sections 60(5) and 65 of IBC, 2016](https://ibclaw.in/ibbi-discussion-paper-on-guidance-to-ips-for-due-diligence-to-identify-fraudulent-or-malicious-initiation-of-cirp-and-recourse-under-sections-605-and-65-of-ibc-2016/)
+- **Published:** Sat, 15 Aug 2026 06:26:58 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 14 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-14-august-2026/)
 - **Published:** Fri, 14 Aug 2026 16:11:14 +0000
