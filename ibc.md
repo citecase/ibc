@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-17 02:04:20*
+*Last synced: 2026-08-17 13:21:45*
+
+### [NCLT pulls up SpiceJet for last-minute settlement in insolvency case; still defers order](https://www.barandbench.com/news/litigation/nclt-pulls-up-spicejet-for-last-minute-settlement-in-insolvency-case-still-defers-order)
+- **Published:** Mon, 17 Aug 2026 14:37:27 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Canara Bank Vs. Citron Infraprojects Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-vs-citron-infraprojects-ltd-nclt-mumbai-bench/)
 - **Published:** Sun, 16 Aug 2026 20:12:00 +0000
