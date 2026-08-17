@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-15 07:07:32*
+*Last synced: 2026-08-17 02:04:20*
+
+### [Canara Bank Vs. Citron Infraprojects Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-vs-citron-infraprojects-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 16 Aug 2026 20:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Union Bank of India Vs. N. Kumar Retails and Properties Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/union-bank-of-india-vs-n-kumar-retails-and-properties-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 16 Aug 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Siyaram Silk Mills Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/siyaram-silk-mills-ltd-nclt-mumbai-bench-2/)
+- **Published:** Sun, 16 Aug 2026 20:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rite Nutan Homes Pvt. Ltd. Vs. Anita Abhinandan Doshi – NCLT, Mumbai Bench](https://ibclaw.in/rite-nutan-homes-pvt-ltd-vs-anita-abhinandan-doshi-nclt-mumbai-bench/)
+- **Published:** Sun, 16 Aug 2026 21:12:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [From Code to Command: How IBC 2.0 Redefines Corporate Insolvency in India – By Aditi Bhardwaj](https://ibclaw.in/from-code-to-command-how-ibc-2-0-redefines-corporate-insolvency-in-india-by-aditi-bhardwaj/)
 - **Published:** Sat, 15 Aug 2026 05:11:13 +0000
