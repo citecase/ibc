@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-17 13:21:45*
+*Last synced: 2026-08-17 19:07:36*
+
+### [Byju Raveendran Vs. GLAS Trust Company LLC and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/byju-raveendran-vs-glas-trust-company-llc-and-ors-nclat-chennai-bench/)
+- **Published:** Mon, 17 Aug 2026 14:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sun Paper Ltd. Vs. S. Dhanapal, Liquidator of Servalakshmi Paper Ltd. – NCLAT, Chennai Bench](https://ibclaw.in/sun-paper-ltd-vs-s-dhanapal-liquidator-of-servalakshmi-paper-ltd-nclat-chennai-bench/)
+- **Published:** Mon, 17 Aug 2026 14:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Asif Ahmed Siddique Vs. UCO Bank and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/asif-ahmed-siddique-vs-uco-bank-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 17 Aug 2026 15:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Micro Turner Vs. Committee of Creditors – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/micro-turner-vs-committee-of-creditors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 17 Aug 2026 15:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pearl City Marine Products Pvt. Ltd. and Ors. Vs. Hiras K and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/pearl-city-marine-products-pvt-ltd-and-ors-vs-hiras-k-and-ors-nclat-chennai-bench/)
+- **Published:** Mon, 17 Aug 2026 15:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 17 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-17-august-2026/)
+- **Published:** Mon, 17 Aug 2026 15:45:04 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT pulls up SpiceJet for last-minute settlement in insolvency case; still defers order](https://www.barandbench.com/news/litigation/nclt-pulls-up-spicejet-for-last-minute-settlement-in-insolvency-case-still-defers-order)
 - **Published:** Mon, 17 Aug 2026 14:37:27 +0530
