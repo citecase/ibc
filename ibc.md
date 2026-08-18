@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-18 01:58:30*
+*Last synced: 2026-08-18 13:24:27*
+
+### [Satish Anand Sharma joins IndiaLaw as Senior Partner in Corporate and Insolvency practice](https://www.barandbench.com/law-firms/corporate/satish-anand-sharma-joins-indialaw-as-senior-partner-in-corporate-and-insolvency-practice)
+- **Published:** Tue, 18 Aug 2026 16:09:12 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 18 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-18-august-2026/)
+- **Published:** Tue, 18 Aug 2026 13:22:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Indian Bank Vs. Sudha Sarma, Liquidator – NCLT, Guwahati Bench](https://ibclaw.in/indian-bank-vs-sudha-sarma-liquidator-nclt-guwahati-bench/)
 - **Published:** Mon, 17 Aug 2026 20:50:00 +0000
