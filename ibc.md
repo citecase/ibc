@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-18 13:24:27*
+*Last synced: 2026-08-18 19:07:16*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 10 August to 15 August, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-10-august-to-15-august-2026/)
+- **Published:** Tue, 18 Aug 2026 14:30:16 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ashutosh Majumdar Vs. Omkara Asset Reconstruction Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ashutosh-majumdar-vs-omkara-asset-reconstruction-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 18 Aug 2026 14:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Admission of Chemstar Organics into CIRP Under Section 7 of IBC, Rejects Section 10A Exclusion and Novation Plea](https://ibclaw.in/nclat-upholds-admission-of-chemstar-organics-into-cirp-under-section-7-of-ibc-rejects-section-10a-exclusion-and-novation-plea/)
+- **Published:** Tue, 18 Aug 2026 16:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Satish Anand Sharma joins IndiaLaw as Senior Partner in Corporate and Insolvency practice](https://www.barandbench.com/law-firms/corporate/satish-anand-sharma-joins-indialaw-as-senior-partner-in-corporate-and-insolvency-practice)
 - **Published:** Tue, 18 Aug 2026 16:09:12 +0530
