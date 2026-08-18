@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-17 19:07:36*
+*Last synced: 2026-08-18 01:58:30*
+
+### [Indian Bank Vs. Sudha Sarma, Liquidator – NCLT, Guwahati Bench](https://ibclaw.in/indian-bank-vs-sudha-sarma-liquidator-nclt-guwahati-bench/)
+- **Published:** Mon, 17 Aug 2026 20:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Punjab National Bank Vs. Alchemist Asset Reconstruction Company Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/punjab-national-bank-vs-alchemist-asset-reconstruction-company-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 17 Aug 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Navinchandra Mangaldas Patel Vs. FCG Flameproof Control Gears Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/navinchandra-mangaldas-patel-vs-fcg-flameproof-control-gears-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 17 Aug 2026 23:05:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Byju Raveendran Vs. GLAS Trust Company LLC and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/byju-raveendran-vs-glas-trust-company-llc-and-ors-nclat-chennai-bench/)
 - **Published:** Mon, 17 Aug 2026 14:26:00 +0000
