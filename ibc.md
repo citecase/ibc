@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-19 07:20:44*
+*Last synced: 2026-08-19 13:25:36*
+
+### [Tanay Securities & Services Pvt. Ltd. Vs. Organic World Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/tanay-securities-services-pvt-ltd-vs-organic-world-pvt-ltd-nclt-indore-bench-2/)
+- **Published:** Tue, 18 Aug 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT imposes ₹15 lakh costs on SpiceJet and Aviator ML for last-minute settlement](https://www.barandbench.com/news/litigation/nclt-imposes-15-lakh-costs-on-spicejet-and-aviator-ml-for-last-minute-settlement)
 - **Published:** Wed, 19 Aug 2026 11:47:59 +0530
