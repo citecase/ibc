@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-18 19:07:16*
+*Last synced: 2026-08-19 02:02:46*
+
+### [Union Bank of India Vs. Chaya Gupta, RP of JSM Devcons India Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/union-bank-of-india-vs-chaya-gupta-rp-of-jsm-devcons-india-pvt-ltd-nclt-indore-bench-2/)
+- **Published:** Tue, 18 Aug 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Swati Singhania, RP of Aasia Begum – NCLT, Kolkata Bench](https://ibclaw.in/swati-singhania-rp-of-aasia-begum-nclt-kolkata-bench/)
+- **Published:** Tue, 18 Aug 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gurumurthy Panku Vs. Tono Thomas – NCLT, Bengaluru Bench](https://ibclaw.in/gurumurthy-panku-vs-tono-thomas-nclt-bengaluru-bench/)
+- **Published:** Tue, 18 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NTEX Transportation Services Pvt. Ltd. Vs. Shree Nagai Devi Sugar Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/ntex-transportation-services-pvt-ltd-vs-shree-nagai-devi-sugar-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 18 Aug 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indoworth Holdings Ltd. Vs. Uniworth Resorts Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/indoworth-holdings-ltd-vs-uniworth-resorts-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 18 Aug 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CFM Asset Reconstruction Pvt. Ltd. Vs. Canterbury Real Tech Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/cfm-asset-reconstruction-pvt-ltd-vs-canterbury-real-tech-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 18 Aug 2026 23:08:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 10 August to 15 August, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-10-august-to-15-august-2026/)
 - **Published:** Tue, 18 Aug 2026 14:30:16 +0000
