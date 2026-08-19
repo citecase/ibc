@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-19 13:25:36*
+*Last synced: 2026-08-19 19:02:56*
+
+### [IBC Laws Today | Daily Case Laws Updates | 19 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-19-august-2026/)
+- **Published:** Wed, 19 Aug 2026 13:40:50 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Tanay Securities & Services Pvt. Ltd. Vs. Organic World Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/tanay-securities-services-pvt-ltd-vs-organic-world-pvt-ltd-nclt-indore-bench-2/)
 - **Published:** Tue, 18 Aug 2026 21:22:00 +0000
