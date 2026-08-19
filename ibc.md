@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-19 02:02:46*
+*Last synced: 2026-08-19 07:20:44*
+
+### [NCLT imposes ₹15 lakh costs on SpiceJet and Aviator ML for last-minute settlement](https://www.barandbench.com/news/litigation/nclt-imposes-15-lakh-costs-on-spicejet-and-aviator-ml-for-last-minute-settlement)
+- **Published:** Wed, 19 Aug 2026 11:47:59 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [The Limits of Moratorium under the Insolvency and Bankruptcy Code, 2016: A Critical Analysis of the Rakesh Bhanot Judgment – By Adv. Harsh Jadon & Adv. Akshay Goel](https://ibclaw.in/the-limits-of-moratorium-under-the-insolvency-and-bankruptcy-code-2016-a-critical-analysis-of-the-rakesh-bhanot-judgment-by-adv-harsh-jadon-adv-akshay-goel/)
+- **Published:** Wed, 19 Aug 2026 05:16:26 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A Boomerang, not a Bridge: Pre-Institution Mediation for Operational Creditors and the “Pre-Existing Dispute” Trap under the IBC – By Adv. Kushagra Chaturvedi](https://ibclaw.in/a-boomerang-not-a-bridge-pre-institution-mediation-for-operational-creditors-and-the-pre-existing-dispute-trap-under-the-ibc-by-adv-kushagra-chaturvedi/)
+- **Published:** Wed, 19 Aug 2026 05:17:30 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Union Bank of India Vs. Chaya Gupta, RP of JSM Devcons India Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/union-bank-of-india-vs-chaya-gupta-rp-of-jsm-devcons-india-pvt-ltd-nclt-indore-bench-2/)
 - **Published:** Tue, 18 Aug 2026 21:18:00 +0000
