@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-20 02:00:36*
+*Last synced: 2026-08-20 13:27:37*
+
+### [Bombay High Court upholds 0.25 percent IBBI regulatory fee on resolution plans under IBC](https://www.barandbench.com/news/bombay-high-court-upholds-025-percent-ibbi-regulatory-fee-on-resolution-plans-under-ibc)
+- **Published:** Thu, 20 Aug 2026 18:29:24 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Sumit Bansal Vs. Rajeev Lochan, RP of RG Residency Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sumit-bansal-vs-rajeev-lochan-rp-of-rg-residency-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 20 Aug 2026 13:26:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State Bank of India Vs. Nezee Basheeruddin – NCLT, Kochi Bench](https://ibclaw.in/state-bank-of-india-vs-nezee-basheeruddin-nclt-kochi-bench/)
 - **Published:** Wed, 19 Aug 2026 21:17:00 +0000
