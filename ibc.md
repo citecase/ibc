@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-19 19:02:56*
+*Last synced: 2026-08-20 02:00:36*
+
+### [State Bank of India Vs. Nezee Basheeruddin – NCLT, Kochi Bench](https://ibclaw.in/state-bank-of-india-vs-nezee-basheeruddin-nclt-kochi-bench/)
+- **Published:** Wed, 19 Aug 2026 21:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Teena Saraswat Pandey, RP of Sadhana Gupta – NCLT, Indore Bench](https://ibclaw.in/teena-saraswat-pandey-rp-of-sadhana-gupta-nclt-indore-bench/)
+- **Published:** Wed, 19 Aug 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pathpartner Technology Pvt. Ltd. Vs. Tono Thomas – NCLT, Bengaluru Bench](https://ibclaw.in/pathpartner-technology-pvt-ltd-vs-tono-thomas-nclt-bengaluru-bench/)
+- **Published:** Wed, 19 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Balwan Singh Vs. Yassh Deep Builders LLP and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/balwan-singh-vs-yassh-deep-builders-llp-and-ors-nclt-chandigarh-bench/)
+- **Published:** Wed, 19 Aug 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Manindra Kumar Tiwari, RP of Paytail Commerce Pvt. Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/manindra-kumar-tiwari-rp-of-paytail-commerce-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Wed, 19 Aug 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 19 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-19-august-2026/)
 - **Published:** Wed, 19 Aug 2026 13:40:50 +0000
