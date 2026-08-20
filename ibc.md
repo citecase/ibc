@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-20 13:27:37*
+*Last synced: 2026-08-20 19:10:47*
+
+### [IBC Laws Today | Daily Case Laws Updates | 20 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-20-august-2026/)
+- **Published:** Thu, 20 Aug 2026 13:51:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Hazel Mercantile Ltd. and Ors. Vs. Insolvency and Bankruptcy Board of India and Ors. – Bombay High Court](https://ibclaw.in/hazel-mercantile-ltd-and-ors-vs-insolvency-and-bankruptcy-board-of-india-and-ors-bombay-high-court/)
+- **Published:** Thu, 20 Aug 2026 15:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bombay High Court Upholds Validity of IBBI Regulatory Fee Under Regulation 31A](https://ibclaw.in/bombay-high-court-upholds-validity-of-ibbi-regulatory-fee-under-regulation-31a/)
+- **Published:** Thu, 20 Aug 2026 15:04:37 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Bombay High Court upholds 0.25 percent IBBI regulatory fee on resolution plans under IBC](https://www.barandbench.com/news/bombay-high-court-upholds-025-percent-ibbi-regulatory-fee-on-resolution-plans-under-ibc)
 - **Published:** Thu, 20 Aug 2026 18:29:24 +0530
