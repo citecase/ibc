@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-20 19:10:47*
+*Last synced: 2026-08-21 02:08:04*
+
+### [Prakash Chuhardas Khatri Vs. Indore Glass House Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/prakash-chuhardas-khatri-vs-indore-glass-house-pvt-ltd-nclt-indore-bench/)
+- **Published:** Thu, 20 Aug 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Matti Balakrishna Rao Vs. Tono Thomas – NCLT, Bengaluru Bench](https://ibclaw.in/matti-balakrishna-rao-vs-tono-thomas-nclt-bengaluru-bench/)
+- **Published:** Thu, 20 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Hartron Communications Ltd. Vs. Registrar of Companies, Delhi and Haryana and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/hartron-communications-ltd-vs-registrar-of-companies-delhi-and-haryana-and-anr-nclt-chandigarh-bench/)
+- **Published:** Thu, 20 Aug 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mathew. C.K. and Ors. Vs. Kerala Industrial Infrastructure and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/mathew-c-k-and-ors-vs-kerala-industrial-infrastructure-and-ors-nclat-chennai-bench/)
+- **Published:** Thu, 20 Aug 2026 22:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indian Bank Vs. Sneha Dharmendra Shah and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/indian-bank-vs-sneha-dharmendra-shah-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 20 Aug 2026 22:10:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 20 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-20-august-2026/)
 - **Published:** Thu, 20 Aug 2026 13:51:18 +0000
