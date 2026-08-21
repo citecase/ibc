@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-21 07:24:14*
+*Last synced: 2026-08-21 19:06:35*
+
+### [IBC Laws Today | Daily Case Laws Updates | 21 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-21-august-2026/)
+- **Published:** Fri, 21 Aug 2026 15:46:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Phoenix ARC Ltd. Vs. Shyam Prasad Tikkavarapu – NCLT, Chennai Bench](https://ibclaw.in/phoenix-arc-ltd-vs-shyam-prasad-tikkavarapu-nclt-chennai-bench/)
 - **Published:** Thu, 20 Aug 2026 21:24:00 +0000
