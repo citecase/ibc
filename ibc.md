@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-21 02:08:04*
+*Last synced: 2026-08-21 07:24:14*
+
+### [Phoenix ARC Ltd. Vs. Shyam Prasad Tikkavarapu – NCLT, Chennai Bench](https://ibclaw.in/phoenix-arc-ltd-vs-shyam-prasad-tikkavarapu-nclt-chennai-bench/)
+- **Published:** Thu, 20 Aug 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Beyond the 330-Day Timeline – A Critical Analysis of Judicial Extensions under Section 12 of the Insolvency and Bankruptcy Code, 2016 – By Arun Kumar](https://ibclaw.in/beyond-the-330-day-timeline-a-critical-analysis-of-judicial-extensions-under-section-12-of-the-insolvency-and-bankruptcy-code-2016-by-arun-kumar/)
+- **Published:** Fri, 21 Aug 2026 05:13:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Can A Bank Continue SARFAESI Proceedings After Admission of CIRP? – By Adv. Rahul Pathania](https://ibclaw.in/can-a-bank-continue-sarfaesi-proceedings-after-admission-of-cirp-by-adv-rahul-pathania/)
+- **Published:** Fri, 21 Aug 2026 05:14:37 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Prakash Chuhardas Khatri Vs. Indore Glass House Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/prakash-chuhardas-khatri-vs-indore-glass-house-pvt-ltd-nclt-indore-bench/)
 - **Published:** Thu, 20 Aug 2026 21:19:00 +0000
