@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-22 01:58:15*
+*Last synced: 2026-08-22 07:09:48*
+
+### [Reliance Entertainment admitted to insolvency over ₹11.94 crore debt linked to movie Auron Mein Kahan Dum Tha](https://www.barandbench.com/news/litigation/reliance-entertainment-admitted-to-insolvency-over-1194-crore-debt-linked-to-movie-auron-mein-kahan-dum-tha)
+- **Published:** Fri, 21 Aug 2026 14:15:22 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Enforcement of Foreign Liquidation and Insolvency Orders in India – By Adv. Hariharran G.](https://ibclaw.in/enforcement-of-foreign-liquidation-and-insolvency-orders-in-india-by-adv-hariharran-g/)
+- **Published:** Sat, 22 Aug 2026 05:12:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Can Indian Tax Authorities Recover Dues After A Company Completes Corporate Insolvency Resolution Process? – By Jiya Goyal](https://ibclaw.in/can-indian-tax-authorities-recover-dues-after-a-company-completes-corporate-insolvency-resolution-process-by-jiya-goyal/)
+- **Published:** Sat, 22 Aug 2026 05:13:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Verification of Claims by the Resolution Professional under the Insolvency and Bankruptcy Code, 2016 – By Ashok Kakkar](https://ibclaw.in/verification-of-claims-by-the-resolution-professional-under-the-insolvency-and-bankruptcy-code-2016-by-ashok-kakkar/)
+- **Published:** Sat, 22 Aug 2026 05:14:16 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Canara Bank Vs. Triveni Infratech Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/canara-bank-vs-triveni-infratech-pvt-ltd-nclt-kolkata-bench/)
 - **Published:** Fri, 21 Aug 2026 21:23:00 +0000
