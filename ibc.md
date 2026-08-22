@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-21 19:06:35*
+*Last synced: 2026-08-22 01:58:15*
+
+### [Canara Bank Vs. Triveni Infratech Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/canara-bank-vs-triveni-infratech-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Fri, 21 Aug 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 21 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-21-august-2026/)
 - **Published:** Fri, 21 Aug 2026 15:46:56 +0000
