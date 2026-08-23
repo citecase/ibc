@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-22 07:09:48*
+*Last synced: 2026-08-23 02:09:25*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 17 August to 22 August, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-17-august-to-22-august-2026/)
+- **Published:** Sat, 22 Aug 2026 20:27:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Reliance Entertainment admitted to insolvency over ₹11.94 crore debt linked to movie Auron Mein Kahan Dum Tha](https://www.barandbench.com/news/litigation/reliance-entertainment-admitted-to-insolvency-over-1194-crore-debt-linked-to-movie-auron-mein-kahan-dum-tha)
 - **Published:** Fri, 21 Aug 2026 14:15:22 +0530
