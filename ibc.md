@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-24 07:38:18*
+*Last synced: 2026-08-24 19:09:51*
+
+### [IBC Laws Today | Daily Case Laws Updates | 24 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-24-august-2026/)
+- **Published:** Mon, 24 Aug 2026 15:18:26 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Aayush Prashant Agarwal Vs. Uma Export Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/aayush-prashant-agarwal-vs-uma-export-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 16:13:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Allows IRP to Seek Withdrawal of CIRP Under Section 12A of IBC, Amended by IBC 2026, After Settlement Post-Admission](https://ibclaw.in/nclat-allows-irp-to-seek-withdrawal-of-cirp-under-section-12a-of-ibc-after-settlement-post-admission/)
+- **Published:** Mon, 24 Aug 2026 16:14:42 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Aegis Resolution Services Pvt. Ltd., RP of Radius & Deserve Land Developers Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/aegis-resolution-services-pvt-ltd-rp-of-radius-deserve-land-developers-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Sun, 23 Aug 2026 20:43:00 +0000
