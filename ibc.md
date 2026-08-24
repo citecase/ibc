@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-24 02:07:52*
+*Last synced: 2026-08-24 07:38:18*
+
+### [Aegis Resolution Services Pvt. Ltd., RP of Radius & Deserve Land Developers Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/aegis-resolution-services-pvt-ltd-rp-of-radius-deserve-land-developers-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 23 Aug 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [P. Balasubramanian, RP of G V Annai Hospital LLP – NCLT, Chennai Bench](https://ibclaw.in/p-balasubramanian-rp-of-g-v-annai-hospital-llp-nclt-chennai-bench/)
+- **Published:** Sun, 23 Aug 2026 21:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Suman Agarwal and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/suman-agarwal-and-anr-nclt-mumbai-bench/)
+- **Published:** Sun, 23 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Regional Provident Fund Commissioner-I Vs. Saraswati Udyog India Ltd. – NCLT, Chennai Bench](https://ibclaw.in/regional-provident-fund-commissioner-i-vs-saraswati-udyog-india-ltd-nclt-chennai-bench/)
+- **Published:** Sun, 23 Aug 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dr. O. P. Yadava Vs. Devendra Umrao and Ors. – NCLT, Principal Bench](https://ibclaw.in/dr-o-p-yadava-vs-devendra-umrao-and-ors-nclt-principal-bench/)
 - **Published:** Sun, 23 Aug 2026 20:40:00 +0000
