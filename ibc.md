@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-23 02:09:25*
+*Last synced: 2026-08-24 02:07:52*
+
+### [Dr. O. P. Yadava Vs. Devendra Umrao and Ors. – NCLT, Principal Bench](https://ibclaw.in/dr-o-p-yadava-vs-devendra-umrao-and-ors-nclt-principal-bench/)
+- **Published:** Sun, 23 Aug 2026 20:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anil Kashi Drolia, RP of M. Divya Ravi – NCLT, Bengaluru Bench](https://ibclaw.in/anil-kashi-drolia-rp-of-m-divya-ravi-nclt-bengaluru-bench/)
+- **Published:** Sun, 23 Aug 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kashi Viswanathan Sivaraman (RP) Vs. Faster Hydraulics Pvt. Ltd. and Anr. – NCLT, Allahabad Bench](https://ibclaw.in/kashi-viswanathan-sivaraman-rp-vs-faster-hydraulics-pvt-ltd-and-anr-nclt-allahabad-bench/)
+- **Published:** Sun, 23 Aug 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anuj Goyal Vs. Mohit Chawla, RP of Chandigarh Overseas Pvt. Ltd. and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/anuj-goyal-vs-mohit-chawla-rp-of-chandigarh-overseas-pvt-ltd-and-anr-nclt-chandigarh-bench/)
+- **Published:** Sun, 23 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [S.V. Ramani, RP of Ram Kumar Singhee – NCLT, Kolkata Bench](https://ibclaw.in/s-v-ramani-rp-of-ram-kumar-singhee-nclt-kolkata-bench/)
+- **Published:** Sun, 23 Aug 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 17 August to 22 August, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-17-august-to-22-august-2026/)
 - **Published:** Sat, 22 Aug 2026 20:27:17 +0000
