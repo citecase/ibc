@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-25 07:25:34*
+*Last synced: 2026-08-25 19:08:55*
+
+### [IBC Laws Today | Daily Case Laws Updates | 25 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-25-august-2026/)
+- **Published:** Tue, 25 Aug 2026 16:24:11 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Pankaj Bhattad, RP of Cubatics Prrocessors India Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/pankaj-bhattad-rp-of-cubatics-prrocessors-india-pvt-ltd-nclt-ahmedabad-bench/)
 - **Published:** Tue, 25 Aug 2026 04:06:00 +0000
