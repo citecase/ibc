@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-24 19:09:51*
+*Last synced: 2026-08-25 02:03:31*
+
+### [Aman Monga and Anr. Vs. Liquidator of Jet Airways (India) Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/aman-monga-and-anr-vs-liquidator-of-jet-airways-india-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kanta Gupta Vs. Bank of India and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/kanta-gupta-vs-bank-of-india-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [S.V. Ramani, RP of Damodar Das Singhee – NCLT, Kolkata Bench](https://ibclaw.in/s-v-ramani-rp-of-damodar-das-singhee-nclt-kolkata-bench/)
+- **Published:** Mon, 24 Aug 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [UTI Employees Sai Samruddhi Co-operative Housing Society Vs. Jayesh Sangharajka (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/uti-employees-sai-samruddhi-co-operative-housing-society-vs-jayesh-sangharajka-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NKGSB Co-Operative Bank Ltd. Vs. Ajit Kumar, RP of Omkar Specialty Chemicals Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/nkgsb-co-operative-bank-ltd-vs-ajit-kumar-rp-of-omkar-specialty-chemicals-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 21:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vinodkumar Mahasukhbhai Thaker Vs. Kurlon Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vinodkumar-mahasukhbhai-thaker-vs-kurlon-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 22:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Babu Manoharan Jaikumar Christhurajan Vs. Umesh Garg, Liquidator of Jeppiaar Cements Pvt. Ltd. and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/babu-manoharan-jaikumar-christhurajan-vs-umesh-garg-liquidator-of-jeppiaar-cements-pvt-ltd-and-ors-nclat-chennai-bench/)
+- **Published:** Mon, 24 Aug 2026 22:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Indo Unique Flame Ltd. and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/state-bank-of-india-vs-indo-unique-flame-ltd-and-anr-nclat-chennai-bench/)
+- **Published:** Mon, 24 Aug 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Trinox Infrastructure and Developers Pvt. Ltd. Vs. B Vinod Kumar and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/trinox-infrastructure-and-developers-pvt-ltd-vs-b-vinod-kumar-and-ors-nclat-chennai-bench/)
+- **Published:** Mon, 24 Aug 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Siddharth Satish Katariya Vs. Central Bank of India and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/siddharth-satish-katariya-vs-central-bank-of-india-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 24 Aug 2026 23:14:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 24 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-24-august-2026/)
 - **Published:** Mon, 24 Aug 2026 15:18:26 +0000
