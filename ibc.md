@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-25 02:03:31*
+*Last synced: 2026-08-25 07:25:34*
+
+### [Pankaj Bhattad, RP of Cubatics Prrocessors India Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/pankaj-bhattad-rp-of-cubatics-prrocessors-india-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Raj Radhe Finance Ltd. Vs. Nirav Tarkas, IRP of Shreebhav Polyknits Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/raj-radhe-finance-ltd-vs-nirav-tarkas-irp-of-shreebhav-polyknits-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mukesh Jagetia Vs. Kamlesh Bhavarlal Jain and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/mukesh-jagetia-vs-kamlesh-bhavarlal-jain-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Monitoring Committee of Shriram Cement Ltd. Vs. High Performance Products Industries Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/monitoring-committee-of-shriram-cement-ltd-vs-high-performance-products-industries-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bella Stays Pvt. Ltd. Vs. Amit Jain, RP of Neesa Leisure Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/bella-stays-pvt-ltd-vs-amit-jain-rp-of-neesa-leisure-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indo Asia Copper Ltd. Vs. Dautsons Copper Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/indo-asia-copper-ltd-vs-dautsons-copper-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pinakin Shah, Chairman of the Monitoring Committee Vs. Jay Overseas Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/pinakin-shah-chairman-of-the-monitoring-committee-vs-jay-overseas-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 25 Aug 2026 04:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Interest and Damages under the EPF Act in IBC Resolution Plans: Supreme Court Clarifies the Treatment of Uncrystallised Claims – By Shourya Parihar & Ananya Sharma](https://ibclaw.in/interest-and-damages-under-the-epf-act-in-ibc-resolution-plans-supreme-court-clarifies-the-treatment-of-uncrystallised-claims-by-shourya-parihar-ananya-sharma/)
+- **Published:** Tue, 25 Aug 2026 05:25:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Time Catches up with the Unterminated Contract – How the “Supreme Court in Srinivasa Reddy Velagala V. Sravanthi Infratech Recalibrated Limitation under Section 9 of the IBC – By Nishi Dubey & Gopal Krishna](https://ibclaw.in/time-catches-up-with-the-unterminated-contract-how-the-supreme-court-in-srinivasa-reddy-velagala-v-sravanthi-infratech-recalibrated-limitation-under-section-9-of-the-ibc-by-nishi-dubey/)
+- **Published:** Tue, 25 Aug 2026 05:26:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Aman Monga and Anr. Vs. Liquidator of Jet Airways (India) Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/aman-monga-and-anr-vs-liquidator-of-jet-airways-india-ltd-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Mon, 24 Aug 2026 21:21:00 +0000
