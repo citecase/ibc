@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-25 19:08:55*
+*Last synced: 2026-08-26 02:09:04*
+
+### [Pawan K. Goel, Liquidator of Bee Kay Precision India Pvt. Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/pawan-k-goel-liquidator-of-bee-kay-precision-india-pvt-ltd-nclt-allahabad-bench/)
+- **Published:** Tue, 25 Aug 2026 20:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [UCO Bank Vs. Srabonti Kundu – NCLT, Kolkata Bench](https://ibclaw.in/uco-bank-vs-srabonti-kundu-nclt-kolkata-bench/)
+- **Published:** Tue, 25 Aug 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Abhilesh Lal, RP of Dheeraj Wadhawan – NCLT, Mumbai Bench](https://ibclaw.in/abhilesh-lal-rp-of-dheeraj-wadhawan-nclt-mumbai-bench/)
+- **Published:** Tue, 25 Aug 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anuj Goyal Vs. Chandigarh Overseas Pvt. Ltd. and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/anuj-goyal-vs-chandigarh-overseas-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Tue, 25 Aug 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rattan India Enterprise Ltd. and Ors. Vs. Nagendran Kandasamy and Ors. – NCLT, Bengaluru Bench](https://ibclaw.in/rattan-india-enterprise-ltd-and-ors-vs-nagendran-kandasamy-and-ors-nclt-bengaluru-bench/)
+- **Published:** Tue, 25 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Omkara Assets Reconstruction Pvt. Ltd. Vs. Kiran Parvataneni – NCLT, Chennai Bench](https://ibclaw.in/omkara-assets-reconstruction-pvt-ltd-vs-kiran-parvataneni-nclt-chennai-bench/)
+- **Published:** Tue, 25 Aug 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Panshul Agro Food LLP Vs. State Bank of India and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/panshul-agro-food-llp-vs-state-bank-of-india-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 25 Aug 2026 23:30:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 25 August 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-25-august-2026/)
 - **Published:** Tue, 25 Aug 2026 16:24:11 +0000
