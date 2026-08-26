@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-26 02:09:04*
+*Last synced: 2026-08-26 07:25:59*
+
+### [Pendency Without Stay: Reassessing Asset Retention Under The IBC and PMLA – Prakhar Bajpai](https://ibclaw.in/pendency-without-stay-reassessing-asset-retention-under-the-ibc-and-pmla-adv-prakhar-bajpai/)
+- **Published:** Wed, 26 Aug 2026 05:13:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Creditors vs. Crime – Fighters: Who wins when India’s IBC and PMLA Clash Over Corporate Assets? – By Prarthana Ramesh](https://ibclaw.in/creditors-vs-crime-fighters-who-wins-when-indias-ibc-and-pmla-clash-over-corporate-assets-by-prarthana-ramesh/)
+- **Published:** Wed, 26 Aug 2026 05:14:22 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Pawan K. Goel, Liquidator of Bee Kay Precision India Pvt. Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/pawan-k-goel-liquidator-of-bee-kay-precision-india-pvt-ltd-nclt-allahabad-bench/)
 - **Published:** Tue, 25 Aug 2026 20:49:00 +0000
