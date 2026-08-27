@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-27 10:09:51*
+*Last synced: 2026-08-27 22:30:05*
+
+### [R. Srikant Ayyer Vs. Neogreen Ventures Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/r-srikant-ayyer-vs-neogreen-ventures-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 27 Aug 2026 20:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kashi Viswanathan Sivaraman, RP of KHN Industrial Equipments India Pvt. Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/kashi-viswanathan-sivaraman-rp-of-khn-industrial-equipments-india-pvt-ltd-nclt-allahabad-bench/)
+- **Published:** Thu, 27 Aug 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Subodh Kumar Agarwal (RP) Vs. CA Parimal Sarkar, Sarkar Gurumurthy & Associates – NCLT, Kolkata Bench](https://ibclaw.in/subodh-kumar-agarwal-rp-vs-ca-parimal-sarkar-sarkar-gurumurthy-associates-nclt-kolkata-bench/)
+- **Published:** Thu, 27 Aug 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Phoenix ARC Ltd. Vs. Virgo Realtors Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/phoenix-arc-ltd-vs-virgo-realtors-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Thu, 27 Aug 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Janan Technology Holdings Pvt. Ltd. and Anr. Vs. Tono Thomas – NCLT, Bengaluru Bench](https://ibclaw.in/janan-technology-holdings-pvt-ltd-and-anr-vs-tono-thomas-nclt-bengaluru-bench/)
+- **Published:** Thu, 27 Aug 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kamyabi Vanijya Pvt. Ltd. Vs. Arthur Turnkey Projects Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/kamyabi-vanijya-pvt-ltd-vs-arthur-turnkey-projects-ltd-nclt-kolkata-bench/)
+- **Published:** Thu, 27 Aug 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ravi Enterprises and Ors. Vs. Highpowerv Import and Exports Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/ravi-enterprises-and-ors-vs-highpowerv-import-and-exports-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Thu, 27 Aug 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT ruling reduces Subhash Chandra’s liability from over ₹22K crore to ₹6.25 crore in insolvency case](https://www.barandbench.com/news/litigation/nclt-ruling-reduces-subhash-chandras-liability-from-over-22k-crore-to-625-crore-in-insolvency-case)
 - **Published:** Thu, 27 Aug 2026 11:54:32 +0530
