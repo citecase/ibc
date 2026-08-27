@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-26 07:25:59*
+*Last synced: 2026-08-27 10:09:51*
+
+### [NCLT ruling reduces Subhash Chandra’s liability from over ₹22K crore to ₹6.25 crore in insolvency case](https://www.barandbench.com/news/litigation/nclt-ruling-reduces-subhash-chandras-liability-from-over-22k-crore-to-625-crore-in-insolvency-case)
+- **Published:** Thu, 27 Aug 2026 11:54:32 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Sanjeev Jhunjhunwala, Liquidator of Yummz Food Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/sanjeev-jhunjhunwala-liquidator-of-yummz-food-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Thu, 27 Aug 2026 04:55:21 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Karuturi Ceramics Pvt. Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/state-bank-of-india-vs-karuturi-ceramics-pvt-ltd-nclt-amaravati-bench-2/)
+- **Published:** Thu, 27 Aug 2026 04:55:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Retroactive, Not Retrospective: Bombay High Court Draws the Line on Section 96(4) of the IBC – By Adv. Saniya Anjum](https://ibclaw.in/retroactive-not-retrospective-bombay-high-court-draws-the-line-on-section-964-of-the-ibc-by-adv-saniya-anjum/)
+- **Published:** Thu, 27 Aug 2026 05:12:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Re-filing under Section 62 of the IBC: Examining the Supreme Court’s Interpretation of Limitation and Procedural Discipline – By Akshat Anand](https://ibclaw.in/re-filing-under-section-62-of-the-ibc-examining-the-supreme-courts-interpretation-of-limitation-and-procedural-discipline-by-akshat-anand/)
+- **Published:** Thu, 27 Aug 2026 05:13:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Pendency Without Stay: Reassessing Asset Retention Under The IBC and PMLA – Prakhar Bajpai](https://ibclaw.in/pendency-without-stay-reassessing-asset-retention-under-the-ibc-and-pmla-adv-prakhar-bajpai/)
 - **Published:** Wed, 26 Aug 2026 05:13:24 +0000
