@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-27 22:30:05*
+*Last synced: 2026-08-30 21:24:11*
+
+### [Deputy Commissioner of Commercial Taxes (Audit)-1 Vs. Doshion Pvt. Ltd. and Anr. – NCLT, Ahmedabad Bench](https://ibclaw.in/deputy-commissioner-of-commercial-taxes-audit-1-vs-doshion-pvt-ltd-and-anr-nclt-ahmedabad-bench-2/)
+- **Published:** Sun, 30 Aug 2026 21:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shreebhav Polyweaves Pvt. Ltd. and Anr. Vs. Deputy Commissioner of Income Tax and Anr. – NCLT, Ahmedabad Bench](https://ibclaw.in/shreebhav-polyweaves-pvt-ltd-and-anr-vs-deputy-commissioner-of-income-tax-and-anr-nclt-ahmedabad-bench/)
+- **Published:** Sun, 30 Aug 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [N. S. Company Vs. Sadbhav Engineering Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/n-s-company-vs-sadbhav-engineering-ltd-nclt-ahmedabad-bench/)
+- **Published:** Sun, 30 Aug 2026 21:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gaurav Rohilla, RP of Anirudh Goel – NCLT, New Delhi Bench](https://ibclaw.in/gaurav-rohilla-rp-of-anirudh-goel-nclt-new-delhi-bench/)
+- **Published:** Sun, 30 Aug 2026 21:17:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [R. Srikant Ayyer Vs. Neogreen Ventures Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/r-srikant-ayyer-vs-neogreen-ventures-ltd-nclt-mumbai-bench/)
 - **Published:** Thu, 27 Aug 2026 20:41:00 +0000
