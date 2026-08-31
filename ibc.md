@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-30 21:24:11*
+*Last synced: 2026-08-31 05:57:47*
+
+### [Subhash Chandra liability cut from ₹22,000 crore to ₹6.25 crore: NCLAT to hear appeal against NCLT order tomorrow](https://www.barandbench.com/news/appeal-filed-in-nclat-against-nclt-order-to-cut-subhash-chandras-liability-from-22000-crore-to-625-crore)
+- **Published:** Mon, 31 Aug 2026 11:08:37 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Vinod Bagai and Anr. Vs. Rahul Jindal, RP of Samar Estates Pvt. Ltd. and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/vinod-bagai-and-anr-vs-rahul-jindal-rp-of-samar-estates-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Sun, 30 Aug 2026 21:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ravi Shaw Vs. Swarup Ghosh, Liquidator of Kausik Global Logistics Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/ravi-shaw-vs-swarup-ghosh-liquidator-of-kausik-global-logistics-ltd-nclt-kolkata-bench/)
+- **Published:** Sun, 30 Aug 2026 21:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Siddhi Cotspin Ltd. Vs. Splenora Textures LLP – NCLT, Ahmedabad Bench](https://ibclaw.in/siddhi-cotspin-ltd-vs-splenora-textures-llp-nclt-ahmedabad-bench/)
+- **Published:** Sun, 30 Aug 2026 23:14:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Deputy Commissioner of Commercial Taxes (Audit)-1 Vs. Doshion Pvt. Ltd. and Anr. – NCLT, Ahmedabad Bench](https://ibclaw.in/deputy-commissioner-of-commercial-taxes-audit-1-vs-doshion-pvt-ltd-and-anr-nclt-ahmedabad-bench-2/)
 - **Published:** Sun, 30 Aug 2026 21:12:00 +0000
