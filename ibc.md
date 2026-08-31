@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-31 05:57:47*
+*Last synced: 2026-08-31 22:58:43*
+
+### [Dhiren S. Shah, Liquidator of G.I. International Pvt. Ltd. Vs. Anant Kumar Agarwal and Ors. – NCLT, Kolkata Bench](https://ibclaw.in/dhiren-s-shah-liquidator-of-g-i-international-pvt-ltd-vs-anant-kumar-agarwal-and-ors-nclt-kolkata-bench/)
+- **Published:** Mon, 31 Aug 2026 21:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rahul Jindal, RP of Samar Estates Pvt. Ltd. Vs. Realpro Assets Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/rahul-jindal-rp-of-samar-estates-pvt-ltd-vs-realpro-assets-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 31 Aug 2026 21:52:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Subhash Chandra liability cut from ₹22,000 crore to ₹6.25 crore: NCLAT to hear appeal against NCLT order tomorrow](https://www.barandbench.com/news/appeal-filed-in-nclat-against-nclt-order-to-cut-subhash-chandras-liability-from-22000-crore-to-625-crore)
 - **Published:** Mon, 31 Aug 2026 11:08:37 +0530
