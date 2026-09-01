@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-08-31 22:58:43*
+*Last synced: 2026-09-01 05:30:34*
+
+### [Harish Kant Kaushik, RP of Somerset Estate Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/harish-kant-kaushik-rp-of-somerset-estate-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 01 Sep 2026 04:46:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ricova International Inc. Vs. Shree Narayan Kraft Paper Mill LLP – NCLT, Ahmedabad Bench](https://ibclaw.in/ricova-international-inc-vs-shree-narayan-kraft-paper-mill-llp-nclt-ahmedabad-bench/)
+- **Published:** Tue, 01 Sep 2026 04:46:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SITI Network Ltd. Vs. Indian Cable Net Company Ltd. and Ors. – NCLT, Kolkata Bench](https://ibclaw.in/siti-network-ltd-vs-indian-cable-net-company-ltd-and-ors-nclt-kolkata-bench/)
+- **Published:** Tue, 01 Sep 2026 04:46:17 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Louis Dreyfus Armateurs S.A.S. – NCLT, Mumbai Bench](https://ibclaw.in/louis-dreyfus-armateurs-s-a-s-nclt-mumbai-bench/)
+- **Published:** Tue, 01 Sep 2026 04:46:27 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dineshkumar Ambarambhai Jaganiya Vs. Keon Realty Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/dineshkumar-ambarambhai-jaganiya-vs-keon-realty-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 01 Sep 2026 04:47:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Aureustech Systems Pvt. Ltd. and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/aureustech-systems-pvt-ltd-and-anr-nclt-bengaluru-bench/)
+- **Published:** Tue, 01 Sep 2026 04:52:06 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [From Distress to Opportunity: A Practical Guide to Acquiring Businesses and Assets Under IBC  – Ashok Kakkar](https://ibclaw.in/from-distress-to-opportunity-a-practical-guide-to-acquiring-businesses-and-assets-under-ibc-ashok-kakkar/)
+- **Published:** Tue, 01 Sep 2026 04:59:04 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dhiren S. Shah, Liquidator of G.I. International Pvt. Ltd. Vs. Anant Kumar Agarwal and Ors. – NCLT, Kolkata Bench](https://ibclaw.in/dhiren-s-shah-liquidator-of-g-i-international-pvt-ltd-vs-anant-kumar-agarwal-and-ors-nclt-kolkata-bench/)
 - **Published:** Mon, 31 Aug 2026 21:51:00 +0000
