@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-01 16:50:08*
+*Last synced: 2026-09-01 21:14:16*
+
+### [State of Chhattisgarh and Anr. Vs. Truvisory Insolvency Professionals Pvt. Ltd. (Liquidator) – NCLT, Ahmedabad Bench](https://ibclaw.in/state-of-chhattisgarh-and-anr-vs-truvisory-insolvency-professionals-pvt-ltd-liquidator-nclt-ahmedabad-bench/)
+- **Published:** Tue, 01 Sep 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Busybees Logistics Solutions Pvt Ltd. Vs. Simba Logistics Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/busybees-logistics-solutions-pvt-ltd-vs-simba-logistics-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 01 Sep 2026 20:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shashi Bhushan Nagar Vs. Sri Ganraj Buildcon Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/shashi-bhushan-nagar-vs-sri-ganraj-buildcon-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 01 Sep 2026 20:50:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [PHDCCI Conference on IBC Pulse 2.0 | Chandigarh](https://ibclaw.in/phdcci-conference-on-ibc-pulse-2-0-chandigarh/)
 - **Published:** Tue, 01 Sep 2026 12:34:31 +0000
