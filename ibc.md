@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-01 05:30:34*
+*Last synced: 2026-09-01 11:56:02*
+
+### [Twist in Subhash Chandra insolvency: NCLT says no consensus on repayment since third member's verdict different from original bench verdicts](https://www.barandbench.com/news/litigation/twist-in-subhash-chandra-insolvency-nclt-says-no-consensus-on-repayment-since-third-members-verdict-different-from-original-bench-verdicts)
+- **Published:** Mon, 31 Aug 2026 20:16:23 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Subhash Chandra insolvency: NCLT forms 5-member bench after lack of consensus in verdicts](https://www.barandbench.com/news/litigation/subhash-chandra-insolvency-nclt-forms-5-member-bench-after-lack-of-consensus-in-verdicts)
+- **Published:** Mon, 31 Aug 2026 21:04:44 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Indiabulls Housing Finance Ltd. Vs. Dr. Subhash Chandra Personal Guarantor – NCLT, New Delhi Bench](https://ibclaw.in/indiabulls-housing-finance-ltd-vs-dr-subhash-chandra-personal-guarantor-nclt-new-delhi-bench/)
+- **Published:** Tue, 01 Sep 2026 07:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [₹22,000 Crore Claims vs ₹6.25 Crore IBC Repayment Plan: The Real Story Behind the NCLT Orders in Subhash Chandra’s Personal Insolvency Case](https://ibclaw.in/%e2%82%b922000-crore-claims-vs-%e2%82%b96-25-crore-ibc-repayment-plan-the-real-story-behind-the-nclt-orders-in-subhash-chandras-personal-insolvency-case/)
+- **Published:** Tue, 01 Sep 2026 08:43:44 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indiabulls Housing Finance Ltd. Vs. Dr. Subhash Chandra – NCLT, Principal Bench](https://ibclaw.in/indiabulls-housing-finance-ltd-vs-dr-subhash-chandra-nclt-new-delhi-bench/)
+- **Published:** Tue, 01 Sep 2026 10:31:41 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Harish Kant Kaushik, RP of Somerset Estate Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/harish-kant-kaushik-rp-of-somerset-estate-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Tue, 01 Sep 2026 04:46:02 +0000
