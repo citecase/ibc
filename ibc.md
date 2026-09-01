@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-01 11:56:02*
+*Last synced: 2026-09-01 16:50:08*
+
+### [PHDCCI Conference on IBC Pulse 2.0 | Chandigarh](https://ibclaw.in/phdcci-conference-on-ibc-pulse-2-0-chandigarh/)
+- **Published:** Tue, 01 Sep 2026 12:34:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Somani Worsted Ltd. Vs. Amit Aggarwal, RP of Celebration City Projects Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/somani-worsted-ltd-vs-amit-aggarwal-rp-of-celebration-city-projects-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 01 Sep 2026 13:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 01 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-01-september-2026/)
+- **Published:** Tue, 01 Sep 2026 14:01:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Twist in Subhash Chandra insolvency: NCLT says no consensus on repayment since third member's verdict different from original bench verdicts](https://www.barandbench.com/news/litigation/twist-in-subhash-chandra-insolvency-nclt-says-no-consensus-on-repayment-since-third-members-verdict-different-from-original-bench-verdicts)
 - **Published:** Mon, 31 Aug 2026 20:16:23 +0530
