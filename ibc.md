@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-02 16:47:22*
+*Last synced: 2026-09-02 21:12:33*
+
+### [Kakaraparthi Kiran Kumar Vs. Kammula Prabhakar Rao, RP of SLS Power Corporation Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/kakaraparthi-kiran-kumar-vs-kammula-prabhakar-rao-rp-of-sls-power-corporation-ltd-nclt-amaravati-bench/)
+- **Published:** Wed, 02 Sep 2026 20:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Qikwell Technologies India Pvt. Ltd. and Ors. Vs. Registrar of Companies, Karnataka – NCLT, Bengaluru Bench](https://ibclaw.in/qikwell-technologies-india-pvt-ltd-and-ors-vs-registrar-of-companies-karnataka-nclt-bengaluru-bench/)
+- **Published:** Wed, 02 Sep 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Byju's vs. Byju's K3: NCLT freezes Byju’s auctioned assets after K3 claims ₹150 crore goods sold for ₹16 crore](https://www.barandbench.com/news/litigation/byjus-vs-byjus-k3-nclt-freezes-byjus-auctioned-assets-after-k3-claims-150-crore-goods-sold-for-16-crore)
 - **Published:** Wed, 02 Sep 2026 20:14:10 +0530
