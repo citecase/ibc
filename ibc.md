@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-01 21:14:16*
+*Last synced: 2026-09-02 04:56:27*
+
+### [Ajay Gupta, RP of Orkus Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/ajay-gupta-rp-of-orkus-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 01 Sep 2026 21:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Small Industries Development Bank of India Vs. Aricon Paper Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/small-industries-development-bank-of-india-vs-aricon-paper-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Tue, 01 Sep 2026 23:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Satyanand Estate Pvt. Ltd. Vs. Registrar of Companies, Gujarat and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/satyanand-estate-pvt-ltd-vs-registrar-of-companies-gujarat-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Wed, 02 Sep 2026 01:57:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State of Chhattisgarh and Anr. Vs. Truvisory Insolvency Professionals Pvt. Ltd. (Liquidator) – NCLT, Ahmedabad Bench](https://ibclaw.in/state-of-chhattisgarh-and-anr-vs-truvisory-insolvency-professionals-pvt-ltd-liquidator-nclt-ahmedabad-bench/)
 - **Published:** Tue, 01 Sep 2026 20:15:00 +0000
