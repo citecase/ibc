@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-02 04:56:27*
+*Last synced: 2026-09-02 16:47:22*
+
+### [Byju's vs. Byju's K3: NCLT freezes Byju’s auctioned assets after K3 claims ₹150 crore goods sold for ₹16 crore](https://www.barandbench.com/news/litigation/byjus-vs-byjus-k3-nclt-freezes-byjus-auctioned-assets-after-k3-claims-150-crore-goods-sold-for-16-crore)
+- **Published:** Wed, 02 Sep 2026 20:14:10 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Madhusudan Vehicles Pvt. Ltd. Vs. Shivam Traders and Hire Purchase Pvt. Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/madhusudan-vehicles-pvt-ltd-vs-shivam-traders-and-hire-purchase-pvt-ltd-nclt-allahabad-bench-2/)
+- **Published:** Wed, 02 Sep 2026 13:33:10 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 02 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-02-september-2026/)
+- **Published:** Wed, 02 Sep 2026 13:58:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajiv Ranjan Sharma and Anr. Vs. Vikas Gopichand Khiyani – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/rajiv-ranjan-sharma-and-anr-vs-vikas-gopichand-khiyani-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 02 Sep 2026 14:21:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ajay Gupta, RP of Orkus Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/ajay-gupta-rp-of-orkus-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Tue, 01 Sep 2026 21:52:00 +0000
