@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-03 04:53:48*
+*Last synced: 2026-09-03 11:34:43*
+
+### [Subhash Chandra tells NCLAT he was vilified over ₹6.5 crore plan; opposes 5-member NCLT bench formation](https://www.barandbench.com/news/litigation/subhash-chandra-tells-nclat-he-was-vilified-over-65-crore-plan-opposes-5-member-nclt-bench-formation)
+- **Published:** Wed, 02 Sep 2026 11:44:23 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Government has been lackadaisical in addressing NCLT’s problems: Senior Advocate Sanjiv Sen](https://www.barandbench.com/interviews/government-has-been-lackadaisical-in-addressing-nclts-problems-senior-advocate-sanjiv-sen)
+- **Published:** Wed, 02 Sep 2026 17:31:07 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 24 August to 29 August, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-24-august-to-29-august-2026/)
+- **Published:** Thu, 03 Sep 2026 11:28:09 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Central Board of Trustees Vs. Rahul Shah, RP of Rajeshwari Cotspin Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/central-board-of-trustees-vs-rahul-shah-rp-of-rajeshwari-cotspin-ltd-nclt-ahmedabad-bench/)
 - **Published:** Wed, 02 Sep 2026 23:12:00 +0000
