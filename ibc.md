@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-03 16:37:12*
+*Last synced: 2026-09-03 21:14:39*
+
+### [Srei Equipment Finance Ltd. Vs. Mukul Kumar, (RP) and Anr. – NCLT, Chennai Bench](https://ibclaw.in/srei-equipment-finance-ltd-vs-mukul-kumar-rp-and-anr-nclt-chennai-bench/)
+- **Published:** Thu, 03 Sep 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Keshav Kumar Nachani Vs. Encore Asset Reconstruction Company Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/keshav-kumar-nachani-vs-encore-asset-reconstruction-company-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 03 Sep 2026 20:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rahul Jindal, RP of Samar Estates Pvt. Ltd. Vs. Virender Bagai and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/rahul-jindal-rp-of-samar-estates-pvt-ltd-vs-virender-bagai-and-ors-nclt-chandigarh-bench/)
+- **Published:** Thu, 03 Sep 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Hemanth Kumar Patibandla and Anr. Vs. STBL Projects Ltd. and Ors. – NCLT, Amaravati Bench](https://ibclaw.in/hemanth-kumar-patibandla-and-anr-vs-stbl-projects-ltd-and-ors-nclt-amaravati-bench/)
+- **Published:** Thu, 03 Sep 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT shifts to double-sided A4 paper filings across all benches](https://www.barandbench.com/news/nclt-shifts-to-double-sided-a4-paper-filings-across-all-benches)
 - **Published:** Thu, 03 Sep 2026 19:25:16 +0530
