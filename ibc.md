@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-02 21:12:33*
+*Last synced: 2026-09-03 04:53:48*
+
+### [Central Board of Trustees Vs. Rahul Shah, RP of Rajeshwari Cotspin Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/central-board-of-trustees-vs-rahul-shah-rp-of-rajeshwari-cotspin-ltd-nclt-ahmedabad-bench/)
+- **Published:** Wed, 02 Sep 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indian Bank (Erstwhile Allahabad Bank) Vs. Sudha Sarma – NCLT, Guwahati Bench](https://ibclaw.in/indian-bank-erstwhile-allahabad-bank-vs-sudha-sarma-nclt-guwahati-bench/)
+- **Published:** Wed, 02 Sep 2026 23:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Micro Capitals Pvt. Ltd. Vs. Maars Software International Ltd. – NCLT, Chennai Bench](https://ibclaw.in/micro-capitals-pvt-ltd-vs-maars-software-international-ltd-nclt-chennai-bench/)
+- **Published:** Wed, 02 Sep 2026 23:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Beam Infotech Pvt. Ltd. Vs. Invertek Energy Solution Pvt. Ltd. – NCLT, Principal Bench](https://ibclaw.in/beam-infotech-pvt-ltd-vs-invertek-energy-solution-pvt-ltd-nclt-principal-bench/)
+- **Published:** Thu, 03 Sep 2026 00:18:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Kakaraparthi Kiran Kumar Vs. Kammula Prabhakar Rao, RP of SLS Power Corporation Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/kakaraparthi-kiran-kumar-vs-kammula-prabhakar-rao-rp-of-sls-power-corporation-ltd-nclt-amaravati-bench/)
 - **Published:** Wed, 02 Sep 2026 20:52:00 +0000
