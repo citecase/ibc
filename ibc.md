@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-03 11:34:43*
+*Last synced: 2026-09-03 16:37:12*
+
+### [NCLT shifts to double-sided A4 paper filings across all benches](https://www.barandbench.com/news/nclt-shifts-to-double-sided-a4-paper-filings-across-all-benches)
+- **Published:** Thu, 03 Sep 2026 19:25:16 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Ravikumar Gaurishankar Patel Vs. Gajesh Labhchand Jain (Liquidator) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ravikumar-gaurishankar-patel-vs-gajesh-labhchand-jain-liquidator-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 03 Sep 2026 14:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When Shareholders Are Reduced to ₹ 0: The Uncomfortable Reality of Insolvency – By Adv. Avinash Yadav](https://ibclaw.in/when-shareholders-are-reduced-to-rs-0-the-uncomfortable-reality-of-insolvency-by-adv-avinash-yadav/)
+- **Published:** Thu, 03 Sep 2026 14:44:50 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 03 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-03-september-2026/)
+- **Published:** Thu, 03 Sep 2026 15:34:47 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Subhash Chandra tells NCLAT he was vilified over ₹6.5 crore plan; opposes 5-member NCLT bench formation](https://www.barandbench.com/news/litigation/subhash-chandra-tells-nclat-he-was-vilified-over-65-crore-plan-opposes-5-member-nclt-bench-formation)
 - **Published:** Wed, 02 Sep 2026 11:44:23 +0530
