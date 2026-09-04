@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-04 11:36:03*
+*Last synced: 2026-09-04 16:32:22*
+
+### [IBC Laws Today | Daily Case Laws Updates | 04 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-04-september-2026/)
+- **Published:** Fri, 04 Sep 2026 14:33:53 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Filing of documents pursuant to directions of the Bench – NCLT Circular dated 25.08.2026](https://ibclaw.in/filing-of-documents-pursuant-to-directions-of-the-bench-nclt-circular-dated-25-08-2026/)
 - **Published:** Fri, 04 Sep 2026 05:54:23 +0000
