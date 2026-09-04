@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-03 21:14:39*
+*Last synced: 2026-09-04 04:58:18*
+
+### [Can penalties imposed on insolvent developer be recovered from homebuyers as CIRP costs? Supreme Court answers](https://www.barandbench.com/news/can-penalties-imposed-on-insolvent-developer-be-recovered-from-homebuyers-as-cirp-costs-supreme-court-answers)
+- **Published:** Fri, 04 Sep 2026 08:27:20 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Posco International Corporation Vs. Mohana Cotton Ginning Pvt. Ltd. – NCLAT, Chennai Bench](https://ibclaw.in/posco-international-corporation-vs-mohana-cotton-ginning-pvt-ltd-nclat-chennai-bench/)
+- **Published:** Thu, 03 Sep 2026 22:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Wind World India Employees Union, Daman Vs. Ravi Sethia, RP of Wind World (India) Ltd. and Anr. – NCLT, Ahmedabad Bench](https://ibclaw.in/wind-world-india-employees-union-daman-vs-ravi-sethia-rp-of-wind-world-india-ltd-and-anr-nclt-ahmedabad-bench/)
+- **Published:** Thu, 03 Sep 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Haresh Dharmani Vs. Deep Seals (India) Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/haresh-dharmani-vs-deep-seals-india-ltd-nclt-ahmedabad-bench/)
+- **Published:** Thu, 03 Sep 2026 23:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Salma Moosa and Anr. Vs. Akarappu Om Yeshwanth and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/salma-moosa-and-anr-vs-akarappu-om-yeshwanth-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 03 Sep 2026 23:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amit Jain, RP of Neesa Leisure Ltd. Vs. Bella Stays Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/amit-jain-rp-of-neesa-leisure-ltd-vs-bella-stays-pvt-ltd-nclt-ahmedabad-bench-2/)
+- **Published:** Fri, 04 Sep 2026 00:10:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Srei Equipment Finance Ltd. Vs. Mukul Kumar, (RP) and Anr. – NCLT, Chennai Bench](https://ibclaw.in/srei-equipment-finance-ltd-vs-mukul-kumar-rp-and-anr-nclt-chennai-bench/)
 - **Published:** Thu, 03 Sep 2026 20:18:00 +0000
