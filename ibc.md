@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-04 04:58:18*
+*Last synced: 2026-09-04 11:36:03*
+
+### [Filing of documents pursuant to directions of the Bench – NCLT Circular dated 25.08.2026](https://ibclaw.in/filing-of-documents-pursuant-to-directions-of-the-bench-nclt-circular-dated-25-08-2026/)
+- **Published:** Fri, 04 Sep 2026 05:54:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Journal | August 2026 | IJ Vol. 8](https://ibclaw.in/insolvency-journal-august-2026-ij-vol-8/)
+- **Published:** Fri, 04 Sep 2026 08:28:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Month in Insolvency Law | Insolvency Case Laws Report, August 2026](https://ibclaw.in/the-month-in-insolvency-law-insolvency-case-laws-report-august-2026/)
+- **Published:** Fri, 04 Sep 2026 10:40:13 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Can penalties imposed on insolvent developer be recovered from homebuyers as CIRP costs? Supreme Court answers](https://www.barandbench.com/news/can-penalties-imposed-on-insolvent-developer-be-recovered-from-homebuyers-as-cirp-costs-supreme-court-answers)
 - **Published:** Fri, 04 Sep 2026 08:27:20 +0530
