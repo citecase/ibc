@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-04 16:32:22*
+*Last synced: 2026-09-05 10:51:18*
+
+### [NCLT flags Ernst & Young's 1% success fee for securing relief in GST cases; asks ICAI to examine](https://www.barandbench.com/news/litigation/nclt-flags-ernst-youngs-1-success-fee-for-securing-relief-in-gst-cases-asks-icai-to-examine)
+- **Published:** Fri, 04 Sep 2026 11:32:59 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 31 August to 05 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-31-august-to-05-september-2026/)
+- **Published:** Sat, 05 Sep 2026 05:27:21 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 04 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-04-september-2026/)
 - **Published:** Fri, 04 Sep 2026 14:33:53 +0000
