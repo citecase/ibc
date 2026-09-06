@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-05 10:51:18*
+*Last synced: 2026-09-06 04:58:36*
+
+### [Ernst & Young LLP Vs. Mobase Electronics India Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/ernst-young-llp-vs-mobase-electronics-india-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Sat, 05 Sep 2026 21:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Can a CA Charge Success-Based Fees in GST Proceedings? NCLT Flags EY’s Fee Arrangement, Sends Order to ICAI](https://ibclaw.in/can-a-ca-charge-success-based-fees-in-gst-proceedings-nclt-flags-eys-fee-arrangement-sends-order-to-icai/)
+- **Published:** Sat, 05 Sep 2026 21:18:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT flags Ernst & Young's 1% success fee for securing relief in GST cases; asks ICAI to examine](https://www.barandbench.com/news/litigation/nclt-flags-ernst-youngs-1-success-fee-for-securing-relief-in-gst-cases-asks-icai-to-examine)
 - **Published:** Fri, 04 Sep 2026 11:32:59 +0530
