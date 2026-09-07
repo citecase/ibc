@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-06 04:58:36*
+*Last synced: 2026-09-07 12:56:29*
+
+### [Altaf Pasha and Ors. Vs. Imperio Hospitality Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/altaf-pasha-and-ors-vs-imperio-hospitality-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Sun, 06 Sep 2026 21:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Employees Provident Fund Organization Vs. Chhaya Gupta, RP of Greater Kailash Hospitals Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/employees-provident-fund-organization-vs-chhaya-gupta-rp-of-greater-kailash-hospitals-pvt-ltd-nclt-indore-bench/)
+- **Published:** Sun, 06 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Abinandan Holdings Pvt. Ltd. Vs. SKM Estates Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/abinandan-holdings-pvt-ltd-vs-skm-estates-ltd-nclt-kolkata-bench/)
+- **Published:** Sun, 06 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [ICICI Bank Ltd. Vs. Innoventive Industries Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/icici-bank-ltd-vs-innoventive-industries-ltd-nclt-mumbai-bench-4/)
+- **Published:** Sun, 06 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Venka Reddy Bathina (Liquidator) Vs. Tapaas Chakravarti and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/venka-reddy-bathina-liquidator-vs-tapaas-chakravarti-and-ors-nclt-hyderabad-bench-2/)
+- **Published:** Sun, 06 Sep 2026 22:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Krone Finstock Pvt. Ltd. Vs. Krrish Realtech Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/krone-finstock-pvt-ltd-vs-krrish-realtech-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Sun, 06 Sep 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Achhru Ram Jindal and Ors. Vs. Zebyte Rental Planet Pvt. Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/achhru-ram-jindal-and-ors-vs-zebyte-rental-planet-pvt-ltd-nclt-allahabad-bench/)
+- **Published:** Sun, 06 Sep 2026 22:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [When Does Insolvency Become Recovery? Reassessing Section 7 of the IBC after Anjani Technoplast and IBC 2.0 – By Vaibhav Sharma](https://ibclaw.in/when-does-insolvency-become-recovery-reassessing-section-7-of-the-ibc-after-anjani-technoplast-and-ibc-2-0-by-vaibhav-sharma/)
+- **Published:** Mon, 07 Sep 2026 11:42:20 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Reviving Stale Claims: Why Unadjudicated Damages Cannot Masquerade as Operational Debt Under the IBC – By Priyam Mitra](https://ibclaw.in/reviving-stale-claims-why-unadjudicated-damages-cannot-masquerade-as-operational-debt-under-the-ibc-by-priyam-mitra/)
+- **Published:** Mon, 07 Sep 2026 11:43:47 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ernst & Young LLP Vs. Mobase Electronics India Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/ernst-young-llp-vs-mobase-electronics-india-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Sat, 05 Sep 2026 21:11:00 +0000
