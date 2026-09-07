@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-07 12:56:29*
+*Last synced: 2026-09-07 21:42:52*
+
+### [Deepak Modi Vs. Shalfeyo Industries Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/deepak-modi-vs-shalfeyo-industries-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 07 Sep 2026 14:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pankaj Chhabildas Sheth Vs. Abhyudaya Co-Operative Bank Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/pankaj-chhabildas-sheth-vs-abhyudaya-co-operative-bank-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 07 Sep 2026 14:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Closes CIRP Against Shalfeyo Industries Pvt. Ltd. Upon Settlement and Undertaking to Pay CIRP Costs](https://ibclaw.in/nclat-closes-cirp-against-shalfeyo-industries-pvt-ltd-upon-settlement-and-undertaking-to-pay-cirp-costs/)
+- **Published:** Mon, 07 Sep 2026 14:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Dismisses Appeal by Personal Guarantor Seeking Section 94 IBC Relief to Stall SARFAESI Possession Proceedings](https://ibclaw.in/nclat-dismisses-appeal-by-personal-guarantor-seeking-section-94-ibc-relief-to-stall-sarfaesi-possession-proceedings/)
+- **Published:** Mon, 07 Sep 2026 14:33:17 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 07 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-07-september-2026/)
+- **Published:** Mon, 07 Sep 2026 14:39:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amar Remedies Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/amar-remedies-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 07 Sep 2026 21:30:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Altaf Pasha and Ors. Vs. Imperio Hospitality Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/altaf-pasha-and-ors-vs-imperio-hospitality-pvt-ltd-nclt-bengaluru-bench/)
 - **Published:** Sun, 06 Sep 2026 21:50:00 +0000
