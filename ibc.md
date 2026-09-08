@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-07 21:42:52*
+*Last synced: 2026-09-08 05:02:52*
+
+### [Yudhveer Singh Solanki Vs. Atul Krishna Preservation and Cold Storage Pvt. Ltd. and Ors. – NCLT, Allahabad Bench](https://ibclaw.in/yudhveer-singh-solanki-vs-atul-krishna-preservation-and-cold-storage-pvt-ltd-and-ors-nclt-allahabad-bench-2/)
+- **Published:** Mon, 07 Sep 2026 21:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vemulapalli Sai Prameela and Ors. Vs. Vijaya Sai Poultries Pvt. Ltd. and Ors. – NCLT, Amaravati Bench](https://ibclaw.in/vemulapalli-sai-prameela-and-ors-vs-vijaya-sai-poultries-pvt-ltd-and-ors-nclt-amaravati-bench/)
+- **Published:** Mon, 07 Sep 2026 21:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Edelweiss Asset Reconstruction Company Ltd. Vs. Venkata Sanjay Reddy Gunupati and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/edelweiss-asset-reconstruction-company-ltd-vs-venkata-sanjay-reddy-gunupati-and-ors-nclt-hyderabad-bench/)
+- **Published:** Mon, 07 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mahindra & Mahindra Financial Services Ltd. Vs. Keshav Kaheja, RP of Gensol Engineering Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/mahindra-mahindra-financial-services-ltd-vs-keshav-kaheja-rp-of-gensol-engineering-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 07 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Adhunik Metaliks Ltd. Vs. Principal Commissioner of Customs (Port) – NCLT, Cuttack Bench](https://ibclaw.in/adhunik-metaliks-ltd-vs-principal-commissioner-of-customs-port-nclt-cuttack-bench/)
+- **Published:** Mon, 07 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shobhit J. Rajan Vs. ARCK Resolution Professionals LLP (RP) and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/shobhit-j-rajan-vs-arck-resolution-professionals-llp-rp-and-anr-nclt-mumbai-bench/)
+- **Published:** Mon, 07 Sep 2026 22:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IDBI Bank Ltd. Vs. Artish Niranjan Nanavaty (RP) and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/idbi-bank-ltd-vs-artish-niranjan-nanavaty-rp-and-anr-nclt-mumbai-bench/)
+- **Published:** Mon, 07 Sep 2026 22:29:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Deepak Modi Vs. Shalfeyo Industries Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/deepak-modi-vs-shalfeyo-industries-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Mon, 07 Sep 2026 14:31:00 +0000
