@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-08 11:38:15*
+*Last synced: 2026-09-09 05:02:17*
+
+### [Canara Bank Vs. Shrivallabh Pittie Research and Training Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-vs-shrivallabh-pittie-research-and-training-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 08 Sep 2026 21:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indian Overseas Bank Vs. Helapuri Spinning Mills Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/indian-overseas-bank-vs-helapuri-spinning-mills-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Tue, 08 Sep 2026 21:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Banthia Consultancy Vs. Toray Kusumgar Advanced Textile Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/banthia-consultancy-vs-toray-kusumgar-advanced-textile-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 08 Sep 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Venka Reddy Bathina (Liquidator) Vs. Tapaas Chakravarti and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/venka-reddy-bathina-liquidator-vs-tapaas-chakravarti-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 08 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [CA Mahalingam Suresh Kumar (Liquidator) Vs. Union Bank of India and Anr. – NCLT, Kochi Bench](https://ibclaw.in/ca-mahalingam-suresh-kumar-liquidator-vs-union-bank-of-india-and-anr-nclt-kochi-bench/)
+- **Published:** Tue, 08 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Beyond the Waterfall: Re-examining Provident Fund Dues under the IBC – By Ashmit Malani](https://ibclaw.in/beyond-the-waterfall-re-examining-provident-fund-dues-under-the-ibc-by-ashmit-malani/)
 - **Published:** Tue, 08 Sep 2026 05:07:59 +0000
