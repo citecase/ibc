@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-09 05:02:17*
+*Last synced: 2026-09-09 11:44:26*
+
+### [Murlidharan Kunni Raman Vs. Registrar of Companies, Mumbai – NCLT, Mumbai Bench](https://ibclaw.in/murlidharan-kunni-raman-vs-registrar-of-companies-mumbai-nclt-mumbai-bench/)
+- **Published:** Tue, 08 Sep 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Beyond the Going-Concern Test: CoC Approval and the Recognition of CIRP Costs – By Divyaansh Kharbanda & Danish Sharma](https://ibclaw.in/beyond-the-going-concern-test-coc-approval-and-the-recognition-of-cirp-costs-by-divyaansh-kharbanda-danish-sharma/)
+- **Published:** Wed, 09 Sep 2026 06:12:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Canara Bank Vs. Shrivallabh Pittie Research and Training Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-vs-shrivallabh-pittie-research-and-training-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Tue, 08 Sep 2026 21:31:00 +0000
