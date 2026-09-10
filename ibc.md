@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-09 11:44:26*
+*Last synced: 2026-09-10 05:05:17*
+
+### [Sukhdev Singh Vs. Wooden Heights Developers Pvt. Ltd. and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/sukhdev-singh-vs-wooden-heights-developers-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Wed, 09 Sep 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajesh Agrawal Vs. Makhija Construction and Engineering Pvt. Ltd. and Ors. – NCLT, Indore Bench](https://ibclaw.in/rajesh-agrawal-vs-makhija-construction-and-engineering-pvt-ltd-and-ors-nclt-indore-bench/)
+- **Published:** Wed, 09 Sep 2026 21:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Union Bank of India Vs. Andhra Pradesh Gas Power Corporation Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/union-bank-of-india-vs-andhra-pradesh-gas-power-corporation-ltd-nclt-hyderabad-bench/)
+- **Published:** Wed, 09 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sandeep Kumar Chitkara (IRP) Vs. Punjab & Sind Bank – NCLT, Chandigarh Bench](https://ibclaw.in/sandeep-kumar-chitkara-irp-vs-punjab-sind-bank-nclt-chandigarh-bench/)
+- **Published:** Wed, 09 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Principal Commissioner of Income Tax Vs. Harish Kant Kaushik, RP of Simm Samm Hotels Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/principal-commissioner-of-income-tax-vs-harish-kant-kaushik-rp-of-simm-samm-hotels-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 09 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shri Karvir Nivasini Mahalaxmi Ispat Pvt. Ltd. Vs. Bank of India – NCLT, Mumbai Bench](https://ibclaw.in/shri-karvir-nivasini-mahalaxmi-ispat-pvt-ltd-vs-bank-of-india-nclt-mumbai-bench/)
+- **Published:** Wed, 09 Sep 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Murlidharan Kunni Raman Vs. Registrar of Companies, Mumbai – NCLT, Mumbai Bench](https://ibclaw.in/murlidharan-kunni-raman-vs-registrar-of-companies-mumbai-nclt-mumbai-bench/)
 - **Published:** Tue, 08 Sep 2026 21:49:00 +0000
