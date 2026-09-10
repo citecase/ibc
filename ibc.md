@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-10 05:05:17*
+*Last synced: 2026-09-10 16:36:49*
+
+### [Due diligence by IPs regarding misuse of IBC framework – IBBI Circular No: IBBI/CIRP/105/2026 dated 09.09.2026](https://ibclaw.in/due-diligence-by-ips-regarding-misuse-of-ibc-framework-ibbi-circular-no-ibbi-cirp-105-2026-dated-09-09-2026/)
+- **Published:** Thu, 10 Sep 2026 13:30:31 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Sukhdev Singh Vs. Wooden Heights Developers Pvt. Ltd. and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/sukhdev-singh-vs-wooden-heights-developers-pvt-ltd-and-ors-nclt-chandigarh-bench/)
 - **Published:** Wed, 09 Sep 2026 21:49:00 +0000
