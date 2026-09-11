@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-11 11:43:16*
+*Last synced: 2026-09-11 16:41:18*
+
+### [Can a resolution plan under IBC survive the death of its maker? NCLAT answers](https://www.barandbench.com/news/litigation/can-a-resolution-plan-under-ibc-survive-the-death-of-its-maker-nclat-answers)
+- **Published:** Fri, 11 Sep 2026 19:58:29 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [NCLT President has power to transfer cases across benches: NCLAT](https://www.barandbench.com/news/litigation/nclt-president-has-power-to-transfer-cases-across-benches-nclat)
 - **Published:** Thu, 10 Sep 2026 16:59:35 +0530
