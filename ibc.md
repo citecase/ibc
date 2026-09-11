@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-10 16:36:49*
+*Last synced: 2026-09-11 05:02:06*
+
+### [Mukesh Ramanlal Gokal and Ors. Vs. Contrex Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/mukesh-ramanlal-gokal-and-ors-vs-contrex-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 10 Sep 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mahadhan Energy Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/mahadhan-energy-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Thu, 10 Sep 2026 21:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SVC Co-operative Bank Ltd. Vs. Maheshkumar Udesinhbhai Parmar – NCLT, Ahmedabad Bench](https://ibclaw.in/svc-co-operative-bank-ltd-vs-maheshkumar-udesinhbhai-parmar-nclt-ahmedabad-bench/)
+- **Published:** Thu, 10 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kusters Calico Machinery Pvt. Ltd. Vs. HYS Industries Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/kusters-calico-machinery-pvt-ltd-vs-hys-industries-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Thu, 10 Sep 2026 22:01:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Due diligence by IPs regarding misuse of IBC framework – IBBI Circular No: IBBI/CIRP/105/2026 dated 09.09.2026](https://ibclaw.in/due-diligence-by-ips-regarding-misuse-of-ibc-framework-ibbi-circular-no-ibbi-cirp-105-2026-dated-09-09-2026/)
 - **Published:** Thu, 10 Sep 2026 13:30:31 +0000
