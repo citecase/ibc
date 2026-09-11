@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-11 05:02:06*
+*Last synced: 2026-09-11 11:43:16*
+
+### [NCLT President has power to transfer cases across benches: NCLAT](https://www.barandbench.com/news/litigation/nclt-president-has-power-to-transfer-cases-across-benches-nclat)
+- **Published:** Thu, 10 Sep 2026 16:59:35 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Kamlesh Rani Singla Vs. Praveen Kumar Garg and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/kamlesh-rani-singla-vs-praveen-kumar-garg-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 10 Sep 2026 14:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Sets Aside NCLT New Delhi Proceedings Against Personal Guarantor for Lack of Jurisdiction Under Section 60(2) IBC](https://ibclaw.in/nclat-sets-aside-nclt-new-delhi-proceedings-against-personal-guarantor-for-lack-of-jurisdiction-under-section-602-ibc/)
+- **Published:** Fri, 11 Sep 2026 10:40:55 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Mukesh Ramanlal Gokal and Ors. Vs. Contrex Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/mukesh-ramanlal-gokal-and-ors-vs-contrex-pvt-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Thu, 10 Sep 2026 21:49:00 +0000
