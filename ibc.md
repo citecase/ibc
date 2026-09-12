@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-12 15:45:10*
+*Last synced: 2026-09-12 20:49:01*
+
+### [Standardization of Application Forms per SOP Dated 10.09.2026 for Filings Before NCLAT Principal Bench, New Delhi](https://ibclaw.in/standardization-of-application-forms-per-sop-dated-10-09-2026-for-filings-before-nclat-principal-bench-new-delhi/)
+- **Published:** Sat, 12 Sep 2026 19:31:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Discussion Paper – Strengthening safeguards in the Insolvency Resolution Process for PGs to Corporate Debtors](https://ibclaw.in/ibbi-discussion-paper-strengthening-safeguards-in-the-insolvency-resolution-process-for-pgs-to-corporate-debtors/)
+- **Published:** Sat, 12 Sep 2026 19:46:10 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 07 September to 12 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-07-september-to-12-september-2026/)
 - **Published:** Sat, 12 Sep 2026 05:20:05 +0000
