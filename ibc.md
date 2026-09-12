@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-11 16:41:18*
+*Last synced: 2026-09-12 15:45:10*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 07 September to 12 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-07-september-to-12-september-2026/)
+- **Published:** Sat, 12 Sep 2026 05:20:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Webinar : Recent Insolvency Judgments | Sunday, 13 September 2026 | 11:15 AM](https://ibclaw.in/webinar-recent-insolvency-judgments-sunday-13-september-2026-1115-am/)
+- **Published:** Sat, 12 Sep 2026 09:00:46 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Can a resolution plan under IBC survive the death of its maker? NCLAT answers](https://www.barandbench.com/news/litigation/can-a-resolution-plan-under-ibc-survive-the-death-of-its-maker-nclat-answers)
 - **Published:** Fri, 11 Sep 2026 19:58:29 +0530
