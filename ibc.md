@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-12 20:49:01*
+*Last synced: 2026-09-13 21:02:59*
+
+### [Canara Bank Ltd. Vs. Shrivallabh Pittie Enterprises Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-ltd-vs-shrivallabh-pittie-enterprises-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 13 Sep 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [R. Raghavendran, Liquidator of Sri Maharaja Oil Imports and Exports India Pvt. Ltd. Vs. K.Paramasivam – NCLT, Chennai Bench](https://ibclaw.in/r-raghavendran-liquidator-of-sri-maharaja-oil-imports-and-exports-india-pvt-ltd-vs-k-paramasivam-nclt-chennai-bench/)
+- **Published:** Sun, 13 Sep 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajendra Mittal Vs. SEMAC Consultants Ltd. – NCLT, Chennai Bench](https://ibclaw.in/rajendra-mittal-vs-semac-consultants-ltd-nclt-chennai-bench/)
+- **Published:** Sun, 13 Sep 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IIFL Home Finance Ltd. Vs. MMC Realtech Solutions OPC Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/iifl-home-finance-ltd-vs-mmc-realtech-solutions-opc-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Sun, 13 Sep 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [R C Distributors Vs. Impex Healthcare Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/r-c-distributors-vs-impex-healthcare-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Sun, 13 Sep 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Bernard John – NCLT, Indore Bench](https://ibclaw.in/state-bank-of-india-vs-bernard-john-nclt-indore-bench/)
+- **Published:** Sun, 13 Sep 2026 20:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Everlyn Fernandes – NCLT, Indore Bench](https://ibclaw.in/state-bank-of-india-vs-everlyn-fernandes-nclt-indore-bench/)
+- **Published:** Sun, 13 Sep 2026 20:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Carnet Elias Fernandes – NCLT, Indore Bench](https://ibclaw.in/state-bank-of-india-vs-carnet-elias-fernandes-nclt-indore-bench/)
+- **Published:** Sun, 13 Sep 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Purusottam Behera (RP) Vs. Anurag P. Gupta – NCLT, Mumbai Bench](https://ibclaw.in/purusottam-behera-rp-vs-anurag-p-gupta-nclt-mumbai-bench/)
+- **Published:** Sun, 13 Sep 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Aditya Raheja Vs. Omkara Assets Reconstruction Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/aditya-raheja-vs-omkara-assets-reconstruction-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 13 Sep 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Standardization of Application Forms per SOP Dated 10.09.2026 for Filings Before NCLAT Principal Bench, New Delhi](https://ibclaw.in/standardization-of-application-forms-per-sop-dated-10-09-2026-for-filings-before-nclat-principal-bench-new-delhi/)
 - **Published:** Sat, 12 Sep 2026 19:31:29 +0000
