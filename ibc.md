@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-14 05:19:25*
+*Last synced: 2026-09-14 21:57:26*
+
+### [Vinit Gangwal, RP of Kalyani Education Pvt. Ltd. Vs. Edelweiss Asset Reconstruction Company Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/vinit-gangwal-rp-of-kalyani-education-pvt-ltd-vs-edelweiss-asset-reconstruction-company-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Mon, 14 Sep 2026 20:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jammu and Kashmir Bank Ltd. Vs. Essel Infraprojects Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/jammu-and-kashmir-bank-ltd-vs-essel-infraprojects-ltd-nclt-mumbai-bench-2/)
+- **Published:** Mon, 14 Sep 2026 20:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Canara Bank Vs. Muzaffarpur Vidyut Vitaran Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-vs-muzaffarpur-vidyut-vitaran-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 14 Sep 2026 20:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Balasaheb Vitthal Chavan – NCLT, Mumbai Bench](https://ibclaw.in/balasaheb-vitthal-chavan-nclt-mumbai-bench/)
+- **Published:** Mon, 14 Sep 2026 20:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sane Guruji Premises Co-operative Society Ltd. Vs. ARCK Resolution Professional LLP, Liquidator of Amar Remedies Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/sane-guruji-premises-co-operative-society-ltd-vs-arck-resolution-professional-llp-liquidator-of-amar-remedies-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 14 Sep 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jaysheel Khemani Vs. Cybercorp Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/jaysheel-khemani-vs-cybercorp-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 14 Sep 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Canara Bank Ltd. Vs. R. S. Builders Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-ltd-vs-r-s-builders-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 14 Sep 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Standard Chartered Bank & DBS Bank Ltd. Vs. Ruchi Soya Industries Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/standard-chartered-bank-dbs-bank-ltd-vs-ruchi-soya-industries-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 14 Sep 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ashok Tiwari Vs. Ritu Rastogi, RP of Vayam Technologies Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/ashok-tiwari-vs-ritu-rastogi-rp-of-vayam-technologies-ltd-and-ors-nclt-new-delhi-bench/)
+- **Published:** Mon, 14 Sep 2026 20:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Appu Ghar Gurgaon Shop Buyers Association Vs. International Recreation and Amusement Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/appu-ghar-gurgaon-shop-buyers-association-vs-international-recreation-and-amusement-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 14 Sep 2026 21:49:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ashok Kumar Kataria Vs. Loveleen Dhaliwal Singla and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ashok-kumar-kataria-vs-loveleen-dhaliwal-singla-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Sun, 13 Sep 2026 22:14:00 +0000
