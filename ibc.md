@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-13 21:02:59*
+*Last synced: 2026-09-14 05:19:25*
+
+### [Ashok Kumar Kataria Vs. Loveleen Dhaliwal Singla and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ashok-kumar-kataria-vs-loveleen-dhaliwal-singla-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 13 Sep 2026 22:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Naresh Gupta and Anr. Vs. Anupam Mahajan and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/naresh-gupta-and-anr-vs-anupam-mahajan-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 13 Sep 2026 22:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Satya Prakash Bagla and Anr. Vs. Kanta Agarwala and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/satya-prakash-bagla-and-anr-vs-kanta-agarwala-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 13 Sep 2026 22:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kanwar Raj Bhagat Vs. Gujarat Hydrocarbons and Power Sez Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/kanwar-raj-bhagat-vs-gujarat-hydrocarbons-and-power-sez-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 13 Sep 2026 22:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amitkumar Rishi Kumar Bhabhda and Ors. Vs. Amit Chandrashekhar Poddar (Liquidator) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/amitkumar-rishi-kumar-bhabhda-and-ors-vs-amit-chandrashekhar-poddar-liquidator-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 13 Sep 2026 23:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Yashwant Lalchand Sangla and Ors. Vs. Manish Baldeva (Liquidator) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/yashwant-lalchand-sangla-and-ors-vs-manish-baldeva-liquidator-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 13 Sep 2026 23:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Arun Kumar Singh Vs. Genius Exports Pvt. Ltd. Through Liquidator and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/arun-kumar-singh-vs-genius-exports-pvt-ltd-through-liquidator-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 14 Sep 2026 00:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Siddharth Satish Katariya Vs. Central Bank of India Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/siddharth-satish-katariya-vs-central-bank-of-india-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 14 Sep 2026 00:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shambhu Technology Services Pvt. Ltd. Vs. OFB Tech Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/shambhu-technology-services-pvt-ltd-vs-ofb-tech-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 14 Sep 2026 00:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sunil Kumar Dahiya Vs. Lavkash Verma and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sunil-kumar-dahiya-vs-lavkash-verma-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 14 Sep 2026 00:59:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Canara Bank Ltd. Vs. Shrivallabh Pittie Enterprises Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-ltd-vs-shrivallabh-pittie-enterprises-pvt-ltd-nclt-mumbai-bench/)
 - **Published:** Sun, 13 Sep 2026 20:46:00 +0000
