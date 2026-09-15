@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-15 05:10:47*
+*Last synced: 2026-09-15 17:12:37*
+
+### [Supreme Court Asks Delhi Gymkhana Club Members To Raise Management Takeover Concerns Before High Court](https://www.verdictum.in/supreme-court/delhi-gymkhana-club-members-to-raise-management-takeover-concerns-before-high-court-1622009)
+- **Published:** Tue, 15 Sep 2026 13:00:11 GMT
+- **Source:** https://verdictum.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 15 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-15-september-2026/)
+- **Published:** Tue, 15 Sep 2026 13:08:41 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Navneet Gupta (IP) Vs. Insolvency and Bankruptcy Board of India – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/navneet-gupta-ip-vs-insolvency-and-bankruptcy-board-of-india-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 15 Sep 2026 14:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Complainant Can Challenge IBBI Disciplinary Order on an Insolvency Professional under Section 220(7) of IBC: NCLAT](https://ibclaw.in/complainant-can-challenge-ibbi-disciplinary-order-on-an-insolvency-professional-under-section-2207-of-ibc-nclat/)
+- **Published:** Tue, 15 Sep 2026 14:47:15 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Kommoners Club & Hospitality Pvt. Ltd. Vs. Pecon Software Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/kommoners-club-hospitality-pvt-ltd-vs-pecon-software-ltd-nclt-kolkata-bench/)
 - **Published:** Tue, 15 Sep 2026 04:36:00 +0000
