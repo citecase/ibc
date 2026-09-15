@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-15 17:12:37*
+*Last synced: 2026-09-15 21:39:33*
+
+### [State Bank of India Vs. Sahil Mittal – NCLT, New Delhi Bench](https://ibclaw.in/state-bank-of-india-vs-sahil-mittal-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shapos Services Pvt. Ltd. Vs. CoC of Shapos Services Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/shapos-services-pvt-ltd-vs-coc-of-shapos-services-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Tue, 15 Sep 2026 20:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Vinay Mittal – NCLT, New Delhi Bench](https://ibclaw.in/state-bank-of-india-vs-vinay-mittal-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Harish Taneja (RP) Vs. Sukriti Duggal – NCLT, New Delhi Bench](https://ibclaw.in/harish-taneja-rp-vs-sukriti-duggal-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Neena Mittal – NCLT, New Delhi Bench](https://ibclaw.in/state-bank-of-india-vs-neena-mittal-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pradeep Kumar Jain – NCLT, New Delhi Bench](https://ibclaw.in/pradeep-kumar-jain-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Amit Sethi – NCLT, New Delhi Bench](https://ibclaw.in/state-bank-of-india-vs-amit-sethi-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Sunil Kumar Mittal – NCLT, New Delhi Bench](https://ibclaw.in/state-bank-of-india-vs-sunil-kumar-mittal-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Sanam Basheer – NCLT, Kochi Bench](https://ibclaw.in/state-bank-of-india-vs-sanam-basheer-nclt-kochi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Asks Delhi Gymkhana Club Members To Raise Management Takeover Concerns Before High Court](https://www.verdictum.in/supreme-court/delhi-gymkhana-club-members-to-raise-management-takeover-concerns-before-high-court-1622009)
 - **Published:** Tue, 15 Sep 2026 13:00:11 GMT
