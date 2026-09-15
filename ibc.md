@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-14 21:57:26*
+*Last synced: 2026-09-15 05:10:47*
+
+### [Kommoners Club & Hospitality Pvt. Ltd. Vs. Pecon Software Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/kommoners-club-hospitality-pvt-ltd-vs-pecon-software-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 15 Sep 2026 04:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sujay Shankar Mukherjee Vs. Ashish Chawchharia, RP of Riverbank Developers Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/sujay-shankar-mukherjee-vs-ashish-chawchharia-rp-of-riverbank-developers-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 15 Sep 2026 04:36:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Kolkata Dismisses Section 9 IBC Plea Over Pre-Existing Lease Dispute](https://ibclaw.in/nclt-kolkata-dismisses-section-9-ibc-plea-over-pre-existing-lease-dispute/)
+- **Published:** Tue, 15 Sep 2026 05:06:24 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Kolkata Holds Flat Cancellation Invalid Without Refund, Grants Homebuyer Options](https://ibclaw.in/nclt-kolkata-holds-flat-cancellation-invalid-without-refund-grants-homebuyer-options/)
+- **Published:** Tue, 15 Sep 2026 05:07:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vinit Gangwal, RP of Kalyani Education Pvt. Ltd. Vs. Edelweiss Asset Reconstruction Company Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/vinit-gangwal-rp-of-kalyani-education-pvt-ltd-vs-edelweiss-asset-reconstruction-company-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Mon, 14 Sep 2026 20:42:00 +0000
