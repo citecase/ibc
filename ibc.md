@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-16 11:56:52*
+*Last synced: 2026-09-16 21:34:07*
+
+### [Harish Taneja (RP) Vs. Janhavi Duggal – NCLT, New Delhi Bench](https://ibclaw.in/harish-taneja-rp-vs-janhavi-duggal-nclt-new-delhi-bench/)
+- **Published:** Wed, 16 Sep 2026 20:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bhanu Cerglaze Pvt. Ltd. Vs. Regma Ceramics Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/bhanu-cerglaze-pvt-ltd-vs-regma-ceramics-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Wed, 16 Sep 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pen India Pvt. Ltd. Vs. Reliance Entertainment Studios Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/pen-india-pvt-ltd-vs-reliance-entertainment-studios-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 16 Sep 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Intec Capital Ltd. Vs. Kanishk Duggal – NCLT, New Delhi Bench](https://ibclaw.in/intec-capital-ltd-vs-kanishk-duggal-nclt-new-delhi-bench/)
 - **Published:** Tue, 15 Sep 2026 20:37:00 +0000
