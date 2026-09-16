@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-15 21:39:33*
+*Last synced: 2026-09-16 11:56:52*
+
+### [Intec Capital Ltd. Vs. Kanishk Duggal – NCLT, New Delhi Bench](https://ibclaw.in/intec-capital-ltd-vs-kanishk-duggal-nclt-new-delhi-bench/)
+- **Published:** Tue, 15 Sep 2026 20:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Refers EPF Penalty Issue under Section 14B to Larger Bench in Insolvency Case](https://ibclaw.in/supreme-court-refers-epf-penalty-issue-under-section-14b-to-larger-bench-in-insolvency-case/)
+- **Published:** Wed, 16 Sep 2026 06:33:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 16 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-16-september-2026/)
+- **Published:** Wed, 16 Sep 2026 11:48:11 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State Bank of India Vs. Sahil Mittal – NCLT, New Delhi Bench](https://ibclaw.in/state-bank-of-india-vs-sahil-mittal-nclt-new-delhi-bench/)
 - **Published:** Tue, 15 Sep 2026 20:31:00 +0000
