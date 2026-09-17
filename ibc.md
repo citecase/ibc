@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-17 11:58:32*
+*Last synced: 2026-09-17 17:12:29*
+
+### [Litigant Can’t Be Rendered Remediless Due To Technical Glitch In E-Filing System: Supreme Court Restores Appeal Before NCLAT](https://www.verdictum.in/supreme-court/regional-provident-fund-commissioner-ii-v-ms-mamta-binani-2026-insc-1003-e-filing-nclat-1622164)
+- **Published:** Thu, 17 Sep 2026 13:30:03 GMT
+- **Source:** https://verdictum.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 17 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-17-september-2026/)
+- **Published:** Thu, 17 Sep 2026 12:42:01 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sant Eknath Co-operative Sugar Factory Ltd. Vs. Sachin Ghayal Sugar Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sant-eknath-co-operative-sugar-factory-ltd-vs-sachin-ghayal-sugar-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 17 Sep 2026 14:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Litigant cannot be shown the door for NCLAT portal failure: Supreme Court restores appeal filed one day late](https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late)
 - **Published:** Thu, 17 Sep 2026 15:50:12 +0530
