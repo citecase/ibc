@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-16 21:34:07*
+*Last synced: 2026-09-17 11:58:32*
+
+### [Litigant cannot be shown the door for NCLAT portal failure: Supreme Court restores appeal filed one day late](https://www.barandbench.com/news/litigation/litigant-cannot-be-shown-the-door-for-nclat-portal-failure-supreme-court-restores-appeal-filed-one-day-late)
+- **Published:** Thu, 17 Sep 2026 15:50:12 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Harish Taneja (RP) Vs. Janhavi Duggal – NCLT, New Delhi Bench](https://ibclaw.in/harish-taneja-rp-vs-janhavi-duggal-nclt-new-delhi-bench/)
 - **Published:** Wed, 16 Sep 2026 20:23:00 +0000
