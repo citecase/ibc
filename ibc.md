@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-18 05:02:42*
+*Last synced: 2026-09-18 16:38:53*
+
+### [18 NCLT Benches holding half-day sittings due to member shortage: Bar Association to Supreme Court](https://www.barandbench.com/news/litigation/18-nclt-benches-holding-half-day-sittings-due-to-member-shortage-bar-association-to-supreme-court)
+- **Published:** Fri, 18 Sep 2026 21:10:47 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Lakhminder Dayal Singh Vs. Suraksha Asset Reconstruction Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/lakhminder-dayal-singh-vs-suraksha-asset-reconstruction-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 18 Sep 2026 14:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Liquidation after 5-Year CIRP, Holds Form G Cannot be Published without CoC Approval](https://ibclaw.in/nclat-upholds-liquidation-after-5-year-cirp-holds-form-g-cannot-be-published-without-coc-approval/)
+- **Published:** Fri, 18 Sep 2026 14:21:57 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 18 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-18-september-2026/)
+- **Published:** Fri, 18 Sep 2026 14:48:06 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajesh Jhunjhunwala, RP of Spenta Enclave Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/rajesh-jhunjhunwala-rp-of-spenta-enclave-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Fri, 18 Sep 2026 15:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Lark Non-Ferrous Metals Ltd. Vs. Shailesh Chandra Ojha (IRP) and Anr. – NCLT, New Delhi Bench](https://ibclaw.in/lark-non-ferrous-metals-ltd-vs-shailesh-chandra-ojha-irp-and-anr-nclt-new-delhi-bench/)
 - **Published:** Thu, 17 Sep 2026 20:22:00 +0000
