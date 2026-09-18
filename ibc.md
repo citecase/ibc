@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-17 17:12:29*
+*Last synced: 2026-09-18 05:02:42*
+
+### [Lark Non-Ferrous Metals Ltd. Vs. Shailesh Chandra Ojha (IRP) and Anr. – NCLT, New Delhi Bench](https://ibclaw.in/lark-non-ferrous-metals-ltd-vs-shailesh-chandra-ojha-irp-and-anr-nclt-new-delhi-bench/)
+- **Published:** Thu, 17 Sep 2026 20:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [B. Ramana Kumar (RP) Vs. Dinesh Kothari and Anr. – NCLT, Chennai Bench](https://ibclaw.in/b-ramana-kumar-rp-vs-dinesh-kothari-and-anr-nclt-chennai-bench/)
+- **Published:** Thu, 17 Sep 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chandra Nirman Pvt. Ltd. Vs. Madhya Pradesh Urban Development Co Ltd. – NCLT, Indore Bench](https://ibclaw.in/chandra-nirman-pvt-ltd-vs-madhya-pradesh-urban-development-co-ltd-nclt-indore-bench/)
+- **Published:** Thu, 17 Sep 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Canara Bank Ltd. Vs. N.S.D. Nirman Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/canara-bank-ltd-vs-n-s-d-nirman-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 17 Sep 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sunil Kumar Dahiya Vs. Lavkash Verma and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sunil-kumar-dahiya-vs-lavkash-verma-and-anr-nclat-principal-bench-new-delhi-2/)
+- **Published:** Thu, 17 Sep 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Greater Noida Industrial Development Authority Vs. Anand Sonbhadra (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/greater-noida-industrial-development-authority-vs-anand-sonbhadra-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 17 Sep 2026 23:12:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ravindra Gopalkrishan Agarwal Vs. Jankalyan Sahakari Bank Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ravindra-gopalkrishan-agarwal-vs-jankalyan-sahakari-bank-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 17 Sep 2026 23:38:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Litigant Can’t Be Rendered Remediless Due To Technical Glitch In E-Filing System: Supreme Court Restores Appeal Before NCLAT](https://www.verdictum.in/supreme-court/regional-provident-fund-commissioner-ii-v-ms-mamta-binani-2026-insc-1003-e-filing-nclat-1622164)
 - **Published:** Thu, 17 Sep 2026 13:30:03 GMT
