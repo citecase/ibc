@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-18 16:38:53*
+*Last synced: 2026-09-19 11:22:31*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 14 September to 19 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-14-september-to-19-september-2026/)
+- **Published:** Sat, 19 Sep 2026 05:13:42 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [18 NCLT Benches holding half-day sittings due to member shortage: Bar Association to Supreme Court](https://www.barandbench.com/news/litigation/18-nclt-benches-holding-half-day-sittings-due-to-member-shortage-bar-association-to-supreme-court)
 - **Published:** Fri, 18 Sep 2026 21:10:47 +0530
