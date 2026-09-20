@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-19 11:22:31*
+*Last synced: 2026-09-20 20:59:59*
+
+### [Dinesh Keshawrao Atkare and Anr. Vs. Palak Swapnil Desai, RP of Santoshi Barrier Film India Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/dinesh-keshawrao-atkare-and-anr-vs-palak-swapnil-desai-rp-of-santoshi-barrier-film-india-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 19:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Keshav Ashok Punj Vs. Union of India – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/keshav-ashok-punj-vs-union-of-india-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 19:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Garden Court Distillieries Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/state-bank-of-india-vs-garden-court-distillieries-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 20:49:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 14 September to 19 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-14-september-to-19-september-2026/)
 - **Published:** Sat, 19 Sep 2026 05:13:42 +0000
