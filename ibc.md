@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-20 20:59:59*
+*Last synced: 2026-09-21 05:18:27*
+
+### [Suspended directors have to give confidentiality undertaking for access to resolution plan: NCLAT](https://www.barandbench.com/news/litigation/suspended-directors-have-to-give-confidentiality-undertaking-for-access-to-resolution-plan-nclat)
+- **Published:** Mon, 21 Sep 2026 08:00:57 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Mahendra Kumar Gupta Vs. Canara Bank and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/mahendra-kumar-gupta-vs-canara-bank-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Income Tax Department Vs. Prawincharan Prafulcharan Dwary (RP) and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/income-tax-department-vs-prawincharan-prafulcharan-dwary-rp-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [HDFC Bank Ltd. Vs. Sustainable Outreach and Universal Leadership (Soul) Ltd., RP of Vikky Dang and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/hdfc-bank-ltd-vs-sustainable-outreach-and-universal-leadership-soul-ltd-rp-of-vikky-dang-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 22:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Paschimanchal Vidyut Vitran Nigam Ltd. Vs. Deepak Kumar Garg – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/paschimanchal-vidyut-vitran-nigam-ltd-vs-deepak-kumar-garg-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 22:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Suraksha Realty Ltd. Vs. Amit Gupta, RP of Mahavir Roads and Infrastructure Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/suraksha-realty-ltd-vs-amit-gupta-rp-of-mahavir-roads-and-infrastructure-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 22:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Identity Science Company Ltd. Vs. Sonal Plasrub Industries Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/identity-science-company-ltd-vs-sonal-plasrub-industries-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 22:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Indian Bank Vs. Nimitaya Hotel & Resorts Ltd., RP of Navneet Gupta – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/indian-bank-vs-nimitaya-hotel-resorts-ltd-rp-of-navneet-gupta-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 20 Sep 2026 23:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nayan Shah and Anr. Vs. Cheers Interactive (India) Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/nayan-shah-and-anr-vs-cheers-interactive-india-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 21 Sep 2026 00:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Dinesh Keshawrao Atkare and Anr. Vs. Palak Swapnil Desai, RP of Santoshi Barrier Film India Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/dinesh-keshawrao-atkare-and-anr-vs-palak-swapnil-desai-rp-of-santoshi-barrier-film-india-pvt-ltd-nclat-principal-bench-new-delhi/)
 - **Published:** Sun, 20 Sep 2026 19:30:00 +0000
