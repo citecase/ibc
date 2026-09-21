@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-21 05:18:27*
+*Last synced: 2026-09-21 13:12:05*
+
+### [NCLT sends Bira, creditors to mediation in insolvency case](https://www.barandbench.com/news/litigation/nclt-sends-bira-creditors-to-mediation-in-insolvency-case)
+- **Published:** Fri, 18 Sep 2026 17:48:09 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Tribunals Are Govt’s Lifeline, How Will They Function With No Infrastructure: Apex Court Asks Centre To Identify Required Amenities](https://www.verdictum.in/supreme-court/tribunals-lifeline-no-infrastructure-centre-to-identify-required-amenities-1622401)
+- **Published:** Mon, 21 Sep 2026 09:00:15 GMT
+- **Source:** https://verdictum.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 21 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-21-september-2026/)
+- **Published:** Mon, 21 Sep 2026 12:48:11 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Suspended directors have to give confidentiality undertaking for access to resolution plan: NCLAT](https://www.barandbench.com/news/litigation/suspended-directors-have-to-give-confidentiality-undertaking-for-access-to-resolution-plan-nclat)
 - **Published:** Mon, 21 Sep 2026 08:00:57 +0530
