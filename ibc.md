@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-22 17:10:51*
+*Last synced: 2026-09-22 21:35:01*
+
+### [SPP Insolvency Professional LLP (IPE) (Liquidator) Vs. Punjab National Bank – NCLT, Chennai Bench](https://ibclaw.in/spp-insolvency-professional-llp-ipe-liquidator-vs-punjab-national-bank-nclt-chennai-bench/)
+- **Published:** Tue, 22 Sep 2026 20:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Central Bank of India Vs. Vinit Kumar – NCLT, Allahabad Bench](https://ibclaw.in/central-bank-of-india-vs-vinit-kumar-nclt-allahabad-bench/)
+- **Published:** Tue, 22 Sep 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [M.S. Ashok Rajan Vs. Bnazrum Agro Exports (India) Ltd. – NCLT, Chennai Bench](https://ibclaw.in/m-s-ashok-rajan-vs-bnazrum-agro-exports-india-ltd-nclt-chennai-bench/)
+- **Published:** Tue, 22 Sep 2026 20:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ravindra Beleyur (Erstwhile IRP) Vs. AU Small Finance Bank Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/ravindra-beleyur-erstwhile-irp-vs-au-small-finance-bank-ltd-nclt-bengaluru-bench/)
+- **Published:** Tue, 22 Sep 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pharmarule Vs. Kniss Laboratories Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/pharmarule-vs-kniss-laboratories-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Tue, 22 Sep 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [R Mall Developers Pvt. Ltd. Vs. Bhuvan Madan, RP of Tarun Realtors Pvt. Ltd. and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/r-mall-developers-pvt-ltd-vs-bhuvan-madan-rp-of-tarun-realtors-pvt-ltd-and-anr-nclt-bengaluru-bench/)
+- **Published:** Tue, 22 Sep 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ranjana Singh (Liquidator) Vs. Ratnakar Shetty and Ors. – NCLT, Bengaluru Bench](https://ibclaw.in/ranjana-singh-liquidator-vs-ratnakar-shetty-and-ors-nclt-bengaluru-bench/)
+- **Published:** Tue, 22 Sep 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jagdish Kumar Parulkar, Liquidator of B.Y. Agro and Infra Ltd. Vs. Wardha Mega Food Park Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/jagdish-kumar-parulkar-liquidator-of-b-y-agro-and-infra-ltd-vs-wardha-mega-food-park-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 22 Sep 2026 21:04:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Sanjeev Mahajan Vs. Nimitaya Hotel & Resorts Ltd. and Ors – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sanjeev-mahajan-vs-nimitaya-hotel-resorts-ltd-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Tue, 22 Sep 2026 13:19:00 +0000
