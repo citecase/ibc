@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-21 13:12:05*
+*Last synced: 2026-09-22 05:16:22*
+
+### [Arvind Garg (Liquidator) Vs. JFC Finance (India) Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/arvind-garg-liquidator-vs-jfc-finance-india-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 21 Sep 2026 14:06:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bhumika Nilay R. Shah Vs. Prawincharan Prafulcharan Dwary (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/bhumika-nilay-r-shah-vs-prawincharan-prafulcharan-dwary-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 21 Sep 2026 14:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT sends Bira, creditors to mediation in insolvency case](https://www.barandbench.com/news/litigation/nclt-sends-bira-creditors-to-mediation-in-insolvency-case)
 - **Published:** Fri, 18 Sep 2026 17:48:09 +0530
