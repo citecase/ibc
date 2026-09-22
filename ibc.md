@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-22 05:16:22*
+*Last synced: 2026-09-22 17:10:51*
+
+### [Sanjeev Mahajan Vs. Nimitaya Hotel & Resorts Ltd. and Ors – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sanjeev-mahajan-vs-nimitaya-hotel-resorts-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 22 Sep 2026 13:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Affle 3i Ltd. Vs. Axis Trustee Services Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/affle-3i-ltd-vs-axis-trustee-services-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 22 Sep 2026 13:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Equentia Financial Service Pvt. Ltd. Vs. Saloni Ayush Aggarwal – NCLT, New Delhi Bench](https://ibclaw.in/equentia-financial-service-pvt-ltd-vs-saloni-ayush-aggarwal-nclt-new-delhi-bench/)
+- **Published:** Tue, 22 Sep 2026 13:24:44 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Duke Fashions (India) Ltd. Vs. Pramod Kumar Misra (Liquidator) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/duke-fashions-india-ltd-vs-pramod-kumar-misra-liquidator-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 22 Sep 2026 13:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 22 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-22-september-2026/)
+- **Published:** Tue, 22 Sep 2026 13:50:48 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Arvind Garg (Liquidator) Vs. JFC Finance (India) Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/arvind-garg-liquidator-vs-jfc-finance-india-ltd-nclat-principal-bench-new-delhi/)
 - **Published:** Mon, 21 Sep 2026 14:06:48 +0000
