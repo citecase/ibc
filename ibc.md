@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-23 11:59:32*
+*Last synced: 2026-09-23 17:22:49*
+
+### [IBBI Liquidation Process) (Fifth Amendment) Regulations, 2026](https://ibclaw.in/ibbi-liquidation-process-fifth-amendment-regulations-2026/)
+- **Published:** Wed, 23 Sep 2026 13:29:55 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 23 September 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-23-september-2026/)
+- **Published:** Wed, 23 Sep 2026 15:47:37 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Subhash Chandra moves NCLAT against NCLT stay on alienation of assets in ₹6.5 crore repayment plan case](https://www.barandbench.com/news/litigation/subhash-chandra-moves-nclat-against-nclt-stay-on-alienation-of-assets-in-65-crore-repayment-plan-case)
 - **Published:** Wed, 23 Sep 2026 11:22:43 +0530
