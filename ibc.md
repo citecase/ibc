@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-22 21:35:01*
+*Last synced: 2026-09-23 11:59:32*
+
+### [Subhash Chandra moves NCLAT against NCLT stay on alienation of assets in ₹6.5 crore repayment plan case](https://www.barandbench.com/news/litigation/subhash-chandra-moves-nclat-against-nclt-stay-on-alienation-of-assets-in-65-crore-repayment-plan-case)
+- **Published:** Wed, 23 Sep 2026 11:22:43 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Bengal Chemicals & Pharmaceuticals Ltd. Vs. Lalani Info Tech Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/bengal-chemicals-pharmaceuticals-ltd-vs-lalani-info-tech-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 23 Sep 2026 08:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Kolkata Dismisses Section 9 Plea After Adjusting Lease Security Deposit](https://ibclaw.in/nclt-kolkata-dismisses-section-9-plea-after-adjusting-lease-security-deposit/)
+- **Published:** Wed, 23 Sep 2026 08:18:35 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Webinar : Insolvency Case Laws – The Fortnightly Review : | Saturday, 26 September 2026 | 12:30 PM](https://ibclaw.in/webinar-insolvency-case-laws-the-fortnightly-review-saturday-26-september-2026-1230-pm/)
+- **Published:** Wed, 23 Sep 2026 10:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [SPP Insolvency Professional LLP (IPE) (Liquidator) Vs. Punjab National Bank – NCLT, Chennai Bench](https://ibclaw.in/spp-insolvency-professional-llp-ipe-liquidator-vs-punjab-national-bank-nclt-chennai-bench/)
 - **Published:** Tue, 22 Sep 2026 20:56:00 +0000
