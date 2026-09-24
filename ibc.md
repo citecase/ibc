@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-23 17:22:49*
+*Last synced: 2026-09-24 12:05:19*
+
+### [Extension of Tenure of Members of NCLAT – MCA Notification No. S.O. 5205(E) dated 21.09.2026](https://ibclaw.in/extension-of-tenure-of-members-of-nclat-mca-notification-no-s-o-5205e-dated-21-09-2026/)
+- **Published:** Thu, 24 Sep 2026 09:21:07 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBBI Liquidation Process) (Fifth Amendment) Regulations, 2026](https://ibclaw.in/ibbi-liquidation-process-fifth-amendment-regulations-2026/)
 - **Published:** Wed, 23 Sep 2026 13:29:55 +0000
