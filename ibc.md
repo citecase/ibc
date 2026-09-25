@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-25 12:05:36*
+*Last synced: 2026-09-25 17:27:50*
+
+### [NPV Insolvency Professional Pvt. Ltd., IRP of Mehsana Dairy and Food Products Ltd. Vs. Uttar Gujarat Vij Company Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/npv-insolvency-professional-pvt-ltd-irp-of-mehsana-dairy-and-food-products-ltd-vs-uttar-gujarat-vij-company-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 25 Sep 2026 16:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Paresh Chandulal Mehta, Liquidator of Cupid Estatecon Pvt. Ltd. Vs. Wellworth Appearels Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/paresh-chandulal-mehta-liquidator-of-cupid-estatecon-pvt-ltd-vs-wellworth-appearels-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 25 Sep 2026 16:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vijaybhai Dhanjibhai Detroja Vs. Vidres India Ceramics Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vijaybhai-dhanjibhai-detroja-vs-vidres-india-ceramics-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
 - **Published:** Fri, 25 Sep 2026 06:49:00 +0000
