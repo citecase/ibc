@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-25 17:27:50*
+*Last synced: 2026-09-25 21:45:28*
+
+### [Harish VedKumar Anand Vs. Radha Madhav Corporation Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/harish-vedkumar-anand-vs-radha-madhav-corporation-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 25 Sep 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Incorp Restructuring Services LLP (RP) Vs. Amar Arun Vajrekar and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/incorp-restructuring-services-llp-rp-vs-amar-arun-vajrekar-and-ors-nclt-mumbai-bench/)
+- **Published:** Fri, 25 Sep 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Mahesh Rajpal – NCLT, Indore Bench](https://ibclaw.in/state-bank-of-india-vs-mahesh-rajpal-nclt-indore-bench/)
+- **Published:** Fri, 25 Sep 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [P Dot G Constructions Pvt. Ltd. Vs. P Jayapal – NCLT, Chennai Bench](https://ibclaw.in/p-dot-g-constructions-pvt-ltd-vs-p-jayapal-nclt-chennai-bench/)
+- **Published:** Fri, 25 Sep 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Hemanshu Jetley (RP) Vs. Punjab National Bank – NCLT, Chandigarh Bench](https://ibclaw.in/hemanshu-jetley-rp-vs-punjab-national-bank-nclt-chandigarh-bench/)
+- **Published:** Fri, 25 Sep 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pride Pack Pvt. Ltd. Vs. Madasa Kumar Liquidator of Castall Technologies Pvt. Ltd. and Anr. – NCLT, Hyderabad Bench](https://ibclaw.in/pride-pack-pvt-ltd-vs-madasa-kumar-liquidator-of-castall-technologies-pvt-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Fri, 25 Sep 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [ICICI Bank Ltd. Vs. Ossify Industries Pvt. Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/icici-bank-ltd-vs-ossify-industries-pvt-ltd-nclt-allahabad-bench/)
+- **Published:** Fri, 25 Sep 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Keshav Khaneja, RP of Gensol Engineering Ltd. Vs. Mufin Green Finance Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/keshav-khaneja-rp-of-gensol-engineering-ltd-vs-mufin-green-finance-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 25 Sep 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Raj Kumar Gupta Vs. Ravindra Kumar Goyal, Liquidator of Nakoda Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/raj-kumar-gupta-vs-ravindra-kumar-goyal-liquidator-of-nakoda-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 25 Sep 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NPV Insolvency Professional Pvt. Ltd., IRP of Mehsana Dairy and Food Products Ltd. Vs. Uttar Gujarat Vij Company Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/npv-insolvency-professional-pvt-ltd-irp-of-mehsana-dairy-and-food-products-ltd-vs-uttar-gujarat-vij-company-ltd-nclt-ahmedabad-bench/)
 - **Published:** Fri, 25 Sep 2026 16:19:00 +0000
