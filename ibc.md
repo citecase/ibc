@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-24 12:05:19*
+*Last synced: 2026-09-25 12:05:36*
+
+### [Vijaybhai Dhanjibhai Detroja Vs. Vidres India Ceramics Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vijaybhai-dhanjibhai-detroja-vs-vidres-india-ceramics-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 25 Sep 2026 06:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anjaniputra Ispat Ltd. Vs. IAG Company Ltd., through Official Liquidator and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/anjaniputra-ispat-ltd-vs-iag-company-ltd-through-official-liquidator-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 25 Sep 2026 06:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vivekanand Rai and Anr. Vs. Chemie-Tech Projects Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vivekanand-rai-and-anr-vs-chemie-tech-projects-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 25 Sep 2026 06:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Fortune Global Solution Pte. Ltd. Vs. K. Vatsa Kumar (Liquidator) and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/fortune-global-solution-pte-ltd-vs-k-vatsa-kumar-liquidator-and-anr-nclat-chennai-bench/)
+- **Published:** Fri, 25 Sep 2026 06:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mekaster Finlease Ltd. Vs. Prayag Polytech Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/mekaster-finlease-ltd-vs-prayag-polytech-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 25 Sep 2026 06:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [S. Viswanathan Vs. Canara Bank – NCLAT, Chennai Bench](https://ibclaw.in/s-viswanathan-vs-canara-bank-nclat-chennai-bench/)
+- **Published:** Fri, 25 Sep 2026 06:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ganton Projects Pvt. Ltd. and Anr. Vs. Registrar of Companies, NCT of Delhi & Haryana and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ganton-projects-pvt-ltd-and-anr-vs-registrar-of-companies-nct-of-delhi-haryana-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 25 Sep 2026 06:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jaber Abdul Wahab and Ors. Vs. TP Anilkumar and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/jaber-abdul-wahab-and-ors-vs-tp-anilkumar-and-ors-nclat-chennai-bench/)
+- **Published:** Fri, 25 Sep 2026 06:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bombay High Court: IBC Section 96(4) Applies Retroactively to Pending Proceedings](https://ibclaw.in/bombay-high-court-ibc-section-964-applies-retroactively-to-pending-proceedings/)
+- **Published:** Fri, 25 Sep 2026 09:20:53 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Extension of Tenure of Members of NCLAT – MCA Notification No. S.O. 5205(E) dated 21.09.2026](https://ibclaw.in/extension-of-tenure-of-members-of-nclat-mca-notification-no-s-o-5205e-dated-21-09-2026/)
 - **Published:** Thu, 24 Sep 2026 09:21:07 +0000
