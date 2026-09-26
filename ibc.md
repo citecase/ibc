@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-25 21:45:28*
+*Last synced: 2026-09-26 11:41:53*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 21 September to 26 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-21-september-to-26-september-2026/)
+- **Published:** Sat, 26 Sep 2026 05:50:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Repayment Plans under Part III: Dissenting Creditors, Section 114 and The Preamble of The IBC – By Adv. Srishti Bansal](https://ibclaw.in/repayment-plans-under-part-iii-dissenting-creditors-section-114-and-the-preamble-of-the-ibc-by-adv-srishti-bansal/)
+- **Published:** Sat, 26 Sep 2026 06:42:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Circular on Further extension of time for filing Forms to monitor insolvency resolution processes for PGs to Corporate Debtors under IBC 2016](https://ibclaw.in/further-extension-of-time-for-filing-forms-to-monitor-insolvency-resolution-processes-for-pgs-to-corporate-debtors-under-ibc-2016/)
+- **Published:** Sat, 26 Sep 2026 06:43:43 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI Circular on Commencement of levy of fee for delayed filing of Forms under Regulation 47B of the Liquidation Process Regulations](https://ibclaw.in/commencement-of-levy-of-fee-for-delayed-filing-of-forms-under-regulation-47b-of-the-liquidation-process-regulations/)
+- **Published:** Sat, 26 Sep 2026 06:46:39 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Harish VedKumar Anand Vs. Radha Madhav Corporation Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/harish-vedkumar-anand-vs-radha-madhav-corporation-ltd-nclt-ahmedabad-bench/)
 - **Published:** Fri, 25 Sep 2026 21:21:00 +0000
