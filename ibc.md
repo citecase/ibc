@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-26 11:41:53*
+*Last synced: 2026-09-26 21:24:06*
+
+### [Beyond the ₹6.25 Crore Headline : What the Subhash Chandra ₹22,006 Crore Personal Insolvency Case Is Really About – By CA Mayur Agarwal](https://ibclaw.in/beyond-the-6-25-crore-headline-what-the-subhash-chandra-22006-crore-personal-insolvency-case-is-really-about-by-ca-mayur-agarwal/)
+- **Published:** Sat, 26 Sep 2026 16:57:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [The Related Party Gap in Personal Guarantor Insolvency: Why Section 79(2) Is Only Half the Problem – By Rutva Shah](https://ibclaw.in/the-related-party-gap-in-personal-guarantor-insolvency-why-section-792-is-only-half-the-problem-by-rutva-shah/)
+- **Published:** Sat, 26 Sep 2026 18:50:47 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 21 September to 26 September, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-21-september-to-26-september-2026/)
 - **Published:** Sat, 26 Sep 2026 05:50:08 +0000
