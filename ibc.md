@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-26 21:24:06*
+*Last synced: 2026-09-27 21:31:11*
+
+### [IL&FS Financial Services Ltd. Vs. Manoj Kumar Agarwal – NCLT, Guwahati Bench](https://ibclaw.in/ilfs-financial-services-ltd-vs-manoj-kumar-agarwal-nclt-guwahati-bench/)
+- **Published:** Sun, 27 Sep 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sree Bajrang Infracon Pvt. Ltd. Vs. Kamakhya Biofuels Pvt. Ltd. – NCLT, Guwahati Bench](https://ibclaw.in/sree-bajrang-infracon-pvt-ltd-vs-kamakhya-biofuels-pvt-ltd-nclt-guwahati-bench/)
+- **Published:** Sun, 27 Sep 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jayanti Lal Jain Vs. Arvind Mathur and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/jayanti-lal-jain-vs-arvind-mathur-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 27 Sep 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Santosh Bhatia (Liquidator) Vs. MBS Impex Pvt. Ltd. and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/santosh-bhatia-liquidator-vs-mbs-impex-pvt-ltd-and-ors-nclt-hyderabad-bench-2/)
+- **Published:** Sun, 27 Sep 2026 20:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shailendra Kataria Vs. Manish Lalji Dawda, RP of Wadhwa Buildcon LLP – NCLT, Mumbai Bench](https://ibclaw.in/shailendra-kataria-vs-manish-lalji-dawda-rp-of-wadhwa-buildcon-llp-nclt-mumbai-bench/)
+- **Published:** Sun, 27 Sep 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Beyond the ₹6.25 Crore Headline : What the Subhash Chandra ₹22,006 Crore Personal Insolvency Case Is Really About – By CA Mayur Agarwal](https://ibclaw.in/beyond-the-6-25-crore-headline-what-the-subhash-chandra-22006-crore-personal-insolvency-case-is-really-about-by-ca-mayur-agarwal/)
 - **Published:** Sat, 26 Sep 2026 16:57:08 +0000
