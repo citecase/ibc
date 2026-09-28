@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-28 14:21:00*
+*Last synced: 2026-09-28 23:26:39*
+
+### [Sandeep Kumar Bhagat (Since Deceased) Through his Legal Heirs and Ors. Vs. Punjab National Bank and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/sandeep-kumar-bhagat-since-deceased-through-his-legal-heirs-and-ors-vs-punjab-national-bank-and-ors-nclt-guwahati-bench-3/)
+- **Published:** Mon, 28 Sep 2026 20:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gian Chand Narang (Liquidator) Vs. Principal Commissioner of Income Tax – NCLT, New Delhi Bench](https://ibclaw.in/gian-chand-narang-liquidator-vs-principal-commissioner-of-income-tax-nclt-new-delhi-bench/)
+- **Published:** Mon, 28 Sep 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chintakunta Munnuswamy Rajesh Vs. Murali Mohan Chevuturi (RP) and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/chintakunta-munnuswamy-rajesh-vs-murali-mohan-chevuturi-rp-and-ors-nclt-hyderabad-bench/)
+- **Published:** Mon, 28 Sep 2026 20:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anju Maurya and Ors. Vs. Koras Pin Savings Financial Services Nidhi Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/anju-maurya-and-ors-vs-koras-pin-savings-financial-services-nidhi-ltd-nclt-allahabad-bench/)
+- **Published:** Mon, 28 Sep 2026 20:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Abhyudaya Co-Operative Bank Ltd. Vs. A. Navinchandra Steels Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/abhyudaya-co-operative-bank-ltd-vs-a-navinchandra-steels-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 28 Sep 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vivek Satyaprakash Jalan, RP of Ark Industries Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/vivek-satyaprakash-jalan-rp-of-ark-industries-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 28 Sep 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Indian Bank Vs. Manoj G. Tirodkar – NCLT, Mumbai Bench](https://ibclaw.in/indian-bank-vs-manoj-g-tirodkar-nclt-mumbai-bench/)
 - **Published:** Sun, 27 Sep 2026 21:02:00 +0000
