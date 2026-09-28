@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-27 21:31:11*
+*Last synced: 2026-09-28 14:21:00*
+
+### [Indian Bank Vs. Manoj G. Tirodkar – NCLT, Mumbai Bench](https://ibclaw.in/indian-bank-vs-manoj-g-tirodkar-nclt-mumbai-bench/)
+- **Published:** Sun, 27 Sep 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IL&FS Financial Services Ltd. Vs. Manoj Kumar Agarwal – NCLT, Guwahati Bench](https://ibclaw.in/ilfs-financial-services-ltd-vs-manoj-kumar-agarwal-nclt-guwahati-bench/)
 - **Published:** Sun, 27 Sep 2026 20:18:00 +0000
