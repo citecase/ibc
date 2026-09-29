@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-28 23:26:39*
+*Last synced: 2026-09-29 13:13:38*
+
+### [Supreme Court Upholds Forfeiture of EMD Under IBC Liquidation Auction Terms](https://ibclaw.in/supreme-court-upholds-forfeiture-of-emd-under-ibc-liquidation-auction-terms/)
+- **Published:** Tue, 29 Sep 2026 05:30:52 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Eastern Power Distribution Company of Andhra Pradesh Ltd. Vs. Daulat Resolution Services Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/eastern-power-distribution-company-of-andhra-pradesh-ltd-vs-daulat-resolution-services-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 29 Sep 2026 08:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Uma Maheswari Vs. UCO Bank and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/uma-maheswari-vs-uco-bank-and-anr-nclat-chennai-bench/)
+- **Published:** Tue, 29 Sep 2026 11:56:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Sandeep Kumar Bhagat (Since Deceased) Through his Legal Heirs and Ors. Vs. Punjab National Bank and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/sandeep-kumar-bhagat-since-deceased-through-his-legal-heirs-and-ors-vs-punjab-national-bank-and-ors-nclt-guwahati-bench-3/)
 - **Published:** Mon, 28 Sep 2026 20:18:00 +0000
