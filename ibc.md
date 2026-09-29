@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-29 13:13:38*
+*Last synced: 2026-09-29 22:31:52*
+
+### [Monica Agarwal Vs. Sushil Kumar Agarwal and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/monica-agarwal-vs-sushil-kumar-agarwal-and-anr-nclt-chandigarh-bench/)
+- **Published:** Tue, 29 Sep 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [M. Indrasena Chowdary Vs. Murali Mohan Chevuturi (RP) and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/m-indrasena-chowdary-vs-murali-mohan-chevuturi-rp-and-ors-nclt-hyderabad-bench/)
+- **Published:** Tue, 29 Sep 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Marvel Industries and Services Pvt. Ltd. Vs. Flexituff Technology International Ltd. – NCLT, Indore Bench](https://ibclaw.in/marvel-industries-and-services-pvt-ltd-vs-flexituff-technology-international-ltd-nclt-indore-bench/)
+- **Published:** Tue, 29 Sep 2026 20:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Mangalagiri Textile Mills Pvt. Ltd – NCLT, Amaravati Bench](https://ibclaw.in/state-bank-of-india-vs-mangalagiri-textile-mills-pvt-ltd-nclt-amaravati-bench-2/)
+- **Published:** Tue, 29 Sep 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Lulu India Shopping Mall Pvt. Ltd. Vs. Katerra India Pvt. Ltd. and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/lulu-india-shopping-mall-pvt-ltd-vs-katerra-india-pvt-ltd-and-anr-nclat-chennai-bench/)
+- **Published:** Tue, 29 Sep 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Upholds Forfeiture of EMD Under IBC Liquidation Auction Terms](https://ibclaw.in/supreme-court-upholds-forfeiture-of-emd-under-ibc-liquidation-auction-terms/)
 - **Published:** Tue, 29 Sep 2026 05:30:52 +0000
