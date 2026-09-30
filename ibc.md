@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-29 22:31:52*
+*Last synced: 2026-09-30 05:50:31*
+
+### [Employees State Insurance Corporation Vs. Sri Lakshmi Srinivasa Jute Mills Pvt. Ltd. and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/employees-state-insurance-corporation-vs-sri-lakshmi-srinivasa-jute-mills-pvt-ltd-and-ors-nclat-chennai-bench/)
+- **Published:** Tue, 29 Sep 2026 22:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Assistant Commissioner (EPM), Vs. Shruti Gupta, Liquidator of Metalite Eco Future Labs Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/assistant-commissioner-epm-vs-shruti-gupta-liquidator-of-metalite-eco-future-labs-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 30 Sep 2026 00:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Monica Agarwal Vs. Sushil Kumar Agarwal and Anr. – NCLT, Chandigarh Bench](https://ibclaw.in/monica-agarwal-vs-sushil-kumar-agarwal-and-anr-nclt-chandigarh-bench/)
 - **Published:** Tue, 29 Sep 2026 20:43:00 +0000
