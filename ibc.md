@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-30 05:50:31*
+*Last synced: 2026-09-30 22:29:48*
+
+### [Microtek International Pvt. Ltd. Vs. Okaya Power Pvt. Ltd. and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/microtek-international-pvt-ltd-vs-okaya-power-pvt-ltd-and-ors-nclt-chandigarh-bench/)
+- **Published:** Wed, 30 Sep 2026 20:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [M. Gagan Bothra Vs. Kanaka Subbu Ganapathy – NCLT, Chennai Bench](https://ibclaw.in/m-gagan-bothra-vs-kanaka-subbu-ganapathy-nclt-chennai-bench/)
+- **Published:** Wed, 30 Sep 2026 20:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bharath Kumar Vs. Ramanathan Bhuvaneshwari (Liquidator) and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/bharath-kumar-vs-ramanathan-bhuvaneshwari-liquidator-and-anr-nclt-bengaluru-bench/)
+- **Published:** Wed, 30 Sep 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A2Z Infraservices Ltd. Vs. Jitendra Lohia, Liquidator for Viom Infra Ventures Ltd. and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/a2z-infraservices-ltd-vs-jitendra-lohia-liquidator-for-viom-infra-ventures-ltd-and-ors-nclt-hyderabad-bench/)
+- **Published:** Wed, 30 Sep 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sumat Gupta (RP) Vs. Schreiber Dynamix Dairies Pvt. Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/sumat-gupta-rp-vs-schreiber-dynamix-dairies-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Wed, 30 Sep 2026 20:42:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KSK Wind Energy Halagali Benchi Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/ksk-wind-energy-halagali-benchi-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Wed, 30 Sep 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anuj Bajpai, RP of Vector Projects (India) Pvt. Ltd. Vs. Aikyam Stressed Assets Fund-I – NCLT, Mumbai Bench](https://ibclaw.in/anuj-bajpai-rp-of-vector-projects-india-pvt-ltd-vs-aikyam-stressed-assets-fund-i-nclt-mumbai-bench/)
+- **Published:** Wed, 30 Sep 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajkumar Namdev Gawde Vs. Schnell Global Industries Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/rajkumar-namdev-gawde-vs-schnell-global-industries-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 30 Sep 2026 21:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Forsee Power India Pvt. Ltd. Vs. Omega Seiki Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/forsee-power-india-pvt-ltd-vs-omega-seiki-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 30 Sep 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Employees State Insurance Corporation Vs. Sri Lakshmi Srinivasa Jute Mills Pvt. Ltd. and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/employees-state-insurance-corporation-vs-sri-lakshmi-srinivasa-jute-mills-pvt-ltd-and-ors-nclat-chennai-bench/)
 - **Published:** Tue, 29 Sep 2026 22:49:00 +0000
