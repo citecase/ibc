@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-01 06:23:51*
+*Last synced: 2026-10-01 13:46:11*
+
+### [Supreme Court Allows Recall of Fraudulent IBC Admission, Remands CIRP Decision](https://ibclaw.in/supreme-court-allows-recall-of-fraudulent-ibc-admission-remands-cirp-decision/)
+- **Published:** Thu, 01 Oct 2026 06:26:08 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Admission Of Petition U/S. 9 IBC Induced By Fraud/Collusion Can Be Recalled, But CIRP Need Not Automatically End: Supreme Court](https://www.verdictum.in/supreme-court/orris-infrastructure-private-limited-v-rakesh-kumar-gupta-2026-insc-1070-admission-of-petition-us-9-ibc-induced-by-fraudcollusion-1623114)
 - **Published:** Thu, 01 Oct 2026 05:51:47 GMT
