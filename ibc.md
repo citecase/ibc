@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-09-30 22:29:48*
+*Last synced: 2026-10-01 06:23:51*
+
+### [Admission Of Petition U/S. 9 IBC Induced By Fraud/Collusion Can Be Recalled, But CIRP Need Not Automatically End: Supreme Court](https://www.verdictum.in/supreme-court/orris-infrastructure-private-limited-v-rakesh-kumar-gupta-2026-insc-1070-admission-of-petition-us-9-ibc-induced-by-fraudcollusion-1623114)
+- **Published:** Thu, 01 Oct 2026 05:51:47 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Environmental Liability in Insolvency: Status and Enforcement under the Insolvency and Bankruptcy Code, 2016 – By V Neha](https://ibclaw.in/environmental-liability-in-insolvency-status-and-enforcement-under-the-insolvency-and-bankruptcy-code-2016-by-v-neha/)
+- **Published:** Thu, 01 Oct 2026 05:06:20 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Microtek International Pvt. Ltd. Vs. Okaya Power Pvt. Ltd. and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/microtek-international-pvt-ltd-vs-okaya-power-pvt-ltd-and-ors-nclt-chandigarh-bench/)
 - **Published:** Wed, 30 Sep 2026 20:24:00 +0000
