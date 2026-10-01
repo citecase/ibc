@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-01 13:46:11*
+*Last synced: 2026-10-01 22:50:33*
+
+### [Positron Biogenics Pvt. Ltd. Vs. Uttar Pradesh State Industrial Development Authority and Anr. – NCLT, Allahabad Bench](https://ibclaw.in/positron-biogenics-pvt-ltd-vs-uttar-pradesh-state-industrial-development-authority-and-anr-nclt-allahabad-bench/)
+- **Published:** Thu, 01 Oct 2026 20:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KSK Wind Power Sankonahatti Athni Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/ksk-wind-power-sankonahatti-athni-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Thu, 01 Oct 2026 20:30:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vivek Kumar Ratakonda Vs. CS Dr. Ahalada Rao Vummenthala, RP for Baron Infotech Ltd. and Anr. – NCLT, Hyderabad Bench](https://ibclaw.in/vivek-kumar-ratakonda-vs-cs-dr-ahalada-rao-vummenthala-rp-for-baron-infotech-ltd-and-anr-nclt-hyderabad-bench/)
+- **Published:** Thu, 01 Oct 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajeev Ranjan Singh (Liquidator) Vs. Divya Umesh Mishra (IAS), Collector & District Magistrate and Anr. – NCLT, Ahmedabad Bench](https://ibclaw.in/rajeev-ranjan-singh-liquidator-vs-divya-umesh-mishra-ias-collector-district-magistrate-and-anr-nclt-ahmedabad-bench/)
+- **Published:** Thu, 01 Oct 2026 20:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Govind Kumar Choudhary and Anr. Vs. Whitesnow Infrastructure Pvt. Ltd. and Ors. – NCLT, Kolkata Bench](https://ibclaw.in/govind-kumar-choudhary-and-anr-vs-whitesnow-infrastructure-pvt-ltd-and-ors-nclt-kolkata-bench/)
+- **Published:** Thu, 01 Oct 2026 20:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bank of Maharashtra Vs. Madhurani Avinash Khadilkar – NCLT, Mumbai Bench](https://ibclaw.in/bank-of-maharashtra-vs-madhurani-avinash-khadilkar-nclt-mumbai-bench/)
+- **Published:** Thu, 01 Oct 2026 20:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jagdish Kumar Parulkar, RP of Shyam Indofab Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/jagdish-kumar-parulkar-rp-of-shyam-indofab-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 01 Oct 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dhanraj Builders Vs. Dhanraj Buildwell Pvt. Ltd. and Ors. – NCLT, Allahabad Bench](https://ibclaw.in/dhanraj-builders-vs-dhanraj-buildwell-pvt-ltd-and-ors-nclt-allahabad-bench/)
+- **Published:** Thu, 01 Oct 2026 21:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jayanti Lal Jain, IRP of DK Infrastructure Pvt. Ltd. Vs. Pranaya Prusty – NCLT, Mumbai Bench](https://ibclaw.in/jayanti-lal-jain-irp-of-dk-infrastructure-pvt-ltd-vs-pranaya-prusty-nclt-mumbai-bench/)
+- **Published:** Thu, 01 Oct 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jayanti Lal Jain, IRP of DK Infrastructure Pvt. Ltd. Vs. Santosh Nangare – NCLT, Mumbai Bench](https://ibclaw.in/jayanti-lal-jain-irp-of-dk-infrastructure-pvt-ltd-vs-santosh-nangare-nclt-mumbai-bench/)
+- **Published:** Thu, 01 Oct 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court Allows Recall of Fraudulent IBC Admission, Remands CIRP Decision](https://ibclaw.in/supreme-court-allows-recall-of-fraudulent-ibc-admission-remands-cirp-decision/)
 - **Published:** Thu, 01 Oct 2026 06:26:08 +0000
