@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-01 22:50:33*
+*Last synced: 2026-10-02 13:01:28*
+
+### [IBC Laws Today | Daily Case Laws Updates | 02 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-02-october-2026/)
+- **Published:** Fri, 02 Oct 2026 11:40:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Positron Biogenics Pvt. Ltd. Vs. Uttar Pradesh State Industrial Development Authority and Anr. – NCLT, Allahabad Bench](https://ibclaw.in/positron-biogenics-pvt-ltd-vs-uttar-pradesh-state-industrial-development-authority-and-anr-nclt-allahabad-bench/)
 - **Published:** Thu, 01 Oct 2026 20:29:00 +0000
