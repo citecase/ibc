@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-02 13:01:28*
+*Last synced: 2026-10-03 11:55:41*
+
+### [CIRP under IBC can continue even if insolvency plea that triggered it was fraudulent: Supreme Court](https://www.barandbench.com/news/litigation/cirp-under-ibc-can-continue-even-if-insolvency-plea-that-triggered-it-was-fraudulent-supreme-court)
+- **Published:** Thu, 01 Oct 2026 19:30:18 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 28 September to 3 October, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-28-september-to-3-october-2026/)
+- **Published:** Sat, 03 Oct 2026 05:56:34 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Launches ResearchAI Pro, Bringing Verifiable AI Into the Complete Legal Research Workflow](https://ibclaw.in/ibc-laws-launches-researchai-pro-bringing-verifiable-ai-into-the-complete-legal-research-workflow/)
+- **Published:** Sat, 03 Oct 2026 08:42:41 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Webinar on 10 Oct : Insolvency Case Laws – The Fortnightly Review| Saturday, 10 October 2026 | 11:30 AM](https://ibclaw.in/webinar-on-10-oct-insolvency-case-laws-the-fortnightly-review-saturday-10-october-2026-1130-am/)
+- **Published:** Sat, 03 Oct 2026 10:14:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 02 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-02-october-2026/)
 - **Published:** Fri, 02 Oct 2026 11:40:43 +0000
