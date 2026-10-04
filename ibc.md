@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-03 11:55:41*
+*Last synced: 2026-10-04 21:48:55*
+
+### [S.R. Shriraam Shekher Vs. Balakrishnaraja Dhanuskodi Raja – NCLT, Chennai Bench](https://ibclaw.in/s-r-shriraam-shekher-vs-balakrishnaraja-dhanuskodi-raja-nclt-chennai-bench/)
+- **Published:** Sun, 04 Oct 2026 20:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [3A Capital Services Ltd. Vs. Prag Bosimi Synthetics Ltd. and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/3a-capital-services-ltd-vs-prag-bosimi-synthetics-ltd-and-ors-nclt-guwahati-bench/)
+- **Published:** Sun, 04 Oct 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IndusInd Bank Ltd. Vs. Vamsee Teja Modern Rice Mill Pvt. Ltd. – NCLT, Amaravati Bench](https://ibclaw.in/indusind-bank-ltd-vs-vamsee-teja-modern-rice-mill-pvt-ltd-nclt-amaravati-bench/)
+- **Published:** Sun, 04 Oct 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Arunava Sikdar, RP of Hyretail Technologies Pvt. Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/arunava-sikdar-rp-of-hyretail-technologies-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Sun, 04 Oct 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Everest Organics Ltd. Vs. Citizenplus Pharmaceuticals Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/everest-organics-ltd-vs-citizenplus-pharmaceuticals-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Sun, 04 Oct 2026 20:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mass Infrastructure Pvt. Ltd. Vs. Kunal Structure (India) Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/mass-infrastructure-pvt-ltd-vs-kunal-structure-india-pvt-ltd-nclt-ahmedabad-bench-2/)
+- **Published:** Sun, 04 Oct 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [CIRP under IBC can continue even if insolvency plea that triggered it was fraudulent: Supreme Court](https://www.barandbench.com/news/litigation/cirp-under-ibc-can-continue-even-if-insolvency-plea-that-triggered-it-was-fraudulent-supreme-court)
 - **Published:** Thu, 01 Oct 2026 19:30:18 +0530
