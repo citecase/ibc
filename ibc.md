@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-04 21:48:55*
+*Last synced: 2026-10-05 15:10:01*
+
+### [Weekly Overview| Supreme Court Judgments: September 28– October 01, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-september-28-october-01-2026-1623394)
+- **Published:** Mon, 05 Oct 2026 13:00:08 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Sonal Sumit Mehta Vs. Chirag R Shah and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sonal-sumit-mehta-vs-chirag-r-shah-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 05 Oct 2026 13:59:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Santosh Kumar Vs. IDBI Trusteeship Services P. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/santosh-kumar-vs-idbi-trusteeship-services-p-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 05 Oct 2026 14:43:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [S.R. Shriraam Shekher Vs. Balakrishnaraja Dhanuskodi Raja – NCLT, Chennai Bench](https://ibclaw.in/s-r-shriraam-shekher-vs-balakrishnaraja-dhanuskodi-raja-nclt-chennai-bench/)
 - **Published:** Sun, 04 Oct 2026 20:22:00 +0000
