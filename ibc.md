@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-06 00:14:45*
+*Last synced: 2026-10-06 18:32:52*
+
+### [IBC Laws Today | Daily Case Laws Updates | 06 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-06-october-2026/)
+- **Published:** Tue, 06 Oct 2026 13:07:17 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tata Capital Ltd. Vs. Sanjay Mahajan – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/tata-capital-ltd-vs-sanjay-mahajan-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 06 Oct 2026 15:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Bar on Tata Capital’s Belated Section 52 Security Claim](https://ibclaw.in/nclat-upholds-bar-on-tata-capitals-belated-section-52-security-claim/)
+- **Published:** Tue, 06 Oct 2026 15:45:14 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Piyush Natwarlal Patel and Anr. Vs. Delta Hitech Coatings Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/piyush-natwarlal-patel-and-anr-vs-delta-hitech-coatings-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
 - **Published:** Mon, 05 Oct 2026 19:51:00 +0000
