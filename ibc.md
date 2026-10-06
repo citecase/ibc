@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-05 15:10:01*
+*Last synced: 2026-10-06 00:14:45*
+
+### [Piyush Natwarlal Patel and Anr. Vs. Delta Hitech Coatings Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/piyush-natwarlal-patel-and-anr-vs-delta-hitech-coatings-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 05 Oct 2026 19:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nareshkumar Gondaliya Vs. M. D. Hygiene Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/nareshkumar-gondaliya-vs-m-d-hygiene-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 05 Oct 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [S.R. Shriraam Shekher Vs. Balakrishnaraja Dhanuskodi Raja and Ors. – NCLT, Chennai Bench](https://ibclaw.in/s-r-shriraam-shekher-vs-balakrishnaraja-dhanuskodi-raja-and-ors-nclt-chennai-bench/)
+- **Published:** Mon, 05 Oct 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mehul I. Shah Vs. United Phosphorous Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/mehul-i-shah-vs-united-phosphorous-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Mon, 05 Oct 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bhagwati Lacto Vegetarian Exports Pvt. Ltd. Vs. RB Assets and Developers Pvt. Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/bhagwati-lacto-vegetarian-exports-pvt-ltd-vs-rb-assets-and-developers-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Mon, 05 Oct 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KSK Wind Energy Mothalli Haveri Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/ksk-wind-energy-mothalli-haveri-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 05 Oct 2026 20:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [K. Vatsa Kumar, Liquidator of Lanco Vidarbha Thermal Power Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/k-vatsa-kumar-liquidator-of-lanco-vidarbha-thermal-power-ltd-nclt-hyderabad-bench/)
+- **Published:** Mon, 05 Oct 2026 20:53:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Darshan Singh Anand, RP of Vikas WSP Ltd. Vs. Bimla Devi Jindal and Ors. – NCLT, Chandigarh Bench](https://ibclaw.in/darshan-singh-anand-rp-of-vikas-wsp-ltd-vs-bimla-devi-jindal-and-ors-nclt-chandigarh-bench/)
+- **Published:** Mon, 05 Oct 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Weekly Overview| Supreme Court Judgments: September 28– October 01, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-september-28-october-01-2026-1623394)
 - **Published:** Mon, 05 Oct 2026 13:00:08 GMT
