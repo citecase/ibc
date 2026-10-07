@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-06 18:32:52*
+*Last synced: 2026-10-07 06:19:58*
+
+### [Arvind Mukundchand Soni Vs. Girdharbhai Bavchandbhai Viramgama and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/arvind-mukundchand-soni-vs-girdharbhai-bavchandbhai-viramgama-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Tue, 06 Oct 2026 20:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Arcbolt Space and Foods Pvt. Ltd. Vs. Darshan Singh Anand, RP of Vikas WSP Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/arcbolt-space-and-foods-pvt-ltd-vs-darshan-singh-anand-rp-of-vikas-wsp-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 06 Oct 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KSK Wind Power Aminabhavi Chikodi Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/ksk-wind-power-aminabhavi-chikodi-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Tue, 06 Oct 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Megha Agrawal Vs. Nandkumar Khattumal Harchandani and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/megha-agrawal-vs-nandkumar-khattumal-harchandani-and-anr-nclt-mumbai-bench/)
+- **Published:** Tue, 06 Oct 2026 20:52:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [P. Balaraman and Ors. Vs. India Envelopes Ltd. and Ors. – NCLT, Chennai Bench](https://ibclaw.in/p-balaraman-and-ors-vs-india-envelopes-ltd-and-ors-nclt-chennai-bench/)
+- **Published:** Tue, 06 Oct 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chennai Voids Enforcement of Property Deal Tied to NSTC Debt](https://ibclaw.in/nclt-chennai-voids-enforcement-of-property-deal-tied-to-nstc-debt/)
+- **Published:** Wed, 07 Oct 2026 05:30:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chandigarh Rejects SRA’s Fresh Asset Valuation Plea Before Plan Approval](https://ibclaw.in/nclt-chandigarh-rejects-sras-fresh-asset-valuation-plea-before-plan-approval/)
+- **Published:** Wed, 07 Oct 2026 05:30:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 06 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-06-october-2026/)
 - **Published:** Tue, 06 Oct 2026 13:07:17 +0000
