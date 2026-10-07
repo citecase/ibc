@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-07 06:19:58*
+*Last synced: 2026-10-07 13:45:13*
+
+### [NCLT orders winding up of 14 Popular Finance-linked entities; asks liquidator to trace money, recover assets](https://www.barandbench.com/news/litigation/nclt-orders-winding-up-of-14-popular-finance-linked-entities-asks-liquidator-to-trace-money-recover-assets)
+- **Published:** Wed, 07 Oct 2026 16:58:35 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Arvind Mukundchand Soni Vs. Girdharbhai Bavchandbhai Viramgama and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/arvind-mukundchand-soni-vs-girdharbhai-bavchandbhai-viramgama-and-ors-nclt-ahmedabad-bench/)
 - **Published:** Tue, 06 Oct 2026 20:26:00 +0000
