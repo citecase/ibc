@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-07 13:45:13*
+*Last synced: 2026-10-07 23:15:16*
+
+### [Keshavji Nongha Shah and Anr. Vs. Ziberia Estates and Investments Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/keshavji-nongha-shah-and-anr-vs-ziberia-estates-and-investments-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 07 Oct 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Laxmi Narayan Sogani and Ors. Vs. Balaji Candles Pvt. Ltd. and Ors. – NCLT, Guwahati Bench](https://ibclaw.in/laxmi-narayan-sogani-and-ors-vs-balaji-candles-pvt-ltd-and-ors-nclt-guwahati-bench/)
+- **Published:** Wed, 07 Oct 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Renahan Vamakesan, Liquidator of Axiomata Elevators Pvt. Ltd. Vs. Anish Lawrence and Ors. – NCLT, Kochi Bench](https://ibclaw.in/renahan-vamakesan-liquidator-of-axiomata-elevators-pvt-ltd-vs-anish-lawrence-and-ors-nclt-kochi-bench/)
+- **Published:** Wed, 07 Oct 2026 20:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bhagwati Lacto Vegetarian Exports Pvt. Ltd. Vs. DD Oils India Pvt. Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/bhagwati-lacto-vegetarian-exports-pvt-ltd-vs-dd-oils-india-pvt-ltd-nclt-chandigarh-bench/)
+- **Published:** Wed, 07 Oct 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ritesh Agarwal, RP of Nufuture Digital (India) Ltd. Vs. Rupchand Paswan and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/ritesh-agarwal-rp-of-nufuture-digital-india-ltd-vs-rupchand-paswan-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 07 Oct 2026 20:46:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Puissant Global Pvt. Ltd. Vs. Abbay Narayan Manudbane (Liquidator) and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/puissant-global-pvt-ltd-vs-abbay-narayan-manudbane-liquidator-and-ors-nclt-hyderabad-bench/)
+- **Published:** Wed, 07 Oct 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sunil Kumar (Deemed RP) Vs. Diamond Trading Co. – NCLT, Jaipur Bench](https://ibclaw.in/sunil-kumar-deemed-rp-vs-diamond-trading-co-nclt-jaipur-bench/)
+- **Published:** Wed, 07 Oct 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT orders winding up of 14 Popular Finance-linked entities; asks liquidator to trace money, recover assets](https://www.barandbench.com/news/litigation/nclt-orders-winding-up-of-14-popular-finance-linked-entities-asks-liquidator-to-trace-money-recover-assets)
 - **Published:** Wed, 07 Oct 2026 16:58:35 +0530
