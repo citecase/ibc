@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-07 23:15:16*
+*Last synced: 2026-10-08 06:31:26*
+
+### [NCLT records highest-ever quarterly performance in terms of approved resolution plans despite vacancies](https://www.barandbench.com/news/litigation/nclt-records-highest-ever-quarterly-performance-in-terms-of-approved-resolution-plans-despite-vacancies)
+- **Published:** Thu, 08 Oct 2026 11:23:55 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Wiping the Slate: How the 2026 IBC Reforms Finally Silenced the Taxman – By Bhaskar Varshney](https://ibclaw.in/wiping-the-slate-how-the-2026-ibc-reforms-finally-silenced-the-taxman-by-bhaskar-varshney/)
+- **Published:** Thu, 08 Oct 2026 05:30:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Piercing The Corporate Veil in Insolvency Proceedings: Comparative Role of The Companies Act and The IBC – By Adv. Shubhangi Shukla](https://ibclaw.in/piercing-the-corporate-veil-in-insolvency-proceedings-comparative-role-of-the-companies-act-and-the-ibc-by-adv-shubhangi-shukla/)
+- **Published:** Thu, 08 Oct 2026 05:47:07 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Keshavji Nongha Shah and Anr. Vs. Ziberia Estates and Investments Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/keshavji-nongha-shah-and-anr-vs-ziberia-estates-and-investments-pvt-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Wed, 07 Oct 2026 20:14:00 +0000
