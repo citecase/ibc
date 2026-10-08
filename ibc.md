@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-08 06:31:26*
+*Last synced: 2026-10-08 18:57:52*
+
+### [NCLT Mumbai Orders Girish Group to Buy Out Keshav Group](https://ibclaw.in/nclt-mumbai-orders-girish-group-to-buy-out-keshav-group/)
+- **Published:** Thu, 08 Oct 2026 07:03:34 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Rejects Rs 50 Lakh Preferential Transaction Claim Against Galaxy Cloud](https://ibclaw.in/nclt-mumbai-rejects-rs-50-lakh-preferential-transaction-claim-against-galaxy-cloud/)
+- **Published:** Thu, 08 Oct 2026 10:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT records highest-ever quarterly performance with 107 Resolution Plans approved in Q2 FY 2026–27](https://ibclaw.in/nclt-records-highest-ever-quarterly-performance-with-107-resolution-plans-approved-in-q2-fy-2026-27/)
+- **Published:** Thu, 08 Oct 2026 15:42:47 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT records highest-ever quarterly performance in terms of approved resolution plans despite vacancies](https://www.barandbench.com/news/litigation/nclt-records-highest-ever-quarterly-performance-in-terms-of-approved-resolution-plans-despite-vacancies)
 - **Published:** Thu, 08 Oct 2026 11:23:55 +0530
