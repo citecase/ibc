@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-08 18:57:52*
+*Last synced: 2026-10-09 06:32:34*
+
+### [Nowon Technologies Pvt. Ltd. Vs. Tono Thomas – NCLT, Bengaluru Bench](https://ibclaw.in/nowon-technologies-pvt-ltd-vs-tono-thomas-nclt-bengaluru-bench/)
+- **Published:** Thu, 08 Oct 2026 20:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Tarannum Khan and Ors. Vs. Royal Palms (India) Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/tarannum-khan-and-ors-vs-royal-palms-india-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Thu, 08 Oct 2026 20:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [A T Chacko Vs. Hipcon Valves Pvt. Ltd. and Ors. – NCLT, Chennai Bench](https://ibclaw.in/a-t-chacko-vs-hipcon-valves-pvt-ltd-and-ors-nclt-chennai-bench/)
+- **Published:** Thu, 08 Oct 2026 20:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shree Steel Associates Vs. Roadway Solutions India Infra Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/shree-steel-associates-vs-roadway-solutions-india-infra-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 08 Oct 2026 20:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Smartpaddle Technology Pvt. Ltd. Vs. Atlanta Modular Pvt. Ltd. – NCLT, Guwahati Bench](https://ibclaw.in/smartpaddle-technology-pvt-ltd-vs-atlanta-modular-pvt-ltd-nclt-guwahati-bench/)
+- **Published:** Thu, 08 Oct 2026 20:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dhaval Kumar, RP of Bhagirath Construction Company Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/dhaval-kumar-rp-of-bhagirath-construction-company-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Thu, 08 Oct 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rikhab Chand Jain Vs. DRP Financial Services Pvt. Ltd. and Ors. – NCLT, Principal Bench](https://ibclaw.in/rikhab-chand-jain-vs-drp-financial-services-pvt-ltd-and-ors-nclt-principal-bench/)
+- **Published:** Thu, 08 Oct 2026 22:13:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Orders Girish Group to Buy Out Keshav Group](https://ibclaw.in/nclt-mumbai-orders-girish-group-to-buy-out-keshav-group/)
 - **Published:** Thu, 08 Oct 2026 07:03:34 +0000
