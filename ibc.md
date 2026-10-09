@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-09 06:32:34*
+*Last synced: 2026-10-09 18:27:56*
+
+### [NCLT Guwahati Admits Atlanta Modular Into CIRP on Smartpaddle’s Section 9 Plea](https://ibclaw.in/nclt-guwahati-admits-atlanta-modular-into-cirp-on-smartpaddles-section-9-plea/)
+- **Published:** Fri, 09 Oct 2026 15:09:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Dismisses Section 7 Plea Against RBI-Registered NBFC, Imposes ₹5 Lakh Penalty](https://ibclaw.in/nclt-dismisses-section-7-plea-against-rbi-registered-nbfc-imposes-%e2%82%b95-lakh-penalty/)
+- **Published:** Fri, 09 Oct 2026 15:52:23 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Allows IBC-Extinguished Claim Only as Arbitral Set-Off](https://ibclaw.in/supreme-court-allows-ibc-extinguished-claim-only-as-arbitral-set-off/)
+- **Published:** Fri, 09 Oct 2026 16:00:07 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Nowon Technologies Pvt. Ltd. Vs. Tono Thomas – NCLT, Bengaluru Bench](https://ibclaw.in/nowon-technologies-pvt-ltd-vs-tono-thomas-nclt-bengaluru-bench/)
 - **Published:** Thu, 08 Oct 2026 20:13:00 +0000
