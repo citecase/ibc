@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-10 06:15:04*
+*Last synced: 2026-10-10 12:55:28*
+
+### [Temporary Suspension of the functioning of Court No. VI (NCLT Mumbai Bench) and Consequent transfer of matters](https://ibclaw.in/temporary-suspension-of-the-functioning-of-court-no-vi-nclt-mumbai-bench-and-consequent-transfer-of-matters/)
+- **Published:** Sat, 10 Oct 2026 07:42:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT suspends functioning of Mumbai Bench's court VI due to vacancies](https://www.barandbench.com/news/litigation/nclt-suspends-functioning-of-mumbai-benchs-court-vi-due-to-vacancies)
 - **Published:** Sat, 10 Oct 2026 09:29:23 +0530
