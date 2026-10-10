@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-09 18:27:56*
+*Last synced: 2026-10-10 06:15:04*
+
+### [NCLT suspends functioning of Mumbai Bench's court VI due to vacancies](https://www.barandbench.com/news/litigation/nclt-suspends-functioning-of-mumbai-benchs-court-vi-due-to-vacancies)
+- **Published:** Sat, 10 Oct 2026 09:29:23 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [RERA Bulletin – Weekly Case Laws Digest: 5 October to 10 October, 2026](https://ibclaw.in/rera-bulletin-weekly-case-laws-digest-5-october-to-10-october-2026/)
+- **Published:** Sat, 10 Oct 2026 05:43:06 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 5 October to 10 October, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-5-october-to-10-october-2026/)
+- **Published:** Sat, 10 Oct 2026 05:46:25 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Guwahati Admits Atlanta Modular Into CIRP on Smartpaddle’s Section 9 Plea](https://ibclaw.in/nclt-guwahati-admits-atlanta-modular-into-cirp-on-smartpaddles-section-9-plea/)
 - **Published:** Fri, 09 Oct 2026 15:09:42 +0000
