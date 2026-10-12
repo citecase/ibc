@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-10 12:55:28*
+*Last synced: 2026-10-12 06:21:41*
+
+### [Rajesh Uttamchandani Vs. Vijay Pitambar Lulla (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/rajesh-uttamchandani-vs-vijay-pitambar-lulla-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 04:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Tax Officer Vs. CA Vinod T. Agrawal (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/state-tax-officer-vs-ca-vinod-t-agrawal-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 04:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Monitoring Committee of Earth Towne Project, Earth Infrastructures Ltd. Vs. Earth Towne Infrastructure Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/monitoring-committee-of-earth-towne-project-earth-infrastructures-ltd-vs-earth-towne-infrastructure-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 05:54:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Debashis Nanda, Liquidator of Chamber Constructions Pvt. Ltd. Vs. Gokul Anil Kumar and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/debashis-nanda-liquidator-of-chamber-constructions-pvt-ltd-vs-gokul-anil-kumar-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 05:58:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Phoenix ARC Ltd. Vs. Rajesh Jhunjhunwala (Erstwhile RP) and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/phoenix-arc-ltd-vs-rajesh-jhunjhunwala-erstwhile-rp-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 06:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Arun Singh @ Arun Kumar Vs. Indian Bank and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/arun-singh-arun-kumar-vs-indian-bank-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 06:13:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Temporary Suspension of the functioning of Court No. VI (NCLT Mumbai Bench) and Consequent transfer of matters](https://ibclaw.in/temporary-suspension-of-the-functioning-of-court-no-vi-nclt-mumbai-bench-and-consequent-transfer-of-matters/)
 - **Published:** Sat, 10 Oct 2026 07:42:17 +0000
