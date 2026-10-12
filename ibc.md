@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-12 06:21:41*
+*Last synced: 2026-10-12 15:55:56*
+
+### [NCLAT: CST Dues Not Secured Debt Under IBC Despite GVAT First Charge](https://ibclaw.in/nclat-cst-dues-not-secured-debt-under-ibc-despite-gvat-first-charge/)
+- **Published:** Mon, 12 Oct 2026 10:35:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Refuses Revival of Guarantors’ Appeals After OTS Payment Default](https://ibclaw.in/nclat-refuses-revival-of-guarantors-appeals-after-ots-payment-default/)
+- **Published:** Mon, 12 Oct 2026 12:11:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dickey Special Situation Investment Trust-DSSF Series 2 Vs. Manish Agarwal (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/dickey-special-situation-investment-trust-dssf-series-2-vs-manish-agarwal-rp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 12 Oct 2026 12:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Liquidation as Plan Failed Regulation 38(3)(a) Default Test](https://ibclaw.in/nclat-upholds-liquidation-as-plan-failed-regulation-383a-default-test/)
+- **Published:** Mon, 12 Oct 2026 13:12:12 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Section 244 Waiver for IMPPA Oppression Petition](https://ibclaw.in/nclat-upholds-section-244-waiver-for-imppa-oppression-petition/)
+- **Published:** Mon, 12 Oct 2026 13:51:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 12 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-12-october-2026/)
+- **Published:** Mon, 12 Oct 2026 14:52:26 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Rajesh Uttamchandani Vs. Vijay Pitambar Lulla (RP) and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/rajesh-uttamchandani-vs-vijay-pitambar-lulla-rp-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Mon, 12 Oct 2026 04:33:00 +0000
