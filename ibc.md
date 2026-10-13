@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-12 15:55:56*
+*Last synced: 2026-10-13 14:29:07*
+
+### [Gagan Jhavar, Liquidator of Arya Filaments Pvt. Ltd. Vs. Ravi Kapoor and Ors. – NCLT, Indore Bench](https://ibclaw.in/gagan-jhavar-liquidator-of-arya-filaments-pvt-ltd-vs-ravi-kapoor-and-ors-nclt-indore-bench/)
+- **Published:** Tue, 13 Oct 2026 12:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Raj Kumar Jindal and Anr. Vs. SRS Real Estate Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/raj-kumar-jindal-and-anr-vs-srs-real-estate-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 13 Oct 2026 12:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajalakshmy Packaging Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/rajalakshmy-packaging-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Tue, 13 Oct 2026 12:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Samunnati Finance Pvt. Ltd. Vs. Gyan Singh – NCLT, Allahabad Bench](https://ibclaw.in/samunnati-finance-pvt-ltd-vs-gyan-singh-nclt-allahabad-bench/)
+- **Published:** Tue, 13 Oct 2026 12:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Samunnati Finance Pvt. Ltd. Vs. Neha Singh – NCLT, Allahabad Bench](https://ibclaw.in/samunnati-finance-pvt-ltd-vs-neha-singh-nclt-allahabad-bench/)
+- **Published:** Tue, 13 Oct 2026 12:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajeev Sharma, RP of SEL Textiles Ltd. – NCLT, Chandigarh Bench](https://ibclaw.in/rajeev-sharma-rp-of-sel-textiles-ltd-nclt-chandigarh-bench/)
+- **Published:** Tue, 13 Oct 2026 12:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Krishna Chamadia, RP of Guruanand Silk Mills Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/krishna-chamadia-rp-of-guruanand-silk-mills-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Tue, 13 Oct 2026 12:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 13 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-13-october-2026/)
+- **Published:** Tue, 13 Oct 2026 12:55:59 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chandigarh Directs RP to Reconsider Homebuyers’ ₹54 Lakh Claim](https://ibclaw.in/nclt-chandigarh-directs-rp-to-reconsider-homebuyers-%e2%82%b954-lakh-claim/)
+- **Published:** Tue, 13 Oct 2026 13:00:18 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT: CST Dues Not Secured Debt Under IBC Despite GVAT First Charge](https://ibclaw.in/nclat-cst-dues-not-secured-debt-under-ibc-despite-gvat-first-charge/)
 - **Published:** Mon, 12 Oct 2026 10:35:02 +0000
