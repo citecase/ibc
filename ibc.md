@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-13 14:29:07*
+*Last synced: 2026-10-13 23:01:13*
+
+### [Agrifriend Ventures LLP Vs. Anil Agrawal, Liquidator of STL Exports Ltd. – NCLT, Indore Bench](https://ibclaw.in/agrifriend-ventures-llp-vs-anil-agrawal-liquidator-of-stl-exports-ltd-nclt-indore-bench/)
+- **Published:** Tue, 13 Oct 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Lakshdeep Investments and Finance Pvt. Ltd. Vs. Ritu Rastogi – NCLT, Principal Bench](https://ibclaw.in/lakshdeep-investments-and-finance-pvt-ltd-vs-ritu-rastogi-nclt-principal-bench/)
+- **Published:** Tue, 13 Oct 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dinesh Shetty Vs. VST Tillers Tractors Ltd. and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/dinesh-shetty-vs-vst-tillers-tractors-ltd-and-anr-nclt-bengaluru-bench/)
+- **Published:** Tue, 13 Oct 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [VIA Projects Pvt. Ltd. Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/via-projects-pvt-ltd-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 13 Oct 2026 21:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Gagan Jhavar, Liquidator of Arya Filaments Pvt. Ltd. Vs. Ravi Kapoor and Ors. – NCLT, Indore Bench](https://ibclaw.in/gagan-jhavar-liquidator-of-arya-filaments-pvt-ltd-vs-ravi-kapoor-and-ors-nclt-indore-bench/)
 - **Published:** Tue, 13 Oct 2026 12:31:00 +0000
