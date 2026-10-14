@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-14 12:15:08*
+*Last synced: 2026-10-14 17:29:31*
+
+### [Supreme Court: IBC Appeal Limitation Runs From NCLAT Order Pronouncement](https://ibclaw.in/supreme-court-ibc-appeal-limitation-runs-from-nclat-order-pronouncement/)
+- **Published:** Wed, 14 Oct 2026 14:16:36 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Extension of Term of Justice (Retd.) Shri Yogesh Khanna as Officiating Chairperson, NCLAT](https://ibclaw.in/extension-of-term-of-justice-retd-shri-yogesh-khanna-as-officiating-chairperson-nclat/)
 - **Published:** Wed, 14 Oct 2026 09:44:29 +0000
