@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-14 05:14:29*
+*Last synced: 2026-10-14 12:15:08*
+
+### [Extension of Term of Justice (Retd.) Shri Yogesh Khanna as Officiating Chairperson, NCLAT](https://ibclaw.in/extension-of-term-of-justice-retd-shri-yogesh-khanna-as-officiating-chairperson-nclat/)
+- **Published:** Wed, 14 Oct 2026 09:44:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [10 Important NCLAT Judgments on IBC and Corporate Law – September 2026](https://ibclaw.in/10-important-nclat-judgments-on-ibc-and-corporate-law-september-2026/)
+- **Published:** Wed, 14 Oct 2026 09:50:14 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Bengaluru Rejects Joint Share Division Without Co-Holder’s Consent](https://ibclaw.in/nclt-bengaluru-rejects-joint-share-division-without-co-holders-consent/)
+- **Published:** Wed, 14 Oct 2026 10:35:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 14 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-14-october-2026/)
+- **Published:** Wed, 14 Oct 2026 11:18:31 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Gagan Jhavar Vs. Surendra Kumar Agrawal and Ors. – NCLT, Indore Bench](https://ibclaw.in/gagan-jhavar-vs-surendra-kumar-agrawal-and-ors-nclt-indore-bench/)
 - **Published:** Wed, 14 Oct 2026 00:16:00 +0000
