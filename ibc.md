@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-13 23:01:13*
+*Last synced: 2026-10-14 05:14:29*
+
+### [Gagan Jhavar Vs. Surendra Kumar Agrawal and Ors. – NCLT, Indore Bench](https://ibclaw.in/gagan-jhavar-vs-surendra-kumar-agrawal-and-ors-nclt-indore-bench/)
+- **Published:** Wed, 14 Oct 2026 00:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Calcutta High Court Quashes GST Demand Extinguished Under Approved IBC Plan](https://ibclaw.in/calcutta-high-court-quashes-gst-demand-extinguished-under-approved-ibc-plan/)
+- **Published:** Wed, 14 Oct 2026 02:51:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Agrifriend Ventures LLP Vs. Anil Agrawal, Liquidator of STL Exports Ltd. – NCLT, Indore Bench](https://ibclaw.in/agrifriend-ventures-llp-vs-anil-agrawal-liquidator-of-stl-exports-ltd-nclt-indore-bench/)
 - **Published:** Tue, 13 Oct 2026 21:03:00 +0000
