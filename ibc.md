@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-14 17:29:31*
+*Last synced: 2026-10-14 21:52:56*
+
+### [Rajeev Sharma and Ors. Vs. Gayatri Hospitality and Realcon Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/rajeev-sharma-and-ors-vs-gayatri-hospitality-and-realcon-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 14 Oct 2026 20:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Punjab National Bank Vs. SVOGL Oil Gas and Energy Ltd. – NCLT, Principal Bench](https://ibclaw.in/punjab-national-bank-vs-svogl-oil-gas-and-energy-ltd-nclt-principal-bench/)
+- **Published:** Wed, 14 Oct 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Reena Aggarwal Vs. Logix lnfratech Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/reena-aggarwal-vs-logix-lnfratech-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 14 Oct 2026 21:51:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court: IBC Appeal Limitation Runs From NCLAT Order Pronouncement](https://ibclaw.in/supreme-court-ibc-appeal-limitation-runs-from-nclat-order-pronouncement/)
 - **Published:** Wed, 14 Oct 2026 14:16:36 +0000
