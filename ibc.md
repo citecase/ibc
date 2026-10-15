@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-14 21:52:56*
+*Last synced: 2026-10-15 05:01:24*
+
+### [Ravi Dhiman Vs. Ritu Rastogi (RP) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ravi-dhiman-vs-ritu-rastogi-rp-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 14 Oct 2026 22:45:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sanjit Instruments Pvt. Ltd. and Ors. Vs. Arvind Jagannath Bagul – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/sanjit-instruments-pvt-ltd-and-ors-vs-arvind-jagannath-bagul-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 15 Oct 2026 00:57:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Indore Directs Former RP, Directors to Furnish Liquidation Records](https://ibclaw.in/nclt-indore-directs-former-rp-directors-to-furnish-liquidation-records/)
+- **Published:** Thu, 15 Oct 2026 04:26:19 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Rajeev Sharma and Ors. Vs. Gayatri Hospitality and Realcon Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/rajeev-sharma-and-ors-vs-gayatri-hospitality-and-realcon-ltd-nclt-new-delhi-bench/)
 - **Published:** Wed, 14 Oct 2026 20:43:00 +0000
