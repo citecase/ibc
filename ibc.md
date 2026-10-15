@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-15 11:57:01*
+*Last synced: 2026-10-15 17:16:13*
+
+### [NCLAT Sets Aside Share Buyout Order Without Section 241 Findings](https://ibclaw.in/nclat-sets-aside-share-buyout-order-without-section-241-findings/)
+- **Published:** Thu, 15 Oct 2026 14:50:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Sets Evidentiary Hierarchy for IBC Section 7 Default Proof](https://ibclaw.in/supreme-court-sets-evidentiary-hierarchy-for-ibc-section-7-default-proof/)
+- **Published:** Thu, 15 Oct 2026 15:55:54 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Limitation Period For Appeal U/S 62 IBC Commences On Date NCLAT Pronounces Order: Supreme Court](https://www.verdictum.in/supreme-court/the-assistant-commissioner-of-central-tax-v-sreenivasa-rao-ravinuthala-2026-insc-1121-1624047)
 - **Published:** Thu, 15 Oct 2026 11:00:43 GMT
