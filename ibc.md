@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-15 17:16:13*
+*Last synced: 2026-10-15 21:39:04*
+
+### [Vivek Khanna and Ors. Vs. Gaurav Katiyar, IRP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/vivek-khanna-and-ors-vs-gaurav-katiyar-irp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 15 Oct 2026 20:41:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kannan Tiruvengadam (IP) Vs. Insolvency and Bankruptcy Board of India and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/kannan-tiruvengadam-ip-vs-insolvency-and-bankruptcy-board-of-india-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 15 Oct 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ravi Kapoor, RP of SRK Devbuild Pvt. Ltd. Vs. Subhash Agrawal and Anr. – NCLT, Indore Bench](https://ibclaw.in/ravi-kapoor-rp-of-srk-devbuild-pvt-ltd-vs-subhash-agrawal-and-anr-nclt-indore-bench/)
+- **Published:** Thu, 15 Oct 2026 21:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Arun Gupta and Ors. Vs. Yogendra Pal Jain and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/arun-gupta-and-ors-vs-yogendra-pal-jain-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 15 Oct 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Sets Aside Share Buyout Order Without Section 241 Findings](https://ibclaw.in/nclat-sets-aside-share-buyout-order-without-section-241-findings/)
 - **Published:** Thu, 15 Oct 2026 14:50:02 +0000
