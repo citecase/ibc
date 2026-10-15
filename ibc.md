@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-15 05:01:24*
+*Last synced: 2026-10-15 11:57:01*
+
+### [Limitation Period For Appeal U/S 62 IBC Commences On Date NCLAT Pronounces Order: Supreme Court](https://www.verdictum.in/supreme-court/the-assistant-commissioner-of-central-tax-v-sreenivasa-rao-ravinuthala-2026-insc-1121-1624047)
+- **Published:** Thu, 15 Oct 2026 11:00:43 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Dealing With EPFO Claims After Initiation of The CIRP – By Adv.  Shivpartap Singh Thakur](https://ibclaw.in/dealing-with-epfo-claims-after-initiation-of-the-cirp-by-adv-shivpartap-singh-thakur/)
+- **Published:** Thu, 15 Oct 2026 05:06:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Group Insolvency and Cross-Border Challenges: Evaluating India’s Draft Part ZA Framework against International Standards – By Adv. Nishi Yadav](https://ibclaw.in/group-insolvency-and-cross-border-challenges-evaluating-indias-draft-part-za-framework-against-international-standards-by-adv-nishi-yadav/)
+- **Published:** Thu, 15 Oct 2026 05:08:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 15 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-15-october-2026/)
+- **Published:** Thu, 15 Oct 2026 11:26:20 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ravi Dhiman Vs. Ritu Rastogi (RP) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ravi-dhiman-vs-ritu-rastogi-rp-nclat-principal-bench-new-delhi/)
 - **Published:** Wed, 14 Oct 2026 22:45:00 +0000
