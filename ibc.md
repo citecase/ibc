@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-16 04:51:13*
+*Last synced: 2026-10-16 16:51:58*
+
+### [IBC Laws Today | Daily Case Laws Updates | 16 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-16-october-2026/)
+- **Published:** Fri, 16 Oct 2026 11:59:09 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Admits Gayatri Hospitality into CIRP Over Homebuyer Possession Defaults](https://ibclaw.in/nclt-admits-gayatri-hospitality-into-cirp-over-homebuyer-possession-defaults/)
 - **Published:** Fri, 16 Oct 2026 03:51:02 +0000
