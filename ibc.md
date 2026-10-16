@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-15 21:39:04*
+*Last synced: 2026-10-16 04:51:13*
+
+### [NCLT Admits Gayatri Hospitality into CIRP Over Homebuyer Possession Defaults](https://ibclaw.in/nclt-admits-gayatri-hospitality-into-cirp-over-homebuyer-possession-defaults/)
+- **Published:** Fri, 16 Oct 2026 03:51:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Dismisses Appeal Seeking Licence Dues as CIRP Costs](https://ibclaw.in/nclat-dismisses-appeal-seeking-licence-dues-as-cirp-costs/)
+- **Published:** Fri, 16 Oct 2026 03:57:19 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amba Grains Pvt. Ltd. and Ors. Vs. Amit Agrawal, RP of Mastana Foods Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/amba-grains-pvt-ltd-and-ors-vs-amit-agrawal-rp-of-mastana-foods-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 16 Oct 2026 04:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Mastana Foods Resolution Plan, Dismisses Challenges to E-Bidding Process](https://ibclaw.in/nclat-upholds-mastana-foods-resolution-plan-dismisses-challenges-to-e-bidding-process/)
+- **Published:** Fri, 16 Oct 2026 04:42:29 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vivek Khanna and Ors. Vs. Gaurav Katiyar, IRP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/vivek-khanna-and-ors-vs-gaurav-katiyar-irp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Thu, 15 Oct 2026 20:41:00 +0000
