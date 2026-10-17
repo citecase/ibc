@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-16 16:51:58*
+*Last synced: 2026-10-17 11:03:54*
+
+### [Section 7 IBC Requires Proof Of Default On Preponderance Of Probabilities, Not Forensic Reconciliation Of Accounts: Supreme Court](https://www.verdictum.in/supreme-court/deepak-raheja-and-another-v-omkara-assets-reconstruction-private-limited-and-another-s-62-1624171)
+- **Published:** Sat, 17 Oct 2026 06:30:25 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 12 October to 17 October, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-12-october-to-17-october-2026/)
+- **Published:** Sat, 17 Oct 2026 05:35:06 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 16 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-16-october-2026/)
 - **Published:** Fri, 16 Oct 2026 11:59:09 +0000
