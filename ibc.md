@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-17 11:03:54*
+*Last synced: 2026-10-17 15:49:57*
+
+### [An Independent Commission Without A Mandate? The Constitutional Questions Behind The SIR Inquiry](https://www.verdictum.in/columns/lawyers-association-for-constitution-lafc-justice-madan-b-lokur-1624207)
+- **Published:** Sat, 17 Oct 2026 14:30:38 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Section 7 IBC Requires Proof Of Default On Preponderance Of Probabilities, Not Forensic Reconciliation Of Accounts: Supreme Court](https://www.verdictum.in/supreme-court/deepak-raheja-and-another-v-omkara-assets-reconstruction-private-limited-and-another-s-62-1624171)
 - **Published:** Sat, 17 Oct 2026 06:30:25 GMT
