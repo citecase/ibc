@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-17 15:49:57*
+*Last synced: 2026-10-18 20:57:31*
+
+### [Edelweiss Asset Reconstruction Company Ltd. Vs. Chetana Ambarish Shah and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/edelweiss-asset-reconstruction-company-ltd-vs-chetana-ambarish-shah-and-anr-nclt-mumbai-bench/)
+- **Published:** Sun, 18 Oct 2026 20:31:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [HPM Innotech Pvt. Ltd. Vs. G.P.H.P. Holdings Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/hpm-innotech-pvt-ltd-vs-g-p-h-p-holdings-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Sun, 18 Oct 2026 20:39:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [An Independent Commission Without A Mandate? The Constitutional Questions Behind The SIR Inquiry](https://www.verdictum.in/columns/lawyers-association-for-constitution-lafc-justice-madan-b-lokur-1624207)
 - **Published:** Sat, 17 Oct 2026 14:30:38 GMT
