@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-19 13:49:08*
+*Last synced: 2026-10-19 22:33:56*
+
+### [G. S. Rajesh Vs. Mars Consortium Infra Pvt. Ltd. and Anr. – NCLT, Chennai Bench](https://ibclaw.in/g-s-rajesh-vs-mars-consortium-infra-pvt-ltd-and-anr-nclt-chennai-bench/)
+- **Published:** Mon, 19 Oct 2026 21:02:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Unity Small Finance Bank Ltd. Vs. Sarang Rakesh Wadhawan – NCLT, Mumbai Bench](https://ibclaw.in/unity-small-finance-bank-ltd-vs-sarang-rakesh-wadhawan-nclt-mumbai-bench/)
+- **Published:** Mon, 19 Oct 2026 21:14:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajendra Jain (RP) Vs. Shahnaz Farhan Shaikh and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/rajendra-jain-rp-vs-shahnaz-farhan-shaikh-and-ors-nclt-mumbai-bench/)
+- **Published:** Mon, 19 Oct 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Weekly Overview| Supreme Court Judgments: October 12– October 16, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302)
 - **Published:** Mon, 19 Oct 2026 13:10:57 GMT
