@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-19 05:06:56*
+*Last synced: 2026-10-19 13:49:08*
+
+### [Weekly Overview| Supreme Court Judgments: October 12– October 16, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-12-october-16-2026-1624302)
+- **Published:** Mon, 19 Oct 2026 13:10:57 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Gujarat High Court Quashes Section 148 Reassessment After IBC Plan’s Effective Date](https://ibclaw.in/gujarat-high-court-quashes-section-148-reassessment-after-ibc-plans-effective-date/)
+- **Published:** Mon, 19 Oct 2026 06:05:26 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Turns 10: A Decade of Resolution | Celebrating 10 Years of IBC | Saturday, 24 October 2026 |Chandigarh Judicial Academy](https://ibclaw.in/ibc-turns-10-a-decade-of-resolution-celebrating-10-years-of-ibc-saturday-24-october-2026-chandigarh-judicial-academy/)
+- **Published:** Mon, 19 Oct 2026 07:23:22 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Patna High Court Sets Aside Commercial Decree Over Liquidation Leave Requirement](https://ibclaw.in/patna-high-court-sets-aside-commercial-decree-over-liquidation-leave-requirement/)
+- **Published:** Mon, 19 Oct 2026 07:50:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 19 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-19-october-2026/)
+- **Published:** Mon, 19 Oct 2026 11:54:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Orders Directors to Restore Rs 5.91 Crore Under IBC Section 66](https://ibclaw.in/nclt-mumbai-orders-directors-to-restore-rs-5-91-crore-under-ibc-section-66/)
+- **Published:** Mon, 19 Oct 2026 12:10:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chennai: Section 95 IBC Proceedings Abate on Personal Guarantor’s Death](https://ibclaw.in/nclt-chennai-section-95-ibc-proceedings-abate-on-personal-guarantors-death/)
+- **Published:** Mon, 19 Oct 2026 12:40:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Israel Discount Bank Ltd. Vs. Hella Infra Market Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/israel-discount-bank-ltd-vs-hella-infra-market-ltd-nclt-mumbai-bench/)
 - **Published:** Sun, 18 Oct 2026 21:27:00 +0000
