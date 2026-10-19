@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-18 20:57:31*
+*Last synced: 2026-10-19 05:06:56*
+
+### [Israel Discount Bank Ltd. Vs. Hella Infra Market Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/israel-discount-bank-ltd-vs-hella-infra-market-ltd-nclt-mumbai-bench/)
+- **Published:** Sun, 18 Oct 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [MMR Townships Pvt. Ltd. Vs. Pine Probuild Pvt. Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/mmr-townships-pvt-ltd-vs-pine-probuild-pvt-ltd-and-ors-nclt-new-delhi-bench/)
+- **Published:** Sun, 18 Oct 2026 22:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajeev Kumar Gupta Vs. Attitude Life Science Products Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/rajeev-kumar-gupta-vs-attitude-life-science-products-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Sun, 18 Oct 2026 23:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vivek Khanna and Ors. Vs. Gaurav Katiyar, IRP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/vivek-khanna-and-ors-vs-gaurav-katiyar-irp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench-2/)
+- **Published:** Sun, 18 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Edelweiss Asset Reconstruction Company Ltd. Vs. Chetana Ambarish Shah and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/edelweiss-asset-reconstruction-company-ltd-vs-chetana-ambarish-shah-and-anr-nclt-mumbai-bench/)
 - **Published:** Sun, 18 Oct 2026 20:31:00 +0000
