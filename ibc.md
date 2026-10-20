@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-20 17:26:02*
+*Last synced: 2026-10-20 21:47:49*
+
+### [Union of India Vs. Mary Matha Popular Nidhi Ltd. – NCLT, Kochi Bench](https://ibclaw.in/union-of-india-vs-mary-matha-popular-nidhi-ltd-nclt-kochi-bench/)
+- **Published:** Tue, 20 Oct 2026 20:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ashish Vashist Vs. S Kangayan – NCLT, Chennai Bench](https://ibclaw.in/ashish-vashist-vs-s-kangayan-nclt-chennai-bench/)
+- **Published:** Tue, 20 Oct 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Assets Care & Reconstruction Enterprise Ltd. Vs. Wizard E-Marketing Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/assets-care-reconstruction-enterprise-ltd-vs-wizard-e-marketing-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Tue, 20 Oct 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 20 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-20-october-2026/)
 - **Published:** Tue, 20 Oct 2026 12:00:22 +0000
