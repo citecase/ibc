@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-20 11:57:41*
+*Last synced: 2026-10-20 17:26:02*
+
+### [IBC Laws Today | Daily Case Laws Updates | 20 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-20-october-2026/)
+- **Published:** Tue, 20 Oct 2026 12:00:22 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Sets Aside Post-CIRP Sale of Corporate Debtor’s Flats](https://ibclaw.in/nclt-mumbai-sets-aside-post-cirp-sale-of-corporate-debtors-flats/)
+- **Published:** Tue, 20 Oct 2026 12:10:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Delhi: Conveyance Deed Ends Homebuyer’s HRERA Claim Under Resolution Plan](https://ibclaw.in/nclt-delhi-conveyance-deed-ends-homebuyers-hrera-claim-under-resolution-plan/)
 - **Published:** Tue, 20 Oct 2026 10:35:02 +0000
