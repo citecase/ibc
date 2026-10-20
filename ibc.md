@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-20 05:08:37*
+*Last synced: 2026-10-20 11:57:41*
+
+### [NCLT Delhi: Conveyance Deed Ends Homebuyer’s HRERA Claim Under Resolution Plan](https://ibclaw.in/nclt-delhi-conveyance-deed-ends-homebuyers-hrera-claim-under-resolution-plan/)
+- **Published:** Tue, 20 Oct 2026 10:35:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Pankaj Gupta and Anr. Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/pankaj-gupta-and-anr-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
 - **Published:** Mon, 19 Oct 2026 23:28:00 +0000
