@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-19 22:33:56*
+*Last synced: 2026-10-20 05:08:37*
+
+### [Pankaj Gupta and Anr. Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/pankaj-gupta-and-anr-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Mon, 19 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [G. S. Rajesh Vs. Mars Consortium Infra Pvt. Ltd. and Anr. – NCLT, Chennai Bench](https://ibclaw.in/g-s-rajesh-vs-mars-consortium-infra-pvt-ltd-and-anr-nclt-chennai-bench/)
 - **Published:** Mon, 19 Oct 2026 21:02:00 +0000
