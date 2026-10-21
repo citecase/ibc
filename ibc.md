@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-21 05:10:01*
+*Last synced: 2026-10-21 12:13:05*
+
+### [NCLT Mumbai Orders Forensic Audit of Narangs International Hotels’ Accounts](https://ibclaw.in/nclt-mumbai-orders-forensic-audit-of-narangs-international-hotels-accounts/)
+- **Published:** Wed, 21 Oct 2026 06:21:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Consortium of AKB Ventures LLP and Anr. Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/consortium-of-akb-ventures-llp-and-anr-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-and-ors-nclt-new-delhi-bench-2/)
 - **Published:** Tue, 20 Oct 2026 23:28:00 +0000
