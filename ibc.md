@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-20 21:47:49*
+*Last synced: 2026-10-21 05:10:01*
+
+### [Consortium of AKB Ventures LLP and Anr. Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/consortium-of-akb-ventures-llp-and-anr-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-and-ors-nclt-new-delhi-bench-2/)
+- **Published:** Tue, 20 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mukesh Kakar Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/mukesh-kakar-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Tue, 20 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gauhati High Court Quashes Post-Resolution Income Tax Demands Under IBC Section 31](https://ibclaw.in/gauhati-high-court-quashes-post-resolution-income-tax-demands-under-ibc-section-31/)
+- **Published:** Wed, 21 Oct 2026 03:51:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Union of India Vs. Mary Matha Popular Nidhi Ltd. – NCLT, Kochi Bench](https://ibclaw.in/union-of-india-vs-mary-matha-popular-nidhi-ltd-nclt-kochi-bench/)
 - **Published:** Tue, 20 Oct 2026 20:33:00 +0000
