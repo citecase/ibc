@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-21 17:34:07*
+*Last synced: 2026-10-21 21:54:14*
+
+### [Sujata Chattopadhyay, Liquidator of Atlantic Spinning and Weaving Mills Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/sujata-chattopadhyay-liquidator-of-atlantic-spinning-and-weaving-mills-ltd-nclt-hyderabad-bench/)
+- **Published:** Wed, 21 Oct 2026 20:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [D-VoiS SSV Broadband Pvt. Ltd. Vs. Airlink Communications Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/d-vois-ssv-broadband-pvt-ltd-vs-airlink-communications-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Wed, 21 Oct 2026 20:34:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 21 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-21-october-2026/)
 - **Published:** Wed, 21 Oct 2026 13:56:46 +0000
