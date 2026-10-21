@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-21 12:13:05*
+*Last synced: 2026-10-21 17:34:07*
+
+### [IBC Laws Today | Daily Case Laws Updates | 21 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-21-october-2026/)
+- **Published:** Wed, 21 Oct 2026 13:56:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [ICICI Bank Ltd. Vs. Securities and Exchange Board of India (SEBI) – Securities Appellate Tribunal (SAT)](https://ibclaw.in/icici-bank-ltd-vs-securities-and-exchange-board-of-india-sebi-securities-appellate-tribunal-sat/)
+- **Published:** Wed, 21 Oct 2026 16:49:14 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Calcom Vision Ltd. Vs. BSE Ltd. – Securities Appellate Tribunal (SAT)](https://ibclaw.in/calcom-vision-ltd-vs-bse-ltd-securities-appellate-tribunal-sat/)
+- **Published:** Wed, 21 Oct 2026 16:49:27 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mauria Udyog Ltd. Vs. Securities and Exchange Board of India (SEBI) – Securities Appellate Tribunal (SAT)](https://ibclaw.in/mauria-udyog-ltd-vs-securities-and-exchange-board-of-india-sebi-securities-appellate-tribunal-sat/)
+- **Published:** Wed, 21 Oct 2026 16:49:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Arun Panchariya Vs. Securities and Exchange Board of India (SEBI) – Securities Appellate Tribunal (SAT)](https://ibclaw.in/arun-panchariya-vs-securities-and-exchange-board-of-india-sebi-securities-appellate-tribunal-sat/)
+- **Published:** Wed, 21 Oct 2026 16:49:56 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Orders Forensic Audit of Narangs International Hotels’ Accounts](https://ibclaw.in/nclt-mumbai-orders-forensic-audit-of-narangs-international-hotels-accounts/)
 - **Published:** Wed, 21 Oct 2026 06:21:02 +0000
