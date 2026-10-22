@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-22 05:14:11*
+*Last synced: 2026-10-22 12:15:36*
+
+### [NCLT Allows HRERA-Awarded DPC Set-Off, Rejects Reopening of Builder Charges](https://ibclaw.in/nclt-allows-hrera-awarded-dpc-set-off-rejects-reopening-of-builder-charges/)
+- **Published:** Thu, 22 Oct 2026 07:51:01 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bombay High Court Allows Employees to Withdraw Pre-CIRP Labour Award Deposits](https://ibclaw.in/bombay-high-court-allows-employees-to-withdraw-pre-cirp-labour-award-deposits/)
+- **Published:** Thu, 22 Oct 2026 10:35:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 22 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-22-october-2026/)
+- **Published:** Thu, 22 Oct 2026 11:23:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Admits Birla Jewels into CIRP Over ₹49.82 Lakh Operational Debt](https://ibclaw.in/nclt-mumbai-admits-birla-jewels-into-cirp-over-%e2%82%b949-82-lakh-operational-debt/)
+- **Published:** Thu, 22 Oct 2026 12:11:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Rajpal Walia Vs. Anurag Nirbhaya, RP of Pushpanjali Realms and Infratech Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/rajpal-walia-vs-anurag-nirbhaya-rp-of-pushpanjali-realms-and-infratech-ltd-nclt-allahabad-bench/)
 - **Published:** Wed, 21 Oct 2026 23:28:00 +0000
