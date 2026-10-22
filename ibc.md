@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-22 12:15:36*
+*Last synced: 2026-10-22 21:51:06*
+
+### [Union of India Vs. SAAN Popular Finance Pvt. Ltd. – NCLT, Kochi Bench](https://ibclaw.in/union-of-india-vs-saan-popular-finance-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Thu, 22 Oct 2026 20:34:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Allows HRERA-Awarded DPC Set-Off, Rejects Reopening of Builder Charges](https://ibclaw.in/nclt-allows-hrera-awarded-dpc-set-off-rejects-reopening-of-builder-charges/)
 - **Published:** Thu, 22 Oct 2026 07:51:01 +0000
