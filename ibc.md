@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-21 21:54:14*
+*Last synced: 2026-10-22 05:14:11*
+
+### [Rajpal Walia Vs. Anurag Nirbhaya, RP of Pushpanjali Realms and Infratech Ltd. – NCLT, Allahabad Bench](https://ibclaw.in/rajpal-walia-vs-anurag-nirbhaya-rp-of-pushpanjali-realms-and-infratech-ltd-nclt-allahabad-bench/)
+- **Published:** Wed, 21 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Vibha Narula Gupta. and Ors. Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/vibha-narula-gupta-and-ors-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Wed, 21 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shyam Steel Industries Ltd. Vs. Union of India and Ors. – Calcutta High Court](https://ibclaw.in/shyam-steel-industries-ltd-vs-union-of-india-and-ors-calcutta-high-court/)
+- **Published:** Wed, 21 Oct 2026 23:32:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Sujata Chattopadhyay, Liquidator of Atlantic Spinning and Weaving Mills Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/sujata-chattopadhyay-liquidator-of-atlantic-spinning-and-weaving-mills-ltd-nclt-hyderabad-bench/)
 - **Published:** Wed, 21 Oct 2026 20:19:00 +0000
