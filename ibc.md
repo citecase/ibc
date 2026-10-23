@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-22 21:51:06*
+*Last synced: 2026-10-23 05:12:49*
+
+### [Catalyst Refinery Services Pvt. Ltd. Vs. Ganpati Global Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/catalyst-refinery-services-pvt-ltd-vs-ganpati-global-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 22 Oct 2026 22:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajesh Harikishan Khandelwal Vs. Jay Ambe Industries and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/rajesh-harikishan-khandelwal-vs-jay-ambe-industries-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 22 Oct 2026 22:40:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Deepak Kumar Goyal Vs. Insolvency and Bankruptcy Board of India – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/deepak-kumar-goyal-vs-insolvency-and-bankruptcy-board-of-india-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 22 Oct 2026 22:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dr. Sudip Saran Vs. Narendra Kumar Sharma, RP of Spaze Towers Pvt. Ltd. and Anr. – NCLT, New Delhi Bench](https://ibclaw.in/dr-sudip-saran-vs-narendra-kumar-sharma-rp-of-spaze-towers-pvt-ltd-and-anr-nclt-new-delhi-bench/)
+- **Published:** Thu, 22 Oct 2026 23:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Failed Share Purchase Payment Is Not Financial Debt Under IBC](https://ibclaw.in/nclat-failed-share-purchase-payment-is-not-financial-debt-under-ibc/)
+- **Published:** Fri, 23 Oct 2026 05:03:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Union of India Vs. SAAN Popular Finance Pvt. Ltd. – NCLT, Kochi Bench](https://ibclaw.in/union-of-india-vs-saan-popular-finance-pvt-ltd-nclt-kochi-bench/)
 - **Published:** Thu, 22 Oct 2026 20:34:00 +0000
