@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-23 17:21:55*
+*Last synced: 2026-10-23 21:34:32*
+
+### [IBBI Circular on Misuse of IBC Framework and the Supreme Court Ruling – By Adv. (CA). Nipun Singhvi & Adv. Rahul Bhavsar](https://ibclaw.in/ibbi-circular-on-misuse-of-ibc-framework-and-the-supreme-court-ruling-by-adv-ca-nipun-singhvi-adv-rahul-bhavsar/)
+- **Published:** Fri, 23 Oct 2026 17:46:40 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Rejects Homebuyer’s Plea to Replace RP and Authorised Representative](https://ibclaw.in/nclt-rejects-homebuyers-plea-to-replace-rp-and-authorised-representative/)
 - **Published:** Fri, 23 Oct 2026 12:11:03 +0000
