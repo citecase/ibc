@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-23 05:12:49*
+*Last synced: 2026-10-23 11:57:05*
+
+### [NCLAT Remands IBBI Cancellation Penalty Against Insolvency Professional for Reconsideration](https://ibclaw.in/nclat-remands-ibbi-cancellation-penalty-against-insolvency-professional-for-reconsideration/)
+- **Published:** Fri, 23 Oct 2026 06:21:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Catalyst Refinery Services Pvt. Ltd. Vs. Ganpati Global Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/catalyst-refinery-services-pvt-ltd-vs-ganpati-global-pvt-ltd-nclat-principal-bench-new-delhi/)
 - **Published:** Thu, 22 Oct 2026 22:20:00 +0000
