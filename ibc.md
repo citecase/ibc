@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-23 11:57:05*
+*Last synced: 2026-10-23 17:21:55*
+
+### [NCLT Rejects Homebuyer’s Plea to Replace RP and Authorised Representative](https://ibclaw.in/nclt-rejects-homebuyers-plea-to-replace-rp-and-authorised-representative/)
+- **Published:** Fri, 23 Oct 2026 12:11:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 23 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-23-october-2026/)
+- **Published:** Fri, 23 Oct 2026 12:19:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Remands IBBI Cancellation Penalty Against Insolvency Professional for Reconsideration](https://ibclaw.in/nclat-remands-ibbi-cancellation-penalty-against-insolvency-professional-for-reconsideration/)
 - **Published:** Fri, 23 Oct 2026 06:21:03 +0000
