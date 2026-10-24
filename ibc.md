@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-23 21:34:32*
+*Last synced: 2026-10-24 11:26:44*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 19 October to 24 October, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-19-october-to-24-october-2026/)
+- **Published:** Sat, 24 Oct 2026 05:25:18 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [RERA Bulletin – Weekly Case Laws Digest: 19 October to 24 October, 2026](https://ibclaw.in/rera-bulletin-weekly-case-laws-digest-19-october-to-24-october-2026/)
+- **Published:** Sat, 24 Oct 2026 05:41:45 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBBI Circular on Misuse of IBC Framework and the Supreme Court Ruling – By Adv. (CA). Nipun Singhvi & Adv. Rahul Bhavsar](https://ibclaw.in/ibbi-circular-on-misuse-of-ibc-framework-and-the-supreme-court-ruling-by-adv-ca-nipun-singhvi-adv-rahul-bhavsar/)
 - **Published:** Fri, 23 Oct 2026 17:46:40 +0000
