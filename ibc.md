@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-24 11:26:44*
+*Last synced: 2026-10-26 13:27:22*
+
+### [IBC Laws Today | Daily Case Laws Updates | 26 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-26-october-2026/)
+- **Published:** Mon, 26 Oct 2026 11:37:58 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court: CoC Cannot Withdraw Approved Resolution Plan Before NCLT Approval](https://ibclaw.in/supreme-court-coc-cannot-withdraw-approved-resolution-plan-before-nclt-approval/)
+- **Published:** Mon, 26 Oct 2026 13:02:50 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 19 October to 24 October, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-19-october-to-24-october-2026/)
 - **Published:** Sat, 24 Oct 2026 05:25:18 +0000
