@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-26 13:27:22*
+*Last synced: 2026-10-26 22:49:33*
+
+### [K.L. Support Pvt. Ltd. Vs. Barasat Real Estate Projects Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/k-l-support-pvt-ltd-vs-barasat-real-estate-projects-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 26 Oct 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sumit Binani (Liquidator) Vs. Assessment Unit, Income Tax Department and Ors. – NCLT, Kolkata Bench](https://ibclaw.in/sumit-binani-liquidator-vs-assessment-unit-income-tax-department-and-ors-nclt-kolkata-bench/)
+- **Published:** Mon, 26 Oct 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Daaksh Jute LLP Vs. Karnataka Food and Civil Supplies Corporation Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/daaksh-jute-llp-vs-karnataka-food-and-civil-supplies-corporation-ltd-nclt-bengaluru-bench/)
+- **Published:** Mon, 26 Oct 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [SREI Equipmenty Finance Ltd. Vs. Samsara Energy Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/srei-equipmenty-finance-ltd-vs-samsara-energy-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 26 Oct 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Recondo Ltd. Vs. Abhay Narayan Manudhane, RP of Housing Development and Infrastructure Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/recondo-ltd-vs-abhay-narayan-manudhane-rp-of-housing-development-and-infrastructure-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 26 Oct 2026 21:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [BLA Infrastructure Pvt. Ltd. Vs. Neeraj Jain, RP of Pallishree Ltd. and Anr. – NCLT, Kolkata Bench](https://ibclaw.in/bla-infrastructure-pvt-ltd-vs-neeraj-jain-rp-of-pallishree-ltd-and-anr-nclt-kolkata-bench/)
+- **Published:** Mon, 26 Oct 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rohit Garg Vs. Bridge & Roof Company (India) Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/rohit-garg-vs-bridge-roof-company-india-ltd-nclt-kolkata-bench/)
+- **Published:** Mon, 26 Oct 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Laws Today | Daily Case Laws Updates | 26 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-26-october-2026/)
 - **Published:** Mon, 26 Oct 2026 11:37:58 +0000
