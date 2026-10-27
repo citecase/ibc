@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-27 12:34:49*
+*Last synced: 2026-10-27 22:31:30*
+
+### [NCLT Kolkata Says Pending Section 66 Plea Does Not Bar CIRP](https://ibclaw.in/nclt-kolkata-says-pending-section-66-plea-does-not-bar-cirp/)
+- **Published:** Tue, 27 Oct 2026 12:41:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Poonam Anoop Wadhera Vs. Canara Bank – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/poonam-anoop-wadhera-vs-canara-bank-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 27 Oct 2026 13:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nualco Pvt. Ltd. Vs. K. Murali Krishna Prasad, RP of Raine Industries and Engineering Pvt. Ltd. and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/nualco-pvt-ltd-vs-k-murali-krishna-prasad-rp-of-raine-industries-and-engineering-pvt-ltd-and-ors-nclat-chennai-bench/)
+- **Published:** Tue, 27 Oct 2026 13:16:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Upholds ECL Finance’s CoC Exclusion as Related Party](https://ibclaw.in/supreme-court-upholds-ecl-finances-coc-exclusion-as-related-party/)
+- **Published:** Tue, 27 Oct 2026 13:43:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Bengaluru Admits Karnataka Food Corporation to CIRP Under Section 9 IBC](https://ibclaw.in/nclt-bengaluru-admits-karnataka-food-corporation-to-cirp-under-section-9-ibc/)
+- **Published:** Tue, 27 Oct 2026 13:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Orders Related Parties to Refund ₹2.85 Crore Under IBC Section 43](https://ibclaw.in/nclt-mumbai-orders-related-parties-to-refund-%e2%82%b92-85-crore-under-ibc-section-43/)
+- **Published:** Tue, 27 Oct 2026 14:51:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT should not become a dumping ground for retired bureaucrats: UK Chaudhary](https://www.barandbench.com/interviews/nclt-should-not-become-a-dumping-ground-for-retired-bureaucrats-uk-chaudhary)
 - **Published:** Mon, 26 Oct 2026 21:28:14 +0530
