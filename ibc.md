@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-26 22:49:33*
+*Last synced: 2026-10-27 05:25:42*
+
+### [CoC can't withdraw approved insolvency resolution plan citing debtor's improved financial position: Supreme Court](https://www.barandbench.com/news/litigation/coc-cant-withdraw-approved-insolvency-resolution-plan-citing-debtors-improved-financial-position-supreme-court)
+- **Published:** Tue, 27 Oct 2026 09:41:37 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [K.L. Support Pvt. Ltd. Vs. Barasat Real Estate Projects Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/k-l-support-pvt-ltd-vs-barasat-real-estate-projects-pvt-ltd-nclt-kolkata-bench/)
 - **Published:** Mon, 26 Oct 2026 20:48:00 +0000
