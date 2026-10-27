@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-27 05:25:42*
+*Last synced: 2026-10-27 12:34:49*
+
+### [NCLT should not become a dumping ground for retired bureaucrats: UK Chaudhary](https://www.barandbench.com/interviews/nclt-should-not-become-a-dumping-ground-for-retired-bureaucrats-uk-chaudhary)
+- **Published:** Mon, 26 Oct 2026 21:28:14 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT Kolkata Quashes I-T Penalty Notices Against Company in Liquidation](https://ibclaw.in/nclt-kolkata-quashes-i-t-penalty-notices-against-company-in-liquidation/)
+- **Published:** Tue, 27 Oct 2026 10:35:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 27 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-27-october-2026/)
+- **Published:** Tue, 27 Oct 2026 11:36:43 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [CoC can't withdraw approved insolvency resolution plan citing debtor's improved financial position: Supreme Court](https://www.barandbench.com/news/litigation/coc-cant-withdraw-approved-insolvency-resolution-plan-citing-debtors-improved-financial-position-supreme-court)
 - **Published:** Tue, 27 Oct 2026 09:41:37 +0530
