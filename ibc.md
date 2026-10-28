@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-28 06:06:07*
+*Last synced: 2026-10-28 13:23:24*
+
+### [Financial Creditor’s Role In Navigating Corporate Debtor’s Policy Suffices For Related-Party Status, Barring CoC Participation Under IBC: Supreme Court](https://www.verdictum.in/supreme-court/ecl-finance-limited-and-another-v-abhinav-mukherjee-and-others-2026-insc-1159-1624720)
+- **Published:** Wed, 28 Oct 2026 09:00:09 GMT
+- **Source:** https://verdictum.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 28 October 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-28-october-2026/)
+- **Published:** Wed, 28 Oct 2026 12:17:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Vasu Buildcon Vs. Kashi Viswanathan Sivaraman, RP of IVR Prime IT SEZ Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vasu-buildcon-vs-kashi-viswanathan-sivaraman-rp-of-ivr-prime-it-sez-pvt-ltd-nclat-principal-bench-new-delhi/)
 - **Published:** Tue, 27 Oct 2026 23:24:00 +0000
