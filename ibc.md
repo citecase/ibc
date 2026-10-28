@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-27 22:31:30*
+*Last synced: 2026-10-28 06:06:07*
+
+### [Vasu Buildcon Vs. Kashi Viswanathan Sivaraman, RP of IVR Prime IT SEZ Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vasu-buildcon-vs-kashi-viswanathan-sivaraman-rp-of-ivr-prime-it-sez-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 27 Oct 2026 23:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Fresh Form G After Revised IBC Plan Fails Vote](https://ibclaw.in/nclat-upholds-fresh-form-g-after-revised-ibc-plan-fails-vote/)
+- **Published:** Wed, 28 Oct 2026 04:58:12 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Kolkata Says Pending Section 66 Plea Does Not Bar CIRP](https://ibclaw.in/nclt-kolkata-says-pending-section-66-plea-does-not-bar-cirp/)
 - **Published:** Tue, 27 Oct 2026 12:41:03 +0000
