@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-28 13:23:24*
+*Last synced: 2026-10-29 13:32:32*
+
+### [Byju's insolvency: Drama in Kerala High Court after judge flags out-of-turn listing; bench split on stay order](https://www.barandbench.com/news/byjus-insolvency-drama-in-kerala-high-court-after-judge-flags-out-of-turn-listing-bench-split-on-stay-order)
+- **Published:** Thu, 29 Oct 2026 15:44:30 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Tribunal Hijacked By MCA: Apex Court Says Autonomy Of Tribunal Is Impinged & Seeks Proposal From NCLAT & NCLT On Infrastructure Deficiencies](https://www.verdictum.in/supreme-court/says-autonomy-tribunal-impinged-proposal-from-nclat-nclt-infrastructure-deficiencies-1624750)
+- **Published:** Thu, 29 Oct 2026 07:10:05 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Party Participating Before Sole Arbitrator Without Objection Waives Right To Insist On Three-Member Tribunal Under Agreement: Supreme Court](https://www.verdictum.in/supreme-court/south-bihar-power-distribution-company-ltd-v-india-power-corporation-ltd-2026-insc-1165-s-29a-lies-with-court-us-21e-1624757)
+- **Published:** Thu, 29 Oct 2026 11:00:50 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Financial Creditor’s Role In Navigating Corporate Debtor’s Policy Suffices For Related-Party Status, Barring CoC Participation Under IBC: Supreme Court](https://www.verdictum.in/supreme-court/ecl-finance-limited-and-another-v-abhinav-mukherjee-and-others-2026-insc-1159-1624720)
 - **Published:** Wed, 28 Oct 2026 09:00:09 GMT
