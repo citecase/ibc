@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-29 13:32:32*
+*Last synced: 2026-10-29 22:54:57*
+
+### [Webinar on 10 Important IBC Judgments: Friday, 30 October 2026 | 04:00 PM](https://ibclaw.in/webinar-on-10-important-ibc-judgments-friday-30-october-2026-040-pm/)
+- **Published:** Thu, 29 Oct 2026 14:29:46 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Byju's insolvency: Drama in Kerala High Court after judge flags out-of-turn listing; bench split on stay order](https://www.barandbench.com/news/byjus-insolvency-drama-in-kerala-high-court-after-judge-flags-out-of-turn-listing-bench-split-on-stay-order)
 - **Published:** Thu, 29 Oct 2026 15:44:30 +0530
