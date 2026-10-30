@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-30 06:17:08*
+*Last synced: 2026-10-30 13:22:49*
+
+### [Superstar lawyers who charge hefty fees can't monopolise court time: NCLAT](https://www.barandbench.com/news/litigation/superstar-lawyers-who-charge-hefty-fees-cant-monopolise-court-time-nclat)
+- **Published:** Thu, 29 Oct 2026 11:49:05 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLT administration completely hijacked by Ministry of Corporate Affairs: Supreme Court](https://www.barandbench.com/news/litigation/nclt-administration-completely-hijacked-by-ministry-of-corporate-affairs-supreme-court)
+- **Published:** Thu, 29 Oct 2026 11:59:52 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Capri Global Capital Ltd. Vs. Silver Jubilee Motors Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/capri-global-capital-ltd-vs-silver-jubilee-motors-ltd-nclt-mumbai-bench/)
+- **Published:** Fri, 30 Oct 2026 08:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Phoenix ARC Pvt. Ltd. Vs. Cherupushpam Films Pvt. Ltd. – NCLT, Kochi Bench](https://ibclaw.in/phoenix-arc-pvt-ltd-vs-cherupushpam-films-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Fri, 30 Oct 2026 08:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Alok Kailash Saksena, RP of Associate Decor Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/alok-kailash-saksena-rp-of-associate-decor-ltd-nclt-bengaluru-bench/)
+- **Published:** Fri, 30 Oct 2026 08:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Surendra Champalal Lodha and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-surendra-champalal-lodha-and-ors-nclt-mumbai-bench/)
+- **Published:** Fri, 30 Oct 2026 08:24:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rajesh Kumar Parakh, RP of CHD Developers Ltd. Vs. Gaurav Mittal and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/rajesh-kumar-parakh-rp-of-chd-developers-ltd-vs-gaurav-mittal-and-ors-nclt-new-delhi-bench-4/)
+- **Published:** Fri, 30 Oct 2026 08:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Dhananjay Sanjay Agarwal Vs. Jigar Tarunkumar Bhatt (RP) and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/dhananjay-sanjay-agarwal-vs-jigar-tarunkumar-bhatt-rp-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Fri, 30 Oct 2026 08:28:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jigar Tarunkumar Bhatt, RP of Raninga Paper Mills Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/jigar-tarunkumar-bhatt-rp-of-raninga-paper-mills-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Fri, 30 Oct 2026 08:28:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT sets aside insolvency proceedings against Polycab over ₹2.78 crore dues](https://www.barandbench.com/news/litigation/nclat-sets-aside-insolvency-proceedings-against-polycab-over-278-crore-dues)
 - **Published:** Fri, 30 Oct 2026 11:25:25 +0530
