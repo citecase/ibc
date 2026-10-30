@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-29 22:54:57*
+*Last synced: 2026-10-30 06:17:08*
+
+### [NCLAT sets aside insolvency proceedings against Polycab over ₹2.78 crore dues](https://www.barandbench.com/news/litigation/nclat-sets-aside-insolvency-proceedings-against-polycab-over-278-crore-dues)
+- **Published:** Fri, 30 Oct 2026 11:25:25 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Moratorium U/S 14 IBC Bars Proceedings Against Corporate Debtor, Not Counterclaims Pursued By It: Bombay High Court](https://www.verdictum.in/bombay-high-court/a-a-estates-private-limited-through-its-resolution-professional-v-govind-niwas-co-operative-housing-society-2026bhc-os23161-1624771)
+- **Published:** Fri, 30 Oct 2026 04:30:23 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Webinar on 10 Important IBC Judgments: Friday, 30 October 2026 | 04:00 PM](https://ibclaw.in/webinar-on-10-important-ibc-judgments-friday-30-october-2026-040-pm/)
 - **Published:** Thu, 29 Oct 2026 14:29:46 +0000
