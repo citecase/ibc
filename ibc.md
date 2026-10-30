@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-30 13:22:49*
+*Last synced: 2026-10-30 22:34:45*
+
+### [Any Request Made By Supreme Court To Any Court Or Tribunal Shall Be Treated As A Direction: Apex Court Pulls Up NCLAT](https://www.verdictum.in/supreme-court/request-treat-as-direction-1624846)
+- **Published:** Fri, 30 Oct 2026 15:30:00 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Bharat Ajay Jaisinghani Vs. Asier Metals Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/bharat-ajay-jaisinghani-vs-asier-metals-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 30 Oct 2026 14:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shefali Agarwal Vs. Stone Age Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/shefali-agarwal-vs-stone-age-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 30 Oct 2026 14:32:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ghanshyam Tayal Vs. Cemcon Engineering Company India Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ghanshyam-tayal-vs-cemcon-engineering-company-india-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 30 Oct 2026 14:33:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Parkash Cotton Pressing Factory Vs. Allahabad Bank and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/parkash-cotton-pressing-factory-vs-allahabad-bank-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 30 Oct 2026 14:37:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Girish Kanji Dand and Ors. Vs. Ziberia Estates and Investments Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/girish-kanji-dand-and-ors-vs-ziberia-estates-and-investments-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 30 Oct 2026 14:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anurag Kumar Sinha (RP) Vs. Laxmichand Damji Chheda and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/anurag-kumar-sinha-rp-vs-laxmichand-damji-chheda-and-anr-nclt-mumbai-bench/)
+- **Published:** Fri, 30 Oct 2026 14:41:14 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Sets Aside Admission of Polycab India Ltd. into Insolvency under IBC](https://ibclaw.in/nclat-sets-aside-admission-of-polycab-india-ltd-into-insolvency-under-ibc/)
+- **Published:** Fri, 30 Oct 2026 15:13:16 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shobhit J. Rajan Vs. ARCK Resolution Professionals LLP (RP) and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/shobhit-j-rajan-vs-arck-resolution-professionals-llp-rp-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 30 Oct 2026 15:45:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Superstar lawyers who charge hefty fees can't monopolise court time: NCLAT](https://www.barandbench.com/news/litigation/superstar-lawyers-who-charge-hefty-fees-cant-monopolise-court-time-nclat)
 - **Published:** Thu, 29 Oct 2026 11:49:05 +0530
