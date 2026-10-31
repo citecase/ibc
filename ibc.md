@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-30 22:34:45*
+*Last synced: 2026-10-31 12:57:30*
+
+### [NCLT Mumbai Orders Section 213 Probe, Cannot Try IBC Section 70 Offence](https://ibclaw.in/nclt-mumbai-orders-section-213-probe-cannot-try-ibc-section-70-offence/)
+- **Published:** Sat, 31 Oct 2026 04:30:40 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bombay High Court Orders Deemed Conveyance Despite Developer’s CIRP Under MOFA](https://ibclaw.in/bombay-high-court-orders-deemed-conveyance-despite-developers-cirp-under-mofa/)
+- **Published:** Sat, 31 Oct 2026 04:34:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [RERA Bulletin – Weekly Case Laws Digest: 26 October to 31 October, 2026](https://ibclaw.in/rera-bulletin-weekly-case-laws-digest-26-october-to-31-october-2026/)
+- **Published:** Sat, 31 Oct 2026 05:28:21 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Rejects Interest Claim on CIRP Supplies Without Contractual Stipulation](https://ibclaw.in/nclat-rejects-interest-claim-on-cirp-supplies-without-contractual-stipulation/)
+- **Published:** Sat, 31 Oct 2026 06:20:05 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 26 October to 31 October, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-26-october-to-31-october-2026/)
+- **Published:** Sat, 31 Oct 2026 06:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Appeal Against Dismissal of Contempt Petition Not Maintainable Under Section 19](https://ibclaw.in/nclat-appeal-against-dismissal-of-contempt-petition-not-maintainable-under-section-19/)
+- **Published:** Sat, 31 Oct 2026 07:50:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Associated Alcohols and Breweries Ltd. Vs. Union of India and Ors. – Madhya Pradesh High Court](https://ibclaw.in/associated-alcohols-and-breweries-ltd-vs-union-of-india-and-ors-madhya-pradesh-high-court/)
+- **Published:** Sat, 31 Oct 2026 08:05:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Allows NCLT Record Documents in Appeal Under Rules 11 and 29](https://ibclaw.in/nclat-allows-nclt-record-documents-in-appeal-under-rules-11-and-29/)
+- **Published:** Sat, 31 Oct 2026 10:35:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Any Request Made By Supreme Court To Any Court Or Tribunal Shall Be Treated As A Direction: Apex Court Pulls Up NCLAT](https://www.verdictum.in/supreme-court/request-treat-as-direction-1624846)
 - **Published:** Fri, 30 Oct 2026 15:30:00 GMT
