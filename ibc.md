@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-31 12:57:30*
+*Last synced: 2026-10-31 21:47:48*
+
+### [Compliance with RERA for CDs having real estate projects and disclosure of CIRP at project and office sites of the CD – IBBI Circular No. IBBI/CIRP/110/2026 dated 30.10.2026](https://ibclaw.in/compliance-with-rera-for-cds-having-real-estate-projects-and-disclosure-of-cirp-at-project-and-office-sites-of-the-cd-ibbi-circular-no-ibbi-cirp-110-2026-dated-30-10-2026/)
+- **Published:** Sat, 31 Oct 2026 13:20:49 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI strengthens the framework for resolution of Corporate Debtors having Real Estate Projects](https://ibclaw.in/ibbi-strengthens-the-framework-for-resolution-of-corporate-debtors-having-real-estate-projects/)
+- **Published:** Sat, 31 Oct 2026 13:27:15 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Introduction of revised Form CA for filing of claims by Real Estate allottees – IBBI Circular No. IBBI/CIRP/109/2026 dated 30.10.2026](https://ibclaw.in/introduction-of-revised-form-ca-for-filing-of-claims-by-real-estate-allottees/)
+- **Published:** Sat, 31 Oct 2026 13:29:25 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Smt. Tanvi Sundriyal Appointed as Ex-Officio Member of IBBI](https://ibclaw.in/smt-tanvi-sundriyal-appointed-as-ex-officio-member-of-ibbi/)
+- **Published:** Sat, 31 Oct 2026 13:43:54 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBBI (Insolvency Resolution Process for Corporate Persons) (Fifth Amendment) Regulations, 2026](https://ibclaw.in/ibbi-insolvency-resolution-process-for-corporate-persons-fifth-amendment-regulations-2026/)
+- **Published:** Sat, 31 Oct 2026 13:55:51 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Orders Section 213 Probe, Cannot Try IBC Section 70 Offence](https://ibclaw.in/nclt-mumbai-orders-section-213-probe-cannot-try-ibc-section-70-offence/)
 - **Published:** Sat, 31 Oct 2026 04:30:40 +0000
