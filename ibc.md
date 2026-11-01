@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-10-31 21:47:48*
+*Last synced: 2026-11-01 22:15:35*
+
+### [Nainesh Sanghvi and Ors. Vs. Rajesh Jhunjhunwala, Liquidator of Siddhartha Tubes Ltd. – NCLT, Indore Bench](https://ibclaw.in/nainesh-sanghvi-and-ors-vs-rajesh-jhunjhunwala-liquidator-of-siddhartha-tubes-ltd-nclt-indore-bench/)
+- **Published:** Sun, 01 Nov 2026 20:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Nandkumar Khattumal Harchandani Vs. Incorp Restructuring Services LLP and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/nandkumar-khattumal-harchandani-vs-incorp-restructuring-services-llp-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 01 Nov 2026 20:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kasi Srinivas, Bankruptcy Trustee Vs. Bank of India and Anr. – NCLT, Hyderabad Bench](https://ibclaw.in/kasi-srinivas-bankruptcy-trustee-vs-bank-of-india-and-anr-nclt-hyderabad-bench/)
+- **Published:** Sun, 01 Nov 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Unique Waste Processing Company Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/unique-waste-processing-company-ltd-nclt-new-delhi-bench/)
+- **Published:** Sun, 01 Nov 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Compliance with RERA for CDs having real estate projects and disclosure of CIRP at project and office sites of the CD – IBBI Circular No. IBBI/CIRP/110/2026 dated 30.10.2026](https://ibclaw.in/compliance-with-rera-for-cds-having-real-estate-projects-and-disclosure-of-cirp-at-project-and-office-sites-of-the-cd-ibbi-circular-no-ibbi-cirp-110-2026-dated-30-10-2026/)
 - **Published:** Sat, 31 Oct 2026 13:20:49 +0000
