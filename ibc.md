@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-02 06:38:41*
+*Last synced: 2026-11-02 21:52:13*
+
+### [BP Metal Packs Pvt. Ltd. Vs. Ramanathan Bhuvaneshwari (Liquidator) and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/bp-metal-packs-pvt-ltd-vs-ramanathan-bhuvaneshwari-liquidator-and-anr-nclt-bengaluru-bench/)
+- **Published:** Mon, 02 Nov 2026 21:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sudhir Thackersey Vs. Capricon Realty Pvt. Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/sudhir-thackersey-vs-capricon-realty-pvt-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Mon, 02 Nov 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [ISPT LLC Vs. Shell Mould Ltd. – NCLT, Chennai Bench](https://ibclaw.in/ispt-llc-vs-shell-mould-ltd-nclt-chennai-bench/)
+- **Published:** Mon, 02 Nov 2026 21:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mukesh Khathuria (Liquidator) Vs. Abhisheksinh F. Chauhan – NCLT, Mumbai Bench](https://ibclaw.in/mukesh-khathuria-liquidator-vs-abhisheksinh-f-chauhan-nclt-mumbai-bench/)
+- **Published:** Mon, 02 Nov 2026 21:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Bhushan Power: NCLT rejects promoters’ challenge to maintainability of government's recovery plea](https://www.barandbench.com/news/litigation/bhushan-power-nclt-rejects-promoters-challenge-to-maintainability-of-governments-recovery-plea)
 - **Published:** Mon, 02 Nov 2026 09:07:07 +0530
