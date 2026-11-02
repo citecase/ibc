@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-01 22:15:35*
+*Last synced: 2026-11-02 06:38:41*
+
+### [Bhushan Power: NCLT rejects promoters’ challenge to maintainability of government's recovery plea](https://www.barandbench.com/news/litigation/bhushan-power-nclt-rejects-promoters-challenge-to-maintainability-of-governments-recovery-plea)
+- **Published:** Mon, 02 Nov 2026 09:07:07 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Indian Bank Vs. Aman Hospitality Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/indian-bank-vs-aman-hospitality-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Sun, 01 Nov 2026 22:50:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Aimwiseai Proprietary Ltd. Vs. Farmwiseai Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/aimwiseai-proprietary-ltd-vs-farmwiseai-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Sun, 01 Nov 2026 23:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Small Industries Development Bank of India Vs. Darsh Pharmachem Pvt. Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/small-industries-development-bank-of-india-vs-darsh-pharmachem-pvt-ltd-nclt-ahmedabad-bench/)
+- **Published:** Sun, 01 Nov 2026 23:19:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jagannath Polymers Ltd. – NCLT, Cuttack Bench](https://ibclaw.in/jagannath-polymers-ltd-nclt-cuttack-bench/)
+- **Published:** Sun, 01 Nov 2026 23:43:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Subbarao Siddabattula and Ors. Vs. Radhey Shyam Yadav and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/subbarao-siddabattula-and-ors-vs-radhey-shyam-yadav-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 02 Nov 2026 00:56:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Nainesh Sanghvi and Ors. Vs. Rajesh Jhunjhunwala, Liquidator of Siddhartha Tubes Ltd. – NCLT, Indore Bench](https://ibclaw.in/nainesh-sanghvi-and-ors-vs-rajesh-jhunjhunwala-liquidator-of-siddhartha-tubes-ltd-nclt-indore-bench/)
 - **Published:** Sun, 01 Nov 2026 20:48:00 +0000
