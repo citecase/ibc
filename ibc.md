@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-02 21:52:13*
+*Last synced: 2026-11-03 07:07:46*
+
+### [Jet Airways liquidator moves NCLAT for $92.13 million refund from Boeing over undelivered aircraft](https://www.barandbench.com/news/litigation/jet-airways-liquidator-moves-nclat-for-9213-million-refund-from-boeing-over-undelivered-aircraft)
+- **Published:** Tue, 03 Nov 2026 12:01:44 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Weekly Overview| Supreme Court Judgments: October 26– October 30, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-october-26-october-30-2026-1625041)
+- **Published:** Tue, 03 Nov 2026 05:00:06 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Ravi Kapoor, Liquidator of Accord Industries Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/ravi-kapoor-liquidator-of-accord-industries-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 02 Nov 2026 22:35:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Regional Provident Fund Commissioner-II Vs. R.Raghavendran, Liquidator of Peejay Agro Foods Pvt. Ltd. – NCLT, Kochi Bench](https://ibclaw.in/regional-provident-fund-commissioner-ii-vs-r-raghavendran-liquidator-of-peejay-agro-foods-pvt-ltd-nclt-kochi-bench/)
+- **Published:** Mon, 02 Nov 2026 22:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shubh Gautam Vs. Krezon Specialities Pvt. Ltd. and Ors. – NCLT, New Delhi Bench](https://ibclaw.in/shubh-gautam-vs-krezon-specialities-pvt-ltd-and-ors-nclt-new-delhi-bench/)
+- **Published:** Mon, 02 Nov 2026 23:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Says Section 96 Moratorium Cannot Stall Corporate Debtor’s Secured Asset Sale](https://ibclaw.in/nclt-mumbai-says-section-96-moratorium-cannot-stall-corporate-debtors-secured-asset-sale/)
+- **Published:** Tue, 03 Nov 2026 05:02:39 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Beyond Project Boundaries: Reconciling Interconnected Rights in Real Estate Insolvency – By Shalin Saurav](https://ibclaw.in/beyond-project-boundaries-reconciling-interconnected-rights-in-real-estate-insolvency-by-shalin-saurav/)
+- **Published:** Tue, 03 Nov 2026 05:12:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Bengaluru Excludes Terminated JDA Lands From Buoyant Technology’s Information Memorandum](https://ibclaw.in/nclt-bengaluru-excludes-terminated-jda-lands-from-buoyant-technologys-information-memorandum/)
+- **Published:** Tue, 03 Nov 2026 06:20:06 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [BP Metal Packs Pvt. Ltd. Vs. Ramanathan Bhuvaneshwari (Liquidator) and Anr. – NCLT, Bengaluru Bench](https://ibclaw.in/bp-metal-packs-pvt-ltd-vs-ramanathan-bhuvaneshwari-liquidator-and-anr-nclt-bengaluru-bench/)
 - **Published:** Mon, 02 Nov 2026 21:07:00 +0000
