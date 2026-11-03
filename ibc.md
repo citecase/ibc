@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-03 07:07:46*
+*Last synced: 2026-11-03 19:43:14*
+
+### [Deputy Commissioner of Commercial Taxes Vs. Doshion Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/deputy-commissioner-of-commercial-taxes-vs-doshion-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 03 Nov 2026 11:02:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Hassan Ali and Ors. Vs. Securities and Exchange Board of India (SEBI) – Securities Appellate Tribunal (SAT)](https://ibclaw.in/hassan-ali-and-ors-vs-securities-and-exchange-board-of-india-sebi-securities-appellate-tribunal-sat/)
+- **Published:** Tue, 03 Nov 2026 11:02:38 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Rejects Delayed GST Claim Filed After Liquidation Claim Cut-Off](https://ibclaw.in/nclat-rejects-delayed-gst-claim-filed-after-liquidation-claim-cut-off/)
+- **Published:** Tue, 03 Nov 2026 11:37:50 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Delhi Voids Share Transfer, Orders Restoration of Pre-2017 Position](https://ibclaw.in/nclt-delhi-voids-share-transfer-orders-restoration-of-pre-2017-position/)
+- **Published:** Tue, 03 Nov 2026 12:10:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chennai: Unpaid Equity Contribution Is Not an Operational Debt Under IBC](https://ibclaw.in/nclt-chennai-unpaid-equity-contribution-is-not-an-operational-debt-under-ibc/)
+- **Published:** Tue, 03 Nov 2026 12:40:07 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 03 November 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-03-november-2026/)
+- **Published:** Tue, 03 Nov 2026 12:56:19 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Jet Airways liquidator moves NCLAT for $92.13 million refund from Boeing over undelivered aircraft](https://www.barandbench.com/news/litigation/jet-airways-liquidator-moves-nclat-for-9213-million-refund-from-boeing-over-undelivered-aircraft)
 - **Published:** Tue, 03 Nov 2026 12:01:44 +0530
