@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-04 06:53:45*
+*Last synced: 2026-11-04 19:58:02*
+
+### [NCLAT Rejects Recall Plea Against IBC Appeal Delay Order](https://ibclaw.in/nclat-rejects-recall-plea-against-ibc-appeal-delay-order/)
+- **Published:** Wed, 04 Nov 2026 07:50:06 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Admits Canara Bank’s Section 95 Plea Against Personal Guarantor](https://ibclaw.in/nclt-admits-canara-banks-section-95-plea-against-personal-guarantor/)
+- **Published:** Wed, 04 Nov 2026 12:11:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Babita Agarwal and Ors. Vs. Pramod Kumar Sharma (RP) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/babita-agarwal-and-ors-vs-pramod-kumar-sharma-rp-nclat-principal-bench-new-delhi/)
 - **Published:** Tue, 03 Nov 2026 23:07:00 +0000
