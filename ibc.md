@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-03 19:43:14*
+*Last synced: 2026-11-04 06:53:45*
+
+### [Babita Agarwal and Ors. Vs. Pramod Kumar Sharma (RP) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/babita-agarwal-and-ors-vs-pramod-kumar-sharma-rp-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 03 Nov 2026 23:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Excel Arcade Pvt. Ltd. Vs. Unity Small Finance Bank Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/excel-arcade-pvt-ltd-vs-unity-small-finance-bank-ltd-nclat-principal-bench-new-delhi-2/)
+- **Published:** Wed, 04 Nov 2026 00:15:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Fraud at the Gateway: Balancing Accountability for Abuse of CIRP with the Protection of Innocent Stakeholders – By Tisha Jain](https://ibclaw.in/fraud-at-the-gateway-balancing-accountability-for-abuse-of-cirp-with-the-protection-of-innocent-stakeholders-by-tisha-jain/)
+- **Published:** Wed, 04 Nov 2026 05:08:50 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Deputy Commissioner of Commercial Taxes Vs. Doshion Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/deputy-commissioner-of-commercial-taxes-vs-doshion-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
 - **Published:** Tue, 03 Nov 2026 11:02:30 +0000
