@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-04 19:58:02*
+*Last synced: 2026-11-05 07:11:59*
+
+### [ERA Infra Engineering Ltd. Vs. National Asset Reconstruction Company Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/era-infra-engineering-ltd-vs-national-asset-reconstruction-company-ltd-nclt-new-delhi-bench-2/)
+- **Published:** Wed, 04 Nov 2026 21:26:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Yogesh Gupta, RP of R. Piyarelall Iron & Steel Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/yogesh-gupta-rp-of-r-piyarelall-iron-steel-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 04 Nov 2026 22:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IT Source Technologies Ltd. Vs. L A Technologies Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/it-source-technologies-ltd-vs-l-a-technologies-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 04 Nov 2026 23:13:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Rejects Recall Plea Against IBC Appeal Delay Order](https://ibclaw.in/nclat-rejects-recall-plea-against-ibc-appeal-delay-order/)
 - **Published:** Wed, 04 Nov 2026 07:50:06 +0000
