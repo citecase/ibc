@@ -1,6 +1,34 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-05 07:11:59*
+*Last synced: 2026-11-05 20:11:57*
+
+### [Former Supreme Court Justice Rajesh Bindal appointed NCLAT Chairperson](https://www.barandbench.com/news/litigation/former-supreme-court-judge-justice-rajesh-bindal-appointed-nclat-chairperson)
+- **Published:** Thu, 05 Nov 2026 21:29:15 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Anil Khandelwal & NOIDA Holdings Pvt. Ltd. (in Consortium) Vs. Committee of Creditors of Technofab Engineering Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/anil-khandelwal-noida-holdings-pvt-ltd-in-consortium-vs-committee-of-creditors-of-technofab-engineering-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 05 Nov 2026 12:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Treats IBC Appeal Without Timely Certified Copy as Non-Est](https://ibclaw.in/nclat-treats-ibc-appeal-without-timely-certified-copy-as-non-est/)
+- **Published:** Thu, 05 Nov 2026 13:03:59 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [KKP Spinning Mills Pvt. Ltd. Vs. S. Sundar Raman and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/kkp-spinning-mills-pvt-ltd-vs-s-sundar-raman-and-anr-nclat-chennai-bench/)
+- **Published:** Thu, 05 Nov 2026 13:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Below-Threshold Creditor Cannot Intervene in Section 12A Withdrawal](https://ibclaw.in/nclat-below-threshold-creditor-cannot-intervene-in-section-12a-withdrawal/)
+- **Published:** Thu, 05 Nov 2026 13:28:51 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Upholds Differential Treatment of Commercial Unit Purchasers in CIRP](https://ibclaw.in/nclt-mumbai-upholds-differential-treatment-of-commercial-unit-purchasers-in-cirp/)
+- **Published:** Thu, 05 Nov 2026 14:50:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Uday Kumar Bhaskar Bhatt, RP of Atharva Auto Logistics Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/uday-kumar-bhaskar-bhatt-rp-of-atharva-auto-logistics-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 05 Nov 2026 19:44:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [ERA Infra Engineering Ltd. Vs. National Asset Reconstruction Company Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/era-infra-engineering-ltd-vs-national-asset-reconstruction-company-ltd-nclt-new-delhi-bench-2/)
 - **Published:** Wed, 04 Nov 2026 21:26:00 +0000
