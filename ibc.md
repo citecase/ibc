@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-05 20:11:57*
+*Last synced: 2026-11-06 07:12:28*
+
+### [Shruti Lohia, RP of Arihant Retail Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/shruti-lohia-rp-of-arihant-retail-pvt-ltd-nclt-chennai-bench/)
+- **Published:** Thu, 05 Nov 2026 22:44:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Lalit Narware Vs. Marvel Industries and Services Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/lalit-narware-vs-marvel-industries-and-services-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 05 Nov 2026 23:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jammu and Kashmir Bank Vs. Guiding Force Developers Pvt. Ltd. – NCLT, New Delhi Bench](https://ibclaw.in/jammu-and-kashmir-bank-vs-guiding-force-developers-pvt-ltd-nclt-new-delhi-bench/)
+- **Published:** Thu, 05 Nov 2026 23:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT New Delhi: Conversion Notice Alone Does Not Convert OCDs Without Active ISIN](https://ibclaw.in/nclt-new-delhi-conversion-notice-alone-does-not-convert-ocds-without-active-isin/)
+- **Published:** Fri, 06 Nov 2026 02:50:59 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Former Supreme Court Justice Rajesh Bindal appointed NCLAT Chairperson](https://www.barandbench.com/news/litigation/former-supreme-court-judge-justice-rajesh-bindal-appointed-nclat-chairperson)
 - **Published:** Thu, 05 Nov 2026 21:29:15 +0530
