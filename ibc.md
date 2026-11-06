@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-06 07:12:28*
+*Last synced: 2026-11-06 19:37:55*
+
+### [NCLT Delhi Rejects Shareholder Intervention in Section 7 IBC Proceedings](https://ibclaw.in/nclt-delhi-rejects-shareholder-intervention-in-section-7-ibc-proceedings/)
+- **Published:** Fri, 06 Nov 2026 07:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bombay High Court: IBC Moratorium Does Not Bar Corporate Debtor’s Counterclaim](https://ibclaw.in/bombay-high-court-ibc-moratorium-does-not-bar-corporate-debtors-counterclaim/)
+- **Published:** Fri, 06 Nov 2026 10:25:47 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Admits CIRP, Says Guarantor Limitation Runs From Guarantee Invocation](https://ibclaw.in/nclt-admits-cirp-says-guarantor-limitation-runs-from-guarantee-invocation/)
+- **Published:** Fri, 06 Nov 2026 12:41:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Admits Shubh Food Industries to CIRP on Joint Section 7 Plea](https://ibclaw.in/nclt-mumbai-admits-shubh-food-industries-to-cirp-on-joint-section-7-plea/)
+- **Published:** Fri, 06 Nov 2026 13:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Rejects Atharva Auto Resolution Plan, Orders Liquidation](https://ibclaw.in/nclt-mumbai-rejects-atharva-auto-resolution-plan-orders-liquidation/)
+- **Published:** Fri, 06 Nov 2026 14:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 06 November 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-06-november-2026/)
+- **Published:** Fri, 06 Nov 2026 16:22:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Shruti Lohia, RP of Arihant Retail Pvt. Ltd. – NCLT, Chennai Bench](https://ibclaw.in/shruti-lohia-rp-of-arihant-retail-pvt-ltd-nclt-chennai-bench/)
 - **Published:** Thu, 05 Nov 2026 22:44:00 +0000
