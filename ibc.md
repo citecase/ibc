@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-06 19:37:55*
+*Last synced: 2026-11-07 06:26:48*
+
+### [Ajay Singh Narania Vs. Harish Kant Kaushik and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ajay-singh-narania-vs-harish-kant-kaushik-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sat, 07 Nov 2026 02:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Delhi Rejects Shareholder Intervention in Section 7 IBC Proceedings](https://ibclaw.in/nclt-delhi-rejects-shareholder-intervention-in-section-7-ibc-proceedings/)
 - **Published:** Fri, 06 Nov 2026 07:51:03 +0000
