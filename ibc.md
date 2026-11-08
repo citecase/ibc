@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-07 06:26:48*
+*Last synced: 2026-11-08 22:21:09*
+
+### [ABBA Consultants Pvt. Ltd. Vs. Susheel Kumar Gupta (RP) – NCLT, Indore Bench](https://ibclaw.in/abba-consultants-pvt-ltd-vs-susheel-kumar-gupta-rp-nclt-indore-bench/)
+- **Published:** Sun, 08 Nov 2026 20:38:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Central Bank of India Vs. K. Gnyandeep Kantipadi – NCLT, New Delhi Bench](https://ibclaw.in/central-bank-of-india-vs-k-gnyandeep-kantipadi-nclt-new-delhi-bench/)
+- **Published:** Sun, 08 Nov 2026 21:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Prakash Sharma Vs. Registrar of Companies and Ors. – NCLT, Indore Bench](https://ibclaw.in/prakash-sharma-vs-registrar-of-companies-and-ors-nclt-indore-bench/)
+- **Published:** Sun, 08 Nov 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kiran Shah (Liquidator) Vs. Pankajbhai Harilal Valia and Anr. – NCLT, Ahmedabad Bench](https://ibclaw.in/kiran-shah-liquidator-vs-pankajbhai-harilal-valia-and-anr-nclt-ahmedabad-bench-2/)
+- **Published:** Sun, 08 Nov 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jasin Jose, Liquidator of Seguro Foundations and Structures Pvt. Ltd. Vs. Rajeev C Vijayan and Ors. – NCLT, Kochi Bench](https://ibclaw.in/jasin-jose-liquidator-of-seguro-foundations-and-structures-pvt-ltd-vs-rajeev-c-vijayan-and-ors-nclt-kochi-bench/)
+- **Published:** Sun, 08 Nov 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Directorate of Enforcement Vs. Aegis Resolution Services Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/directorate-of-enforcement-vs-aegis-resolution-services-pvt-ltd-rp-nclat-principal-bench-new-delhi/)
+- **Published:** Sun, 08 Nov 2026 21:18:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Ajay Singh Narania Vs. Harish Kant Kaushik and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ajay-singh-narania-vs-harish-kant-kaushik-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Sat, 07 Nov 2026 02:27:00 +0000
