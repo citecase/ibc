@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-08 22:21:09*
+*Last synced: 2026-11-09 22:38:01*
+
+### [State Bank of India Vs. Alokendranath Gosh – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-alokendranath-gosh-nclt-mumbai-bench/)
+- **Published:** Mon, 09 Nov 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Oswal Woollen Mills Ltd. Vs. EKI Energy Services Ltd. – NCLT, Indore Bench](https://ibclaw.in/oswal-woollen-mills-ltd-vs-eki-energy-services-ltd-nclt-indore-bench/)
+- **Published:** Mon, 09 Nov 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amit Enterprises Vs. Urvashi Material Trading Company Pvt. Ltd. – NCLT, Jaipur Bench](https://ibclaw.in/amit-enterprises-vs-urvashi-material-trading-company-pvt-ltd-nclt-jaipur-bench/)
+- **Published:** Mon, 09 Nov 2026 21:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mahalakshmi Energy Pvt. Ltd. Vs. Shinde Developers Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/mahalakshmi-energy-pvt-ltd-vs-shinde-developers-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 09 Nov 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mount Maltbru Ltd. Vs. Jaipur Vidhut Vitran Nigam Ltd. – NCLT, Jaipur Bench](https://ibclaw.in/mount-maltbru-ltd-vs-jaipur-vidhut-vitran-nigam-ltd-nclt-jaipur-bench/)
+- **Published:** Mon, 09 Nov 2026 21:27:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [ABBA Consultants Pvt. Ltd. Vs. Susheel Kumar Gupta (RP) – NCLT, Indore Bench](https://ibclaw.in/abba-consultants-pvt-ltd-vs-susheel-kumar-gupta-rp-nclt-indore-bench/)
 - **Published:** Sun, 08 Nov 2026 20:38:00 +0000
