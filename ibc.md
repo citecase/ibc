@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-09 22:38:01*
+*Last synced: 2026-11-10 07:38:53*
+
+### [Consortium of Admas Industries Pvt. Ltd. and Ors. Vs. Rajan Deshraj Agarwal and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/consortium-of-admas-industries-pvt-ltd-and-ors-vs-rajan-deshraj-agarwal-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 09 Nov 2026 22:39:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pankaj Kumar and Anr. Vs. Praiseworth Infra (P) Ltd. – NCLAT, Chennai Bench](https://ibclaw.in/pankaj-kumar-and-anr-vs-praiseworth-infra-p-ltd-nclat-chennai-bench/)
+- **Published:** Tue, 10 Nov 2026 02:07:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [State Bank of India Vs. Alokendranath Gosh – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-alokendranath-gosh-nclt-mumbai-bench/)
 - **Published:** Mon, 09 Nov 2026 21:01:00 +0000
