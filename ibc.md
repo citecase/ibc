@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-10 07:38:53*
+*Last synced: 2026-11-11 06:57:58*
+
+### [Blueoak CI Pvt. Ltd. Vs. Pankaj Srivastava (Erstwhile Liquidator) – NCLT, Bengaluru Bench](https://ibclaw.in/blueoak-ci-pvt-ltd-vs-pankaj-srivastava-erstwhile-liquidator-nclt-bengaluru-bench/)
+- **Published:** Tue, 10 Nov 2026 20:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Suranjan Kumar Santosh Chatterjee – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-suranjan-kumar-santosh-chatterjee-nclt-mumbai-bench/)
+- **Published:** Tue, 10 Nov 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Varahi Pharma Pvt. Ltd. Vs. Aptra Synthesis Pvt. Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/varahi-pharma-pvt-ltd-vs-aptra-synthesis-pvt-ltd-nclt-hyderabad-bench/)
+- **Published:** Tue, 10 Nov 2026 21:23:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amarendra Financial Pvt. Ltd. Vs. Cynosure Real Estates Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/amarendra-financial-pvt-ltd-vs-cynosure-real-estates-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 10 Nov 2026 22:31:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Consortium of Admas Industries Pvt. Ltd. and Ors. Vs. Rajan Deshraj Agarwal and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/consortium-of-admas-industries-pvt-ltd-and-ors-vs-rajan-deshraj-agarwal-and-anr-nclat-principal-bench-new-delhi/)
 - **Published:** Mon, 09 Nov 2026 22:39:00 +0000
