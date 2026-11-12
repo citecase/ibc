@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-11 06:57:58*
+*Last synced: 2026-11-12 07:34:14*
+
+### [Union of India Vs. Birla Cotsyn (India) Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/union-of-india-vs-birla-cotsyn-india-ltd-and-ors-nclt-mumbai-bench/)
+- **Published:** Wed, 11 Nov 2026 21:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Chandra Kumari Singh Vs. HDFC Bank Ltd. and Ors. – NCLT, Jaipur Bench](https://ibclaw.in/chandra-kumari-singh-vs-hdfc-bank-ltd-and-ors-nclt-jaipur-bench/)
+- **Published:** Wed, 11 Nov 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Abhay Sapre  Vs. Immacule Lifesciences Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/abhay-sapre-vs-immacule-lifesciences-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 11 Nov 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Starwort Engineers Pvt. Ltd. Vs. Krosslink Infrastructure Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/starwort-engineers-pvt-ltd-vs-krosslink-infrastructure-ltd-nclt-mumbai-bench/)
+- **Published:** Wed, 11 Nov 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ganesh Venkata Siva Rama Krishna Remani (RP) Vs. Puneet P. Bhatia and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/ganesh-venkata-siva-rama-krishna-remani-rp-vs-puneet-p-bhatia-and-anr-nclt-mumbai-bench/)
+- **Published:** Wed, 11 Nov 2026 21:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Blueoak CI Pvt. Ltd. Vs. Pankaj Srivastava (Erstwhile Liquidator) – NCLT, Bengaluru Bench](https://ibclaw.in/blueoak-ci-pvt-ltd-vs-pankaj-srivastava-erstwhile-liquidator-nclt-bengaluru-bench/)
 - **Published:** Tue, 10 Nov 2026 20:55:00 +0000
