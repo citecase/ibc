@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-12 07:34:14*
+*Last synced: 2026-11-12 20:17:32*
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 2 November to 7 November, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-2-november-to-7-november-2026/)
+- **Published:** Thu, 12 Nov 2026 07:50:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Union of India Vs. Birla Cotsyn (India) Ltd. and Ors. – NCLT, Mumbai Bench](https://ibclaw.in/union-of-india-vs-birla-cotsyn-india-ltd-and-ors-nclt-mumbai-bench/)
 - **Published:** Wed, 11 Nov 2026 21:08:00 +0000
