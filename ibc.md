@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-12 20:17:32*
+*Last synced: 2026-11-13 07:04:48*
+
+### [Homebuyers were never meant to be financial creditors under IBC: Sasmit Patra](https://www.barandbench.com/interviews/homebuyers-were-never-meant-to-be-financial-creditors-under-ibc-sasmit-patra)
+- **Published:** Thu, 12 Nov 2026 12:57:31 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [NCLAT rejects appeals by Yes Bank co-founder Rana Kapoor’s wife against insolvency of four firms](https://www.barandbench.com/news/litigation/nclat-rejects-appeals-by-yes-bank-co-founder-rana-kapoors-wife-against-insolvency-of-four-firms)
+- **Published:** Thu, 12 Nov 2026 14:12:56 +0530
+- **Source:** https://www.barandbench.com/feed
 
 ### [Insolvency Bulletin – Weekly Case Laws Digest: 2 November to 7 November, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-2-november-to-7-november-2026/)
 - **Published:** Thu, 12 Nov 2026 07:50:00 +0000
