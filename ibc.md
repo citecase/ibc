@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-13 07:04:48*
+*Last synced: 2026-11-13 19:57:10*
+
+### [NCLAT Excludes Time Pending Replacement of Homebuyers’ Authorised Representative](https://ibclaw.in/nclat-excludes-time-pending-replacement-of-homebuyers-authorised-representative/)
+- **Published:** Fri, 13 Nov 2026 10:06:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bindu Kapoor Vs. Mamta Binani and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/bindu-kapoor-vs-mamta-binani-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 13 Nov 2026 10:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Dismisses SBI’s Section 95 Plea Against Guarantor as Time-Barred](https://ibclaw.in/nclt-mumbai-dismisses-sbis-section-95-plea-against-guarantor-as-time-barred/)
+- **Published:** Fri, 13 Nov 2026 10:36:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NKAY Investment Vs. Jayesh Sanghrajka and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/nkay-investment-vs-jayesh-sanghrajka-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 13 Nov 2026 11:34:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: Receipt of a residual amount under Section 53 of the IBC does not, by itself, entitle a shareholder to maintain an appeal under Section 61](https://ibclaw.in/nclat-shareholders-cannot-appeal-resolution-plan-approval-under-ibc-section-61/)
+- **Published:** Fri, 13 Nov 2026 11:41:31 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 13 November 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-13-november-2026/)
+- **Published:** Fri, 13 Nov 2026 12:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Jaipur Rejects Flat Buyers’ Limited Project Plan, Orders Liquidation](https://ibclaw.in/nclt-jaipur-rejects-flat-buyers-limited-project-plan-orders-liquidation/)
+- **Published:** Fri, 13 Nov 2026 13:50:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Jaipur Dismisses Section 94 Plea Without Enforceable Personal Guarantee](https://ibclaw.in/nclt-jaipur-dismisses-section-94-plea-without-enforceable-personal-guarantee/)
+- **Published:** Fri, 13 Nov 2026 14:50:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Homebuyers were never meant to be financial creditors under IBC: Sasmit Patra](https://www.barandbench.com/interviews/homebuyers-were-never-meant-to-be-financial-creditors-under-ibc-sasmit-patra)
 - **Published:** Thu, 12 Nov 2026 12:57:31 +0530
