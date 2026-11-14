@@ -1,6 +1,38 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-13 19:57:10*
+*Last synced: 2026-11-14 06:54:19*
+
+### [Premium Global Realty (India) Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/premium-global-realty-india-pvt-ltd-nclt-indore-bench/)
+- **Published:** Fri, 13 Nov 2026 20:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Almech Enterprises Vs. Dilip Vasudeo Gupta – NCLT, Mumbai Bench](https://ibclaw.in/almech-enterprises-vs-dilip-vasudeo-gupta-nclt-mumbai-bench/)
+- **Published:** Fri, 13 Nov 2026 22:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [L-1 Identity Solutions Operating Company Pvt. Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/l-1-identity-solutions-operating-company-pvt-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Sat, 14 Nov 2026 01:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Dismisses Centre’s Section 241 Petition Against Birla Cotsyn](https://ibclaw.in/nclt-mumbai-dismisses-centres-section-241-petition-against-birla-cotsyn/)
+- **Published:** Sat, 14 Nov 2026 03:19:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Condones One-Day Delay in Resolution Plan Payment](https://ibclaw.in/nclt-mumbai-condones-one-day-delay-in-resolution-plan-payment/)
+- **Published:** Sat, 14 Nov 2026 03:20:46 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Treats Hypothecators as Corporate Guarantors Under IBC Section 60(2)](https://ibclaw.in/nclat-treats-hypothecators-as-corporate-guarantors-under-ibc-section-602/)
+- **Published:** Sat, 14 Nov 2026 03:51:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Dismisses MSME Interest Claim, Restores CIRP for 120 Days](https://ibclaw.in/nclt-mumbai-dismisses-msme-interest-claim-restores-cirp-for-120-days/)
+- **Published:** Sat, 14 Nov 2026 05:14:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Says RBI, ED Certification Not Needed for Merger Scheme Approval](https://ibclaw.in/nclat-says-rbi-ed-certification-not-needed-for-merger-scheme-approval/)
+- **Published:** Sat, 14 Nov 2026 06:20:04 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Excludes Time Pending Replacement of Homebuyers’ Authorised Representative](https://ibclaw.in/nclat-excludes-time-pending-replacement-of-homebuyers-authorised-representative/)
 - **Published:** Fri, 13 Nov 2026 10:06:02 +0000
