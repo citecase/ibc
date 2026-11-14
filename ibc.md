@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-14 06:54:19*
+*Last synced: 2026-11-14 18:24:35*
+
+### [NCLT Indore Allows Preference Share Reissue Under Companies Act Section 55(3)](https://ibclaw.in/nclt-indore-allows-preference-share-reissue-under-companies-act-section-553/)
+- **Published:** Sat, 14 Nov 2026 07:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 9 November to 14 November, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-9-november-to-14-november-2026/)
+- **Published:** Sat, 14 Nov 2026 10:25:30 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Premium Global Realty (India) Pvt. Ltd. – NCLT, Indore Bench](https://ibclaw.in/premium-global-realty-india-pvt-ltd-nclt-indore-bench/)
 - **Published:** Fri, 13 Nov 2026 20:51:00 +0000
