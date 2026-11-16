@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-16 07:07:22*
+*Last synced: 2026-11-16 22:26:12*
+
+### [Justin Joseph Vs. Near Intelligence Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/justin-joseph-vs-near-intelligence-pvt-ltd-nclt-bengaluru-bench/)
+- **Published:** Mon, 16 Nov 2026 20:47:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Oceanic Trade Minerals Pvt. Ltd. Vs. Arisinfra Solutions Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/oceanic-trade-minerals-pvt-ltd-vs-arisinfra-solutions-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 16 Nov 2026 21:01:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Central Board of Trustees, Employees’ Provident Fund Organization Vs. Dommeti Surya Rama Krishna Sai Baba (RP) and Ors. – NCLT, Hyderabad Bench](https://ibclaw.in/central-board-of-trustees-employees-provident-fund-organization-vs-dommeti-surya-rama-krishna-sai-baba-rp-and-ors-nclt-hyderabad-bench/)
+- **Published:** Mon, 16 Nov 2026 21:10:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [State Bank of India Vs. Venugopal Nandlal Dhoot – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-venugopal-nandlal-dhoot-nclt-mumbai-bench-2/)
+- **Published:** Mon, 16 Nov 2026 21:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Manlift India Pvt. Ltd. Vs. Shapoorji Pallonji and Company Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/manlift-india-pvt-ltd-vs-shapoorji-pallonji-and-company-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Mon, 16 Nov 2026 21:16:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Supreme Court upholds NCLAT order to reconsider Videocon resolution plan involving over 95% haircut](https://www.barandbench.com/news/litigation/supreme-court-upholds-nclat-order-to-reconsider-videocon-resolution-plan-involving-over-95-haircut)
 - **Published:** Mon, 16 Nov 2026 11:27:15 +0530
