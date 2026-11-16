@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-14 18:24:35*
+*Last synced: 2026-11-16 07:07:22*
+
+### [Supreme Court upholds NCLAT order to reconsider Videocon resolution plan involving over 95% haircut](https://www.barandbench.com/news/litigation/supreme-court-upholds-nclat-order-to-reconsider-videocon-resolution-plan-involving-over-95-haircut)
+- **Published:** Mon, 16 Nov 2026 11:27:15 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Bank of Baroda Vs. Abdulbhai N Vhora – NCLT, Ahmedabad Bench](https://ibclaw.in/bank-of-baroda-vs-abdulbhai-n-vhora-nclt-ahmedabad-bench/)
+- **Published:** Sun, 15 Nov 2026 22:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Babaji Nethralaya Pvt. Ltd. Vs. Transgene Biotek Ltd. – NCLT, Hyderabad Bench](https://ibclaw.in/babaji-nethralaya-pvt-ltd-vs-transgene-biotek-ltd-nclt-hyderabad-bench/)
+- **Published:** Sun, 15 Nov 2026 22:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mohit Chawla (RP) Vs. Shakti Procon Pvt. Ltd. and Ors. – NCLT, Ahmedabad Bench](https://ibclaw.in/mohit-chawla-rp-vs-shakti-procon-pvt-ltd-and-ors-nclt-ahmedabad-bench/)
+- **Published:** Sun, 15 Nov 2026 22:51:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Munnalal Pannalal Constructions Pvt. Ltd. Vs. Ravi Kapoor (Liquidator) and Ors. – NCLT, Indore Bench](https://ibclaw.in/munnalal-pannalal-constructions-pvt-ltd-vs-ravi-kapoor-liquidator-and-ors-nclt-indore-bench/)
+- **Published:** Mon, 16 Nov 2026 01:46:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Indore Allows Preference Share Reissue Under Companies Act Section 55(3)](https://ibclaw.in/nclt-indore-allows-preference-share-reissue-under-companies-act-section-553/)
 - **Published:** Sat, 14 Nov 2026 07:51:03 +0000
