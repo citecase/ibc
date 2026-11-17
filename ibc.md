@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-17 08:20:00*
+*Last synced: 2026-11-17 21:14:40*
+
+### [Unrelated Third Party Can’t Be Made Liable For Proving Passing Of Resolution In Board Meeting: Supreme Court Upholds Sale Of Company Owned Land](https://www.verdictum.in/supreme-court/elaine-info-solutions-pvt-ltd-v-ms-j-a-avenues-india-private-limited-2026-insc-1228-company-land-1625902)
+- **Published:** Tue, 17 Nov 2026 10:00:10 GMT
+- **Source:** https://verdictum.in/feed
+
+### [NCLAT Doesn't Have Power Of Review Under IBC But Can Recall Orders Under Rule 11 Of NCLAT Rules: Supreme Court Reiterates](https://www.verdictum.in/supreme-court/lulu-international-shopping-malls-v-gorinka-pratyusha-2026-insc-1224-nclat-review-ibc-1625922)
+- **Published:** Tue, 17 Nov 2026 15:00:32 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Supreme Court lays down five safeguards for NCLAT to remand approved resolution plans to CoC](https://www.barandbench.com/news/litigation/supreme-court-lays-down-five-safeguards-for-nclat-to-remand-approved-resolution-plans-to-coc)
 - **Published:** Tue, 17 Nov 2026 09:32:26 +0530
