@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-16 22:26:12*
+*Last synced: 2026-11-17 08:20:00*
+
+### [Supreme Court lays down five safeguards for NCLAT to remand approved resolution plans to CoC](https://www.barandbench.com/news/litigation/supreme-court-lays-down-five-safeguards-for-nclat-to-remand-approved-resolution-plans-to-coc)
+- **Published:** Tue, 17 Nov 2026 09:32:26 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [CoC Not Functus Officio On Approving Resolution Plan; Can Revisit Decision If Approval Is Set Aside In Appeal: Supreme Court In Videocon Case](https://www.verdictum.in/supreme-court/twinstar-technologies-limited-v-bank-of-maharashtra-2026-insc-1214-videocon-insolvency-1625882)
+- **Published:** Tue, 17 Nov 2026 06:31:40 GMT
+- **Source:** https://verdictum.in/feed
 
 ### [Justin Joseph Vs. Near Intelligence Pvt. Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/justin-joseph-vs-near-intelligence-pvt-ltd-nclt-bengaluru-bench/)
 - **Published:** Mon, 16 Nov 2026 20:47:00 +0000
