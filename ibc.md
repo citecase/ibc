@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-18 07:51:21*
+*Last synced: 2026-11-18 20:49:11*
+
+### [NCLT Mumbai Dismisses Manlift’s Section 9 Plea Against Shapoorji Pallonji](https://ibclaw.in/nclt-mumbai-dismisses-manlifts-section-9-plea-against-shapoorji-pallonji/)
+- **Published:** Wed, 18 Nov 2026 10:35:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Joy Deb Chatterjee Vs. Kokila Mining Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/joy-deb-chatterjee-vs-kokila-mining-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Wed, 18 Nov 2026 12:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Section 9 CIRP Admission Over Mining Equipment Service Dues](https://ibclaw.in/nclat-upholds-section-9-cirp-admission-over-mining-equipment-service-dues/)
+- **Published:** Wed, 18 Nov 2026 12:18:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Hyderabad Dismisses EPFO Claim Against Guarantor’s Exhausted Bankruptcy Estate](https://ibclaw.in/nclt-hyderabad-dismisses-epfo-claim-against-guarantors-exhausted-bankruptcy-estate/)
+- **Published:** Wed, 18 Nov 2026 13:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 18 November 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-18-november-2026/)
+- **Published:** Wed, 18 Nov 2026 13:57:32 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Declares Venugopal Dhoot Bankrupt Under IBC Section 123](https://ibclaw.in/nclt-mumbai-declares-venugopal-dhoot-bankrupt-under-ibc-section-123/)
+- **Published:** Wed, 18 Nov 2026 14:50:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Regime Doesn’t Provide For Determination Of Liability Or Its Quantification: Supreme Court](https://www.verdictum.in/supreme-court/ms-ganesh-benzoplast-ltd-v-the-state-trading-corporation-of-india-2026-insc-1223-sica-ibc-1625959)
 - **Published:** Wed, 18 Nov 2026 07:30:37 GMT
