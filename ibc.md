@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-17 21:14:40*
+*Last synced: 2026-11-18 07:51:21*
+
+### [IBC Regime Doesn’t Provide For Determination Of Liability Or Its Quantification: Supreme Court](https://www.verdictum.in/supreme-court/ms-ganesh-benzoplast-ltd-v-the-state-trading-corporation-of-india-2026-insc-1223-sica-ibc-1625959)
+- **Published:** Wed, 18 Nov 2026 07:30:37 GMT
+- **Source:** https://verdictum.in/feed
+
+### [NCLT Mumbai Dismisses Section 9 Plea Over Unacknowledged Demurrage Claim](https://ibclaw.in/nclt-mumbai-dismisses-section-9-plea-over-unacknowledged-demurrage-claim/)
+- **Published:** Wed, 18 Nov 2026 06:21:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court Upholds Videocon Plan Remand Over Dissenting Creditor Payments](https://ibclaw.in/supreme-court-upholds-videocon-plan-remand-over-dissenting-creditor-payments/)
+- **Published:** Wed, 18 Nov 2026 07:20:29 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Bengaluru Dismisses Section 9 Plea as Undisputed Default Is Below ₹1 Crore](https://ibclaw.in/nclt-bengaluru-dismisses-section-9-plea-as-undisputed-default-is-below-%e2%82%b91-crore/)
+- **Published:** Wed, 18 Nov 2026 07:51:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Unrelated Third Party Can’t Be Made Liable For Proving Passing Of Resolution In Board Meeting: Supreme Court Upholds Sale Of Company Owned Land](https://www.verdictum.in/supreme-court/elaine-info-solutions-pvt-ltd-v-ms-j-a-avenues-india-private-limited-2026-insc-1228-company-land-1625902)
 - **Published:** Tue, 17 Nov 2026 10:00:10 GMT
