@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-19 07:47:10*
+*Last synced: 2026-11-19 20:54:00*
+
+### [No Coercive Action Against Nearly 4,500 Homebuyers Of Stalled Bengaluru Project: Supreme Court](https://www.verdictum.in/supreme-court/no-coercive-action-4500-homebuyers-stalled-bengaluru-project-1626050)
+- **Published:** Thu, 19 Nov 2026 12:00:42 GMT
+- **Source:** https://verdictum.in/feed
+
+### [State Bank of India Vs. Nitin Ramchandra Jadhav – NCLT, Mumbai Bench](https://ibclaw.in/state-bank-of-india-vs-nitin-ramchandra-jadhav-nclt-mumbai-bench/)
+- **Published:** Thu, 19 Nov 2026 20:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Aklesh Kumar Chouhan Vs. Dico Wings Agricare Pvt. Ltd. and Anr. – NCLT, Indore Bench](https://ibclaw.in/aklesh-kumar-chouhan-vs-dico-wings-agricare-pvt-ltd-and-anr-nclt-indore-bench/)
+- **Published:** Thu, 19 Nov 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Pioneer Adhesives Pvt. Ltd. and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/pioneer-adhesives-pvt-ltd-and-anr-nclt-mumbai-bench/)
+- **Published:** Thu, 19 Nov 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Retired Justice Rajesh Bindal takes charge as NCLAT Chairperson](https://www.barandbench.com/news/retired-justice-rajesh-bindal-takes-charge-as-nclat-chairperson)
 - **Published:** Thu, 19 Nov 2026 12:25:05 +0530
