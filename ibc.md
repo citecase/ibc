@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-18 20:49:11*
+*Last synced: 2026-11-19 07:47:10*
+
+### [Retired Justice Rajesh Bindal takes charge as NCLAT Chairperson](https://www.barandbench.com/news/retired-justice-rajesh-bindal-takes-charge-as-nclat-chairperson)
+- **Published:** Thu, 19 Nov 2026 12:25:05 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [C A Mahalingam Suresh Kumar Vs. Tamil Nadu Discharged Prisoners Aid Society – NCLT, Chennai Bench](https://ibclaw.in/c-a-mahalingam-suresh-kumar-vs-tamil-nadu-discharged-prisoners-aid-society-nclt-chennai-bench/)
+- **Published:** Thu, 19 Nov 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Anvil Investments Pvt. Ltd. Vs. Jharkhand Bijli Vitran Nigam Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/anvil-investments-pvt-ltd-vs-jharkhand-bijli-vitran-nigam-ltd-nclt-kolkata-bench/)
+- **Published:** Thu, 19 Nov 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Alphard Bulkers Pte. Ltd. Vs. PRH Resources Pvt. Ltd. – NCLT, Mumbai Bench](https://ibclaw.in/alphard-bulkers-pte-ltd-vs-prh-resources-pvt-ltd-nclt-mumbai-bench/)
+- **Published:** Thu, 19 Nov 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Thendiyakavo Koyakutty Hassan Vs. Heavy Engineering Corporation Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/thendiyakavo-koyakutty-hassan-vs-heavy-engineering-corporation-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Thu, 19 Nov 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [National Highways Authority of India Vs. Apkon Ventures Pvt. Ltd. and Anr. – NCLT, Mumbai Bench](https://ibclaw.in/national-highways-authority-of-india-vs-apkon-ventures-pvt-ltd-and-anr-nclt-mumbai-bench/)
+- **Published:** Thu, 19 Nov 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Employees’ Provident Fund Organisation Vs. Sandeep Khaitan (RP) and Ors. – NCLT, Kolkata Bench](https://ibclaw.in/employees-provident-fund-organisation-vs-sandeep-khaitan-rp-and-ors-nclt-kolkata-bench/)
+- **Published:** Thu, 19 Nov 2026 06:27:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IDBI Bank Ltd. Vs. Venkatasubramanian Raman – NCLT, Chennai Bench](https://ibclaw.in/idbi-bank-ltd-vs-venkatasubramanian-raman-nclt-chennai-bench-2/)
+- **Published:** Thu, 19 Nov 2026 06:29:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Mysore Amalgamated Coffee Estates Ltd. Vs. Securities and Exchange Board of India [SEBI] – Securities Appellate Tribunal (SAT)](https://ibclaw.in/mysore-amalgamated-coffee-estates-ltd-vs-securities-and-exchange-board-of-india-sebi-securities-appellate-tribunal-sat/)
+- **Published:** Thu, 19 Nov 2026 07:22:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Coffee Day Enterprises Ltd. Vs. Securities and Exchange Board of India [SEBI] – Securities Appellate Tribunal (SAT)](https://ibclaw.in/coffee-day-enterprises-ltd-vs-securities-and-exchange-board-of-india-sebi-securities-appellate-tribunal-sat/)
+- **Published:** Thu, 19 Nov 2026 07:22:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Dismisses Manlift’s Section 9 Plea Against Shapoorji Pallonji](https://ibclaw.in/nclt-mumbai-dismisses-manlifts-section-9-plea-against-shapoorji-pallonji/)
 - **Published:** Wed, 18 Nov 2026 10:35:03 +0000
