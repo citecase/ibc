@@ -1,6 +1,46 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-19 20:54:00*
+*Last synced: 2026-11-20 07:39:22*
+
+### [Related party under IBC- A paradox for financial creditors](https://www.barandbench.com/law-firms/view-point/related-party-under-ibc-a-paradox-for-financial-creditors)
+- **Published:** Fri, 20 Nov 2026 09:30:00 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Daulat Resolution Services Pvt. Ltd., RP of Rajesh Sonthalia – NCLT, Kolkata Bench](https://ibclaw.in/daulat-resolution-services-pvt-ltd-rp-of-rajesh-sonthalia-nclt-kolkata-bench/)
+- **Published:** Thu, 19 Nov 2026 23:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Amier Hamsa Ali Abbas Rawther Vs. Principal Commissioner of Customs and Ors. – NCLT, Chennai Bench](https://ibclaw.in/amier-hamsa-ali-abbas-rawther-vs-principal-commissioner-of-customs-and-ors-nclt-chennai-bench/)
+- **Published:** Thu, 19 Nov 2026 23:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Prudential Sugar Corporation Ltd. Vs. Venkatraman Prakash, (RP) – NCLT, Hyderabad Bench](https://ibclaw.in/prudential-sugar-corporation-ltd-vs-venkatraman-prakash-rp-nclt-hyderabad-bench/)
+- **Published:** Thu, 19 Nov 2026 23:08:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Competition Commission of India and Anr. Vs. Rungta Mines Ltd. and Ors. – Orissa High Court](https://ibclaw.in/competition-commission-of-india-and-anr-vs-rungta-mines-ltd-and-ors-orissa-high-court/)
+- **Published:** Thu, 19 Nov 2026 23:11:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Kolkata Admits Heavy Engineering Corporation to CIRP Under Section 9](https://ibclaw.in/nclt-kolkata-admits-heavy-engineering-corporation-to-cirp-under-section-9/)
+- **Published:** Fri, 20 Nov 2026 04:22:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Delhi Dismisses Section 7 Plea Over Unproven Corporate Guarantees](https://ibclaw.in/nclt-delhi-dismisses-section-7-plea-over-unproven-corporate-guarantees/)
+- **Published:** Fri, 20 Nov 2026 04:24:42 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Mumbai Rejects SU Toll Road Plan Over Unfunded MMR Obligations](https://ibclaw.in/nclt-mumbai-rejects-su-toll-road-plan-over-unfunded-mmr-obligations/)
+- **Published:** Fri, 20 Nov 2026 04:28:33 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [FC denied COC seat : Debentureholders treated as Related – By Adv. (CA.) Nipun Singhvi and Adv. Mayur Jugtawat](https://ibclaw.in/fc-denied-coc-seat-debentureholders-treated-as-related-by-adv-ca-nipun-singhvi-and-adv-mayur-jugtawat/)
+- **Published:** Fri, 20 Nov 2026 05:15:09 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Delhi Imposes ₹1 Crore Penalty for Malicious Section 7 IBC Plea](https://ibclaw.in/nclt-delhi-imposes-%e2%82%b91-crore-penalty-for-malicious-section-7-ibc-plea/)
+- **Published:** Fri, 20 Nov 2026 06:20:04 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [No Coercive Action Against Nearly 4,500 Homebuyers Of Stalled Bengaluru Project: Supreme Court](https://www.verdictum.in/supreme-court/no-coercive-action-4500-homebuyers-stalled-bengaluru-project-1626050)
 - **Published:** Thu, 19 Nov 2026 12:00:42 GMT
