@@ -1,6 +1,14 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-20 07:39:22*
+*Last synced: 2026-11-20 20:38:59*
+
+### [NCLT Mumbai Dismisses Section 9 Plea as Collusive, Imposes ₹2.5 Lakh Penalty](https://ibclaw.in/nclt-mumbai-dismisses-section-9-plea-as-collusive-imposes-%e2%82%b92-5-lakh-penalty/)
+- **Published:** Fri, 20 Nov 2026 10:35:04 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [IBC Laws Today | Daily Case Laws Updates | 20 November 2026](https://ibclaw.in/ibc-laws-today-daily-case-laws-updates-20-november-2026/)
+- **Published:** Fri, 20 Nov 2026 15:15:33 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Related party under IBC- A paradox for financial creditors](https://www.barandbench.com/law-firms/view-point/related-party-under-ibc-a-paradox-for-financial-creditors)
 - **Published:** Fri, 20 Nov 2026 09:30:00 +0530
