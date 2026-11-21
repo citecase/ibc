@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-21 07:36:35*
+*Last synced: 2026-11-21 19:40:27*
+
+### [IBC Moratorium Operates Only Against Corporate Debtor, Not Its Promoters: Supreme Court](https://www.verdictum.in/supreme-court/ibc-moratorium-operates-against-corporate-debtor-not-promoters-1626179)
+- **Published:** Sat, 21 Nov 2026 09:10:30 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 16 November to 21 November, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-16-november-to-21-november-2026/)
+- **Published:** Sat, 21 Nov 2026 10:37:48 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [LEEL Electricals Ltd. Vs. Mahavir Ship Breakers and Ors. – NCLAT, Chennai Bench](https://ibclaw.in/leel-electricals-ltd-vs-mahavir-ship-breakers-and-ors-nclat-chennai-bench/)
+- **Published:** Sat, 21 Nov 2026 12:55:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Limited Going-Concern Sale Scope, Dismisses LEEL Machinery Appeals](https://ibclaw.in/nclat-upholds-limited-going-concern-sale-scope-dismisses-leel-machinery-appeals/)
+- **Published:** Sat, 21 Nov 2026 13:12:55 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Admits SBI’s Section 95 Plea Against Personal Guarantor](https://ibclaw.in/nclt-mumbai-admits-sbis-section-95-plea-against-personal-guarantor/)
 - **Published:** Sat, 21 Nov 2026 05:52:24 +0000
