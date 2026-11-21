@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-20 20:38:59*
+*Last synced: 2026-11-21 07:36:35*
+
+### [NCLT Mumbai Admits SBI’s Section 95 Plea Against Personal Guarantor](https://ibclaw.in/nclt-mumbai-admits-sbis-section-95-plea-against-personal-guarantor/)
+- **Published:** Sat, 21 Nov 2026 05:52:24 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Mumbai Dismisses Section 9 Plea as Collusive, Imposes ₹2.5 Lakh Penalty](https://ibclaw.in/nclt-mumbai-dismisses-section-9-plea-as-collusive-imposes-%e2%82%b92-5-lakh-penalty/)
 - **Published:** Fri, 20 Nov 2026 10:35:04 +0000
