@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-21 19:40:27*
+*Last synced: 2026-11-22 07:18:09*
+
+### [NCLAT Chennai Condones Delay After Article 227 Challenge to CIRP Admission](https://ibclaw.in/nclat-chennai-condones-delay-after-article-227-challenge-to-cirp-admission/)
+- **Published:** Sun, 22 Nov 2026 02:51:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [IBC Moratorium Operates Only Against Corporate Debtor, Not Its Promoters: Supreme Court](https://www.verdictum.in/supreme-court/ibc-moratorium-operates-against-corporate-debtor-not-promoters-1626179)
 - **Published:** Sat, 21 Nov 2026 09:10:30 GMT
