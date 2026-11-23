@@ -1,6 +1,42 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-22 07:18:09*
+*Last synced: 2026-11-23 08:01:22*
+
+### [Here's is why CJI Surya Kant recused from Supertech insolvency case](https://www.barandbench.com/news/heres-is-why-cji-surya-kant-recused-from-supertech-insolvency-case)
+- **Published:** Mon, 23 Nov 2026 11:56:44 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [CJI Surya Kant Recuses Himself From Hearing Plea Related To Supertech Projects](https://www.verdictum.in/supreme-court/cji-surya-kant-recuses-himself-hearing-plea-related-supertech-projects-1626277)
+- **Published:** Mon, 23 Nov 2026 07:00:07 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Vilas Transcore Ltd. Vs. Rakesh Kumar Tulsyan and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/vilas-transcore-ltd-vs-rakesh-kumar-tulsyan-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 23 Nov 2026 01:49:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Rivierkrishna Developers LLP Vs. Radha Kishan and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/rivierkrishna-developers-llp-vs-radha-kishan-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 23 Nov 2026 02:00:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [GS Megha Constructions Pvt. Ltd. Vs. Omkara Assets Reconstruction Pvt. Ltd. and Anr, – NCLAT, Chennai Bench](https://ibclaw.in/gs-megha-constructions-pvt-ltd-vs-omkara-assets-reconstruction-pvt-ltd-and-anr-nclat-chennai-bench/)
+- **Published:** Mon, 23 Nov 2026 02:04:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Ashok Gupta Vs. Manish Kumar Gupta and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/ashok-gupta-vs-manish-kumar-gupta-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Mon, 23 Nov 2026 03:17:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Karnataka High Court Dismisses Writ Against NCLT Recall, Cites IBC Appeal](https://ibclaw.in/karnataka-high-court-dismisses-writ-against-nclt-recall-cites-ibc-appeal/)
+- **Published:** Mon, 23 Nov 2026 05:42:08 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chennai Upholds Customs Bank Guarantee Invocation Despite Liquidation Moratorium](https://ibclaw.in/nclt-chennai-upholds-customs-bank-guarantee-invocation-despite-liquidation-moratorium/)
+- **Published:** Mon, 23 Nov 2026 05:46:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Chennai Quashes CIRP Admission After ₹50 Crore One-Time Settlement](https://ibclaw.in/nclat-chennai-quashes-cirp-admission-after-%e2%82%b950-crore-one-time-settlement/)
+- **Published:** Mon, 23 Nov 2026 07:50:03 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT Chennai Condones Delay After Article 227 Challenge to CIRP Admission](https://ibclaw.in/nclat-chennai-condones-delay-after-article-227-challenge-to-cirp-admission/)
 - **Published:** Sun, 22 Nov 2026 02:51:03 +0000
