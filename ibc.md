@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-23 08:01:22*
+*Last synced: 2026-11-24 00:13:03*
+
+### [Hemant Gupta Vs. Yulu Bikes Pvt. Ltd. and Ors. – NCLT, Bengaluru Bench](https://ibclaw.in/hemant-gupta-vs-yulu-bikes-pvt-ltd-and-ors-nclt-bengaluru-bench/)
+- **Published:** Mon, 23 Nov 2026 20:09:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Emerson Process Management Power and Water Solutions India Pvt. Ltd. and Anr. – NCLT, Principal Bench](https://ibclaw.in/emerson-process-management-power-and-water-solutions-india-pvt-ltd-and-anr-nclt-principal-bench/)
+- **Published:** Mon, 23 Nov 2026 20:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bank of Baroda Vs. Nasiruddin A Vhora – NCLT, Ahmedabad Bench](https://ibclaw.in/bank-of-baroda-vs-nasiruddin-a-vhora-nclt-ahmedabad-bench/)
+- **Published:** Mon, 23 Nov 2026 20:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kiran Shah, Liquidator of ORG Informatics Ltd. – NCLT, Ahmedabad Bench](https://ibclaw.in/kiran-shah-liquidator-of-org-informatics-ltd-nclt-ahmedabad-bench/)
+- **Published:** Mon, 23 Nov 2026 20:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Maximus ARC Ltd. Vs. Sri Balaji Cement & Power Ltd. – NCLT, Bengaluru Bench](https://ibclaw.in/maximus-arc-ltd-vs-sri-balaji-cement-power-ltd-nclt-bengaluru-bench/)
+- **Published:** Mon, 23 Nov 2026 21:21:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Here's is why CJI Surya Kant recused from Supertech insolvency case](https://www.barandbench.com/news/heres-is-why-cji-surya-kant-recused-from-supertech-insolvency-case)
 - **Published:** Mon, 23 Nov 2026 11:56:44 +0530
