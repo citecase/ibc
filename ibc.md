@@ -1,6 +1,26 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-24 00:13:03*
+*Last synced: 2026-11-24 10:17:20*
+
+### [NCLT Rejects Personal Guarantor’s Repayment Plan Under IBC Section 114](https://ibclaw.in/nclt-rejects-personal-guarantors-repayment-plan-under-ibc-section-114/)
+- **Published:** Tue, 24 Nov 2026 05:11:36 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Bengaluru Says RP Must Arrange Private Security for Corporate Debtor Assets](https://ibclaw.in/nclt-bengaluru-says-rp-must-arrange-private-security-for-corporate-debtor-assets/)
+- **Published:** Tue, 24 Nov 2026 07:51:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Gaurav Katiyar, IP Vs. Insolvency and Bankruptcy Board of India (Disciplinary Committee) – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/gaurav-katiyar-ip-vs-insolvency-and-bankruptcy-board-of-india-disciplinary-committee-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 24 Nov 2026 08:08:30 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Ahmedabad Rejects Section 95 Plea Against Guarantor as Time-Barred](https://ibclaw.in/nclt-ahmedabad-rejects-section-95-plea-against-guarantor-as-time-barred/)
+- **Published:** Tue, 24 Nov 2026 09:21:03 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Two-Year Suspension of IP for CIRP Process Lapses](https://ibclaw.in/nclat-upholds-two-year-suspension-of-ip-for-cirp-process-lapses/)
+- **Published:** Tue, 24 Nov 2026 09:31:13 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Hemant Gupta Vs. Yulu Bikes Pvt. Ltd. and Ors. – NCLT, Bengaluru Bench](https://ibclaw.in/hemant-gupta-vs-yulu-bikes-pvt-ltd-and-ors-nclt-bengaluru-bench/)
 - **Published:** Mon, 23 Nov 2026 20:09:00 +0000
