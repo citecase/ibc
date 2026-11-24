@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-24 10:17:20*
+*Last synced: 2026-11-24 22:40:52*
+
+### [Weekly Overview| Supreme Court Judgments: November 16 – November 20, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-16-november-20-2026-1626366)
+- **Published:** Tue, 24 Nov 2026 10:30:33 GMT
+- **Source:** https://verdictum.in/feed
+
+### [SIDBI Invites Applications For Posts Of Assistant Manager & Manager (Legal)](https://www.verdictum.in/job-updates/small-industries-development-bank-of-india-1626382)
+- **Published:** Tue, 24 Nov 2026 15:30:12 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Apurv Shankar Kumar Vs. Securities and Exchange Board of India and Ors. – Securities Appellate Tribunal (SAT)](https://ibclaw.in/apurv-shankar-kumar-vs-securities-and-exchange-board-of-india-and-ors-securities-appellate-tribunal-sat/)
+- **Published:** Tue, 24 Nov 2026 20:24:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT Rejects Personal Guarantor’s Repayment Plan Under IBC Section 114](https://ibclaw.in/nclt-rejects-personal-guarantors-repayment-plan-under-ibc-section-114/)
 - **Published:** Tue, 24 Nov 2026 05:11:36 +0000
