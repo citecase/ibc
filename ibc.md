@@ -1,6 +1,18 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-24 22:40:52*
+*Last synced: 2026-11-25 08:59:46*
+
+### [NCLT seeks SEBI response on Smartworks plea to write off ₹385 crore loss for capital reduction](https://www.barandbench.com/news/litigation/nclt-seeks-sebi-response-on-smartworks-plea-to-write-off-385-crore-loss-for-capital-reduction)
+- **Published:** Tue, 24 Nov 2026 10:48:39 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Nasik Merchants Co-operative Bank Ltd. Vs. Kailash T Shah Erstwhile, RP of Yug Weave Tech Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/nasik-merchants-co-operative-bank-ltd-vs-kailash-t-shah-erstwhile-rp-of-yug-weave-tech-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 24 Nov 2026 23:07:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Shree Varun Infratech Vs. Jigar Pradipchandra Shah and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/shree-varun-infratech-vs-jigar-pradipchandra-shah-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Tue, 24 Nov 2026 23:13:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Weekly Overview| Supreme Court Judgments: November 16 – November 20, 2026](https://www.verdictum.in/weekly-summary/weekly-overview-supreme-court-judgments-november-16-november-20-2026-1626366)
 - **Published:** Tue, 24 Nov 2026 10:30:33 GMT
