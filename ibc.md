@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-25 08:59:46*
+*Last synced: 2026-11-25 21:55:38*
+
+### [Adhishree Steels Ltd. Vs. Registrar of Companies, NCT of Delhi & Haryana and Anr. – NCLT, Principal Bench](https://ibclaw.in/adhishree-steels-ltd-vs-registrar-of-companies-nct-of-delhi-haryana-and-anr-nclt-principal-bench/)
+- **Published:** Wed, 25 Nov 2026 20:20:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Kay Kay Foods LLP – NCLT, Ahmedabad Bench](https://ibclaw.in/kay-kay-foods-llp-nclt-ahmedabad-bench/)
+- **Published:** Wed, 25 Nov 2026 20:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Sripatham Venkatasubramanian Ramkumar (RP) Vs. Rohit Aggarwal and Ors. – NCLT, Principal Bench](https://ibclaw.in/sripatham-venkatasubramanian-ramkumar-rp-vs-rohit-aggarwal-and-ors-nclt-principal-bench/)
+- **Published:** Wed, 25 Nov 2026 20:21:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Aryan Mining and Trading Corporation Pvt. Ltd. Vs. Shevin Capital Services Pvt. Ltd. – NCLT, Kolkata Bench](https://ibclaw.in/aryan-mining-and-trading-corporation-pvt-ltd-vs-shevin-capital-services-pvt-ltd-nclt-kolkata-bench/)
+- **Published:** Wed, 25 Nov 2026 21:20:00 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLT seeks SEBI response on Smartworks plea to write off ₹385 crore loss for capital reduction](https://www.barandbench.com/news/litigation/nclt-seeks-sebi-response-on-smartworks-plea-to-write-off-385-crore-loss-for-capital-reduction)
 - **Published:** Tue, 24 Nov 2026 10:48:39 +0530
