@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-25 21:55:38*
+*Last synced: 2026-11-26 08:46:13*
+
+### [NCLAT sets aside fresh company valuation order passed by NCLT after reserving verdict thrice](https://www.barandbench.com/news/litigation/nclat-sets-aside-fresh-company-valuation-order-passed-by-nclt-after-reserving-verdict-thrice)
+- **Published:** Wed, 25 Nov 2026 19:59:26 +0530
+- **Source:** https://www.barandbench.com/feed
+
+### [Balance-Sheet Entries Can Constitute Valid Acknowledgement Of Debt: Supreme Court Restores CIRP Application Before NCLT](https://www.verdictum.in/supreme-court/uv-asset-reconstruction-company-limited-v-gautam-sinha-and-others-2026-insc-1263-1626513)
+- **Published:** Thu, 26 Nov 2026 08:30:54 GMT
+- **Source:** https://verdictum.in/feed
+
+### [Section 18 of the Limitation Act cannot be construed with pedantic rigidity in relation to proceedings under the IBC – UV Asset Reconstruction Company Ltd. Vs. Gautam Sinha and Ors. – Supreme Court](https://ibclaw.in/uv-asset-reconstruction-company-ltd-vs-gautam-sinha-and-ors-supreme-court/)
+- **Published:** Thu, 26 Nov 2026 06:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Supreme Court: Balance Sheets Kept IBC Section 7 Plea Within Limitation](https://ibclaw.in/supreme-court-balance-sheets-kept-ibc-section-7-plea-within-limitation/)
+- **Published:** Thu, 26 Nov 2026 06:13:17 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Adhishree Steels Ltd. Vs. Registrar of Companies, NCT of Delhi & Haryana and Anr. – NCLT, Principal Bench](https://ibclaw.in/adhishree-steels-ltd-vs-registrar-of-companies-nct-of-delhi-haryana-and-anr-nclt-principal-bench/)
 - **Published:** Wed, 25 Nov 2026 20:20:00 +0000
