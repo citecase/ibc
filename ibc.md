@@ -1,6 +1,30 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-26 08:46:13*
+*Last synced: 2026-11-27 08:57:30*
+
+### [Devesh Karda Vs. Tata Capital Housing Finance Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/devesh-karda-vs-tata-capital-housing-finance-ltd-and-ors-nclat-principal-bench-new-delhi/)
+- **Published:** Thu, 26 Nov 2026 23:06:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Santu Karar Vs. Stemztech Industries Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/santu-karar-vs-stemztech-industries-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 27 Nov 2026 00:03:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Hyderabad Orders RP to Share CIRP Records Preserved Under Regulation 39A](https://ibclaw.in/nclt-hyderabad-orders-rp-to-share-cirp-records-preserved-under-regulation-39a/)
+- **Published:** Fri, 27 Nov 2026 01:51:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLT Chandigarh Admits Syska Miterr to CIRP on HDFC Bank Plea](https://ibclaw.in/nclt-chandigarh-admits-syska-miterr-to-cirp-on-hdfc-bank-plea/)
+- **Published:** Fri, 27 Nov 2026 02:50:53 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Rejection of CIRP Withdrawal Despite Pre-CoC Settlement](https://ibclaw.in/nclat-upholds-rejection-of-cirp-withdrawal-despite-pre-coc-settlement/)
+- **Published:** Fri, 27 Nov 2026 05:21:02 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Sets Aside CIRP, Finds Project Funding Not Financial Debt](https://ibclaw.in/nclat-sets-aside-cirp-finds-project-funding-not-financial-debt/)
+- **Published:** Fri, 27 Nov 2026 06:20:06 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [NCLAT sets aside fresh company valuation order passed by NCLT after reserving verdict thrice](https://www.barandbench.com/news/litigation/nclat-sets-aside-fresh-company-valuation-order-passed-by-nclt-after-reserving-verdict-thrice)
 - **Published:** Wed, 25 Nov 2026 19:59:26 +0530
