@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-27 08:57:30*
+*Last synced: 2026-11-27 21:32:55*
+
+### [Debashis Bose Vs. State Bank of India and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/debashis-bose-vs-state-bank-of-india-and-anr-nclat-chennai-bench-2/)
+- **Published:** Fri, 27 Nov 2026 11:25:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Limits IPCL CIRP to Separate Business Assets Under Corporate Guarantee](https://ibclaw.in/nclat-limits-ipcl-cirp-to-separate-business-assets-under-corporate-guarantee/)
+- **Published:** Fri, 27 Nov 2026 11:29:09 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Jaatvedas Construction and Contractors LLP Vs. B.P. Gangar Construction Pvt. Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/jaatvedas-construction-and-contractors-llp-vs-b-p-gangar-construction-pvt-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 27 Nov 2026 13:13:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT Upholds Section 9 IBC Dismissal Over Pre-Existing Construction Dispute](https://ibclaw.in/nclat-upholds-section-9-ibc-dismissal-over-pre-existing-construction-dispute/)
+- **Published:** Fri, 27 Nov 2026 13:29:27 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Devesh Karda Vs. Tata Capital Housing Finance Ltd. and Ors. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/devesh-karda-vs-tata-capital-housing-finance-ltd-and-ors-nclat-principal-bench-new-delhi/)
 - **Published:** Thu, 26 Nov 2026 23:06:00 +0000
