@@ -1,6 +1,22 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-27 21:32:55*
+*Last synced: 2026-11-28 08:18:27*
+
+### [Starport Logistics Ltd. Vs. Alba Asia Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/starport-logistics-ltd-vs-alba-asia-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
+- **Published:** Fri, 27 Nov 2026 23:48:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Bijay Murmuria Vs. Karnataka Bank Ltd. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/bijay-murmuria-vs-karnataka-bank-ltd-nclat-principal-bench-new-delhi/)
+- **Published:** Sat, 28 Nov 2026 06:56:00 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [NCLAT: ECGC Performance Guarantee Proceeds Are Outside Security Interest Definition](https://ibclaw.in/nclat-ecgc-performance-guarantee-proceeds-are-outside-security-interest-definition/)
+- **Published:** Sat, 28 Nov 2026 07:03:37 +0000
+- **Source:** https://ibclaw.in/feed
+
+### [Insolvency Bulletin – Weekly Case Laws Digest: 23 November to 28 November, 2026](https://ibclaw.in/insolvency-bulletin-weekly-case-laws-digest-23-november-to-28-november-2026/)
+- **Published:** Sat, 28 Nov 2026 07:23:57 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Debashis Bose Vs. State Bank of India and Anr. – NCLAT, Chennai Bench](https://ibclaw.in/debashis-bose-vs-state-bank-of-india-and-anr-nclat-chennai-bench-2/)
 - **Published:** Fri, 27 Nov 2026 11:25:00 +0000
