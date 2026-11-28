@@ -1,6 +1,10 @@
 # IBC & Insolvency Updates
 
-*Last synced: 2026-11-28 08:18:27*
+*Last synced: 2026-11-28 20:28:46*
+
+### [NCLAT Refuses Stay on Alba Asia Winding-Up Order Under Companies Act](https://ibclaw.in/nclat-refuses-stay-on-alba-asia-winding-up-order-under-companies-act/)
+- **Published:** Sat, 28 Nov 2026 09:21:02 +0000
+- **Source:** https://ibclaw.in/feed
 
 ### [Starport Logistics Ltd. Vs. Alba Asia Pvt. Ltd. and Anr. – NCLAT, Principal Bench, New Delhi](https://ibclaw.in/starport-logistics-ltd-vs-alba-asia-pvt-ltd-and-anr-nclat-principal-bench-new-delhi/)
 - **Published:** Fri, 27 Nov 2026 23:48:00 +0000
